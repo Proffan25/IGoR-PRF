@@ -1,0 +1,50 @@
+cruiser = {
+	icon = 11
+	naval_icon = 8
+	
+	type = naval
+	sprite = Cruiser
+	active = no
+	unit_type = light_ship
+	move_sound = steam_move
+	select_sound = steam_selected
+    can_build_overseas = no
+	colonial_points = 8 #10
+	
+	#Core Abilities
+	priority = 12
+	max_strength = 100
+	default_organisation = 30
+	maximum_speed = 27
+	weighted_value = 8.0
+	floating_flag = yes
+
+
+	#Building Costs
+	build_time = 180
+	build_cost = {
+		steamer_convoy = 25
+		artillery = 20
+		coal = 100
+		canned_food = 100
+		fuel = 5
+	}
+	min_port_level = 4
+	limit_per_port = -1
+	supply_consumption_score = 20
+	
+	supply_consumption = 1.0
+	supply_cost = {
+		steamer_convoy = 0.5 #18.6
+		artillery = 0.05       #15
+		canned_food = 0.15    #1.5
+		#steel = 2.5           #11.75
+		coal = 0.15
+	}
+	
+	#Naval Abilties
+	hull = 56
+    gun_power = 30
+    fire_range = 0.65
+    evasion = 0.30
+}

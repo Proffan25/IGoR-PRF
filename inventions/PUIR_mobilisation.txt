@@ -1,0 +1,70 @@
+###############################################################
+#New Inventions to boost the mobilisation pool of a nation
+#Last Updated March 9, 2015
+###############################################################
+levee_en_masse = {
+	limit = { 
+		enlightenment_thought = 1
+		civilized = yes 
+	}
+	chance = {
+		base = 100
+	}
+	effect = {
+		mobilisation_size = 0.03		
+
+	}	
+}
+
+railroad_mobilisation_timetables = {
+	limit = { steel_railroad = 1 }
+	chance = {
+		base = 100
+	}
+	effect = {
+		mobilisation_size = 0.02
+	}	
+}
+
+improved_railroad_mobilisation_timetables = {
+	limit = { integral_rail_system = 1 }
+	chance = {
+		base = 100
+	}
+	effect = {
+		mobilisation_size = 0.01		
+
+	}	
+}
+
+total_war_mobilisation = {
+	limit = { 
+		limited_access_roads = 1
+		great_war_experience = 1
+		government_interventionism = 1
+		NOT = { invention = non_interventionism }
+		NOT = { 
+			OR = {
+				tag = CHI
+				tag = GXI
+				tag = YNN
+				tag = XBI
+				tag = MCK
+				tag = HUI 
+			}
+		} 
+	}
+	chance = {
+		base = 100
+	}
+	effect = {
+		army_base = {
+			supply_consumption = 0.3
+		}
+		navy_base = {
+			supply_consumption = 0.1
+		}
+		mobilisation_size = 0.03
+		mobilisation_economy_impact = -0.2		
+	}	
+}

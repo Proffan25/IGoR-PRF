@@ -1,0 +1,81 @@
+#If you create a country specific event make sure you add the tag to the list of tags to not get the broad event
+
+country_event = {
+	id = 600000
+	allow_multiple_instances = yes
+	trigger = {
+	ai = no
+	NOT = {
+		OR = {
+			#add tags of countries with specific events here
+			has_leader = "Sam Hyde"
+		}
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "What's going on big guy?"
+	desc = "ROBESPEER, I'M COMING TO KILL YOU! In Vicky2, right? NO, IN REAL LIFE."
+    picture = "mrhyde"
+	immediate = {
+		define_general = {
+			name = "Sam Hyde"
+			#+1 attack, +1 defence. +10% morale
+			personality = defence_4.3
+			#+3 attack, +3 defence
+			background = attack_4.3
+		}
+	}
+	option = {
+		name = "He can't keep getting away with it..."		
+	}
+}
+
+country_event = {
+	id = 600001
+	allow_multiple_instances = yes
+	trigger = {
+	ai = no
+	NOT = {
+		OR = {
+			#add tags of countries with specific events here
+			has_leader = "Diego Blanco"
+		}
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "A message from the President of Argentina"
+	desc = "Hola, my name is Diego Blanco the current president of Argentina, and I'm sending this diplomatic message to cockroach Britain in the hopes that the bongoloids give us back Malvinas. Please give it back..."
+    picture = "diegoblanco"
+	immediate = {
+		define_admiral = {
+			name = "Diego Blanco"
+			personality = defence_3.1
+			background = attack_3.10
+		}
+	}
+	option = {
+		name = "...and please send reparations for the Belgrano, neva forget."
+	}
+}
+
+#1865 country tag clear
+country_event = {
+	id = 79797979
+	trigger = {
+		year = 1865
+		has_country_flag = conquerable_1865
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "1865 Flag Protection"
+	desc = "Clearing the protection flag off of 1865 protected nations."
+	immediate = {
+		clr_country_flag = conquerable_1865
+	}
+	option = {
+		name = "You may now declare, and be declared on, with significant wargoals."		
+	}
+}
