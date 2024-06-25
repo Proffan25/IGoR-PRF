@@ -85,7 +85,7 @@ army = {
 
 army = {
 	name = "Army of Kyoto"	
-	location = 1651
+	location = 1657
 	regiment = {
 		name= "1. Kyoto"
 		type = infantry
@@ -150,7 +150,7 @@ army = {
 
 army = {
 	name = "Army of Daimyo Yamanuchi"
-	location = 1653
+	location = 1675
 
 	regiment = {
 		name= "2.Tosa"
@@ -215,29 +215,29 @@ army = {
 }
 
 army = {
-	name = "Army of Basedo Nursu_Renu"
-	location = 1652
+	name = "Army of Osaka"
+	location = 1655
 
 	regiment = {
-		name= "1. Reno"
+		name= "1. Osaka"
 		type = infantry
 		home = 1649
 	}
 
 	regiment = {
-		name= "2. Reno"
+		name= "2. Osaka"
 		type = infantry
 		home = 1657
 	}
 	
 	regiment = {
-		name= "3. Reno"
+		name= "3. Osaka"
 		type = infantry
 		home = 1657
 	}
 
 	regiment = {
-		name= "4. Reno"
+		name= "4. Osaka"
 		type = infantry
 		home = 1658
 	}
@@ -249,31 +249,31 @@ army = {
 	}
 	
 	regiment = {
-		name= "6. Reno"
+		name= "6. Osaka"
 		type = artillery
 		home = 1655
 	}
 
 	regiment = {
-		name= "7. Reno"
+		name= "7. Osaka"
 		type = artillery
 		home = 1655
 	}
 
 	regiment = {
-		name= "8. Reno"
+		name= "8. Osaka"
 		type = artillery
 		home = 1659
 	}
 	
 	regiment = {
-		name= "9. Reno"
+		name= "9. Osaka"
 		type = artillery
 		home = 1664
 	}
 	
 	regiment = {
-		name= "10. Reno"
+		name= "10. Osaka"
 		type = artillery
 		home = 1675
 	}
@@ -282,7 +282,7 @@ army = {
 
 navy = {
 	name = "Imperial Fleet"
-	location = 1650
+	location = 1655
 	ship = {
 		name= "1 Yusosentai1"
 		type = clipper_transport

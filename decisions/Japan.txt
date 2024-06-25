@@ -115,23 +115,45 @@ political_decisions = {
 		potential = {
 			tag = JAP
 			NOT = { has_country_flag = modern_capital_in_the_east }
-			owns = 1649
 		}
 		allow = {
 			war = no
 			civilized = yes
-			state_n_government = 1	
+			state_n_government = 1
+			owns = 1649
 		}
 		
 		effect = {
 			set_country_flag = modern_capital_in_the_east
 			prestige = 5
 			1649 = {
-				add_province_modifier = {
-					name = gateway_to_harbor
-					duration = -1
-				}
+				life_rating = 5
 				change_province_name = "Tokyo"
+			}
+			capital = 1649
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	confirm_kyoto_capital = {
+		potential = {
+			tag = JAP
+			NOT = { has_country_flag = modern_capital_in_the_east }
+		}
+		allow = {
+			war = no
+			civilized = yes
+			state_n_government = 1	
+			owns = 1657
+		}
+		
+		effect = {
+			set_country_flag = modern_capital_in_the_east
+			prestige = 10
+			1657 = {
+				life_rating = 5
 			}
 		}
 		ai_will_do = {
