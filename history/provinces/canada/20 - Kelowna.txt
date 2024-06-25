@@ -1,4 +1,4 @@
-add_core = CAN
+add_core = COM
 
 colonial = 2
 trade_goods = fruit

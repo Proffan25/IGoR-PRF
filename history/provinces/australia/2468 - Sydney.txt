@@ -1,12 +1,12 @@
 owner = ENG
 controller = ENG
-add_core = AST
+add_core = COM
 trade_goods = grain
 life_rating = 40
 colonial = 2
 1836.1.2 = {
-	owner = AST
-	controller = AST
+	owner = COM
+	controller = COM
 	colonial = 0
 }
 1861.1.1 = {

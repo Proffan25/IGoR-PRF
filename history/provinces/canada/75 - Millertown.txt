@@ -5,8 +5,8 @@ trade_goods = iron
 life_rating = 35
 colonial = 2
 1836.1.2 = {
-	owner = CAN
-	controller = CAN
+	owner = COM
+	controller = COM
 	colonial = 0
 }
 
