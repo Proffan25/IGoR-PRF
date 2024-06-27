@@ -1,88 +1,7 @@
 political_decisions = {
-	cavours_diplomacy = {
-		potential = {
-			OR = {
-				AND = { 
-					OR = { 
-						tag = ITA
-						tag = AIT
-					}
-					NOT = { exists = SAR }
-				}
-				AND = { 
-					tag = SAR
-					NOT = { 
-						exists = ITA
-						exists = AIT
-					}
-				}
-			}
-			NOT = {
-				has_country_flag = cavour_has_done_his
-			}
-			owns = 465
-			owns = 466
-			owns = 472
-			FRA = {
-				exists = yes
-				is_greater_power = yes
-			}
-		}
-		allow = {
-			relation = {
-				who = FRA
-				value = 150
-			}
-			owns = 726
-			owns = 727
-			owns = 728
-		}
-		
-		effect = {
-			prestige = 20
-			badboy = -10
-			relation = {
-				who = FRA
-				value = 50
-			}
-			726 = {
-				add_core = SAR
-			}
-			727 = {
-				add_core = SAR
-			}
-			728 = {
-				add_core = SAR
-			}
-			465 = {
-				remove_core = ITA
-				remove_core = AIT
-				remove_core = SAR
-				add_core = FRA
-				secede_province = FRA
-			}
-			466 = {
-				remove_core = ITA
-				remove_core = AIT
-				remove_core = SAR
-				add_core = FRA
-				secede_province = FRA
-			}
-			472 = {
-				remove_core = ITA
-				remove_core = AIT
-				remove_core = SAR
-				add_core = FRA
-				secede_province = FRA
-			}
-			set_country_flag = cavour_has_done_his
-		}
-	}
-	
 	award_order_of_st_francis = {
 		potential = {
 			tag = SIC
-			government = absolute_monarchy
 			NOT = {
 				has_country_flag = order_awarded
 			}
@@ -147,10 +66,6 @@ political_decisions = {
 		allow = {
 			NOT = {
 				war_with = ARG
-			}
-			war = no
-			ARG = {
-				war = no
 			}
 			SPA = {
 				is_greater_power = no
@@ -419,7 +334,7 @@ political_decisions = {
 		
 		effect = {
 			set_country_flag = italia_ulterior
-			badboy = 8
+			badboy = 12
 			LOM = { all_core = { remove_core = LOM add_core = ITA } }
 			VEN = { all_core = { remove_core = VEN add_core = ITA } }
 			TRE = { all_core = { remove_core = TRE add_core = ITA } }
@@ -450,40 +365,10 @@ political_decisions = {
 			473 = { 
 				add_core = ITA 
 			} #Corsica
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}
-	claim_the_adriatic = {
-		picture = conquest_adriatic
-		potential = {
-			tag = ITA
-			NOT = { has_country_flag = adriatic_claimed }
-			has_country_flag = italia_ulterior
-		}
-		
-		allow = {
-			is_greater_power = yes
-			nationalism_n_imperialism = 1
-			war_policy = jingoism
-			NOT = {
-				government = democracy
-			}
-			NOT = { exists = SAR }
-			NOT = { exists = SIC }
-			NOT = { exists = AIT }
-		}
-		
-		effect = {
-			badboy = 2
-			set_country_flag = adriatic_claimed
 			AUS_778 = {
 				add_core = ITA
 			}	#Istria
-#			AUS_781 = { add_core = ITA add_core = AIT } #North Dalmatia
 		}
-		
 		ai_will_do = {
 			factor = 1
 		}

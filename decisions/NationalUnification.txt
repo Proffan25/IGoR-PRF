@@ -443,9 +443,21 @@ political_decisions = {
 		}
 		
 		allow = {
-			year = 1860
-			war = no
-			owns = 749  #Rome
+			OR = {
+				and = {
+					year = 1860
+					owns = 749  #Roma
+					war = no
+				}
+				and = {
+					owns = 749  #Roma
+					owns = 720  #Torino
+					owns = 744  #Firenze
+					owns = 754  #Napoli
+					owns = 739  #Modena
+					war = no
+				}
+			}
 		}
 		
 		effect = {
