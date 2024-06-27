@@ -507,10 +507,7 @@ political_decisions = {
 		news_desc_medium = "form_scandinavia_NEWS_MEDIUM"
 		news_desc_short = "form_scandinavia_NEWS_SHORT"
 		potential = {
-			OR = {
-				is_culture_group = scandinavian
-				is_culture_group = bears
-			}
+			tag = SWE
 			NOT = {
 				exists = SCA
 			}
@@ -518,151 +515,27 @@ political_decisions = {
 		}
 		
 		allow = {
-			SCH_370 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						OR = {
-							in_sphere = THIS
-							overlord = {
-								tag = THIS
-							}
-						}
-					}
-				}
+			DEN_372 = {
+				owned_by = THIS
 			}
 			DEN_367 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						OR = {
-							in_sphere = THIS
-							overlord = {
-								tag = THIS
-							}
-						}
-					}
-				}
+				owned_by = THIS
 			}
-			DEN_372 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						OR = {
-							in_sphere = THIS
-							overlord = {
-								tag = THIS
-							}
-						}
-					}
-				}
-			}
-			SWE_329 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						OR = {
-							in_sphere = THIS
-							overlord = {
-								tag = THIS
-							}
-						}
-					}
-				}
-			}
-			SWE_313 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						OR = {
-							in_sphere = THIS
-							overlord = {
-								tag = THIS
-							}
-						}
-					}
-				}
-			}
-			SWE_308 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						OR = {
-							in_sphere = THIS
-							overlord = {
-								tag = THIS
-							}
-						}
-					}
-				}
-			}
-			SWE_322 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						OR = {
-							in_sphere = THIS
-							overlord = {
-								tag = THIS
-							}
-						}
-					}
-				}
-			}
-			#RUS_340 = {
-			#	OR = {
-			#		owned_by = THIS
-			#		owner = {
-			#			in_sphere = THIS
-			#		}
-			#		owner = {
-			#			is_our_vassal = THIS
-			#		}
-			#	}
-			#}
-			#RUS_336 = {
-			#	OR = {
-			#		owned_by = THIS
-			#		owner = {
-			#			in_sphere = THIS
-			#		}
-			#		owner = {
-			#			is_our_vassal = THIS
-			#		}
-			#	}
-			#}
-			#DEN_251 = {
-			#	OR = {
-			#		owned_by = THIS
-			#		owner = {
-			#			in_sphere = THIS
-			#		}
-			#		owner = {
-			#			is_our_vassal = THIS
-			#		}
-			#	}
-			#}
+			inherit = DEN
 			AND = {
-				prestige = 90
 				state_n_government = 1
 				war = no
 			}
 		}
 		
 		effect = {
-			prestige = 20
 			change_tag = SCA
-			add_accepted_culture = swedish
 			add_accepted_culture = danish
-			add_accepted_culture = norwegian
-			add_accepted_culture = finnish
 			add_accepted_culture = icelandic
-			add_accepted_culture = sami
 			SCH = { all_core = { remove_core = SCH add_core = SCA } }
 			DEN = { all_core = { remove_core = DEN add_core = SCA } }
 			SWE = { all_core = { remove_core = SWE add_core = SCA } }
 			NOR = { all_core = { remove_core = NOR add_core = SCA } }
-			FIN = { all_core = { remove_core = FIN add_core = SCA } }
 			ICL = { all_core = { remove_core = ICL add_core = SCA } }
 
 			any_country = {
@@ -683,36 +556,6 @@ political_decisions = {
 		}
 		ai_will_do = {
 			factor = 1
-		}
-	}
-	
-	concede_finland = {
-		potential = {
-			tag = SWE
-			NOT = {
-				has_country_flag = Conceded_Finland
-			}
-		}
-		
-		allow = {
-		}
-		
-		effect = {
-			FIN = { all_core = { remove_core = SWE } }
-			prestige = 30
-			any_pop = {
-				militancy = -1
-			}
-			set_country_flag = Conceded_Finland
-		}
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				NOT = {
-					average_militancy = 4
-				}
-			}
 		}
 	}
 	
