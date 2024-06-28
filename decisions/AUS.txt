@@ -16,10 +16,7 @@ political_decisions = {
 			year = 1860
 			nationalism_n_imperialism = 1
 			NOT = {
-				OR = {
-					exists = HUN
-					exists = KUK
-				}
+				exists = KUK
 			}
 		}
 	
