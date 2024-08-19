@@ -57,7 +57,7 @@ political_decisions = {
 		}
 		
 		allow = {
-			steel_steamers = 1
+			blue_and_brown_water_schools = 1
 		}
 		
 		effect = {
@@ -68,6 +68,16 @@ political_decisions = {
 					name = germania_werft
 					duration = -1
 				}
+			}
+			any_owned = {
+				limit = {
+					region = MEC_545
+					has_building = naval_base
+				}
+				naval_base = 0
+			}
+			369 = {
+				naval_base = 4
 			}
 		}
 	}
