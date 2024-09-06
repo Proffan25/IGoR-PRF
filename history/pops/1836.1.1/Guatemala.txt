@@ -4,67 +4,67 @@
 2186 = {
     aristocrats = {
         culture = central_american
-        religion = catholic
+        religion = animist
         size = 1020
     }
 
     bureaucrats = {
         culture = central_american
-        religion = catholic
+        religion = animist
         size = 297
     }
 
     officers = {
         culture = central_american
-        religion = catholic
+        religion = animist
         size = 255
     }
 
     clergymen = {
         culture = central_american
-        religion = catholic
+        religion = animist
         size = 467
     }
 
     artisans = {
         culture = central_american
-        religion = catholic
+        religion = animist
         size = 2295
     }
 
     soldiers = {
         culture = central_american
-        religion = catholic
+        religion = animist
         size = 1870
     }
 
     farmers = {
         culture = central_american
-        religion = catholic
+        religion = animist
         size = 39695
     }
 
     clergymen = {
         culture = mayan
-        religion = catholic
+        religion = animist
         size = 225
     }
 
     artisans = {
         culture = mayan
-        religion = catholic
+        religion = animist
         size = 2100
     }
 
     soldiers = {
         culture = mayan
-        religion = catholic
+        religion = animist
         size = 425
     }
 
     farmers = {
         culture = mayan
-        religion = catholic
+        religion = animist
         size = 39250
     }
 }
@@ -72,55 +72,55 @@
 2187 = {
     aristocrats = {
         culture = central_american
-        religion = catholic
+        religion = animist
         size = 297
     }
 
     clergymen = {
         culture = central_american
-        religion = catholic
+        religion = animist
         size = 127
     }
 
     artisans = {
         culture = central_american
-        religion = catholic
+        religion = animist
         size = 595
     }
 
     soldiers = {
         culture = central_american
-        religion = catholic
+        religion = animist
         size = 1870
     }
 
     farmers = {
         culture = central_american
-        religion = catholic
+        religion = animist
         size = 9180
     }
 
     clergymen = {
         culture = mayan
-        religion = catholic
+        religion = animist
         size = 100
     }
 
     artisans = {
         culture = mayan
-        religion = catholic
+        religion = animist
         size = 1050
     }
 
     soldiers = {
         culture = mayan
-        religion = catholic
+        religion = animist
         size = 225
     }
 
     farmers = {
         culture = mayan
-        religion = catholic
+        religion = animist
         size = 19625
     }
 }
@@ -128,55 +128,55 @@
 2188 = {
     aristocrats = {
         culture = central_american
-        religion = catholic
+        religion = animist
         size = 255
     }
 
     clergymen = {
         culture = central_american
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = central_american
-        religion = catholic
+        religion = animist
         size = 510
     }
 
     soldiers = {
         culture = central_american
-        religion = catholic
+        religion = animist
         size = 127
     }
 
     farmers = {
         culture = central_american
-        religion = catholic
+        religion = animist
         size = 9222
     }
 
     clergymen = {
         culture = mayan
-        religion = catholic
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = mayan
-        religion = catholic
+        religion = animist
         size = 600
     }
 
     soldiers = {
         culture = mayan
-        religion = catholic
+        religion = animist
         size = 125
     }
 
     farmers = {
         culture = mayan
-        religion = catholic
+        religion = animist
         size = 11225
     }
 }
@@ -184,55 +184,55 @@
 2189 = {
     aristocrats = {
         culture = central_american
-        religion = catholic
+        religion = animist
         size = 25
     }
 
     clergymen = {
         culture = central_american
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     artisans = {
         culture = central_american
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     soldiers = {
         culture = central_american
-        religion = catholic
+        religion = animist
         size = 17
     }
 
     farmers = {
         culture = central_american
-        religion = catholic
+        religion = animist
         size = 1530
     }
 
     clergymen = {
         culture = mayan
-        religion = catholic
+        religion = animist
         size = 25
     }
 
     artisans = {
         culture = mayan
-        religion = catholic
+        religion = animist
         size = 150
     }
 
     soldiers = {
         culture = mayan
-        religion = catholic
+        religion = animist
         size = 25
     }
 
     farmers = {
         culture = mayan
-        religion = catholic
+        religion = animist
         size = 2800
     }
 }

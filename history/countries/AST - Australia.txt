@@ -1,7 +1,7 @@
 capital = 2476
 primary_culture = australian
 culture = maori
-religion = protestant
+religion = animist
 government = absolute_monarchy
 plurality = 30
 nationalvalue = nv_productivity

@@ -1,6 +1,6 @@
 capital = 1235
 primary_culture = nepali
-religion = hindu
+religion = animist
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order

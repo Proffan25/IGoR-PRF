@@ -1,7 +1,7 @@
 capital = 1745
 primary_culture = misri
 culture = mashriqi
-religion = sunni
+religion = animist
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order

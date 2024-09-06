@@ -4,61 +4,61 @@
 1877 = {
 	aristocrats = {
 		culture = portuguese
-		religion = catholic
+		religion = animist
 		size = 10
 	}
 
 	clergymen = {
 		culture = portuguese
-		religion = catholic
+		religion = animist
 		size = 15
 	}
 
 	bureaucrats = {
 		culture = portuguese
-		religion = catholic
+		religion = animist
 		size = 5
 	}
 
 	artisans = {
 		culture = portuguese
-		religion = catholic
+		religion = animist
 		size = 25
 	}
 
 	soldiers = {
 		culture = portuguese
-		religion = catholic
+		religion = animist
 		size = 20
 	}
 
 	clergymen = {
 		culture = niger_congo_a
-		religion = catholic
+		religion = animist
 		size = 50
 	}
 
 	artisans = {
 		culture = niger_congo_a
-		religion = catholic
+		religion = animist
 		size = 375
 	}
 
 	soldiers = {
 		culture = niger_congo_a
-		religion = catholic
+		religion = animist
 		size = 75
 	}
 
 	farmers = {
 		culture = niger_congo_a
-		religion = catholic
+		religion = animist
 		size = 5500
 	}
 
 	slaves = {
 		culture = niger_congo_a
-		religion = catholic
+		religion = animist
 		size = 2000
 	}
 }

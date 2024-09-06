@@ -38,43 +38,43 @@
 2402 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 340
     }
 
     bureaucrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 17
     }
 
     officers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 17
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 127
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 340
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 5873
     }
 
@@ -301,25 +301,25 @@
 2410 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 425
     }
 
     bureaucrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     officers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 170
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -327,19 +327,19 @@
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 552
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 170
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 12197
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -347,7 +347,7 @@
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 85
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -355,7 +355,7 @@
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 425
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -363,7 +363,7 @@
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 85
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -371,7 +371,7 @@
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 1955
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -379,7 +379,7 @@
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 4250
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -429,13 +429,13 @@
 2411 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 127
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 85
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -443,19 +443,19 @@
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 170
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 2975
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -463,7 +463,7 @@
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 42
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -471,7 +471,7 @@
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 85
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -479,7 +479,7 @@
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 17
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -487,7 +487,7 @@
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 535
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -495,7 +495,7 @@
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 1020
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -538,25 +538,25 @@
 2412 = {
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1530
     }
 
@@ -594,7 +594,7 @@
 2413 = {
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 42
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -602,19 +602,19 @@
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1530
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -664,55 +664,55 @@
 2414 = {
     aristocrats = {
         culture = french
-        religion = catholic
+        religion = animist
         size = 40
     }
 
     clergymen = {
         culture = french
-        religion = catholic
+        religion = animist
         size = 25
     }
 
     artisans = {
         culture = french
-        religion = catholic
+        religion = animist
         size = 15
     }
 
     soldiers = {
         culture = french
-        religion = catholic
+        religion = animist
         size = 25
     }
 
     clergymen = {
         culture = afro_antillean
-        religion = catholic
+        religion = animist
         size = 10
     }
 
     artisans = {
         culture = afro_antillean
-        religion = catholic
+        religion = animist
         size = 50
     }
 
     soldiers = {
         culture = afro_antillean
-        religion = catholic
+        religion = animist
         size = 10
     }
 
     farmers = {
         culture = afro_antillean
-        religion = catholic
+        religion = animist
         size = 150
     }
 
     slaves = {
         culture = afro_antillean
-        religion = catholic
+        religion = animist
         size = 680
     }
 
@@ -744,25 +744,25 @@
 2415 = {
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1530
     }
 
@@ -800,7 +800,7 @@
 2600 = {
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 42
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -808,19 +808,19 @@
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1530
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -872,43 +872,43 @@
 2416 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 382
     }
 
     bureaucrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 17
     }
 
     officers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 25
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 212
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 425
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 127
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 9180
     }
 
@@ -941,25 +941,25 @@
 2417 = {
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 170
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 3102
     }
 
@@ -997,25 +997,25 @@
 2418 = {
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1530
     }
 
@@ -1083,25 +1083,25 @@
 2419 = {
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1530
     }
 
@@ -1141,25 +1141,25 @@
 2420 = {
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 170
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 3102
     }
 
@@ -1199,73 +1199,73 @@
 2421 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 382
     }
 
     bureaucrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 17
     }
 
     officers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 25
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 127
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 425
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 127
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 9095
     }
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 425
     }
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 2805
     }
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 5100
     }
 }
@@ -1274,25 +1274,25 @@
 2422 = {
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1530
     }
 
@@ -1330,25 +1330,25 @@
 2423 = {
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1530
     }
 
@@ -1388,25 +1388,25 @@
 2424 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1402
     }
 
     bureaucrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 212
     }
 
     officers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 170
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 552
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -1414,19 +1414,19 @@
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1700
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 425
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 38037
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -1434,7 +1434,7 @@
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 127
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -1442,7 +1442,7 @@
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 1275
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -1450,7 +1450,7 @@
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 255
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -1458,7 +1458,7 @@
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 8542
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -1466,7 +1466,7 @@
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 15300
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -1476,31 +1476,31 @@
 2425 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 425
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 170
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 765
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 170
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 13812
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -1542,61 +1542,61 @@
 2426 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1402
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 510
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1487
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1700
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 32300
     }
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 127
     }
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 1530
     }
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 297
     }
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 9945
     }
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 18700
     }
 }
@@ -1604,31 +1604,31 @@
 2427 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 382
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 170
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 850
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 170
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 15427
     }
 
@@ -1662,61 +1662,61 @@
 2428 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 807
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 340
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1232
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 297
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 27922
     }
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 425
     }
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 2805
     }
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 5100
     }
 }
@@ -1724,73 +1724,73 @@
 2429 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1572
     }
 
     bureaucrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 255
     }
 
     officers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 212
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 510
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 3655
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1700
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 39525
     }
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 127
     }
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 1445
     }
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 297
     }
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 10030
     }
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 17000
     }
 }
@@ -1798,61 +1798,61 @@
 2430 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 467
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 170
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 552
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 127
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 12282
     }
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 425
     }
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 2805
     }
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 5100
     }
 }
@@ -1860,61 +1860,61 @@
 2431 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1147
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 425
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 4675
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 340
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 23842
     }
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 127
     }
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 1275
     }
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 255
     }
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 8542
     }
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 15300
     }
 }
@@ -1924,73 +1924,73 @@
 2432 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1402
     }
 
     bureaucrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 340
     }
 
     officers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 255
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 552
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 15300
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 425
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 22355
     }
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 127
     }
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 5100
     }
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 297
     }
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 6375
     }
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 17000
     }
 }
@@ -1998,61 +1998,61 @@
 2433 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 722
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 212
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 552
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 127
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 11942
     }
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 1020
     }
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 212
     }
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 7182
     }
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 11900
     }
 }
@@ -2060,61 +2060,61 @@
 2434 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1317
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 510
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1530
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1700
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 32342
     }
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 127
     }
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 1360
     }
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 297
     }
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 8415
     }
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 17000
     }
 }
@@ -2122,61 +2122,61 @@
 2435 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1062
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 382
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1190
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 297
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 25967
     }
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 1105
     }
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 212
     }
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 7097
     }
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 13600
     }
 }
@@ -2186,73 +2186,73 @@
 2436 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 3060
     }
 
     bureaucrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 595
     }
 
     officers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 425
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1275
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 45900
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1700
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 47345
     }
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 255
     }
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 9350
     }
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 510
     }
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 10285
     }
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 30600
     }
 }
@@ -2260,61 +2260,61 @@
 2437 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1572
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 510
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1275
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 340
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 28602
     }
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 212
     }
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 2210
     }
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 467
     }
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 14110
     }
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 27200
     }
 }
@@ -2322,61 +2322,61 @@
 2438 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1232
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 467
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1360
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 340
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 30600
     }
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 127
     }
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 1275
     }
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 255
     }
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 8542
     }
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 15300
     }
 }
@@ -2384,61 +2384,61 @@
 2439 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1062
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 382
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1190
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 297
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 25967
     }
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 1105
     }
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 212
     }
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 7097
     }
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 13600
     }
 }
@@ -2446,61 +2446,61 @@
 2440 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 892
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 297
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 765
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 212
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 16532
     }
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 127
     }
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 1190
     }
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 255
     }
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 9477
     }
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 14450
     }
 }
@@ -2510,73 +2510,73 @@
 2441 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1997
     }
 
     bureaucrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 510
     }
 
     officers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 382
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 807
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 2465
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1700
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 53847
     }
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 170
     }
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 1870
     }
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 382
     }
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 15512
     }
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 22100
     }
 }
@@ -2584,61 +2584,61 @@
 2442 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 892
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 340
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 892
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 212
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 22440
     }
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 1105
     }
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 212
     }
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 7097
     }
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 13600
     }
 }
@@ -2646,61 +2646,61 @@
 2443 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 935
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 297
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 680
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 170
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 14917
     }
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 127
     }
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 1275
     }
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 255
     }
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 8542
     }
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 15300
     }
 }
@@ -2708,61 +2708,61 @@
 2444 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 722
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 255
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 765
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 212
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 16405
     }
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 765
     }
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 170
     }
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 4930
     }
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 9350
     }
 }
@@ -2770,61 +2770,61 @@
 2445 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 595
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 212
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 467
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 127
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 10497
     }
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 850
     }
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 170
     }
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 5695
     }
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 10200
     }
 }
@@ -2832,61 +2832,61 @@
 2446 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1147
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 382
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 892
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 212
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 19550
     }
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 170
     }
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 1700
     }
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 340
     }
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 11390
     }
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 20400
     }
 }
@@ -2896,73 +2896,73 @@
 2447 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 4505
     }
 
     bureaucrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 765
     }
 
     officers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 425
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 2720
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 51255
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 17000
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 185130
     }
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 255
     }
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 3995
     }
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 510
     }
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 15640
     }
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 30600
     }
 }
@@ -2970,61 +2970,61 @@
 2448 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1445
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 510
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1360
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 340
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 30345
     }
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 170
     }
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 1700
     }
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 340
     }
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 13770
     }
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 20400
     }
 }
@@ -3032,61 +3032,61 @@
 2449 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1062
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 382
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1232
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 297
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 27625
     }
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 1020
     }
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 212
     }
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 7182
     }
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 11900
     }
 }
@@ -3096,25 +3096,25 @@
 2306 = {
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1530
     }
 
@@ -3152,73 +3152,73 @@
 2450 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 2167
     }
 
     bureaucrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 212
     }
 
     officers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 255
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 935
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 3272
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1700
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 72930
     }
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 127
     }
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 1275
     }
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 255
     }
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 8542
     }
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 15300
     }
 }
@@ -3226,61 +3226,61 @@
 2451 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1147
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 467
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1572
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 425
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 35487
     }
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 850
     }
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 170
     }
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 5695
     }
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 10200
     }
 }
@@ -3288,61 +3288,61 @@
 2452 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 552
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 212
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 680
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 170
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 15385
     }
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 510
     }
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 127
     }
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 3527
     }
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 5950
     }
 }
@@ -3350,61 +3350,61 @@
 2453 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 510
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 170
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 680
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 170
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 15470
     }
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 340
     }
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 2040
     }
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 4250
     }
 }
@@ -3412,61 +3412,61 @@
 2455 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 552
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 212
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 765
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 212
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 16957
     }
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 425
     }
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 2890
     }
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 5100
     }
 }
@@ -3474,25 +3474,25 @@
 2456 = {
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1530
     }
 
@@ -3532,73 +3532,73 @@
 2457 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1487
     }
 
     bureaucrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 340
     }
 
     officers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 212
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 680
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 2592
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1700
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 57587
     }
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 425
     }
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 2890
     }
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 5100
     }
 }
@@ -3606,61 +3606,61 @@
 2458 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 340
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 127
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 425
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 127
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 9180
     }
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 255
     }
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 2125
     }
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 2975
     }
 
@@ -3692,61 +3692,61 @@
 2459 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 382
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 127
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 425
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 127
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 9137
     }
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 340
     }
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 2040
     }
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 4250
     }
 
@@ -3784,61 +3784,61 @@
 2460 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 637
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 255
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 892
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 212
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 20102
     }
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 340
     }
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 2040
     }
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 4250
     }
 
@@ -3870,61 +3870,61 @@
 2461 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 765
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 340
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1105
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 297
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 24692
     }
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 510
     }
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 127
     }
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 3527
     }
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 5950
     }
 }
@@ -3932,61 +3932,61 @@
 2462 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 722
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 255
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 892
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 212
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 20017
     }
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 127
     }
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 595
     }
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 127
     }
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 4250
     }
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 6800
     }
 }
@@ -3996,25 +3996,25 @@
 2463 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1742
     }
 
     bureaucrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 340
     }
 
     officers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 212
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 765
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -4022,19 +4022,19 @@
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 2932
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1700
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 65407
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -4042,7 +4042,7 @@
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 85
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -4050,7 +4050,7 @@
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 1105
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -4058,7 +4058,7 @@
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 212
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -4066,7 +4066,7 @@
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 7097
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -4074,7 +4074,7 @@
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 13600
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -4084,13 +4084,13 @@
 2464 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 382
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 127
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -4098,19 +4098,19 @@
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 510
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 127
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 10752
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -4118,7 +4118,7 @@
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 85
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -4126,7 +4126,7 @@
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 340
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -4134,7 +4134,7 @@
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 85
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -4142,7 +4142,7 @@
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 2040
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -4150,7 +4150,7 @@
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 4250
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -4160,13 +4160,13 @@
 2465 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 977
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 425
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -4174,19 +4174,19 @@
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1232
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 297
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 27667
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -4194,7 +4194,7 @@
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 85
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -4202,7 +4202,7 @@
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 425
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -4210,7 +4210,7 @@
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 85
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -4218,7 +4218,7 @@
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 2890
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -4226,7 +4226,7 @@
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 5100
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -4268,13 +4268,13 @@
 2466 = {
     aristocrats = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 765
     }
 
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 340
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -4282,19 +4282,19 @@
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1105
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 297
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 24692
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -4302,7 +4302,7 @@
 
     clergymen = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 85
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -4310,7 +4310,7 @@
 
     artisans = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 510
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -4318,7 +4318,7 @@
 
     soldiers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 127
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -4326,7 +4326,7 @@
 
     farmers = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 3527
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -4334,7 +4334,7 @@
 
     slaves = {
         culture = afro_brazilian
-        religion = catholic
+        religion = animist
         size = 5950
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -4344,7 +4344,7 @@
 2467 = {
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 127
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -4352,19 +4352,19 @@
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 340
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 6247
         militancy = 8
         rebel_type = anarcho_liberal_rebels
@@ -4448,25 +4448,25 @@
 2550 = {
     clergymen = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     artisans = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 85
     }
 
     soldiers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 42
     }
 
     farmers = {
         culture = brazilian
-        religion = catholic
+        religion = animist
         size = 1530
     }
 

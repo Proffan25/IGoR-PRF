@@ -497,7 +497,7 @@
 	}
 	farmers = {
 		culture = boer
-		religion = protestant
+		religion = animist
 		size = 100
 	}
 }

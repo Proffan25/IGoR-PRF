@@ -3,55 +3,55 @@
 474 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 2200
     }
 
     officers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 450
     }
 
     bureaucrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 3250
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 2000
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 6300
     }
 
     clerks = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 50
     }
 
     craftsmen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 6000
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 3000
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 148350
     }
 }
@@ -59,49 +59,49 @@
 475 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1100
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1050
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 5000
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1100
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 10850
     }
 
     clergymen = {
         culture = basque
-        religion = catholic
+        religion = animist
         size = 50
     }
 
     soldiers = {
         culture = basque
-        religion = catholic
+        religion = animist
         size = 50
     }
 
     farmers = {
         culture = basque
-        religion = catholic
+        religion = animist
         size = 3900
     }
 }
@@ -109,31 +109,31 @@
 476 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 700
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 800
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 4000
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1100
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 75500
     }
 }
@@ -142,43 +142,43 @@
 477 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 800
     }
 
     officers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 300
     }
 
     bureaucrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 2000
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 700
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 3500
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 700
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 63600
     }
 }
@@ -186,49 +186,49 @@
 478 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 500
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 400
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 3500
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 400
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 35700
     }
 
     clergymen = {
         culture = basque
-        religion = catholic
+        religion = animist
         size = 50
     }
 
     soldiers = {
         culture = basque
-        religion = catholic
+        religion = animist
         size = 50
     }
 
     farmers = {
         culture = basque
-        religion = catholic
+        religion = animist
         size = 3900
     }
 }
@@ -236,43 +236,43 @@
 479 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 650
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 575
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 5500
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 600
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 50675
     }
 
     clergymen = {
         culture = basque
-        religion = catholic
+        religion = animist
         size = 25
     }
 
     farmers = {
         culture = basque
-        religion = catholic
+        religion = animist
         size = 975
     }
 }
@@ -280,31 +280,31 @@
 480 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 600
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 500
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 6000
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 500
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 40900
     }
 }
@@ -313,43 +313,43 @@
 481 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1500
     }
 
     officers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 250
     }
 
     bureaucrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1750
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 700
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 3500
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 2000
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 62700
     }
 }
@@ -357,31 +357,31 @@
 482 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1100
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 550
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 2600
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1100
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 48750
     }
 }
@@ -389,31 +389,31 @@
 483 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1200
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 550
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 4000
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1100
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 49250
     }
 }
@@ -422,43 +422,43 @@
 484 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1250
     }
 
     officers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 200
     }
 
     bureaucrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1250
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 550
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 4500
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 600
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 46650
     }
 }
@@ -466,31 +466,31 @@
 485 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1050
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 500
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 2250
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 500
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 43700
     }
 }
@@ -498,31 +498,31 @@
 486 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 900
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 425
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 2500
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 450
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 38725
     }
 }
@@ -531,85 +531,85 @@
 487 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 2000
     }
 
     officers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 500
     }
 
     bureaucrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 5500
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 900
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 10000
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 10000
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 10000
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 10000
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 10000
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 4000
     }
 
     clerks = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 150
     }
 
     craftsmen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 14350
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 6000
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 12100
     }
 }
@@ -617,31 +617,31 @@
 488 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1200
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 500
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 2500
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 2000
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 45800
     }
 }
@@ -649,31 +649,31 @@
 489 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1550
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 750
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 6000
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 5000
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 62200
     }
 }
@@ -681,31 +681,31 @@
 490 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1800
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 875
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 4200
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 850
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 78775
     }
 }
@@ -713,31 +713,31 @@
 491 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1500
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 700
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 3500
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 700
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 65600
     }
 }
@@ -746,7 +746,7 @@
 492 = {
     aristocrats = {
         culture = basque
-        religion = catholic
+        religion = animist
         size = 600
         militancy = 8
         rebel_type = carlist_rebels
@@ -754,7 +754,7 @@
 
     clergymen = {
         culture = basque
-        religion = catholic
+        religion = animist
         size = 550
         militancy = 8
         rebel_type = carlist_rebels
@@ -762,7 +762,7 @@
 
     artisans = {
         culture = basque
-        religion = catholic
+        religion = animist
         size = 3000
         militancy = 8
         rebel_type = carlist_rebels
@@ -770,7 +770,7 @@
 
     soldiers = {
         culture = basque
-        religion = catholic
+        religion = animist
         size = 550
         militancy = 8
         rebel_type = carlist_rebels
@@ -778,7 +778,7 @@
 
     farmers = {
         culture = basque
-        religion = catholic
+        religion = animist
         size = 51800
         militancy = 8
         rebel_type = carlist_rebels
@@ -786,31 +786,31 @@
 
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 250
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 200
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1100
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 200
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 18850
     }
 }
@@ -818,7 +818,7 @@
 493 = {
     aristocrats = {
         culture = basque
-        religion = catholic
+        religion = animist
         size = 700
         militancy = 8
         rebel_type = carlist_rebels
@@ -826,7 +826,7 @@
 
     officers = {
         culture = basque
-        religion = catholic
+        religion = animist
         size = 100
         militancy = 8
         rebel_type = carlist_rebels
@@ -834,7 +834,7 @@
 
     bureaucrats = {
         culture = basque
-        religion = catholic
+        religion = animist
         size = 750
         militancy = 8
         rebel_type = carlist_rebels
@@ -842,7 +842,7 @@
 
     clergymen = {
         culture = basque
-        religion = catholic
+        religion = animist
         size = 375
         militancy = 8
         rebel_type = carlist_rebels
@@ -850,7 +850,7 @@
 
     artisans = {
         culture = basque
-        religion = catholic
+        religion = animist
         size = 1750
         militancy = 8
         rebel_type = carlist_rebels
@@ -858,7 +858,7 @@
 
     soldiers = {
         culture = basque
-        religion = catholic
+        religion = animist
         size = 400
         militancy = 8
         rebel_type = carlist_rebels
@@ -866,7 +866,7 @@
 
     labourers = {
         culture = basque
-        religion = catholic
+        religion = animist
         size = 35025
         militancy = 8
         rebel_type = carlist_rebels
@@ -874,43 +874,43 @@
 
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 500
     }
 
     officers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 100
     }
 
     bureaucrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1000
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 225
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1250
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 19975
     }
 }
@@ -918,31 +918,31 @@
 494 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 850
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 400
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 2000
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 400
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 35850
     }
 }
@@ -951,61 +951,61 @@
 495 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1600
     }
 
     officers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 250
     }
 
     bureaucrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1500
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 750
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 10000
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 5000
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1100
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 57100
     }
 
     clergymen = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 50
     }
 
     farmers = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 1950
     }
 }
@@ -1013,61 +1013,61 @@
 496 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 450
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 350
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1850
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 400
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 35450
     }
 
     aristocrats = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 200
     }
 
     clergymen = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 175
     }
 
     artisans = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 850
     }
 
     soldiers = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 250
     }
 
     labourers = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 16025
     }
 }
@@ -1075,7 +1075,7 @@
 497 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1200
         militancy = 8
         rebel_type = carlist_rebels
@@ -1083,7 +1083,7 @@
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 550
         militancy = 8
         rebel_type = carlist_rebels
@@ -1091,7 +1091,7 @@
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 2750
         militancy = 8
         rebel_type = carlist_rebels
@@ -1099,7 +1099,7 @@
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1100
         militancy = 8
         rebel_type = carlist_rebels
@@ -1107,7 +1107,7 @@
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 51500
         militancy = 8
         rebel_type = carlist_rebels
@@ -1118,103 +1118,103 @@
 498 = {
     aristocrats = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 1700
     }
 
     officers = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 200
     }
 
     bureaucrats = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 2750
     }
 
     clergymen = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 825
     }
 
     artisans = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 10000
     }
 
     artisans = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 10000
     }
 
     artisans = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 10000
     }
 
     artisans = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 1100
     }
 
     soldiers = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 2000
     }
 
     farmers = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 53225
     }
 
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 500
     }
 
     officers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 100
     }
 
     bureaucrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1000
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 275
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 9000
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 300
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 16125
     }
 }
@@ -1222,31 +1222,31 @@
 499 = {
     aristocrats = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 750
     }
 
     clergymen = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 350
     }
 
     artisans = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 1750
     }
 
     soldiers = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 350
     }
 
     farmers = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 33300
         militancy = 8
         rebel_type = carlist_rebels
@@ -1254,31 +1254,31 @@
 
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 450
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 200
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1100
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 18600
     }
 }
@@ -1286,7 +1286,7 @@
 500 = {
     aristocrats = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 550
         militancy = 8
         rebel_type = carlist_rebels
@@ -1294,7 +1294,7 @@
 
     clergymen = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 250
         militancy = 8
         rebel_type = carlist_rebels
@@ -1302,7 +1302,7 @@
 
     artisans = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 2750
         militancy = 8
         rebel_type = carlist_rebels
@@ -1310,7 +1310,7 @@
 
     soldiers = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 275
         militancy = 8
         rebel_type = carlist_rebels
@@ -1318,7 +1318,7 @@
 
     farmers = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 24150
         militancy = 8
         rebel_type = carlist_rebels
@@ -1326,31 +1326,31 @@
 
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 200
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1250
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 150
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 11275
     }
 }
@@ -1358,7 +1358,7 @@
 501 = {
     aristocrats = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 850
         militancy = 8
         rebel_type = carlist_rebels
@@ -1366,7 +1366,7 @@
 
     clergymen = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 400
         militancy = 8
         rebel_type = carlist_rebels
@@ -1374,13 +1374,13 @@
 
     artisans = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 2000
     }
 
     soldiers = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 400
         militancy = 8
         rebel_type = carlist_rebels
@@ -1388,7 +1388,7 @@
 
     farmers = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 37850
         militancy = 8
         rebel_type = carlist_rebels
@@ -1396,7 +1396,7 @@
 
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 450
         militancy = 8
         rebel_type = carlist_rebels
@@ -1404,7 +1404,7 @@
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 200
         militancy = 8
         rebel_type = carlist_rebels
@@ -1412,19 +1412,19 @@
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1100
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 200
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 17650
     }
 }
@@ -1432,61 +1432,61 @@
 502 = {
     aristocrats = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 400
     }
 
     clergymen = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 400
     }
 
     artisans = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 6000
     }
 
     soldiers = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 400
     }
 
     farmers = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 33300
     }
 
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 200
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 200
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 3000
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 200
     }
 
     labourers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 15900
     }
 }
@@ -1495,91 +1495,91 @@
 503 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1100
     }
 
     officers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 175
     }
 
     bureaucrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1375
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 550
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 10000
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1100
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 2000
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 37900
     }
 
     aristocrats = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 1100
     }
 
     officers = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 100
     }
 
     bureaucrats = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 1125
     }
 
     clergymen = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 500
     }
 
     artisans = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 10000
     }
 
     soldiers = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 500
     }
 
     farmers = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 39675
     }
 }
@@ -1587,61 +1587,61 @@
 504 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 550
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 250
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1300
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 21650
     }
 
     aristocrats = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 500
     }
 
     clergymen = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 275
     }
 
     artisans = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 1700
     }
 
     soldiers = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 26275
     }
 }
@@ -1649,61 +1649,61 @@
 505 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1100
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 525
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 2500
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 550
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 49825
     }
 
     aristocrats = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 400
     }
 
     clergymen = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 400
     }
 
     artisans = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 2000
     }
 
     soldiers = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 400
     }
 
     labourers = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 38300
     }
 }
@@ -1712,43 +1712,43 @@
 506 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1100
     }
 
     officers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 150
     }
 
     bureaucrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 4500
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 525
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 7000
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 550
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 42375
     }
 }
@@ -1756,31 +1756,31 @@
 507 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 500
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 225
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1100
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 21025
     }
 }
@@ -1788,31 +1788,31 @@
 508 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1100
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 500
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 2400
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 500
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 45600
     }
 }
@@ -1821,61 +1821,61 @@
 509 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1800
     }
 
     officers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 550
     }
 
     bureaucrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 2250
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1100
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 10000
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 10000
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 5000
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 3000
     }
 	
 	craftsmen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 20000
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 42200
     }
 }
@@ -1883,31 +1883,31 @@
 510 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1700
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 800
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 9000
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1100
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 68500
     }
 }
@@ -1915,31 +1915,31 @@
 511 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 750
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 375
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 2000
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 500
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 31375
     }
 }
@@ -1947,49 +1947,49 @@
 512 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1100
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 850
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 10000
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 500
     }
 
     clerks = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 50
     }
 
     craftsmen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 20000
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1100
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 50600
     }
 }
@@ -1998,49 +1998,49 @@
 513 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 2750
     }
 
     officers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 450
     }
 
     bureaucrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 2500
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 950
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 10000
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 5000
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 3000
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 72850
     }
 }
@@ -2048,37 +2048,37 @@
 514 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 2700
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 900
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 10000
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 7500
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1100
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 78400
     }
 }
@@ -2086,31 +2086,31 @@
 515 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1650
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 550
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 5000
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1100
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 52600
     }
 }
@@ -2118,31 +2118,31 @@
 516 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1700
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 600
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 6000
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1100
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 58200
     }
 }
@@ -2152,43 +2152,43 @@
 2136 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 825
     }
 
     officers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 50
     }
 
     bureaucrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 375
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 525
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 3000
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 500
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 47025
     }
 }
@@ -2196,7 +2196,7 @@
 3295 = {
     aristocrats = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 550
         militancy = 8
         rebel_type = carlist_rebels
@@ -2204,7 +2204,7 @@
 
     clergymen = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 250
         militancy = 8
         rebel_type = carlist_rebels
@@ -2212,7 +2212,7 @@
 
     artisans = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 2750
         militancy = 8
         rebel_type = carlist_rebels
@@ -2220,7 +2220,7 @@
 
     soldiers = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 275
         militancy = 8
         rebel_type = carlist_rebels
@@ -2228,7 +2228,7 @@
 
     farmers = {
         culture = catalan
-        religion = catholic
+        religion = animist
         size = 24150
         militancy = 8
         rebel_type = carlist_rebels
@@ -2236,31 +2236,31 @@
 
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 200
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 1250
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 150
     }
 
     farmers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 11275
     }
 }

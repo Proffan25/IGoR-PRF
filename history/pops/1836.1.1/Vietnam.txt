@@ -4,115 +4,115 @@
 1369 = {
     aristocrats = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 3600
     }
 
     bureaucrats = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 1100
     }
 
     officers = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 625
     }
 
     clergymen = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 1625
     }
 
     artisans = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 10000
     }
 
     artisans = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 10000
     }
 
     artisans = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 4500
     }
 
     soldiers = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 1675
     }
 
     farmers = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 132875
     }
 
     slaves = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 8000
     }
 
     clergymen = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 1250
     }
 
     farmers = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 700
     }
 
     clergymen = {
         culture = min
-        religion = mahayana
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = min
-        religion = mahayana
+        religion = animist
         size = 1250
     }
 
     farmers = {
         culture = min
-        religion = mahayana
+        religion = animist
         size = 700
     }
 
     clergymen = {
         culture = vietnamese
-        religion = catholic
+        religion = animist
         size = 175
     }
 
     artisans = {
         culture = vietnamese
-        religion = catholic
+        religion = animist
         size = 3500
     }
 
     farmers = {
         culture = vietnamese
-        religion = catholic
+        religion = animist
         size = 20325
     }
 }
@@ -120,85 +120,85 @@
 1370 = {
     aristocrats = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 2750
     }
 
     clergymen = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 1325
     }
 
     artisans = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 6550
     }
 
     soldiers = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 1325
     }
 
     farmers = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 119050
     }
 
     clergymen = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 1250
     }
 
     farmers = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 700
     }
 
     clergymen = {
         culture = min
-        religion = mahayana
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = min
-        religion = mahayana
+        religion = animist
         size = 1250
     }
 
     farmers = {
         culture = min
-        religion = mahayana
+        religion = animist
         size = 700
     }
 
     clergymen = {
         culture = vietnamese
-        religion = catholic
+        religion = animist
         size = 100
     }
 
     artisans = {
         culture = vietnamese
-        religion = catholic
+        religion = animist
         size = 700
     }
 
     farmers = {
         culture = vietnamese
-        religion = catholic
+        religion = animist
         size = 13200
     }
 }
@@ -206,55 +206,55 @@
 1371 = {
     aristocrats = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 1050
     }
 
     clergymen = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 500
     }
 
     artisans = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 2600
     }
 
     soldiers = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 1100
     }
 
     farmers = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 46800
     }
 
     slaves = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 2000
     }
 
     clergymen = {
         culture = vietnamese
-        religion = catholic
+        religion = animist
         size = 75
     }
 
     artisans = {
         culture = vietnamese
-        religion = catholic
+        religion = animist
         size = 300
     }
 
     farmers = {
         culture = vietnamese
-        religion = catholic
+        religion = animist
         size = 5625
     }
 
@@ -292,55 +292,55 @@
 1372 = {
     aristocrats = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 1100
     }
 
     clergymen = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 550
     }
 
     artisans = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 2700
     }
 
     soldiers = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 1100
     }
 
     farmers = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 48650
     }
 
     slaves = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 1100
     }
 
     clergymen = {
         culture = vietnamese
-        religion = catholic
+        religion = animist
         size = 75
     }
 
     artisans = {
         culture = vietnamese
-        religion = catholic
+        religion = animist
         size = 300
     }
 
     farmers = {
         culture = vietnamese
-        religion = catholic
+        religion = animist
         size = 5625
     }
 
@@ -378,73 +378,73 @@
 1373 = {
     aristocrats = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 1425
     }
 
     clergymen = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 700
     }
 
     artisans = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 3450
     }
 
     soldiers = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 1100
     }
 
     farmers = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 62405
     }
 
     slaves = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 2000
     }
 
     clergymen = {
         culture = vietnamese
-        religion = catholic
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = vietnamese
-        religion = catholic
+        religion = animist
         size = 350
     }
 
     farmers = {
         culture = vietnamese
-        religion = catholic
+        religion = animist
         size = 6600
     }
 
     clergymen = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 75
     }
 
     artisans = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 1650
     }
 
     farmers = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 1275
     }
 }
@@ -452,55 +452,55 @@
 1374 = {
     aristocrats = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 2250
     }
 
     clergymen = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 1125
     }
 
     artisans = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 5500
     }
 
     soldiers = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 1100
     }
 
     farmers = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 100025
     }
 
     slaves = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 3000
     }
 
     clergymen = {
         culture = vietnamese
-        religion = catholic
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = vietnamese
-        religion = catholic
+        religion = animist
         size = 550
     }
 
     farmers = {
         culture = vietnamese
-        religion = catholic
+        religion = animist
         size = 10400
     }
 }
@@ -510,85 +510,85 @@
 1375 = {
     aristocrats = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 4750
     }
 
     bureaucrats = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 850
     }
 
     officers = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 525
     }
 
     clergymen = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 2250
     }
 
     artisans = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 7475
     }
 
     soldiers = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 2250
     }
 
     farmers = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 204900
     }
 
     slaves = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 9000
     }
 
     clergymen = {
         culture = vietnamese
-        religion = catholic
+        religion = animist
         size = 225
     }
 
     artisans = {
         culture = vietnamese
-        religion = catholic
+        religion = animist
         size = 1025
     }
 
     farmers = {
         culture = vietnamese
-        religion = catholic
+        religion = animist
         size = 29750
     }
 
     clergymen = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 75
     }
 
     artisans = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 4000
     }
 
     farmers = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 2925
     }
 }
@@ -596,49 +596,49 @@
 1376 = {
     aristocrats = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 2500
     }
 
     clergymen = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 1225
     }
 
     artisans = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 6150
     }
 
     soldiers = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 1250
     }
 
     farmers = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 111875
     }
 
     clergymen = {
         culture = vietnamese
-        religion = catholic
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = vietnamese
-        religion = catholic
+        religion = animist
         size = 400
     }
 
     farmers = {
         culture = vietnamese
-        religion = catholic
+        religion = animist
         size = 7550
     }
 }
@@ -646,55 +646,55 @@
 1377 = {
     aristocrats = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 800
     }
 
     clergymen = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 400
     }
 
     artisans = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 2000
     }
 
     soldiers = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 1100
     }
 
     farmers = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 35800
     }
 
     slaves = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 2000
     }
 
     clergymen = {
         culture = vietnamese
-        religion = catholic
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = vietnamese
-        religion = catholic
+        religion = animist
         size = 200
     }
 
     farmers = {
         culture = vietnamese
-        religion = catholic
+        religion = animist
         size = 3750
     }
 
@@ -730,19 +730,19 @@
 
     clergymen = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 25
     }
 
     artisans = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 550
     }
 
     farmers = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 425
     }
 }
@@ -750,55 +750,55 @@
 1378 = {
     aristocrats = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 700
     }
 
     clergymen = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 325
     }
 
     artisans = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 1700
     }
 
     soldiers = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 350
     }
 
     farmers = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 30925
     }
 
     slaves = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 2000
     }
 
     clergymen = {
         culture = vietnamese
-        religion = catholic
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = vietnamese
-        religion = catholic
+        religion = animist
         size = 200
     }
 
     farmers = {
         culture = vietnamese
-        religion = catholic
+        religion = animist
         size = 3750
     }
 }
@@ -806,31 +806,31 @@
 1379 = {
     aristocrats = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 150
     }
 
     clergymen = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 300
     }
 
     soldiers = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 75
     }
 
     farmers = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 5425
     }
 
@@ -870,103 +870,103 @@
 1380 = {
     aristocrats = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 3600
     }
 
     bureaucrats = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 325
     }
 
     officers = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 300
     }
 
     clergymen = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 1775
     }
 
     artisans = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 7500
     }
 
     soldiers = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 1775
     }
 
     farmers = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 161725
     }
 
     slaves = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 8000
     }
 
     clergymen = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 75
     }
 
     artisans = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 2100
     }
 
     farmers = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 1825
     }
 
     clergymen = {
         culture = min
-        religion = mahayana
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = min
-        religion = mahayana
+        religion = animist
         size = 1600
     }
 
     farmers = {
         culture = min
-        religion = mahayana
+        religion = animist
         size = 1350
     }
 
     clergymen = {
         culture = vietnamese
-        religion = catholic
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = vietnamese
-        religion = catholic
+        religion = animist
         size = 1100
     }
 
     farmers = {
         culture = vietnamese
-        religion = catholic
+        religion = animist
         size = 18875
     }
 }
@@ -974,49 +974,49 @@
 1381 = {
     aristocrats = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 900
     }
 
     clergymen = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 475
     }
 
     artisans = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 2400
     }
 
     soldiers = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 475
     }
 
     farmers = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 43750
     }
 
     clergymen = {
         culture = vietnamese
-        religion = catholic
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = vietnamese
-        religion = catholic
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = vietnamese
-        religion = catholic
+        religion = animist
         size = 4700
     }
 
@@ -1054,55 +1054,55 @@
 1382 = {
     aristocrats = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 300
     }
 
     clergymen = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 700
     }
 
     soldiers = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 150
     }
 
     farmers = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 12725
     }
 
     clergymen = {
         culture = vietnamese
-        religion = theravada
+        religion = animist
         size = 300
     }
 
     artisans = {
         culture = vietnamese
-        religion = theravada
+        religion = animist
         size = 1450
     }
 
     soldiers = {
         culture = vietnamese
-        religion = theravada
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = vietnamese
-        religion = theravada
+        religion = animist
         size = 27000
     }
 }
@@ -1110,55 +1110,55 @@
 1383 = {
     aristocrats = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 300
     }
 
     clergymen = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 700
     }
 
     soldiers = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 1100
     }
 
     farmers = {
         culture = vietnamese
-        religion = mahayana
+        religion = animist
         size = 11875
     }
 
     clergymen = {
         culture = vietnamese
-        religion = theravada
+        religion = animist
         size = 150
     }
 
     artisans = {
         culture = vietnamese
-        religion = theravada
+        religion = animist
         size = 800
     }
 
     soldiers = {
         culture = vietnamese
-        religion = theravada
+        religion = animist
         size = 150
     }
 
     farmers = {
         culture = vietnamese
-        religion = theravada
+        religion = animist
         size = 14900
     }
 }

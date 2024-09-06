@@ -365,31 +365,31 @@
 2031 = {
 	aristocrats = {
 		culture = afro_asiatic
-		religion = sunni
+		religion = animist
 		size = 400
 	}
 
 	clergymen = {
 		culture = afro_asiatic
-		religion = sunni
+		religion = animist
 		size = 200
 	}
 
 	artisans = {
 		culture = afro_asiatic
-		religion = sunni
+		religion = animist
 		size = 850
 	}
 
 	soldiers = {
 		culture = afro_asiatic
-		religion = sunni
+		religion = animist
 		size = 225
 	}
 
 	farmers = {
 		culture = afro_asiatic
-		religion = sunni
+		religion = animist
 		size = 18225
 	}
 
@@ -463,31 +463,31 @@
 
 	aristocrats = {
 		culture = afro_asiatic
-		religion = sunni
+		religion = animist
 		size = 50
 	}
 
 	clergymen = {
 		culture = afro_asiatic
-		religion = sunni
+		religion = animist
 		size = 75
 	}
 
 	artisans = {
 		culture = afro_asiatic
-		religion = sunni
+		religion = animist
 		size = 150
 	}
 
 	soldiers = {
 		culture = afro_asiatic
-		religion = sunni
+		religion = animist
 		size = 25
 	}
 
 	farmers = {
 		culture = afro_asiatic
-		religion = sunni
+		religion = animist
 		size = 2700
 	}
 
@@ -527,61 +527,61 @@
 2029 = {
 	aristocrats = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 200
 	}
 
 	clergymen = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 100
 	}
 
 	artisans = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 550
 	}
 
 	soldiers = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 1100
 	}
 
 	farmers = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 9150
 	}
 
 	aristocrats = {
 		culture = mashriqi
-		religion = sunni
+		religion = animist
 		size = 100
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = sunni
+		religion = animist
 		size = 50
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = sunni
+		religion = animist
 		size = 300
 	}
 
 	soldiers = {
 		culture = mashriqi
-		religion = sunni
+		religion = animist
 		size = 50
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = sunni
+		religion = animist
 		size = 500
 	}
 
@@ -625,31 +625,31 @@
 2030 = {
 	aristocrats = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 225
 	}
 
 	clergymen = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 125
 	}
 
 	artisans = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 500
 	}
 
 	soldiers = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 125
 	}
 
 	farmers = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 10025
 	}
 

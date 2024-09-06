@@ -4,55 +4,55 @@
 808 = {
     aristocrats = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 1100
     }
 
     clergymen = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 200
     }
 
     artisans = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 1500
     }
 
     soldiers = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 300
     }
 
     farmers = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 15900
     }
 
     clergymen = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 425
     }
 
     artisans = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 900
     }
 
     soldiers = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 200
     }
 
     farmers = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 27875
     }
 }
@@ -62,91 +62,91 @@
 809 = {
     aristocrats = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 1450
     }
 
     bureaucrats = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 2000
     }
 
     officers = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 300
     }
 
     clergymen = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 225
     }
 
     artisans = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 2500
     }
 
     soldiers = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 200
     }
 
     farmers = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 15925
     }
 
     clergymen = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 175
     }
 
     artisans = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 2400
     }
 
     soldiers = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 1925
     }
 
     farmers = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 38500
     }
 
     clergymen = {
         culture = greek
-        religion = orthodox
+        religion = animist
         size = 150
     }
 
     artisans = {
         culture = greek
-        religion = orthodox
+        religion = animist
         size = 850
     }
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = animist
         size = 25
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = animist
         size = 975
     }
 }
@@ -154,61 +154,61 @@
 810 = {
     aristocrats = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 650
     }
 
     clergymen = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 75
     }
 
     artisans = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 1800
     }
 
     farmers = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 725
     }
 
     clergymen = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 150
     }
 
     artisans = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 500
     }
 
     farmers = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 26350
     }
 
     farmers = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 26350
     }
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = animist
         size = 5
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = animist
         size = 245
     }
 }
@@ -216,67 +216,67 @@
 811 = {
     aristocrats = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 1050
     }
 
     clergymen = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 100
     }
 
     artisans = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 1050
     }
 
     soldiers = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 200
     }
 
     farmers = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 6850
     }
 
     clergymen = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 200
     }
 
     artisans = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 750
     }
 
     soldiers = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 400
     }
 
     farmers = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 35650
     }
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = animist
         size = 10
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = animist
         size = 740
     }
 }
@@ -284,55 +284,55 @@
 812 = {
     aristocrats = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 875
     }
 
     clergymen = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 100
     }
 
     artisans = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 1350
     }
 
     soldiers = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 200
     }
 
     farmers = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 7475
     }
 
     clergymen = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 250
     }
 
     artisans = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 1100
     }
 
     soldiers = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 1400
     }
 
     farmers = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 36250
     }
 }
@@ -340,55 +340,55 @@
 813 = {
     aristocrats = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 650
     }
 
     clergymen = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 950
     }
 
     soldiers = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 800
     }
 
     farmers = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 9575
     }
 
     clergymen = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 150
     }
 
     artisans = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 850
     }
 
     soldiers = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 200
     }
 
     farmers = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 22800
     }
 }
@@ -396,55 +396,55 @@
 814 = {
     aristocrats = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 1300
     }
 
     clergymen = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 175
     }
 
     artisans = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 2100
     }
 
     soldiers = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 2000
     }
 
     farmers = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 12425
     }
 
     clergymen = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 225
     }
 
     artisans = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 1900
     }
 
     soldiers = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 200
     }
 
     farmers = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 35675
     }
 }
@@ -454,121 +454,121 @@
 815 = {
     aristocrats = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 800
     }
 
     bureaucrats = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 2750
     }
 
     officers = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 100
     }
 
     clergymen = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 100
     }
 
     artisans = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 1100
     }
 
     soldiers = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 175
     }
 
     farmers = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 6525
     }
 
     clergymen = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 75
     }
 
     artisans = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 450
     }
 
     soldiers = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 100
     }
 
     farmers = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 13475
     }
 
     clergymen = {
         culture = bulgarian
-        religion = sunni
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = bulgarian
-        religion = sunni
+        religion = animist
         size = 200
     }
 
     farmers = {
         culture = bulgarian
-        religion = sunni
+        religion = animist
         size = 2750
     }
 
     clergymen = {
         culture = greek
-        religion = orthodox
+        religion = animist
         size = 100
     }
 
     artisans = {
         culture = greek
-        religion = orthodox
+        religion = animist
         size = 600
     }
 
     soldiers = {
         culture = greek
-        religion = orthodox
+        religion = animist
         size = 100
     }
 
     farmers = {
         culture = greek
-        religion = orthodox
+        religion = animist
         size = 2200
     }
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = animist
         size = 10
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = animist
         size = 740
     }
 }
@@ -576,73 +576,73 @@
 816 = {
     aristocrats = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 325
     }
 
     clergymen = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 550
     }
 
     soldiers = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 100
     }
 
     farmers = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 4975
     }
 
     clergymen = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 75
     }
 
     artisans = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 450
     }
 
     soldiers = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 100
     }
 
     farmers = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 11375
     }
 
     clergymen = {
         culture = bulgarian
-        religion = sunni
+        religion = animist
         size = 25
     }
 
     artisans = {
         culture = bulgarian
-        religion = sunni
+        religion = animist
         size = 100
     }
 
     farmers = {
         culture = bulgarian
-        religion = sunni
+        religion = animist
         size = 1875
     }
 }
@@ -650,97 +650,97 @@
 817 = {
     aristocrats = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 1100
     }
 
     clergymen = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 900
     }
 
     soldiers = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 10625
     }
 
     clergymen = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 175
     }
 
     artisans = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 550
     }
 
     soldiers = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 100
     }
 
     farmers = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 25175
     }
 
     clergymen = {
         culture = bulgarian
-        religion = sunni
+        religion = animist
         size = 75
     }
 
     artisans = {
         culture = bulgarian
-        religion = sunni
+        religion = animist
         size = 100
     }
 
     farmers = {
         culture = bulgarian
-        religion = sunni
+        religion = animist
         size = 3750
     }
 
     clergymen = {
         culture = greek
-        religion = orthodox
+        religion = animist
         size = 150
     }
 
     artisans = {
         culture = greek
-        religion = orthodox
+        religion = animist
         size = 900
     }
 
     soldiers = {
         culture = greek
-        religion = orthodox
+        religion = animist
         size = 100
     }
 
     farmers = {
         culture = greek
-        religion = orthodox
+        religion = animist
         size = 4850
     }
 }
@@ -750,79 +750,79 @@
 818 = {
     clergymen = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 450
     }
 
     soldiers = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 100
     }
 
     farmers = {
         culture = bulgarian
-        religion = orthodox
+        religion = animist
         size = 9400
     }
 
     clergymen = {
         culture = romanian
-        religion = orthodox
+        religion = animist
         size = 75
     }
 
     artisans = {
         culture = romanian
-        religion = orthodox
+        religion = animist
         size = 200
     }
 
     soldiers = {
         culture = romanian
-        religion = orthodox
+        religion = animist
         size = 100
     }
 
     farmers = {
         culture = romanian
-        religion = orthodox
+        religion = animist
         size = 4625
     }
 
     aristocrats = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 400
     }
 
     clergymen = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 450
     }
 
     soldiers = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 100
     }
 
     farmers = {
         culture = turkish
-        religion = sunni
+        religion = animist
         size = 5100
     }
 }

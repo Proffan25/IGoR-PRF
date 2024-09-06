@@ -5,25 +5,25 @@
 
 	clergymen = {
 		culture = malagasy
-		religion = sunni
+		religion = animist
 		size = 25
 	}
 
 	artisans = {
 		culture = malagasy
-		religion = sunni
+		religion = animist
 		size = 50
 	}
 
 	soldiers = {
 		culture = malagasy
-		religion = sunni
+		religion = animist
 		size = 10
 	}
 
 	farmers = {
 		culture = malagasy
-		religion = sunni
+		religion = animist
 		size = 400
 	}
 
@@ -69,25 +69,25 @@
 
 	clergymen = {
 		culture = malagasy
-		religion = sunni
+		religion = animist
 		size = 25
 	}
 
 	artisans = {
 		culture = malagasy
-		religion = sunni
+		religion = animist
 		size = 50
 	}
 
 	soldiers = {
 		culture = malagasy
-		religion = sunni
+		religion = animist
 		size = 10
 	}
 
 	farmers = {
 		culture = malagasy
-		religion = sunni
+		religion = animist
 		size = 400
 	}
 

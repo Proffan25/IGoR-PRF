@@ -4,49 +4,49 @@
 1955 = {
     aristocrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 3
     }
 
     bureaucrats = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 10
     }
 
     clergymen = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 5
     }
 
     artisans = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 5
     }
 
     soldiers = {
         culture = spanish
-        religion = catholic
+        religion = animist
         size = 5
     }
 
     artisans = {
         culture = niger_congo_a
-        religion = catholic
+        religion = animist
         size = 120
     }
 
     soldiers = {
         culture = niger_congo_a
-        religion = catholic
+        religion = animist
         size = 50
     }
 
     farmers = {
         culture = niger_congo_a
-        religion = catholic
+        religion = animist
         size = 1530
     }
 

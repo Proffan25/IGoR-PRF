@@ -4,61 +4,61 @@
 1887 = {
 	bureaucrats = {
 		culture = afro_american
-		religion = protestant
+		religion = animist
 		size = 25
 	}
 
 	officers = {
 		culture = afro_american
-		religion = protestant
+		religion = animist
 		size = 10
 	}
 
 	clergymen = {
 		culture = afro_american
-		religion = protestant
+		religion = animist
 		size = 50
 	}
 
 	artisans = {
 		culture = afro_american
-		religion = protestant
+		religion = animist
 		size = 100
 	}
 
 	soldiers = {
 		culture = afro_american
-		religion = protestant
+		religion = animist
 		size = 75
 	}
 
 	farmers = {
 		culture = afro_american
-		religion = protestant
+		religion = animist
 		size = 740
 	}
 
 	clergymen = {
 		culture = afro_american
-		religion = protestant
+		religion = animist
 		size = 25
 	}
 
 	artisans = {
 		culture = afro_american
-		religion = protestant
+		religion = animist
 		size = 200
 	}
 
 	soldiers = {
 		culture = afro_american
-		religion = protestant
+		religion = animist
 		size = 1550
 	}
 
 	farmers = {
 		culture = afro_american
-		religion = protestant
+		religion = animist
 		size = 2325
 	}
 
@@ -88,25 +88,25 @@
 
 	aristocrats = {
 		culture = afro_american
-		religion = sunni
+		religion = animist
 		size = 150
 	}
 
 	clergymen = {
 		culture = afro_american
-		religion = sunni
+		religion = animist
 		size = 75
 	}
 
 	artisans = {
 		culture = afro_american
-		religion = sunni
+		religion = animist
 		size = 450
 	}
 
 	farmers = {
 		culture = afro_american
-		religion = sunni
+		religion = animist
 		size = 8325
 	}
 
@@ -138,25 +138,25 @@
 1888 = {
 	clergymen = {
 		culture = afro_american
-		religion = protestant
+		religion = animist
 		size = 10
 	}
 
 	artisans = {
 		culture = afro_american
-		religion = protestant
+		religion = animist
 		size = 10
 	}
 
 	soldiers = {
 		culture = afro_american
-		religion = protestant
+		religion = animist
 		size = 10
 	}
 
 	farmers = {
 		culture = afro_american
-		religion = protestant
+		religion = animist
 		size = 50
 	}
 	
@@ -225,55 +225,55 @@
 1889 = {
 	clergymen = {
 		culture = afro_american
-		religion = protestant
+		religion = animist
 		size = 10
 	}
 
 	artisans = {
 		culture = afro_american
-		religion = protestant
+		religion = animist
 		size = 10
 	}
 
 	soldiers = {
 		culture = afro_american
-		religion = protestant
+		religion = animist
 		size = 10
 	}
 
 	farmers = {
 		culture = afro_american
-		religion = protestant
+		religion = animist
 		size = 50
 	}
 	
 	aristocrats = {
 		culture = afro_american
-		religion = sunni
+		religion = animist
 		size = 475
 	}
 
 	clergymen = {
 		culture = afro_american
-		religion = sunni
+		religion = animist
 		size = 250
 	}
 
 	artisans = {
 		culture = afro_american
-		religion = sunni
+		religion = animist
 		size = 1250
 	}
 
 	soldiers = {
 		culture = afro_american
-		religion = sunni
+		religion = animist
 		size = 250
 	}
 
 	farmers = {
 		culture = afro_american
-		religion = sunni
+		religion = animist
 		size = 22695
 	}
 
@@ -311,55 +311,55 @@
 1890 = {
 	clergymen = {
 		culture = afro_american
-		religion = protestant
+		religion = animist
 		size = 10
 	}
 
 	artisans = {
 		culture = afro_american
-		religion = protestant
+		religion = animist
 		size = 10
 	}
 
 	soldiers = {
 		culture = afro_american
-		religion = protestant
+		religion = animist
 		size = 10
 	}
 
 	farmers = {
 		culture = afro_american
-		religion = protestant
+		religion = animist
 		size = 50
 	}
 
 	aristocrats = {
 		culture = afro_american
-		religion = sunni
+		religion = animist
 		size = 200
 	}
 
 	clergymen = {
 		culture = afro_american
-		religion = sunni
+		religion = animist
 		size = 100
 	}
 
 	artisans = {
 		culture = afro_american
-		religion = sunni
+		religion = animist
 		size = 550
 	}
 
 	soldiers = {
 		culture = afro_american
-		religion = sunni
+		religion = animist
 		size = 125
 	}
 
 	farmers = {
 		culture = afro_american
-		religion = sunni
+		religion = animist
 		size = 10025
 	}
 
@@ -397,25 +397,25 @@
 1891 = {
 	clergymen = {
 		culture = afro_american
-		religion = protestant
+		religion = animist
 		size = 10
 	}
 
 	artisans = {
 		culture = afro_american
-		religion = protestant
+		religion = animist
 		size = 10
 	}
 
 	soldiers = {
 		culture = afro_american
-		religion = protestant
+		religion = animist
 		size = 10
 	}
 
 	farmers = {
 		culture = afro_american
-		religion = protestant
+		religion = animist
 		size = 50
 	}
 	

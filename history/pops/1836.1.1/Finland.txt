@@ -4,37 +4,37 @@
 336 = {
     bureaucrats = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 1125
     }
 
     officers = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 37
     }
 
     clergymen = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 225
     }
 
     artisans = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 1200
     }
 
     soldiers = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 225
     }
 
     farmers = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 22087
     }
 }
@@ -42,25 +42,25 @@
 337 = {
     clergymen = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 75
     }
 
     artisans = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 300
     }
 
     soldiers = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 37
     }
 
     farmers = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 3725
     }
 }
@@ -68,25 +68,25 @@
 338 = {
     clergymen = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 75
     }
 
     artisans = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 707
     }
 
     soldiers = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 150
     }
 
     farmers = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 14000
     }
 }
@@ -96,97 +96,97 @@
 339 = {
     bureaucrats = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 375
     }
 
     officers = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 150
     }
 
     clergymen = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 600
     }
 
     artisans = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 3225
     }
 
     soldiers = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 600
     }
 
     farmers = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 64050
     }
 
     clergymen = {
         culture = finnish
-        religion = orthodox
+        religion = animist
         size = 75
     }
 
     artisans = {
         culture = finnish
-        religion = orthodox
+        religion = animist
         size = 375
     }
 
     soldiers = {
         culture = finnish
-        religion = orthodox
+        religion = animist
         size = 75
     }
 
     farmers = {
         culture = finnish
-        religion = orthodox
+        religion = animist
         size = 6975
     }
 
     aristocrats = {
         culture = russian
-        religion = orthodox
+        religion = animist
         size = 75
     }
 
     bureaucrats = {
         culture = russian
-        religion = orthodox
+        religion = animist
         size = 1125
     }
 
     officers = {
         culture = russian
-        religion = orthodox
+        religion = animist
         size = 75
     }
 
     clergymen = {
         culture = russian
-        religion = orthodox
+        religion = animist
         size = 37
     }
 
     artisans = {
         culture = russian
-        religion = orthodox
+        religion = animist
         size = 75
     }
 
     soldiers = {
         culture = russian
-        religion = orthodox
+        religion = animist
         size = 150
     }
 }
@@ -194,49 +194,49 @@
 340 = {
     clergymen = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 187
     }
 
     artisans = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 1125
     }
 
     soldiers = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 225
     }
 
     farmers = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 28962
     }
 
     clergymen = {
         culture = swedish
-        religion = protestant
+        religion = animist
         size = 22
     }
 
     artisans = {
         culture = swedish
-        religion = protestant
+        religion = animist
         size = 75
     }
 
     soldiers = {
         culture = swedish
-        religion = protestant
+        religion = animist
         size = 15
     }
 
     farmers = {
         culture = swedish
-        religion = protestant
+        religion = animist
         size = 1387
     }
 }
@@ -244,25 +244,25 @@
 341 = {
     clergymen = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 412
     }
 
     artisans = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 2175
     }
 
     soldiers = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 412
     }
 
     farmers = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 40537
     }
 }
@@ -270,49 +270,49 @@
 342 = {
     clergymen = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 525
     }
 
     artisans = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 2775
     }
 
     soldiers = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 525
     }
 
     farmers = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 51637
     }
 
     clergymen = {
         culture = finnish
-        religion = orthodox
+        religion = animist
         size = 22
     }
 
     artisans = {
         culture = finnish
-        religion = orthodox
+        religion = animist
         size = 75
     }
 
     soldiers = {
         culture = finnish
-        religion = orthodox
+        religion = animist
         size = 15
     }
 
     farmers = {
         culture = finnish
-        religion = orthodox
+        religion = animist
         size = 1387
     }
 }
@@ -322,79 +322,79 @@
 343 = {
     officers = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 75
     }
 
     bureaucrats = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 750
     }
 
     clergymen = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 225
     }
 
     artisans = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 3375
     }
 
     soldiers = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 1650
     }
 
     farmers = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 29100
     }
 
     aristocrats = {
         culture = swedish
-        religion = protestant
+        religion = animist
         size = 525
     }
 
     bureaucrats = {
         culture = swedish
-        religion = protestant
+        religion = animist
         size = 1685
     }
 
     officers = {
         culture = swedish
-        religion = protestant
+        religion = animist
         size = 225
     }
 
     clergymen = {
         culture = swedish
-        religion = protestant
+        religion = animist
         size = 150
     }
 
     artisans = {
         culture = swedish
-        religion = protestant
+        religion = animist
         size = 2625
     }
 
     soldiers = {
         culture = swedish
-        religion = protestant
+        religion = animist
         size = 225
     }
 
     farmers = {
         culture = swedish
-        religion = protestant
+        religion = animist
         size = 10987
     }
 }
@@ -402,55 +402,55 @@
 344 = {
     clergymen = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 75
     }
 
     artisans = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 750
     }
 
     soldiers = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 150
     }
 
     farmers = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 13725
     }
 
     aristocrats = {
         culture = swedish
-        religion = protestant
+        religion = animist
         size = 112
     }
 
     clergymen = {
         culture = swedish
-        religion = protestant
+        religion = animist
         size = 37
     }
 
     artisans = {
         culture = swedish
-        religion = protestant
+        religion = animist
         size = 112
     }
 
     soldiers = {
         culture = swedish
-        religion = protestant
+        religion = animist
         size = 37
     }
 
     farmers = {
         culture = swedish
-        religion = protestant
+        religion = animist
         size = 1200
     }
 }
@@ -458,55 +458,55 @@
 345 = {
     clergymen = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 862
     }
 
     artisans = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 4420
     }
 
     soldiers = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 1650
     }
 
     farmers = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 81712
     }
 
     aristocrats = {
         culture = swedish
-        religion = protestant
+        religion = animist
         size = 1425
     }
 
     clergymen = {
         culture = swedish
-        religion = protestant
+        religion = animist
         size = 150
     }
 
     artisans = {
         culture = swedish
-        religion = protestant
+        religion = animist
         size = 825
     }
 
     soldiers = {
         culture = swedish
-        religion = protestant
+        religion = animist
         size = 187
     }
 
     farmers = {
         culture = swedish
-        religion = protestant
+        religion = animist
         size = 15337
     }
 }
@@ -514,55 +514,55 @@
 346 = {
     clergymen = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 712
     }
 
     artisans = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 3900
     }
 
     soldiers = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 1650
     }
 
     farmers = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 71887
     }
 
     aristocrats = {
         culture = swedish
-        religion = protestant
+        religion = animist
         size = 1650
     }
 
     clergymen = {
         culture = swedish
-        religion = protestant
+        religion = animist
         size = 225
     }
 
     artisans = {
         culture = swedish
-        religion = protestant
+        religion = animist
         size = 1650
     }
 
     soldiers = {
         culture = swedish
-        religion = protestant
+        religion = animist
         size = 262
     }
 
     farmers = {
         culture = swedish
-        religion = protestant
+        religion = animist
         size = 20512
     }
 }
@@ -570,55 +570,55 @@
 347 = {
     clergymen = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 225
     }
 
     artisans = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 1650
     }
 
     soldiers = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 300
     }
 
     farmers = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 27975
     }
 
     aristocrats = {
         culture = swedish
-        religion = protestant
+        religion = animist
         size = 375
     }
 
     clergymen = {
         culture = swedish
-        religion = protestant
+        religion = animist
         size = 37
     }
 
     artisans = {
         culture = swedish
-        religion = protestant
+        religion = animist
         size = 150
     }
 
     soldiers = {
         culture = swedish
-        religion = protestant
+        religion = animist
         size = 37
     }
 
     farmers = {
         culture = swedish
-        religion = protestant
+        religion = animist
         size = 900
     }
 }
@@ -628,49 +628,49 @@
 348 = {
     clergymen = {
         culture = swedish
-        religion = protestant
+        religion = animist
         size = 52
     }
 
     artisans = {
         culture = swedish
-        religion = protestant
+        religion = animist
         size = 225
     }
 
     soldiers = {
         culture = swedish
-        religion = protestant
+        religion = animist
         size = 37
     }
 
     farmers = {
         culture = swedish
-        religion = protestant
+        religion = animist
         size = 3585
     }
 
     clergymen = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 7
     }
 
     artisans = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 15
     }
 
     soldiers = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 7
     }
 
     farmers = {
         culture = finnish
-        religion = protestant
+        religion = animist
         size = 195
     }
 }

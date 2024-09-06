@@ -1,6 +1,6 @@
 capital = 252
 primary_culture = icelandic
-religion = protestant
+religion = animist
 government = democracy
 plurality = 0.5
 nationalvalue = nv_productivity

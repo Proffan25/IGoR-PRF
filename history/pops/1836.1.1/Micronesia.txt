@@ -4,19 +4,19 @@
 2517 = {
 	bureaucrats = {
 		culture = spanish
-		religion = catholic
+		religion = animist
 		size = 1
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = animist
 		size = 4
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = animist
 		size = 5
 	}
 
@@ -42,7 +42,7 @@
 2521 = {
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = animist
 		size = 2
 	}
 

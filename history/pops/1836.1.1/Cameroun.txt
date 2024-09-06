@@ -396,43 +396,43 @@
 1963 = {
 	aristocrats = {
 		culture = niger_congo_a
-		religion = sunni
+		religion = animist
 		size = 500
 	}
 
 	bureaucrats = {
 		culture = niger_congo_a
-		religion = sunni
+		religion = animist
 		size = 25
 	}
 
 	officers = {
 		culture = niger_congo_a
-		religion = sunni
+		religion = animist
 		size = 75
 	}
 
 	clergymen = {
 		culture = niger_congo_a
-		religion = sunni
+		religion = animist
 		size = 250
 	}
 
 	artisans = {
 		culture = niger_congo_a
-		religion = sunni
+		religion = animist
 		size = 1050
 	}
 
 	soldiers = {
 		culture = niger_congo_a
-		religion = sunni
+		religion = animist
 		size = 275
 	}
 
 	farmers = {
 		culture = niger_congo_a
-		religion = sunni
+		religion = animist
 		size = 19825
 	}
 
@@ -477,91 +477,91 @@
 1964 = {
 	aristocrats = {
 		culture = niger_congo_a
-		religion = sunni
+		religion = animist
 		size = 175
 	}
 
 	clergymen = {
 		culture = niger_congo_a
-		religion = sunni
+		religion = animist
 		size = 200
 	}
 
 	artisans = {
 		culture = niger_congo_a
-		religion = sunni
+		religion = animist
 		size = 175
 	}
 
 	soldiers = {
 		culture = niger_congo_a
-		religion = sunni
+		religion = animist
 		size = 100
 	}
 
 	farmers = {
 		culture = niger_congo_a
-		religion = sunni
+		religion = animist
 		size = 5350
 	}
 
 	aristocrats = {
 		culture = niger_congo_a
-		religion = sunni
+		religion = animist
 		size = 50
 	}
 
 	clergymen = {
 		culture = niger_congo_a
-		religion = sunni
+		religion = animist
 		size = 50
 	}
 
 	artisans = {
 		culture = niger_congo_a
-		religion = sunni
+		religion = animist
 		size = 200
 	}
 
 	soldiers = {
 		culture = niger_congo_a
-		religion = sunni
+		religion = animist
 		size = 50
 	}
 
 	farmers = {
 		culture = niger_congo_a
-		religion = sunni
+		religion = animist
 		size = 3650
 	}
 
 	aristocrats = {
 		culture = bedouin
-		religion = sunni
+		religion = animist
 		size = 75
 	}
 
 	clergymen = {
 		culture = bedouin
-		religion = sunni
+		religion = animist
 		size = 50
 	}
 
 	artisans = {
 		culture = bedouin
-		religion = sunni
+		religion = animist
 		size = 250
 	}
 
 	soldiers = {
 		culture = bedouin
-		religion = sunni
+		religion = animist
 		size = 50
 	}
 
 	farmers = {
 		culture = bedouin
-		religion = sunni
+		religion = animist
 		size = 4575
 	}
 

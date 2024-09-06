@@ -4,97 +4,97 @@
 783 = {
     aristocrats = {
         culture = bosniak
-        religion = sunni
+        religion = animist
         size = 650
     }
 
     bureaucrats = {
         culture = bosniak
-        religion = sunni
+        religion = animist
         size = 1375
     }
 
     officers = {
         culture = bosniak
-        religion = sunni
+        religion = animist
         size = 225
     }
 
     clergymen = {
         culture = bosniak
-        religion = sunni
+        religion = animist
         size = 200
     }
 
     artisans = {
         culture = bosniak
-        religion = sunni
+        religion = animist
         size = 4000
     }
 
     soldiers = {
         culture = bosniak
-        religion = sunni
+        religion = animist
         size = 275
     }
 
     farmers = {
         culture = bosniak
-        religion = sunni
+        religion = animist
         size = 15575
     }
 
     clergymen = {
         culture = serb
-        religion = orthodox
+        religion = animist
         size = 100
     }
 
     artisans = {
         culture = serb
-        religion = orthodox
+        religion = animist
         size = 1750
     }
 
     soldiers = {
         culture = serb
-        religion = orthodox
+        religion = animist
         size = 100
     }
 
     farmers = {
         culture = serb
-        religion = orthodox
+        religion = animist
         size = 9050
     }
 
     clergymen = {
         culture = croat
-        religion = catholic
+        religion = animist
         size = 75
     }
 
     artisans = {
         culture = croat
-        religion = catholic
+        religion = animist
         size = 475
     }
 
     farmers = {
         culture = croat
-        religion = catholic
+        religion = animist
         size = 3450
     }
 
     clergymen = {
         culture = sephardic
-        religion = jewish
+        religion = animist
         size = 25
     }
 
     artisans = {
         culture = sephardic
-        religion = jewish
+        religion = animist
         size = 775
     }
 }
@@ -102,73 +102,73 @@
 784 = {
     aristocrats = {
         culture = bosniak
-        religion = sunni
+        religion = animist
         size = 400
     }
 
     clergymen = {
         culture = bosniak
-        religion = sunni
+        religion = animist
         size = 175
     }
 
     artisans = {
         culture = bosniak
-        religion = sunni
+        religion = animist
         size = 750
     }
 
     soldiers = {
         culture = bosniak
-        religion = sunni
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = bosniak
-        religion = sunni
+        religion = animist
         size = 16425
     }
 
     clergymen = {
         culture = serb
-        religion = orthodox
+        religion = animist
         size = 75
     }
 
     artisans = {
         culture = serb
-        religion = orthodox
+        religion = animist
         size = 300
     }
 
     soldiers = {
         culture = serb
-        religion = orthodox
+        religion = animist
         size = 100
     }
 
     farmers = {
         culture = serb
-        religion = orthodox
+        religion = animist
         size = 3525
     }
 
     clergymen = {
         culture = croat
-        religion = catholic
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = croat
-        religion = catholic
+        religion = animist
         size = 200
     }
 
     farmers = {
         culture = croat
-        religion = catholic
+        religion = animist
         size = 2750
     }
 }
@@ -176,79 +176,79 @@
 785 = {
     aristocrats = {
         culture = bosniak
-        religion = sunni
+        religion = animist
         size = 500
     }
 
     clergymen = {
         culture = bosniak
-        religion = sunni
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = bosniak
-        religion = sunni
+        religion = animist
         size = 800
     }
 
     soldiers = {
         culture = bosniak
-        religion = sunni
+        religion = animist
         size = 100
     }
 
     farmers = {
         culture = bosniak
-        religion = sunni
+        religion = animist
         size = 4550
     }
 
     clergymen = {
         culture = serb
-        religion = orthodox
+        religion = animist
         size = 175
     }
 
     artisans = {
         culture = serb
-        religion = orthodox
+        religion = animist
         size = 500
     }
 
     soldiers = {
         culture = serb
-        religion = orthodox
+        religion = animist
         size = 100
     }
 
     farmers = {
         culture = serb
-        religion = orthodox
+        religion = animist
         size = 18225
     }
 
     clergymen = {
         culture = croat
-        religion = catholic
+        religion = animist
         size = 75
     }
 
     artisans = {
         culture = croat
-        religion = catholic
+        religion = animist
         size = 150
     }
 
     soldiers = {
         culture = croat
-        religion = catholic
+        religion = animist
         size = 100
     }
 
     farmers = {
         culture = croat
-        religion = catholic
+        religion = animist
         size = 3675
     }
 }
@@ -256,79 +256,79 @@
 786 = {
     aristocrats = {
         culture = bosniak
-        religion = sunni
+        religion = animist
         size = 700
     }
 
     clergymen = {
         culture = bosniak
-        religion = sunni
+        religion = animist
         size = 175
     }
 
     artisans = {
         culture = bosniak
-        religion = sunni
+        religion = animist
         size = 1150
     }
 
     soldiers = {
         culture = bosniak
-        religion = sunni
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = bosniak
-        religion = sunni
+        religion = animist
         size = 14725
     }
 
     clergymen = {
         culture = serb
-        religion = orthodox
+        religion = animist
         size = 175
     }
 
     artisans = {
         culture = serb
-        religion = orthodox
+        religion = animist
         size = 700
     }
 
     soldiers = {
         culture = serb
-        religion = orthodox
+        religion = animist
         size = 100
     }
 
     farmers = {
         culture = serb
-        religion = orthodox
+        religion = animist
         size = 19025
     }
 
     clergymen = {
         culture = croat
-        religion = catholic
+        religion = animist
         size = 75
     }
 
     artisans = {
         culture = croat
-        religion = catholic
+        religion = animist
         size = 250
     }
 
     soldiers = {
         culture = croat
-        religion = catholic
+        religion = animist
         size = 100
     }
 
     farmers = {
         culture = croat
-        religion = catholic
+        religion = animist
         size = 4575
     }
 }
@@ -336,55 +336,55 @@
 787 = {
     aristocrats = {
         culture = bosniak
-        religion = sunni
+        religion = animist
         size = 400
     }
 
     clergymen = {
         culture = bosniak
-        religion = sunni
+        religion = animist
         size = 75
     }
 
     artisans = {
         culture = bosniak
-        religion = sunni
+        religion = animist
         size = 600
     }
 
     soldiers = {
         culture = bosniak
-        religion = sunni
+        religion = animist
         size = 100
     }
 
     farmers = {
         culture = bosniak
-        religion = sunni
+        religion = animist
         size = 5825
     }
 
     clergymen = {
         culture = serb
-        religion = orthodox
+        religion = animist
         size = 150
     }
 
     artisans = {
         culture = serb
-        religion = orthodox
+        religion = animist
         size = 550
     }
 
     soldiers = {
         culture = serb
-        religion = orthodox
+        religion = animist
         size = 100
     }
 
     farmers = {
         culture = serb
-        religion = orthodox
+        religion = animist
         size = 15200
     }
 }
@@ -392,79 +392,79 @@
 788 = {
     aristocrats = {
         culture = bosniak
-        religion = sunni
+        religion = animist
         size = 450
     }
 
     clergymen = {
         culture = bosniak
-        religion = sunni
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = bosniak
-        religion = sunni
+        religion = animist
         size = 600
     }
 
     soldiers = {
         culture = bosniak
-        religion = sunni
+        religion = animist
         size = 50
     }
 
     farmers = {
         culture = bosniak
-        religion = sunni
+        religion = animist
         size = 3850
     }
 
     clergymen = {
         culture = croat
-        religion = catholic
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = croat
-        religion = catholic
+        religion = animist
         size = 500
     }
 
     soldiers = {
         culture = croat
-        religion = catholic
+        religion = animist
         size = 100
     }
 
     farmers = {
         culture = croat
-        religion = catholic
+        religion = animist
         size = 14275
     }
 
     clergymen = {
         culture = serb
-        religion = orthodox
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = serb
-        religion = orthodox
+        religion = animist
         size = 200
     }
 
     soldiers = {
         culture = serb
-        religion = orthodox
+        religion = animist
         size = 100
     }
 
     farmers = {
         culture = serb
-        religion = orthodox
+        religion = animist
         size = 5650
     }
 }
@@ -472,79 +472,79 @@
 789 = {
     aristocrats = {
         culture = bosniak
-        religion = sunni
+        religion = animist
         size = 350
     }
 
     clergymen = {
         culture = bosniak
-        religion = sunni
+        religion = animist
         size = 25
     }
 
     artisans = {
         culture = bosniak
-        religion = sunni
+        religion = animist
         size = 250
     }
 
     soldiers = {
         culture = bosniak
-        religion = sunni
+        religion = animist
         size = 50
     }
 
     farmers = {
         culture = bosniak
-        religion = sunni
+        religion = animist
         size = 1350
     }
 
     clergymen = {
         culture = croat
-        religion = catholic
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = croat
-        religion = catholic
+        religion = animist
         size = 800
     }
 
     soldiers = {
         culture = croat
-        religion = catholic
+        religion = animist
         size = 100
     }
 
     farmers = {
         culture = croat
-        religion = catholic
+        religion = animist
         size = 13975
     }
 
     clergymen = {
         culture = serb
-        religion = orthodox
+        religion = animist
         size = 150
     }
 
     artisans = {
         culture = serb
-        religion = orthodox
+        religion = animist
         size = 650
     }
 
     farmers = {
         culture = serb
-        religion = orthodox
+        religion = animist
         size = 100
     }
 
     farmers = {
         culture = serb
-        religion = orthodox
+        religion = animist
         size = 16200
     }
 }

@@ -4,115 +4,115 @@
 1455 = {
 	aristocrats = {
 		culture = spanish
-		religion = catholic
+		religion = animist
 		size = 200
 	}
 
 	bureaucrats = {
 		culture = spanish
-		religion = catholic
+		religion = animist
 		size = 400
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = animist
 		size = 250
 	}
 
 	artisans = {
 		culture = spanish
-		religion = catholic
+		religion = animist
 		size = 1050
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = animist
 		size = 100
 	}
 
 	aristocrats = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 1250
 	}
 
 	bureaucrats = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 450
 	}
 
 	clergymen = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 750
 	}
 
 	artisans = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 10000
 	}
 
 	artisans = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 10000
 	}
 
 	artisans = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 9000
 	}
 
 	soldiers = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 4000
 	}
 
 	farmers = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 136550
 	}
 
 	artisans = {
 		culture = nanfaren
-		religion = catholic
+		religion = animist
 		size = 1200
 	}
 
 	farmers = {
 		culture = nanfaren
-		religion = catholic
+		religion = animist
 		size = 800
 	}
 
 	clergymen = {
 		culture = malay
-		religion = catholic
+		religion = animist
 		size = 75
 	}
 
 	artisans = {
 		culture = malay
-		religion = catholic
+		religion = animist
 		size = 1100
 	}
 
 	soldiers = {
 		culture = malay
-		religion = catholic
+		religion = animist
 		size = 200
 	}
 
 	farmers = {
 		culture = malay
-		religion = catholic
+		religion = animist
 		size = 17725
 	}
 }
@@ -120,55 +120,55 @@
 1456 = {
 	aristocrats = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 1100
 	}
 
 	clergymen = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 625
 	}
 
 	artisans = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 7350
 	}
 
 	soldiers = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 1500
 	}
 
 	farmers = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 134525
 	}
 
 	clergymen = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 50
 	}
 
 	artisans = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 250
 	}
 
 	soldiers = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 50
 	}
 
 	farmers = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 6650
 	}
 }
@@ -176,55 +176,55 @@
 1457 = {
 	aristocrats = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 1100
 	}
 
 	clergymen = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 625
 	}
 
 	artisans = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 6500
 	}
 
 	soldiers = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 1350
 	}
 
 	farmers = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 122525
 	}
 
 	clergymen = {
 		culture = malay
-		religion = catholic
+		religion = animist
 		size = 50
 	}
 
 	artisans = {
 		culture = malay
-		religion = catholic
+		religion = animist
 		size = 500
 	}
 
 	soldiers = {
 		culture = malay
-		religion = catholic
+		religion = animist
 		size = 100
 	}
 
 	farmers = {
 		culture = malay
-		religion = catholic
+		religion = animist
 		size = 8350
 	}
 }
@@ -232,55 +232,55 @@
 1458 = {
 	aristocrats = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 400
 	}
 
 	clergymen = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 175
 	}
 
 	artisans = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 2100
 	}
 
 	soldiers = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 450
 	}
 
 	farmers = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 38875
 	}
 
 	clergymen = {
 		culture = filipino
-		religion = sunni
+		religion = animist
 		size = 125
 	}
 
 	artisans = {
 		culture = filipino
-		religion = sunni
+		religion = animist
 		size = 750
 	}
 
 	soldiers = {
 		culture = filipino
-		religion = sunni
+		religion = animist
 		size = 100
 	}
 
 	farmers = {
 		culture = filipino
-		religion = sunni
+		religion = animist
 		size = 11025
 	}
 
@@ -291,61 +291,61 @@
 1459 = {
 	aristocrats = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 25
 	}
 
 	clergymen = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 25
 	}
 
 	artisans = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 200
 	}
 
 	soldiers = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 50
 	}
 
 	farmers = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 3700
 	}
 
 	aristocrats = {
 		culture = filipino
-		religion = sunni
+		religion = animist
 		size = 75
 	}
 
 	clergymen = {
 		culture = filipino
-		religion = sunni
+		religion = animist
 		size = 50
 	}
 
 	artisans = {
 		culture = filipino
-		religion = sunni
+		religion = animist
 		size = 300
 	}
 
 	soldiers = {
 		culture = filipino
-		religion = sunni
+		religion = animist
 		size = 75
 	}
 
 	farmers = {
 		culture = filipino
-		religion = sunni
+		religion = animist
 		size = 5500
 	}
 
@@ -377,55 +377,55 @@
 1460 = {
 	aristocrats = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 650
 	}
 
 	clergymen = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 350
 	}
 
 	artisans = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 3500
 	}
 
 	soldiers = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 750
 	}
 
 	farmers = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 64750
 	}
 
 	clergymen = {
 		culture = filipino
-		religion = sunni
+		religion = animist
 		size = 75
 	}
 
 	artisans = {
 		culture = filipino
-		religion = sunni
+		religion = animist
 		size = 500
 	}
 
 	soldiers = {
 		culture = filipino
-		religion = sunni
+		religion = animist
 		size = 100
 	}
 
 	farmers = {
 		culture = filipino
-		religion = sunni
+		religion = animist
 		size = 7325
 	}
 }
@@ -433,31 +433,31 @@
 1461 = {
 	aristocrats = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 750
 	}
 
 	clergymen = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 625
 	}
 
 	artisans = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 4250
 	}
 
 	soldiers = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 850
 	}
 
 	farmers = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 80125
 	}
 }
@@ -465,79 +465,79 @@
 2565 = {
 	bureaucrats = {
 		culture = spanish
-		religion = catholic
+		religion = animist
 		size = 125
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = animist
 		size = 50
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = animist
 		size = 25
 	}
 
 	aristocrats = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 675
 	}
 
 	bureaucrats = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 375
 	}
 
 	clergymen = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 450
 	}
 
 	artisans = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 3500
 	}
 
 	soldiers = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 750
 	}
 
 	farmers = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 64050
 	}
 
 	clergymen = {
 		culture = filipino
-		religion = sunni
+		religion = animist
 		size = 50
 	}
 
 	artisans = {
 		culture = filipino
-		religion = sunni
+		religion = animist
 		size = 500
 	}
 
 	soldiers = {
 		culture = filipino
-		religion = sunni
+		religion = animist
 		size = 75
 	}
 
 	farmers = {
 		culture = filipino
-		religion = sunni
+		religion = animist
 		size = 5375
 	}
 
@@ -548,85 +548,85 @@
 1463 = {
 	bureaucrats = {
 		culture = spanish
-		religion = catholic
+		religion = animist
 		size = 75
 	}
 
 	clergymen = {
 		culture = spanish
-		religion = catholic
+		religion = animist
 		size = 50
 	}
 
 	soldiers = {
 		culture = spanish
-		religion = catholic
+		religion = animist
 		size = 25
 	}
 
 	aristocrats = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 100
 	}
 
 	clergymen = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 100
 	}
 
 	artisans = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 850
 	}
 
 	soldiers = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 1100
 	}
 
 	farmers = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 14800
 	}
 
 	aristocrats = {
 		culture = filipino
-		religion = sunni
+		religion = animist
 		size = 100
 	}
 
 	clergymen = {
 		culture = filipino
-		religion = sunni
+		religion = animist
 		size = 100
 	}
 
 	artisans = {
 		culture = filipino
-		religion = sunni
+		religion = animist
 		size = 600
 	}
 
 	soldiers = {
 		culture = filipino
-		religion = sunni
+		religion = animist
 		size = 100
 	}
 
 	farmers = {
 		culture = filipino
-		religion = sunni
+		religion = animist
 		size = 11100
 	}
 
 	farmers = {
 		culture = malay
-		religion = catholic
+		religion = animist
 		size = 1100
 	}
 
@@ -665,55 +665,55 @@
 1462 = {
 	aristocrats = {
 		culture = filipino
-		religion = sunni
+		religion = animist
 		size = 600
 	}
 
 	clergymen = {
 		culture = filipino
-		religion = sunni
+		religion = animist
 		size = 500
 	}
 
 	artisans = {
 		culture = filipino
-		religion = sunni
+		religion = animist
 		size = 2500
 	}
 
 	soldiers = {
 		culture = filipino
-		religion = sunni
+		religion = animist
 		size = 500
 	}
 
 	farmers = {
 		culture = filipino
-		religion = sunni
+		religion = animist
 		size = 44900
 	}
 
 	clergymen = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 50
 	}
 
 	artisans = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 750
 	}
 
 	farmers = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 12200
 	}
 
 	slaves = {
 		culture = filipino
-		religion = catholic
+		religion = animist
 		size = 4000
 	}
 
@@ -751,43 +751,43 @@
 1464 = {
 	aristocrats = {
 		culture = malay
-		religion = sunni
+		religion = animist
 		size = 100
 	}
 
 	bureaucrats = {
 		culture = malay
-		religion = sunni
+		religion = animist
 		size = 75
 	}
 
 	officers = {
 		culture = malay
-		religion = sunni
+		religion = animist
 		size = 75
 	}
 
 	clergymen = {
 		culture = malay
-		religion = sunni
+		religion = animist
 		size = 100
 	}
 
 	artisans = {
 		culture = malay
-		religion = sunni
+		religion = animist
 		size = 600
 	}
 
 	soldiers = {
 		culture = malay
-		religion = sunni
+		religion = animist
 		size = 225
 	}
 
 	farmers = {
 		culture = malay
-		religion = sunni
+		religion = animist
 		size = 9825
 	}
 

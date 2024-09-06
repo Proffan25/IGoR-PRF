@@ -1,7 +1,7 @@
 capital = 1413
 primary_culture = javan
 culture = malay
-religion = sunni
+religion = animist
 government = democracy
 plurality = 0.0
 nationalvalue = nv_equality

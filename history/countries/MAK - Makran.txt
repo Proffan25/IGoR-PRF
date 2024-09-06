@@ -1,6 +1,6 @@
 capital = 1222
 primary_culture = aryan
-religion = sunni
+religion = animist
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order

@@ -4,217 +4,217 @@
 1321 = {
 	aristocrats = {
 		culture = indo_aryan
-		religion = theravada
+		religion = animist
 		size = 800
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
-		religion = theravada
+		religion = animist
 		size = 150
 	}
 
 	clergymen = {
 		culture = indo_aryan
-		religion = theravada
+		religion = animist
 		size = 750
 	}
 
 	artisans = {
 		culture = indo_aryan
-		religion = theravada
+		religion = animist
 		size = 800
 	}
 
 	soldiers = {
 		culture = indo_aryan
-		religion = theravada
+		religion = animist
 		size = 750
 	}
 
 	farmers = {
 		culture = indo_aryan
-		religion = theravada
+		religion = animist
 		size = 67750
 	}
 
 	aristocrats = {
 		culture = indo_aryan
-		religion = hindu
+		religion = animist
 		size = 125
 	}
 
 	bureaucrats = {
 		culture = indo_aryan
-		religion = hindu
+		religion = animist
 		size = 100
 	}
 
 	clergymen = {
 		culture = indo_aryan
-		religion = hindu
+		religion = animist
 		size = 125
 	}
 
 	artisans = {
 		culture = indo_aryan
-		religion = hindu
+		religion = animist
 		size = 750
 	}
 
 	soldiers = {
 		culture = indo_aryan
-		religion = hindu
+		religion = animist
 		size = 100
 	}
 
 	labourers = {
 		culture = indo_aryan
-		religion = hindu
+		religion = animist
 		size = 9800
 	}
 
 	clergymen = {
 		culture = indo_aryan
-		religion = catholic
+		religion = animist
 		size = 50
 	}
 
 	artisans = {
 		culture = indo_aryan
-		religion = catholic
+		religion = animist
 		size = 500
 	}
 
 	soldiers = {
 		culture = indo_aryan
-		religion = catholic
+		religion = animist
 		size = 50
 	}
 
 	labourers = {
 		culture = indo_aryan
-		religion = catholic
+		religion = animist
 		size = 6400
 	}
 
 	clergymen = {
 		culture = indo_aryan
-		religion = protestant
+		religion = animist
 		size = 25
 	}
 
 	artisans = {
 		culture = indo_aryan
-		religion = protestant
+		religion = animist
 		size = 750
 	}
 
 	soldiers = {
 		culture = indo_aryan
-		religion = protestant
+		religion = animist
 		size = 25
 	}
 
 	labourers = {
 		culture = indo_aryan
-		religion = protestant
+		religion = animist
 		size = 1200
 	}
 
 	aristocrats = {
 		culture = mashriqi
-		religion = sunni
+		religion = animist
 		size = 25
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = sunni
+		religion = animist
 		size = 75
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = sunni
+		religion = animist
 		size = 1500
 	}
 
 	soldiers = {
 		culture = mashriqi
-		religion = sunni
+		religion = animist
 		size = 25
 	}
 
 	labourers = {
 		culture = mashriqi
-		religion = sunni
+		religion = animist
 		size = 3375
 	}
 
 	aristocrats = {
 		culture = malay
-		religion = sunni
+		religion = animist
 		size = 25
 	}
 
 	clergymen = {
 		culture = malay
-		religion = sunni
+		religion = animist
 		size = 25
 	}
 
 	artisans = {
 		culture = malay
-		religion = sunni
+		religion = animist
 		size = 1100
 	}
 
 	soldiers = {
 		culture = malay
-		religion = sunni
+		religion = animist
 		size = 50
 	}
 
 	farmers = {
 		culture = malay
-		religion = sunni
+		religion = animist
 		size = 1900
 	}
 
 	aristocrats = {
 		culture = british
-		religion = protestant
+		religion = animist
 		size = 25
 	}
 
 	bureaucrats = {
 		culture = british
-		religion = protestant
+		religion = animist
 		size = 50
 	}
 
 	clergymen = {
 		culture = british
-		religion = protestant
+		religion = animist
 		size = 50
 	}
 
 	artisans = {
 		culture = british
-		religion = protestant
+		religion = animist
 		size = 1100
 	}
 
 	soldiers = {
 		culture = british
-		religion = protestant
+		religion = animist
 		size = 100
 	}
 
 	farmers = {
 		culture = british
-		religion = protestant
+		religion = animist
 		size = 675
 	}
 }
@@ -222,61 +222,61 @@
 1322 = {
 	aristocrats = {
 		culture = dravidian
-		religion = theravada
+		religion = animist
 		size = 500
 	}
 
 	clergymen = {
 		culture = dravidian
-		religion = theravada
+		religion = animist
 		size = 500
 	}
 
 	artisans = {
 		culture = dravidian
-		religion = theravada
+		religion = animist
 		size = 4000
 	}
 
 	soldiers = {
 		culture = dravidian
-		religion = theravada
+		religion = animist
 		size = 500
 	}
 
 	farmers = {
 		culture = dravidian
-		religion = theravada
+		religion = animist
 		size = 42500
 	}
 
 	aristocrats = {
 		culture = dravidian
-		religion = hindu
+		religion = animist
 		size = 250
 	}
 
 	clergymen = {
 		culture = dravidian
-		religion = hindu
+		religion = animist
 		size = 250
 	}
 
 	artisans = {
 		culture = dravidian
-		religion = hindu
+		religion = animist
 		size = 2000
 	}
 
 	soldiers = {
 		culture = dravidian
-		religion = hindu
+		religion = animist
 		size = 500
 	}
 
 	labourers = {
 		culture = dravidian
-		religion = hindu
+		religion = animist
 		size = 21000
 	}
 }
@@ -284,31 +284,31 @@
 1323 = {
 	aristocrats = {
 		culture = indo_aryan
-		religion = theravada
+		religion = animist
 		size = 750
 	}
 
 	clergymen = {
 		culture = indo_aryan
-		religion = theravada
+		religion = animist
 		size = 750
 	}
 
 	artisans = {
 		culture = indo_aryan
-		religion = theravada
+		religion = animist
 		size = 4000
 	}
 
 	soldiers = {
 		culture = indo_aryan
-		religion = theravada
+		religion = animist
 		size = 750
 	}
 
 	farmers = {
 		culture = indo_aryan
-		religion = theravada
+		religion = animist
 		size = 69250
 	}
 }
@@ -316,163 +316,163 @@
 1324 = {
 	aristocrats = {
 		culture = dravidian
-		religion = theravada
+		religion = animist
 		size = 250
 	}
 
 	clergymen = {
 		culture = dravidian
-		religion = theravada
+		religion = animist
 		size = 225
 	}
 
 	artisans = {
 		culture = dravidian
-		religion = theravada
+		religion = animist
 		size = 500
 	}
 
 	soldiers = {
 		culture = dravidian
-		religion = theravada
+		religion = animist
 		size = 200
 	}
 
 	farmers = {
 		culture = dravidian
-		religion = theravada
+		religion = animist
 		size = 19825
 	}
 
 	aristocrats = {
 		culture = dravidian
-		religion = hindu
+		religion = animist
 		size = 250
 	}
 
 	clergymen = {
 		culture = dravidian
-		religion = hindu
+		religion = animist
 		size = 250
 	}
 
 	artisans = {
 		culture = dravidian
-		religion = hindu
+		religion = animist
 		size = 500
 	}
 
 	soldiers = {
 		culture = dravidian
-		religion = hindu
+		religion = animist
 		size = 250
 	}
 
 	labourers = {
 		culture = dravidian
-		religion = hindu
+		religion = animist
 		size = 22750
 	}
 
 	clergymen = {
 		culture = dravidian
-		religion = protestant
+		religion = animist
 		size = 25
 	}
 
 	artisans = {
 		culture = dravidian
-		religion = protestant
+		religion = animist
 		size = 250
 	}
 
 	soldiers = {
 		culture = dravidian
-		religion = protestant
+		religion = animist
 		size = 25
 	}
 
 	labourers = {
 		culture = dravidian
-		religion = protestant
+		religion = animist
 		size = 700
 	}
 
 	clergymen = {
 		culture = dravidian
-		religion = catholic
+		religion = animist
 		size = 50
 	}
 
 	artisans = {
 		culture = dravidian
-		religion = catholic
+		religion = animist
 		size = 500
 	}
 
 	soldiers = {
 		culture = dravidian
-		religion = catholic
+		religion = animist
 		size = 25
 	}
 
 	labourers = {
 		culture = dravidian
-		religion = catholic
+		religion = animist
 		size = 1475
 	}
 
 	clergymen = {
 		culture = malay
-		religion = sunni
+		religion = animist
 		size = 25
 	}
 
 	artisans = {
 		culture = malay
-		religion = sunni
+		religion = animist
 		size = 250
 	}
 
 	soldiers = {
 		culture = malay
-		religion = sunni
+		religion = animist
 		size = 50
 	}
 
 	labourers = {
 		culture = malay
-		religion = sunni
+		religion = animist
 		size = 675
 	}
 
 	aristocrats = {
 		culture = mashriqi
-		religion = sunni
+		religion = animist
 		size = 25
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = sunni
+		religion = animist
 		size = 50
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = sunni
+		religion = animist
 		size = 750
 	}
 
 	soldiers = {
 		culture = mashriqi
-		religion = sunni
+		religion = animist
 		size = 25
 	}
 
 	labourers = {
 		culture = mashriqi
-		religion = sunni
+		religion = animist
 		size = 2150
 	}
 }
@@ -480,31 +480,31 @@
 1325 = {
 	aristocrats = {
 		culture = dravidian
-		religion = sunni
+		religion = animist
 		size = 50
 	}
 
 	clergymen = {
 		culture = dravidian
-		religion = sunni
+		religion = animist
 		size = 50
 	}
 
 	artisans = {
 		culture = dravidian
-		religion = sunni
+		religion = animist
 		size = 500
 	}
 
 	soldiers = {
 		culture = dravidian
-		religion = sunni
+		religion = animist
 		size = 75
 	}
 
 	farmers = {
 		culture = dravidian
-		religion = sunni
+		religion = animist
 		size = 5325
 	}
 

@@ -4,85 +4,85 @@
 1330 = {
     aristocrats = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 200
     }
 
     clergymen = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 250
     }
 
     artisans = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 1200
     }
 
     soldiers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 22000
     }
 
     aristocrats = {
         culture = burmese #Mon
-        religion = theravada
+        religion = animist
         size = 100
     }
 
     clergymen = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 150
     }
 
     artisans = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 1100
     }
 
     soldiers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 150
     }
 
     aristocrats = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 500
     }
 
     clergymen = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 475
     }
 
     artisans = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 2350
     }
 
     soldiers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 4000
     }
 
     farmers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 38700
     }
 }
@@ -90,55 +90,55 @@
 1331 = {
     aristocrats = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 300
     }
 
     clergymen = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 275
     }
 
     artisans = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 1350
     }
 
     soldiers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 300
     }
 
     farmers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 24775
     }
 
     aristocrats = {
         culture = burmese #Mon
-        religion = theravada
+        religion = animist
         size = 25
     }
 
     clergymen = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 75
     }
 
     artisans = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 200
     }
 
     soldiers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 50
     }
 }
@@ -146,97 +146,97 @@
 1332 = {
     aristocrats = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 400
     }
 
     clergymen = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 500
     }
 
     artisans = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 2400
     }
 
     soldiers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 500
     }
 
     farmers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 44200
     }
 
     aristocrats = {
         culture = burmese #Mon
-        religion = theravada
+        religion = animist
         size = 100
     }
 
     clergymen = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 150
     }
 
     artisans = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 850
     }
 
     soldiers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 150
     }
 
     aristocrats = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 850
     }
 
     bureaucrats = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 600
     }
 
     officers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 400
     }
 
     clergymen = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 800
     }
 
     artisans = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 4000
     }
 
     soldiers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 4000
     }
 
     farmers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 67300
     }
 }
@@ -244,61 +244,61 @@
 1333 = {
     aristocrats = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 300
     }
 
     clergymen = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 325
     }
 
     artisans = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 1600
     }
 
     soldiers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 350
     }
 
     farmers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 29425
     }
 
     aristocrats = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 500
     }
 
     clergymen = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 500
     }
 
     artisans = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 2250
     }
 
     soldiers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 4000
     }
 
     farmers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 38750
     }
 }
@@ -308,31 +308,31 @@
 1334 = {
     aristocrats = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 500
     }
 
     clergymen = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 500
     }
 
     artisans = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 2400
     }
 
     soldiers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 4000
     }
 
     farmers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 39600
     }
 
@@ -368,31 +368,31 @@
 
     aristocrats = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 75
     }
 
     clergymen = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 75
     }
 
     artisans = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 350
     }
 
     soldiers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 75
     }
 
     farmers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 6425
     }
 }
@@ -400,73 +400,73 @@
 1335 = {
     aristocrats = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 1150
     }
 
     bureaucrats = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 425
     }
 
     officers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 300
     }
 
     clergymen = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 1125
     }
 
     artisans = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 5500
     }
 
     soldiers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 4000
     }
 
     farmers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 100500
     }
 
     aristocrats = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 50
     }
 
     clergymen = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 250
     }
 
     soldiers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 50
     }
 
     farmers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 4600
     }
 }
@@ -474,31 +474,31 @@
 1336 = {
     aristocrats = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 325
     }
 
     clergymen = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 300
     }
 
     artisans = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 1500
     }
 
     soldiers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 1100
     }
 
     farmers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 26875
     }
 }
@@ -506,31 +506,31 @@
 1337 = {
     aristocrats = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 625
     }
 
     clergymen = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 625
     }
 
     artisans = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 3000
     }
 
     soldiers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 1100
     }
 
     farmers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 54850
     }
 }
@@ -540,85 +540,85 @@
 1338 = {
     aristocrats = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 900
     }
 
     bureaucrats = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 225
     }
 
     officers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 175
     }
 
     clergymen = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 850
     }
 
     artisans = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 4250
     }
 
     soldiers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 850
     }
 
     farmers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 76750
     }
 
     aristocrats = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 150
     }
 
     bureaucrats = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 100
     }
 
     officers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 25
     }
 
     clergymen = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 200
     }
 
     artisans = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 1100
     }
 
     soldiers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 225
     }
 
     farmers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 18300
     }
 }
@@ -626,31 +626,31 @@
 1340 = {
     aristocrats = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 500
     }
 
     clergymen = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 500
     }
 
     artisans = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 2500
     }
 
     soldiers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 500
     }
 
     farmers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 46000
     }
 
@@ -686,25 +686,25 @@
 
     clergymen = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 75
     }
 
     artisans = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 350
     }
 
     soldiers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 100
     }
 
     farmers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 6475
     }
 }
@@ -714,31 +714,31 @@
 1339 = {
     aristocrats = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 50
     }
 
     clergymen = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 50
     }
 
     artisans = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 250
     }
 
     soldiers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 1100
     }
 
     farmers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 3650
     }
 
@@ -862,67 +862,67 @@
 
     aristocrats = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 250
     }
 
     clergymen = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 250
     }
 
     artisans = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 1200
     }
 
     soldiers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 21050
     }
 
     aristocrats = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 300
     }
 
     clergymen = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 300
     }
 
     artisans = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 1350
     }
 
     bureaucrats = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 100
     }
 
     soldiers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 4000
     }
 
     farmers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 20950
     }
 }
@@ -932,97 +932,97 @@
 1343 = {
     aristocrats = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 400
     }
 
     clergymen = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 350
     }
 
     artisans = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 1100
     }
 
     soldiers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 300
     }
 
     farmers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 30950
     }
 
     aristocrats = {
         culture = burmese #Mon
-        religion = theravada
+        religion = animist
         size = 200
     }
 
     clergymen = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 375
     }
 
     artisans = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 1375
     }
 
     soldiers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 250
     }
 
     aristocrats = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 100
     }
 
     clergymen = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 75
     }
 
     artisans = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 1500
     }
 
     bureaucrats = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 100
     }
 
     soldiers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 150
     }
 
     farmers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 5075
     }
 
     bureaucrats = {
         culture = british
-        religion = protestant
+        religion = animist
         size = 25
     }
 }
@@ -1030,91 +1030,91 @@
 1344 = {
     aristocrats = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 400
     }
 
     clergymen = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 375
     }
 
     artisans = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 1100
     }
 
     soldiers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 400
     }
 
     farmers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 34825
     }
 
     aristocrats = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 100
     }
 
     clergymen = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 200
     }
 
     artisans = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 1250
     }
 
     soldiers = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 200
     }
 
     farmers = {
         culture = thai
-        religion = theravada
+        religion = animist
         size = 17250
     }
 
     aristocrats = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 350
     }
 
     clergymen = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 300
     }
 
     artisans = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 2000
     }
 
     soldiers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 300
     }
 
     farmers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 24050
     }
 }
@@ -1124,73 +1124,73 @@
 1345 = {
     bureaucrats = {
         culture = british
-        religion = protestant
+        religion = animist
         size = 10
     }
 
     aristocrats = {
         culture = burmese
-        religion = sunni
+        religion = animist
         size = 100
     }
 
     clergymen = {
         culture = burmese
-        religion = sunni
+        religion = animist
         size = 125
     }
 
     artisans = {
         culture = burmese
-        religion = sunni
+        religion = animist
         size = 2750
     }
 
     soldiers = {
         culture = burmese
-        religion = sunni
+        religion = animist
         size = 150
     }
 
     farmers = {
         culture = burmese
-        religion = sunni
+        religion = animist
         size = 11875
     }
 
     aristocrats = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 250
     }
 
     bureaucrats = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 50
     }
 
     clergymen = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 375
     }
 
     artisans = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 6250
     }
 
     soldiers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 250
     }
 
     farmers = {
         culture = burmese
-        religion = theravada
+        religion = animist
         size = 18825
     }
 
@@ -1208,13 +1208,13 @@
 
     clergymen = {
         culture = burmese
-        religion = sunni
+        religion = animist
         size = 50
     }
 
     farmers = {
         culture = burmese
-        religion = sunni
+        religion = animist
         size = 1950
     }
 }

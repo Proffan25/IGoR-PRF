@@ -4,43 +4,43 @@
 2036 = {
 	aristocrats = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 950
 	}
 
 	bureaucrats = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 75
 	}
 
 	officers = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 125
 	}
 
 	clergymen = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 525
 	}
 
 	artisans = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 2000
 	}
 
 	soldiers = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 500
 	}
 
 	farmers = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 32825
 	}
 
@@ -52,31 +52,31 @@
 
 	aristocrats = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 50
 	}
 
 	clergymen = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 50
 	}
 
 	artisans = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 200
 	}
 
 	soldiers = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 50
 	}
 
 	farmers = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 3650
 	}
 }
@@ -84,31 +84,31 @@
 2037 = {
 	aristocrats = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 325
 	}
 
 	clergymen = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 175
 	}
 
 	artisans = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 725
 	}
 
 	soldiers = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 175
 	}
 
 	farmers = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 11600
 	}
 
@@ -120,31 +120,31 @@
 
 	aristocrats = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 50
 	}
 
 	clergymen = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 50
 	}
 
 	artisans = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 200
 	}
 
 	soldiers = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 50
 	}
 
 	farmers = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 2650
 	}
 }
@@ -152,31 +152,31 @@
 2038 = {
 	aristocrats = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 550
 	}
 
 	clergymen = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 275
 	}
 
 	artisans = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 1125
 	}
 
 	soldiers = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 300
 	}
 
 	farmers = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 14750
 	}
 
@@ -220,31 +220,31 @@
 2039 = {
 	aristocrats = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 300
 	}
 
 	clergymen = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 150
 	}
 
 	artisans = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 650
 	}
 
 	soldiers = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 175
 	}
 
 	farmers = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 10725
 	}
 
@@ -468,31 +468,31 @@
 
 	aristocrats = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 50
 	}
 
 	clergymen = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 50
 	}
 
 	artisans = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 200
 	}
 
 	soldiers = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 50
 	}
 
 	farmers = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 3650
 	}
 
@@ -824,31 +824,31 @@
 
 	aristocrats = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 100
 	}
 
 	clergymen = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 50
 	}
 
 	artisans = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 250
 	}
 
 	soldiers = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 75
 	}
 
 	farmers = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 3525
 	}
 
@@ -1114,97 +1114,97 @@
 2048 = {
 	aristocrats = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 250
 	}
 
 	clergymen = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 125
 	}
 
 	artisans = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 525
 	}
 
 	soldiers = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 1100
 	}
 
 	farmers = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 7100
 	}
 
 	aristocrats = {
 		culture = mashriqi
-		religion = shiite
+		religion = animist
 		size = 150
 	}
 
 	bureaucrats = {
 		culture = mashriqi
-		religion = shiite
+		religion = animist
 		size = 75
 	}
 
 	officers = {
 		culture = mashriqi
-		religion = shiite
+		religion = animist
 		size = 75
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = shiite
+		religion = animist
 		size = 50
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = shiite
+		religion = animist
 		size = 200
 	}
 
 	soldiers = {
 		culture = mashriqi
-		religion = shiite
+		religion = animist
 		size = 450
 	}
 
 	aristocrats = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 400
 	}
 
 	clergymen = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 200
 	}
 
 	artisans = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 1050
 	}
 
 	soldiers = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 225
 	}
 
 	farmers = {
 		culture = bantu
-		religion = sunni
+		religion = animist
 		size = 19125
 	}
 

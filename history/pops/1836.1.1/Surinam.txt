@@ -4,49 +4,49 @@
 2240 = {
 	aristocrats = {
 		culture = dutch
-		religion = protestant
+		religion = animist
 		size = 25
 	}
 
 	bureaucrats = {
 		culture = dutch
-		religion = protestant
+		religion = animist
 		size = 10
 	}
 
 	artisans = {
 		culture = dutch
-		religion = protestant
+		religion = animist
 		size = 50
 	}
 
 	soldiers = {
 		culture = dutch
-		religion = protestant
+		religion = animist
 		size = 75
 	}
 
 	clergymen = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = animist
 		size = 25
 	}
 
 	artisans = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = animist
 		size = 1750
 	}
 
 	farmers = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = animist
 		size = 1200
 	}
 
 	soldiers = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = animist
 		size = 25
 	}
 

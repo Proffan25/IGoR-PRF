@@ -4,73 +4,73 @@
 1849 = {
 	aristocrats = {
 		culture = afro_asiatic
-		religion = sunni
+		religion = animist
 		size = 50
 	}
 
 	clergymen = {
 		culture = afro_asiatic
-		religion = sunni
+		religion = animist
 		size = 75
 	}
 
 	artisans = {
 		culture = afro_asiatic
-		religion = sunni
+		religion = animist
 		size = 150
 	}
 
 	soldiers = {
 		culture = afro_asiatic
-		religion = sunni
+		religion = animist
 		size = 25
 	}
 
 	farmers = {
 		culture = afro_asiatic
-		religion = sunni
+		religion = animist
 		size = 2700
 	}
 
 	bureaucrats = {
 		culture = misri
-		religion = sunni
+		religion = animist
 		size = 5
 	}
 
 	soldiers = {
 		culture = misri
-		religion = sunni
+		religion = animist
 		size = 20
 	}
 
 	aristocrats = {
 		culture = bedouin
-		religion = sunni
+		religion = animist
 		size = 75
 	}
 
 	clergymen = {
 		culture = bedouin
-		religion = sunni
+		religion = animist
 		size = 75
 	}
 
 	artisans = {
 		culture = bedouin
-		religion = sunni
+		religion = animist
 		size = 200
 	}
 
 	soldiers = {
 		culture = bedouin
-		religion = sunni
+		religion = animist
 		size = 25
 	}
 
 	farmers = {
 		culture = bedouin
-		religion = sunni
+		religion = animist
 		size = 3600
 	}
 }
@@ -78,61 +78,61 @@
 1851 = {
 	aristocrats = {
 		culture = afro_asiatic
-		religion = sunni
+		religion = animist
 		size = 125
 	}
 
 	clergymen = {
 		culture = afro_asiatic
-		religion = sunni
+		religion = animist
 		size = 75
 	}
 
 	artisans = {
 		culture = afro_asiatic
-		religion = sunni
+		religion = animist
 		size = 350
 	}
 
 	soldiers = {
 		culture = afro_asiatic
-		religion = sunni
+		religion = animist
 		size = 75
 	}
 
 	farmers = {
 		culture = afro_asiatic
-		religion = sunni
+		religion = animist
 		size = 6375
 	}
 
 	aristocrats = {
 		culture = afro_asiatic
-		religion = sunni
+		religion = animist
 		size = 75
 	}
 
 	clergymen = {
 		culture = afro_asiatic
-		religion = sunni
+		religion = animist
 		size = 75
 	}
 
 	artisans = {
 		culture = afro_asiatic
-		religion = sunni
+		religion = animist
 		size = 200
 	}
 
 	soldiers = {
 		culture = afro_asiatic
-		religion = sunni
+		religion = animist
 		size = 50
 	}
 
 	farmers = {
 		culture = afro_asiatic
-		religion = sunni
+		religion = animist
 		size = 3600
 	}
 }
@@ -141,73 +141,73 @@
 1848 = {
 	aristocrats = {
 		culture = afro_asiatic
-		religion = coptic
+		religion = animist
 		size = 225
 	}
 
 	bureaucrats = {
 		culture = afro_asiatic
-		religion = coptic
+		religion = animist
 		size = 15
 	}
 
 	officers = {
 		culture = afro_asiatic
-		religion = coptic
+		religion = animist
 		size = 25
 	}
 
 	clergymen = {
 		culture = afro_asiatic
-		religion = coptic
+		religion = animist
 		size = 125
 	}
 
 	artisans = {
 		culture = afro_asiatic
-		religion = coptic
+		religion = animist
 		size = 600
 	}
 
 	soldiers = {
 		culture = afro_asiatic
-		religion = coptic
+		religion = animist
 		size = 125
 	}
 
 	farmers = {
 		culture = afro_asiatic
-		religion = coptic
+		religion = animist
 		size = 10825
 	}
 
 	aristocrats = {
 		culture = afro_asiatic
-		religion = sunni
+		religion = animist
 		size = 150
 	}
 
 	clergymen = {
 		culture = afro_asiatic
-		religion = sunni
+		religion = animist
 		size = 75
 	}
 
 	artisans = {
 		culture = afro_asiatic
-		religion = sunni
+		religion = animist
 		size = 400
 	}
 
 	soldiers = {
 		culture = afro_asiatic
-		religion = sunni
+		religion = animist
 		size = 75
 	}
 
 	farmers = {
 		culture = afro_asiatic
-		religion = sunni
+		religion = animist
 		size = 7300
 	}
 }
@@ -215,31 +215,31 @@
 1850 = {
 	aristocrats = {
 		culture = afro_asiatic
-		religion = coptic
+		religion = animist
 		size = 125
 	}
 
 	clergymen = {
 		culture = afro_asiatic
-		religion = coptic
+		religion = animist
 		size = 75
 	}
 
 	artisans = {
 		culture = afro_asiatic
-		religion = coptic
+		religion = animist
 		size = 350
 	}
 
 	soldiers = {
 		culture = afro_asiatic
-		religion = coptic
+		religion = animist
 		size = 75
 	}
 
 	farmers = {
 		culture = afro_asiatic
-		religion = coptic
+		religion = animist
 		size = 6375
 	}
 
