@@ -1,11 +1,11 @@
 owner = ENG
 controller = ENG
-add_core = COM
+add_core = CAN
 
 trade_goods = cattle
 life_rating = 35
 1836.1.2 = {
-	owner = COM
-	controller = COM
+	owner = CAN
+	controller = CAN
 	colonial = 0
 }
