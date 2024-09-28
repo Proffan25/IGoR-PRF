@@ -50,13 +50,13 @@ nonstate_consciousness = 0
 foreign_training = yes_foreign_training
 foreign_weapons = yes_foreign_weapons
 foreign_officers = yes_foreign_officers
-land_reform = yes_land_reform
-finance_reform = yes_finance_reform
+military_constructions = yes_military_constructions
 industrial_construction = yes_western_science
 
 #Technologies
 post_napoleonic_thought = 1
 flintlock_rifles = 1
+bronze_muzzle_loaded_artillery = 1
 army_command_principle = 1
 private_banks = 1
 late_enlightenment_philosophy = 1
