@@ -1,5 +1,5 @@
 capital = 133
-primary_culture = texan
+primary_culture = dixie
 culture = mexican
 religion = animist
 government = democracy
