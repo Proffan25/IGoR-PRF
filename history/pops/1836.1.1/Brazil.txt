@@ -69,7 +69,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 85
+        size = 212
     }
 
     farmers = {
@@ -88,12 +88,6 @@
         culture = brazilian
         religion = animist
         size = 510
-    }
-
-    soldiers = {
-        culture = brazilian
-        religion = animist
-        size = 127
     }
 
     farmers = {
@@ -334,7 +328,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 170
+        size = 297
     }
 
     farmers = {
@@ -346,7 +340,7 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 85
         militancy = 8
@@ -354,23 +348,15 @@
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 425
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
 
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 85
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
-    }
-
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 1955
         militancy = 8
@@ -378,7 +364,7 @@
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 4250
         militancy = 8
@@ -405,14 +391,6 @@
         culture = brazilian
         religion = animist
         size = 255
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
-    }
-
-    soldiers = {
-        culture = brazilian
-        religion = animist
-        size = 42
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -450,7 +428,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 42
+        size = 101
     }
 
     farmers = {
@@ -462,7 +440,7 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 42
         militancy = 8
@@ -470,23 +448,15 @@
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 85
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
 
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 17
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
-    }
-
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 535
         militancy = 8
@@ -494,7 +464,7 @@
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 1020
         militancy = 8
@@ -513,14 +483,6 @@
         culture = brazilian
         religion = animist
         size = 170
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
-    }
-
-    soldiers = {
-        culture = brazilian
-        religion = animist
-        size = 42
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -551,7 +513,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 42
+        size = 67
     }
 
     farmers = {
@@ -576,12 +538,6 @@
         culture = brazilian
         religion = animist
         size = 85
-    }
-
-    soldiers = {
-        culture = brazilian
-        religion = animist
-        size = 25
     }
 
     farmers = {
@@ -609,7 +565,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 42
+        size = 84
     }
 
     farmers = {
@@ -640,14 +596,6 @@
         culture = brazilian
         religion = animist
         size = 170
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
-    }
-
-    soldiers = {
-        culture = brazilian
-        religion = animist
-        size = 42
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -680,12 +628,6 @@
         size = 15
     }
 
-    soldiers = {
-        culture = french
-        religion = animist
-        size = 25
-    }
-
     clergymen = {
         culture = afro_antillean
         religion = animist
@@ -696,12 +638,6 @@
         culture = afro_antillean
         religion = animist
         size = 50
-    }
-
-    soldiers = {
-        culture = afro_antillean
-        religion = animist
-        size = 10
     }
 
     farmers = {
@@ -731,7 +667,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 25
+        size = 50
     }
 
     farmers = {
@@ -757,7 +693,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 42
+        size = 67
     }
 
     farmers = {
@@ -782,12 +718,6 @@
         culture = brazilian
         religion = animist
         size = 85
-    }
-
-    soldiers = {
-        culture = brazilian
-        religion = animist
-        size = 25
     }
 
     farmers = {
@@ -815,7 +745,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 42
+        size = 84
     }
 
     farmers = {
@@ -846,14 +776,6 @@
         culture = brazilian
         religion = animist
         size = 170
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
-    }
-
-    soldiers = {
-        culture = brazilian
-        religion = animist
-        size = 42
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -903,7 +825,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 127
+        size = 297
     }
 
     farmers = {
@@ -922,12 +844,6 @@
         culture = platinean
         religion = animist
         size = 850
-    }
-
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 170
     }
 
     farmers = {
@@ -954,7 +870,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 42
+        size = 127
     }
 
     farmers = {
@@ -981,12 +897,6 @@
         size = 425
     }
 
-    soldiers = {
-        culture = brazilian
-        religion = animist
-        size = 85
-    }
-
     farmers = {
         culture = brazilian
         religion = animist
@@ -1010,7 +920,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 42
+        size = 237
     }
 
     farmers = {
@@ -1037,12 +947,6 @@
         size = 85
     }
 
-    soldiers = {
-        culture = brazilian
-        religion = animist
-        size = 25
-    }
-
     farmers = {
         culture = brazilian
         religion = animist
@@ -1050,31 +954,25 @@
     }
 
     aristocrats = {
-        culture = platinean
+        culture = brazilian
         religion = animist
         size = 254
     }
 
     clergymen = {
-        culture = platinean
+        culture = brazilian
         religion = animist
         size = 170
     }
 
     artisans = {
-        culture = platinean
+        culture = brazilian
         religion = animist
         size = 850
     }
 
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 170
-    }
-
     farmers = {
-        culture = platinean
+        culture = brazilian
         religion = animist
         size = 15554
     }
@@ -1096,7 +994,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 42
+        size = 67
     }
 
     farmers = {
@@ -1121,12 +1019,6 @@
         culture = brazilian
         religion = animist
         size = 85
-    }
-
-    soldiers = {
-        culture = brazilian
-        religion = animist
-        size = 25
     }
 
     farmers = {
@@ -1154,7 +1046,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 42
+        size = 126
     }
 
     farmers = {
@@ -1179,12 +1071,6 @@
         culture = platinean
         religion = animist
         size = 510
-    }
-
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 84
     }
 
     farmers = {
@@ -1230,7 +1116,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 127
+        size = 212
     }
 
     farmers = {
@@ -1240,31 +1126,25 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 85
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 425
     }
 
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 85
-    }
-
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 2805
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 5100
     }
@@ -1287,7 +1167,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 42
+        size = 67
     }
 
     farmers = {
@@ -1314,12 +1194,6 @@
         size = 85
     }
 
-    soldiers = {
-        culture = brazilian
-        religion = animist
-        size = 25
-    }
-
     farmers = {
         culture = brazilian
         religion = animist
@@ -1343,7 +1217,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 42
+        size = 84
     }
 
     farmers = {
@@ -1368,12 +1242,6 @@
         culture = brazilian
         religion = animist
         size = 170
-    }
-
-    soldiers = {
-        culture = brazilian
-        religion = animist
-        size = 42
     }
 
     farmers = {
@@ -1421,7 +1289,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 425
+        size = 680
     }
 
     farmers = {
@@ -1433,7 +1301,7 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 127
         militancy = 8
@@ -1441,23 +1309,15 @@
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 1275
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
 
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 255
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
-    }
-
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 8542
         militancy = 8
@@ -1465,7 +1325,7 @@
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 15300
         militancy = 8
@@ -1495,7 +1355,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 170
+        size = 254
     }
 
     farmers = {
@@ -1507,7 +1367,7 @@
     }
 
     clergymen = {
-        culture = platinean
+        culture = brazilian
         religion = animist
         size = 84
         militancy = 8
@@ -1515,23 +1375,15 @@
     }
 
     artisans = {
-        culture = platinean
+        culture = brazilian
         religion = animist
         size = 510
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
 
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 84
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
-    }
-
     farmers = {
-        culture = platinean
+        culture = brazilian
         religion = animist
         size = 9350
         militancy = 8
@@ -1561,7 +1413,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 1700
+        size = 2000
     }
 
     farmers = {
@@ -1571,31 +1423,25 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 127
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 1530
     }
 
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 297
-    }
-
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 9945
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 18700
     }
@@ -1623,7 +1469,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 170
+        size = 204
     }
 
     farmers = {
@@ -1642,12 +1488,6 @@
         culture = platinean
         religion = animist
         size = 170
-    }
-
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 34
     }
 
     farmers = {
@@ -1681,7 +1521,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 297
+        size = 382
     }
 
     farmers = {
@@ -1691,31 +1531,25 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 85
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 425
     }
 
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 85
-    }
-
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 2805
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 5100
     }
@@ -1755,7 +1589,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 1700
+        size = 2000
     }
 
     farmers = {
@@ -1765,31 +1599,25 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 127
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 1445
     }
 
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 297
-    }
-
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 10030
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 17000
     }
@@ -1817,7 +1645,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 127
+        size = 212
     }
 
     farmers = {
@@ -1827,31 +1655,25 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 85
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 425
     }
 
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 85
-    }
-
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 2805
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 5100
     }
@@ -1879,7 +1701,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 340
+        size = 595
     }
 
     farmers = {
@@ -1889,31 +1711,25 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 127
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 1275
     }
 
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 255
-    }
-
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 8542
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 15300
     }
@@ -1955,7 +1771,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 425
+        size = 725
     }
 
     farmers = {
@@ -1965,31 +1781,25 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 127
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 5100
     }
 
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 297
-    }
-
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 6375
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 17000
     }
@@ -2017,7 +1827,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 127
+        size = 339
     }
 
     farmers = {
@@ -2027,31 +1837,25 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 85
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 1020
     }
 
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 212
-    }
-
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 7182
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 11900
     }
@@ -2079,7 +1883,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 1700
+        size = 2000
     }
 
     farmers = {
@@ -2089,31 +1893,25 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 127
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 1360
     }
 
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 297
-    }
-
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 8415
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 17000
     }
@@ -2141,7 +1939,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 297
+        size = 510
     }
 
     farmers = {
@@ -2151,31 +1949,25 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 85
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 1105
     }
 
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 212
-    }
-
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 7097
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 13600
     }
@@ -2217,7 +2009,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 1700
+        size = 2200
     }
 
     farmers = {
@@ -2227,31 +2019,25 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 255
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 9350
     }
 
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 510
-    }
-
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 10285
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 30600
     }
@@ -2279,7 +2065,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 340
+        size = 807
     }
 
     farmers = {
@@ -2289,31 +2075,25 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 212
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 2210
     }
 
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 467
-    }
-
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 14110
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 27200
     }
@@ -2341,7 +2121,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 340
+        size = 595
     }
 
     farmers = {
@@ -2351,31 +2131,25 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 127
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 1275
     }
 
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 255
-    }
-
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 8542
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 15300
     }
@@ -2403,7 +2177,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 297
+        size = 509
     }
 
     farmers = {
@@ -2413,31 +2187,25 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 85
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 1105
     }
 
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 212
-    }
-
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 7097
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 13600
     }
@@ -2465,7 +2233,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 212
+        size = 467
     }
 
     farmers = {
@@ -2475,31 +2243,25 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 127
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 1190
     }
 
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 255
-    }
-
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 9477
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 14450
     }
@@ -2541,7 +2303,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 1700
+        size = 2080
     }
 
     farmers = {
@@ -2551,31 +2313,25 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 170
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 1870
     }
 
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 382
-    }
-
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 15512
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 22100
     }
@@ -2603,7 +2359,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 212
+        size = 424
     }
 
     farmers = {
@@ -2613,31 +2369,25 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 85
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 1105
     }
 
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 212
-    }
-
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 7097
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 13600
     }
@@ -2665,7 +2415,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 170
+        size = 425
     }
 
     farmers = {
@@ -2675,31 +2425,25 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 127
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 1275
     }
 
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 255
-    }
-
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 8542
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 15300
     }
@@ -2727,7 +2471,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 212
+        size = 382
     }
 
     farmers = {
@@ -2737,31 +2481,25 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 85
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 765
     }
 
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 170
-    }
-
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 4930
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 9350
     }
@@ -2789,7 +2527,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 127
+        size = 297
     }
 
     farmers = {
@@ -2799,31 +2537,25 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 85
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 850
     }
 
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 170
-    }
-
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 5695
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 10200
     }
@@ -2851,7 +2583,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 212
+        size = 562
     }
 
     farmers = {
@@ -2861,31 +2593,25 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 170
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 1700
     }
 
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 340
-    }
-
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 11390
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 20400
     }
@@ -2927,7 +2653,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 17000
+        size = 17510
     }
 
     farmers = {
@@ -2937,31 +2663,25 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 255
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 3995
     }
 
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 510
-    }
-
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 15640
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 30600
     }
@@ -2989,7 +2709,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 340
+        size = 680
     }
 
     farmers = {
@@ -2999,31 +2719,25 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 170
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 1700
     }
 
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 340
-    }
-
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 13770
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 20400
     }
@@ -3051,7 +2765,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 297
+        size = 509
     }
 
     farmers = {
@@ -3061,31 +2775,25 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 85
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 1020
     }
 
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 212
-    }
-
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 7182
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 11900
     }
@@ -3109,7 +2817,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 42
+        size = 92
     }
 
     farmers = {
@@ -3119,31 +2827,25 @@
     }
 
     aristocrats = {
-        culture = platinean
+        culture = brazilian
         religion = animist
         size = 34
     }
 
     clergymen = {
-        culture = platinean
+        culture = brazilian
         religion = animist
         size = 84
     }
 
     artisans = {
-        culture = platinean
+        culture = brazilian
         religion = animist
         size = 170
     }
 
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 50
-    }
-
     farmers = {
-        culture = platinean
+        culture = brazilian
         religion = animist
         size = 3060
     }
@@ -3183,7 +2885,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 1700
+        size = 1925
     }
 
     farmers = {
@@ -3193,31 +2895,25 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 127
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 1275
     }
 
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 255
-    }
-
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 8542
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 15300
     }
@@ -3245,7 +2941,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 425
+        size = 595
     }
 
     farmers = {
@@ -3255,31 +2951,25 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 85
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 850
     }
 
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 170
-    }
-
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 5695
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 10200
     }
@@ -3307,7 +2997,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 170
+        size = 297
     }
 
     farmers = {
@@ -3317,31 +3007,25 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 85
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 510
     }
 
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 127
-    }
-
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 3527
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 5950
     }
@@ -3369,7 +3053,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 170
+        size = 255
     }
 
     farmers = {
@@ -3379,31 +3063,25 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 85
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 340
     }
 
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 85
-    }
-
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 2040
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 4250
     }
@@ -3431,7 +3109,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 212
+        size = 297
     }
 
     farmers = {
@@ -3441,31 +3119,25 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 85
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 425
     }
 
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 85
-    }
-
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 2890
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 5100
     }
@@ -3487,7 +3159,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 42
+        size = 92
     }
 
     farmers = {
@@ -3497,31 +3169,25 @@
     }
 
     aristocrats = {
-        culture = platinean
+        culture = brazilian
         religion = animist
         size = 34
     }
 
     clergymen = {
-        culture = platinean
+        culture = brazilian
         religion = animist
         size = 84
     }
 
     artisans = {
-        culture = platinean
+        culture = brazilian
         religion = animist
         size = 170
     }
 
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 50
-    }
-
     farmers = {
-        culture = platinean
+        culture = brazilian
         religion = animist
         size = 3060
     }
@@ -3563,7 +3229,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 1700
+        size = 1785
     }
 
     farmers = {
@@ -3573,31 +3239,25 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 85
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 425
     }
 
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 85
-    }
-
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 2890
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 5100
     }
@@ -3625,7 +3285,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 127
+        size = 219
     }
 
     farmers = {
@@ -3635,31 +3295,25 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 42
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 255
     }
 
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 42
-    }
-
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 2125
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 2975
     }
@@ -3674,12 +3328,6 @@
         culture = platinean
         religion = animist
         size = 170
-    }
-
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 50
     }
 
     farmers = {
@@ -3711,7 +3359,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 127
+        size = 382
     }
 
     farmers = {
@@ -3721,31 +3369,25 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 85
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 340
     }
 
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 85
-    }
-
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 2040
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 4250
     }
@@ -3766,12 +3408,6 @@
         culture = platinean
         religion = animist
         size = 850
-    }
-
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 170
     }
 
     farmers = {
@@ -3803,7 +3439,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 212
+        size = 347
     }
 
     farmers = {
@@ -3813,31 +3449,25 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 85
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 340
     }
 
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 85
-    }
-
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 2040
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 4250
     }
@@ -3852,12 +3482,6 @@
         culture = platinean
         religion = animist
         size = 170
-    }
-
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 50
     }
 
     farmers = {
@@ -3889,7 +3513,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 297
+        size = 424
     }
 
     farmers = {
@@ -3899,31 +3523,25 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 85
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 510
     }
 
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 127
-    }
-
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 3527
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 5950
     }
@@ -3951,7 +3569,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 212
+        size = 339
     }
 
     farmers = {
@@ -3961,31 +3579,25 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 127
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 595
     }
 
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 127
-    }
-
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 4250
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 6800
     }
@@ -4016,8 +3628,6 @@
         culture = brazilian
         religion = animist
         size = 765
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
     }
 
     artisans = {
@@ -4029,55 +3639,37 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 1700
+        size = 1912
     }
 
     farmers = {
         culture = brazilian
         religion = animist
         size = 65407
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 85
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 1105
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
-    }
-
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 212
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
     }
 
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 7097
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 13600
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
     }
 }
 #Sao Pedro (44000/11000 POPS)
@@ -4105,7 +3697,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 127
+        size = 212
     }
 
     farmers = {
@@ -4117,7 +3709,7 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 85
         militancy = 8
@@ -4125,23 +3717,15 @@
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 340
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
 
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 85
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
-    }
-
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 2040
         militancy = 8
@@ -4149,7 +3733,7 @@
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 4250
         militancy = 8
@@ -4181,7 +3765,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 297
+        size = 552
     }
 
     farmers = {
@@ -4193,7 +3777,7 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 85
         militancy = 8
@@ -4201,23 +3785,15 @@
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 425
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
 
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 85
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
-    }
-
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 2890
         militancy = 8
@@ -4225,7 +3801,7 @@
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 5100
         militancy = 8
@@ -4244,14 +3820,6 @@
         culture = platinean
         religion = animist
         size = 850
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
-    }
-
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 170
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
@@ -4289,7 +3857,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 297
+        size = 424
     }
 
     farmers = {
@@ -4301,7 +3869,7 @@
     }
 
     clergymen = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 85
         militancy = 8
@@ -4309,23 +3877,15 @@
     }
 
     artisans = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 510
         militancy = 8
         rebel_type = anarcho_liberal_rebels
     }
 
-    soldiers = {
-        culture = afro_brazilian
-        religion = animist
-        size = 127
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
-    }
-
     farmers = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 3527
         militancy = 8
@@ -4333,7 +3893,7 @@
     }
 
     slaves = {
-        culture = afro_brazilian
+        culture = brazilian
         religion = animist
         size = 5950
         militancy = 8
@@ -4359,7 +3919,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 85
+        size = 255
     }
 
     farmers = {
@@ -4394,14 +3954,6 @@
         rebel_type = anarcho_liberal_rebels
     }
 
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 170
-        militancy = 8
-        rebel_type = anarcho_liberal_rebels
-    }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -4415,31 +3967,31 @@
 #Tarauaca (16000/4000 POPS) #now part of Brazil - Acre State
 2549 = {
     aristocrats = {
-        culture = brazilian
+        culture = andean
         religion = animist
         size = 127
     }
 
     clergymen = {
-        culture = brazilian
+        culture = andean
         religion = animist
         size = 85
     }
 
     artisans = {
-        culture = brazilian
+        culture = andean
         religion = animist
         size = 340
     }
 
     soldiers = {
-        culture = brazilian
+        culture = andean
         religion = animist
         size = 85
     }
 
     farmers = {
-        culture = brazilian
+        culture = andean
         religion = animist
         size = 6162
     }
@@ -4461,7 +4013,7 @@
     soldiers = {
         culture = brazilian
         religion = animist
-        size = 42
+        size = 84
     }
 
     farmers = {
@@ -4486,12 +4038,6 @@
         culture = brazilian
         religion = animist
         size = 255
-    }
-
-    soldiers = {
-        culture = brazilian
-        religion = animist
-        size = 42
     }
 
     farmers = {

@@ -147,7 +147,7 @@
     soldiers = {
         culture = andean
         religion = animist
-        size = 85
+        size = 169
     }
 
     farmers = {
@@ -168,12 +168,6 @@
         size = 170
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 42
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -181,31 +175,25 @@
     }
 
     aristocrats = {
-        culture = brazilian
+        culture = andean
         religion = animist
         size = 85
     }
 
     clergymen = {
-        culture = brazilian
+        culture = andean
         religion = animist
         size = 127
     }
 
     artisans = {
-        culture = brazilian
+        culture = andean
         religion = animist
         size = 255
     }
 
-    soldiers = {
-        culture = brazilian
-        religion = animist
-        size = 42
-    }
-
     farmers = {
-        culture = brazilian
+        culture = andean
         religion = animist
         size = 4590
     }

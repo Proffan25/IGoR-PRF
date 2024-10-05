@@ -961,7 +961,7 @@
     soldiers = {
         culture = andean
         religion = animist
-        size = 42
+        size = 169
     }
 
     farmers = {
@@ -971,31 +971,25 @@
     }
 
     aristocrats = {
-        culture = brazilian
+        culture = andean
         religion = animist
         size = 170
     }
 
     clergymen = {
-        culture = brazilian
+        culture = andean
         religion = animist
         size = 85
     }
 
     artisans = {
-        culture = brazilian
+        culture = andean
         religion = animist
         size = 510
     }
 
-    soldiers = {
-        culture = brazilian
-        religion = animist
-        size = 127
-    }
-
     farmers = {
-        culture = brazilian
+        culture = andean
         religion = animist
         size = 9307
     }
@@ -1003,31 +997,31 @@
 #Obando (20000/5000 POPS)
 2261 = {
     aristocrats = {
-        culture = brazilian
+        culture = andean
         religion = animist
         size = 127
     }
 
     clergymen = {
-        culture = brazilian
+        culture = andean
         religion = animist
         size = 85
     }
 
     artisans = {
-        culture = brazilian
+        culture = andean
         religion = animist
         size = 425
     }
 
     soldiers = {
-        culture = brazilian
+        culture = andean
         religion = animist
         size = 85
     }
 
     farmers = {
-        culture = brazilian
+        culture = andean
         religion = animist
         size = 7777
     }
@@ -1067,7 +1061,7 @@
     soldiers = {
         culture = andean
         religion = animist
-        size = 85
+        size = 254
     }
 
     farmers = {
@@ -1077,31 +1071,25 @@
     }
 
     aristocrats = {
-        culture = brazilian
+        culture = andean
         religion = animist
         size = 212
     }
 
     clergymen = {
-        culture = brazilian
+        culture = andean
         religion = animist
         size = 127
     }
 
     artisans = {
-        culture = brazilian
+        culture = andean
         religion = animist
         size = 680
     }
 
-    soldiers = {
-        culture = brazilian
-        religion = animist
-        size = 127
-    }
-
     farmers = {
-        culture = brazilian
+        culture = andean
         religion = animist
         size = 12452
     }
@@ -1116,12 +1104,6 @@
         culture = andean
         religion = animist
         size = 255
-    }
-
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 42
     }
 
     farmers = {
@@ -1139,31 +1121,31 @@
 #El Encanto (12000/3000 POPS)
 2263 = {
     aristocrats = {
-        culture = brazilian
+        culture = andean
         religion = animist
         size = 85
     }
 
     clergymen = {
-        culture = brazilian
+        culture = andean
         religion = animist
         size = 127
     }
 
     artisans = {
-        culture = brazilian
+        culture = andean
         religion = animist
         size = 255
     }
 
     soldiers = {
-        culture = brazilian
+        culture = andean
         religion = animist
         size = 42
     }
 
     farmers = {
-        culture = brazilian
+        culture = andean
         religion = animist
         size = 4590
     }

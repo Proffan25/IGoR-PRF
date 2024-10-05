@@ -21,7 +21,7 @@
 	}
 
 	farmers = {
-		culture = inuit
+		culture = danish
 		religion = animist
 		size = 1100
 	}
@@ -41,7 +41,7 @@
 	}
 
 	farmers = {
-		culture = inuit
+		culture = danish
 		religion = animist
 		size = 300
 	}
@@ -61,7 +61,7 @@
 	}
 
 	farmers = {
-		culture = inuit
+		culture = danish
 		religion = animist
 		size = 300
 	}
@@ -81,7 +81,7 @@
 	}
 
 	farmers = {
-		culture = inuit
+		culture = danish
 		religion = animist
 		size = 200
 	}

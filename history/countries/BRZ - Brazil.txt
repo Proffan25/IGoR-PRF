@@ -1,6 +1,5 @@
 capital = 2447
 primary_culture = brazilian
-culture = afro_brazilian
 religion = animist
 government = prussian_constitutionalism
 plurality = 25.0
