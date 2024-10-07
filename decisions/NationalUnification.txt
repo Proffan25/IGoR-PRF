@@ -521,7 +521,6 @@ political_decisions = {
 			DEN_367 = {
 				owned_by = THIS
 			}
-			inherit = DEN
 			AND = {
 				state_n_government = 1
 				war = no
@@ -537,22 +536,7 @@ political_decisions = {
 			SWE = { all_core = { remove_core = SWE add_core = SCA } }
 			NOR = { all_core = { remove_core = NOR add_core = SCA } }
 			ICL = { all_core = { remove_core = ICL add_core = SCA } }
-
-			any_country = {
-				limit = {
-					NOT = {
-						is_greater_power = yes
-					}
-					is_culture_group = scandinavian
-					OR = {
-						in_sphere = THIS
-						overlord = {
-							tag = THIS
-						}
-					}
-				}
-				country_event = { id=11101 days=0 }
-			}
+			inherit = DEN
 		}
 		ai_will_do = {
 			factor = 1
