@@ -34,6 +34,26 @@ political_decisions = {
 			TUR_876 = {
 				add_core = GRE
 			}
+			837 = {
+				state_scope = { 
+					any_pop = {
+						limit = {
+							has_pop_culture = greek
+						}
+						literacy = 0.15 #15 percent increase
+					}
+				}
+			}
+			805 = {
+				state_scope = { 
+					any_pop = {
+						limit = {
+							has_pop_culture = greek
+						}
+						literacy = 0.2 #20 percent increase
+					}
+				}
+			}
 			set_country_flag = greece_has_got_a_brand_new_bag
 		}
 	}
@@ -60,12 +80,65 @@ political_decisions = {
 			political_reform = appointed
 			political_reform = harassment
 			capital = 860
-			860 = { change_province_name = "Constantinople" }
+			860 = {
+				life_rating = 10
+				change_province_name = "Constantinople"
+			}
 			828 = { change_province_name = "Adrianople" }
 			858 = { change_province_name = "Saranta Ekklisiès" }
 			861 = { change_province_name = "Skoutarion" }
 			TUR = { all_core = { remove_core = TUR } }
 			set_country_flag = gre_rome_restored
+		}
+	}
+	
+	triumph_balkans = {
+		picture = retvrn
+		potential = {
+			tag = GRE
+			has_country_flag = gre_rome_restored
+			NOT = {
+				has_country_flag = triumph_balkans_flag
+			}
+		}
+		allow = {
+			owns = 849 #Tirana
+			owns = 809 #Sofia
+			owns = 818 #Silistre
+			owns = 802 #Pristina
+			owns = 794 #Belgrade
+			owns = 783 #Sarajevo
+		}
+		effect = {
+			BUL = { all_core = { remove_core = BUL } }
+			ALB = { all_core = { remove_core = ALB } }
+			SER = { all_core = { remove_core = SER } }
+			MON = { all_core = { remove_core = MON } }
+			BOS = { all_core = { remove_core = BOS } }
+			set_country_flag = triumph_balkans_flag
+		}
+	}
+	
+	triumph_egypt_levant = {
+		picture = retvrn
+		potential = {
+			tag = GRE
+			has_country_flag = gre_rome_restored
+			NOT = {
+				has_country_flag = triumph_egypt_levant_flag
+			}
+		}
+		allow = {
+			owns = 900 #Antioch
+			owns = 917 #Jerusalem
+			owns = 1751 #Alexandria
+			owns = 1756 #Al Arish
+			owns = 3274 #Elephantine
+		}
+		effect = {
+			EGY = { all_core = { remove_core = EGY } }
+			SYR = { all_core = { remove_core = SYR } }
+			set_country_flag = triumph_egypt_levant_flag
 		}
 	}
 }
