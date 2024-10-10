@@ -138,6 +138,12 @@ political_decisions = {
 		effect = {
 			EGY = { all_core = { remove_core = EGY } }
 			SYR = { all_core = { remove_core = SYR } }
+			917 = {
+				add_province_modifier = {
+					name = holy_city
+					duration = -1
+				}
+			}
 			set_country_flag = triumph_egypt_levant_flag
 		}
 	}
