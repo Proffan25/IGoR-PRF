@@ -409,4 +409,32 @@ political_decisions = {
 		}
 	}
 	
+	doctrine_of_lapse = {
+		picture = Rebellion
+		alert = yes
+		potential = {
+			tag = ENG
+			exist = HND
+			HND = { 
+				vassal_of = ENG 
+			}
+			NOT = { has_global_flag = doctrine_of_lapse_has_been_used }
+		}
+		allow = {
+			year = 1885
+			HND = { 
+				vassal_of = ENG 
+			}
+		}
+		effect = {
+			HND = {
+				any_pop = {
+					militancy = 7
+					consciousness = 2
+				}
+			}
+			inherit = HND
+			set_global_flag = doctrine_of_lapse_has_been_used
+		}
+	}
 }
