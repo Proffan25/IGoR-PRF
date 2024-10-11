@@ -1,0 +1,279 @@
+#############################
+#Ukraine Growth Events      #
+#############################
+province_event = {
+	
+	id = 200012 #Kiev
+	
+	trigger = {
+		year = 1860
+		province_id = 958 #Kiev
+		NOT = { 
+			owned_by = UKR
+			OR = {
+				has_province_modifier = ukrainian_breadbasket
+				has_province_modifier = big_ukrainian_breadbasket
+			} 
+		}
+	}
+	
+	title = "EVTNAME200012"
+	desc = "EVTDESC200012"
+	
+	option = {
+		name = "EVTOPTA200012"
+		954 = {
+			add_province_modifier = {
+				name = ukrainian_breadbasket
+				duration = -1
+			}
+		}
+		958 = {
+			add_province_modifier = {
+				name = big_ukrainian_breadbasket
+				duration = -1
+			}
+		}
+		959 = {
+			add_province_modifier = {
+				name = ukrainian_breadbasket
+				duration = -1
+			}
+		}
+		960 = {
+			add_province_modifier = {
+				name = ukrainian_breadbasket
+				duration = -1
+			}
+		}
+		961 = {
+			add_province_modifier = {
+				name = ukrainian_breadbasket
+				duration = -1
+			}
+		}
+	}
+}
+
+province_event = {
+	
+	id = 200013 #Cherson
+	
+	trigger = {
+		year = 1860
+		province_id = 968 #Odessa
+		NOT = { 
+			owned_by = UKR
+			OR = {
+				has_province_modifier = ukrainian_breadbasket
+				has_province_modifier = big_ukrainian_breadbasket
+			} 
+		}
+	}
+	
+	title = "EVTNAME200012"
+	desc = "EVTDESC200012"
+	
+	option = {
+		name = "EVTOPTA200012"
+		968 = {
+			add_province_modifier = {
+				name = big_ukrainian_breadbasket
+				duration = -1
+			}
+		}
+		969 = {
+			add_province_modifier = {
+				name = ukrainian_breadbasket
+				duration = -1
+			}
+		}
+		970 = {
+			add_province_modifier = {
+				name = ukrainian_breadbasket
+				duration = -1
+			}
+		}
+		971 = {
+			add_province_modifier = {
+				name = ukrainian_breadbasket
+				duration = -1
+			}
+		}
+		972 = {
+			add_province_modifier = {
+				name = big_ukrainian_breadbasket
+				duration = -1
+			}
+		}
+	}
+}
+
+province_event = {
+	
+	id = 200014 #Crimea
+	
+	trigger = {
+		year = 1860
+		province_id = 976 #Mariupol
+		NOT = { 
+			owned_by = UKR
+			OR = {
+				has_province_modifier = ukrainian_breadbasket
+				has_province_modifier = big_ukrainian_breadbasket
+			} 
+		}
+	}
+	
+	title = "EVTNAME200012"
+	desc = "EVTDESC200012"
+	
+	option = {
+		name = "EVTOPTA200012"
+		964 = {
+			add_province_modifier = {
+				name = ukrainian_breadbasket
+				duration = -1
+			}
+		}
+		965 = {
+			add_province_modifier = {
+				name = ukrainian_breadbasket
+				duration = -1
+			}
+		}
+		966 = {
+			add_province_modifier = {
+				name = ukrainian_breadbasket
+				duration = -1
+			}
+		}
+		967 = {
+			add_province_modifier = {
+				name = ukrainian_breadbasket
+				duration = -1
+			}
+		}
+		973 = {
+			add_province_modifier = {
+				name = ukrainian_breadbasket
+				duration = -1
+			}
+		}
+		976 = {
+			add_province_modifier = {
+				name = big_ukrainian_breadbasket
+				duration = -1
+			}
+		}
+		979 = {
+			add_province_modifier = {
+				name = ukrainian_breadbasket
+				duration = -1
+			}
+		}
+	}
+}
+
+province_event = {
+	
+	id = 200015 #Poltava
+	
+	trigger = {
+		year = 1860
+		province_id = 975 #Yuzovka
+		NOT = { 
+			owned_by = UKR
+			OR = {
+				has_province_modifier = ukrainian_breadbasket
+				has_province_modifier = big_ukrainian_breadbasket
+			} 
+		}
+	}
+	
+	title = "EVTNAME200012"
+	desc = "EVTDESC200012"
+	
+	option = {
+		name = "EVTOPTA200012"
+		962 = {
+			add_province_modifier = {
+				name = ukrainian_breadbasket
+				duration = -1
+			}
+		}
+		963 = {
+			add_province_modifier = {
+				name = ukrainian_breadbasket
+				duration = -1
+			}
+		}
+		974 = {
+			add_province_modifier = {
+				name = ukrainian_breadbasket
+				duration = -1
+			}
+		}
+		975 = {
+			add_province_modifier = {
+				name = big_ukrainian_breadbasket
+				duration = -1
+			}
+		}
+		978 = {
+			add_province_modifier = {
+				name = ukrainian_breadbasket
+				duration = -1
+			}
+		}
+		980 = {
+			add_province_modifier = {
+				name = big_ukrainian_breadbasket
+				duration = -1
+			}
+		}
+	}
+}
+
+province_event = {
+	
+	id = 200016 #Rovne
+	
+	trigger = {
+		year = 1860
+		province_id = 956 #Rovne
+		NOT = { 
+			owned_by = UKR
+			OR = {
+				has_province_modifier = ukrainian_breadbasket
+				has_province_modifier = big_ukrainian_breadbasket
+			} 
+		}
+	}
+	
+	title = "EVTNAME200012"
+	desc = "EVTDESC200012"
+	
+	option = {
+		name = "EVTOPTA200012"
+		955 = {
+			add_province_modifier = {
+				name = ukrainian_breadbasket
+				duration = -1
+			}
+		}
+		956 = {
+			add_province_modifier = {
+				name = ukrainian_breadbasket
+				duration = -1
+			}
+		}
+		957 = {
+			add_province_modifier = {
+				name = ukrainian_breadbasket
+				duration = -1
+			}
+		}
+	}
+}
+	
