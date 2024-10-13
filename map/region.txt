@@ -78,19 +78,19 @@ USA_243 = { 243 244 245 241 242 } #Massachusetts
 
 USA_247 = { 247 246 248 249 250 } #New England
 
-ENG_6 = { 6 7 8 } #Yukon Territory
+#ENG_6 = { 6 7 8 } #Yukon Territory
 
-ENG_9 = { 11 9 10 2596 2598 } #Northwest Territories
+ENG_9 = { 6 7 8 11 9 10 43 44 45 2596 2598 } #Northwest Territories
 
-ENG_43 = { 43 44 45 } #Nunavut
+#ENG_43 = { 43 44 45 } #Nunavut
 
-ENG_13 = { 13 14 15 2629 20 16 17 18 19 21 } #British Columbia
+ENG_13 = { 13 14 15 2629 20 16 17 18 19 21 22 26 29 12 2595 25 24 27 28 23 2597 } #Columbia-Alberta
 
-ENG_22 = { 22 26 29 12 2595 25 24 27 28 23 2597 } #Alberta
+#ENG_22 = { 22 26 29 12 2595 25 24 27 28 23 2597 } #Alberta
 
-ENG_30 = { 30 31 32 33 34 35 } #Saskatchewan
+ENG_30 = { 30 31 32 33 34 35 36 37 38 39 40 41 42 } #Saskatchewan-Manitoba
 
-ENG_36 = { 36 37 38 39 40 41 42 } #Manitoba
+#ENG_36 = { 36 37 38 39 40 41 42 } #Manitoba
 
 ENG_46 = { 46 47 48 49 50 51 52 53 54 55 56 57 2628 2594 } #Ontario
 
@@ -112,7 +112,7 @@ URU_2344 = { 2344 2345 2346 2347 }
 
 
 
-ECU_2279 = { 2279 2280 2281 2282 2283 2284 2285 }
+ECU_2279 = { 2279 2280 2281 2282 2283 2284 2285 2287 2288 2289 }
 
 
 
@@ -1598,13 +1598,13 @@ BRZ_2467 = { 2467 2464 2466 2465 2463 2461 2462 2459 2457 } #Rio Grande do Sul
 
 #Peru
 
-PEU_2289 = { 2286 2287 2288 2289 } #Pastaza
+#PEU_2289 = { 2286 2287 2288 2289 } #Pastaza
 
 PEU_2291 = { 2290 2291 2292 2294 } #Cajamarca
 
 PEU_2295 = { 2295 2299 2293 2296 2297 2298 } #Lima
 
-PEU_2302 = { 2302  2300 2301 2303 } #Ucayali y Cusco
+PEU_2302 = { 2286 2302  2300 2301 2303 } #Ucayali y Cusco
 
 #PEU_2303 = { 2304 2578 } #Arequipa
 

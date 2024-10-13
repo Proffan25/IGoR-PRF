@@ -123,31 +123,31 @@
 #Dutch Harbor (2000/500 POPS)
 4 = {
     aristocrats = {
-        culture = danish
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     clergymen = {
-        culture = danish
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     artisans = {
-        culture = danish
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     soldiers = {
-        culture = danish
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = danish
+        culture = native_american_minor
         religion = animist
         size = 450
     }
@@ -155,31 +155,31 @@
 #Bethel (2000/500 POPS)
 5 = {
     aristocrats = {
-        culture = danish
+        culture = native_american_minor
         religion = animist
         size = 2
     }
 
     clergymen = {
-        culture = danish
+        culture = native_american_minor
         religion = animist
         size = 3
     }
 
     artisans = {
-        culture = danish
+        culture = native_american_minor
         religion = animist
         size = 15
     }
 
     soldiers = {
-        culture = danish
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = danish
+        culture = native_american_minor
         religion = animist
         size = 225
     }
@@ -281,31 +281,31 @@
 #Unalakeet (3000/750 POPS)
 2631 = {
     aristocrats = {
-        culture = danish
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     clergymen = {
-        culture = danish
+        culture = native_american_minor
         religion = animist
         size = 10
     }
 
     artisans = {
-        culture = danish
+        culture = native_american_minor
         religion = animist
         size = 25
     }
 
     soldiers = {
-        culture = danish
+        culture = native_american_minor
         religion = animist
         size = 5
     }
 
     farmers = {
-        culture = danish
+        culture = native_american_minor
         religion = animist
         size = 450
     }
