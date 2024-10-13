@@ -40,6 +40,7 @@ province_event = {
 				is_core = PAR
 				is_core = CHL
 			}
+		}
 	}
 	
 	mean_time_to_happen = {
@@ -85,6 +86,7 @@ province_event = {
 				is_core = CLM
 				is_core = ECU
 			}
+		}
 	}
 	
 	mean_time_to_happen = {
@@ -129,6 +131,7 @@ province_event = {
 				is_core = CRE
 				is_core = ION
 			}
+		}
 	}
 	
 	mean_time_to_happen = {
