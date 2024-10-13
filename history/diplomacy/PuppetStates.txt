@@ -55,14 +55,6 @@ vassal = {
 	end_date = 1890.11.23
 }
 
-# USA-Liberia
-vassal = {
-	first = USA
-	second = LIB
-	start_date = 1822.1.1
-	end_date = 1847.7.26
-}
-
 # United Kingdom-Hanover
 vassal = {
 	first = ENG
@@ -71,10 +63,26 @@ vassal = {
 	end_date = 1837.1.1
 }
 
-# United Kingdom-Commonwealth
+# United Kingdom-Hanover
 vassal = {
 	first = ENG
-	second = COM
+	second = CAN
+	start_date = 1836.1.2
+	end_date = 1936.1.1
+}
+
+# United Kingdom-Hanover
+vassal = {
+	first = ENG
+	second = SAF
+	start_date = 1836.1.2
+	end_date = 1936.1.1
+}
+
+# United Kingdom-Hanover
+vassal = {
+	first = ENG
+	second = AST
 	start_date = 1836.1.2
 	end_date = 1936.1.1
 }
@@ -108,7 +116,7 @@ vassal = {
 #######################
 
 # UK - India
-vassal = {
+substate = {
 	first = ENG
 	second = HND
 	start_date = 1836.1.1
@@ -116,7 +124,7 @@ vassal = {
 }
 
 # Dai Nam-Cambodia
-vassal = {
+substate = {
 	first = DAI
 	second = CAM
 	start_date = 1807.1.1

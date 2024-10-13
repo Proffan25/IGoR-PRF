@@ -43,12 +43,6 @@ URU = {
 	influence_value = 25
 }
 
-LIB = {
-	value = 125
-	level = 5
-	influence_value = 25
-}
-
 JAP = {
 	value = 125
 }

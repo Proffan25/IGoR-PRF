@@ -1,8 +1,5 @@
-owner = LIB
-controller = LIB
-add_core = LIB
+owner = USA
+controller = USA
 trade_goods = iron
 life_rating = 32
-
-
-
+colonial = 1
