@@ -244,10 +244,8 @@ political_decisions = {
 	move_capital_to_moscow = {
 		potential = {
 			tag = RUS
-			AND = {
-				NOT = { owns = 339 } # Viipuri
-				NOT = { is_our_vassal = FIN }
-			}
+			NOT = { owns = 339 } # Viipuri
+			NOT = { is_our_vassal = FIN }
 			owns = 1008 # Moscow
 			capital = 994
 		}
@@ -265,33 +263,32 @@ political_decisions = {
 		}
 	}
 	found_the_imperial_academy = {
-			potential = {
-				tag = RUS
-				NOT = { tech_school = russian_tech_school }
-			}
+		potential = {
+			tag = RUS
+			NOT = { tech_school = russian_tech_school }
+		}
 			
-			allow = {
-				owns = 994
-				idealism = 1
-				army_professionalism = 1
-				naval_professionalism = 1
-			}
+		allow = {
+			owns = 994
+			idealism = 1
+			army_professionalism = 1
+		}
 			
-			effect = {
-				tech_school = russian_tech_school
-				prestige = 5
+		effect = {
+			tech_school = russian_tech_school
+			prestige = 5
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = { 
+				factor = 0
+				NOT = { business_banks = 1 }
 			}
-			ai_will_do = {
-				factor = 1
-				modifier = { 
-					factor = 0
-					NOT = { business_banks = 1 }
-				}
-				modifier = { 
-					factor = 0
-					NOT = { biologism = 1 }
-				}
+			modifier = { 
+				factor = 0
+				NOT = { biologism = 1 }
 			}
+		}
 	}
 	russian_sakhalin = {
 			picture = map_yellow_sea
