@@ -714,7 +714,7 @@ darwinism = {
 		}
 	}
 	effect = {
-		education_efficiency = 0.15 #0.50
+		education_efficiency = 0.30 #0.50
 	}
 }
 social_darwinism = {

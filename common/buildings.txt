@@ -702,7 +702,7 @@ cement_factory = {
 	max_level = 99
 	goods_cost =
 	{
-		cement = 200
+		coal = 200
 		iron = 200
 		timber = 200
 	}
