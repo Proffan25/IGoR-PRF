@@ -1203,6 +1203,12 @@
         religion = animist
         size = 2650
     }
+	
+	bureaucrats = {
+        culture = french
+        religion = placeholder
+        size = 8250
+    }
 
     clergymen = {
         culture = french
