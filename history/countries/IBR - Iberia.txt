@@ -1,8 +1,6 @@
 capital = 487
 primary_culture = spanish
 culture = portuguese
-culture = catalan
-culture = basque
 culture = caribeno
 culture = afro_caribeno
 religion = animist
