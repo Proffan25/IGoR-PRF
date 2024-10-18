@@ -88,19 +88,19 @@
     }
 
     clergymen = {
-        culture = basque
+        culture = spanish
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = basque
+        culture = spanish
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = basque
+        culture = spanish
         religion = animist
         size = 3900
     }
@@ -215,19 +215,19 @@
     }
 
     clergymen = {
-        culture = basque
+        culture = spanish
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = basque
+        culture = spanish
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = basque
+        culture = spanish
         religion = animist
         size = 3900
     }
@@ -265,13 +265,13 @@
     }
 
     clergymen = {
-        culture = basque
+        culture = spanish
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = basque
+        culture = spanish
         religion = animist
         size = 975
     }
@@ -745,7 +745,7 @@
 #Bilbao (308000/77000 POPS)
 492 = {
     aristocrats = {
-        culture = basque
+        culture = spanish
         religion = animist
         size = 600
         militancy = 8
@@ -753,7 +753,7 @@
     }
 
     clergymen = {
-        culture = basque
+        culture = spanish
         religion = animist
         size = 550
         militancy = 8
@@ -761,7 +761,7 @@
     }
 
     artisans = {
-        culture = basque
+        culture = spanish
         religion = animist
         size = 3000
         militancy = 8
@@ -769,7 +769,7 @@
     }
 
     soldiers = {
-        culture = basque
+        culture = spanish
         religion = animist
         size = 550
         militancy = 8
@@ -777,7 +777,7 @@
     }
 
     farmers = {
-        culture = basque
+        culture = spanish
         religion = animist
         size = 51800
         militancy = 8
@@ -817,7 +817,7 @@
 #Pamplona (244000/61000 POPS)
 493 = {
     aristocrats = {
-        culture = basque
+        culture = spanish
         religion = animist
         size = 700
         militancy = 8
@@ -825,7 +825,7 @@
     }
 
     officers = {
-        culture = basque
+        culture = spanish
         religion = animist
         size = 100
         militancy = 8
@@ -833,7 +833,7 @@
     }
 
     bureaucrats = {
-        culture = basque
+        culture = spanish
         religion = animist
         size = 750
         militancy = 8
@@ -841,7 +841,7 @@
     }
 
     clergymen = {
-        culture = basque
+        culture = spanish
         religion = animist
         size = 375
         militancy = 8
@@ -849,7 +849,7 @@
     }
 
     artisans = {
-        culture = basque
+        culture = spanish
         religion = animist
         size = 1750
         militancy = 8
@@ -857,7 +857,7 @@
     }
 
     soldiers = {
-        culture = basque
+        culture = spanish
         religion = animist
         size = 400
         militancy = 8
@@ -865,7 +865,7 @@
     }
 
     labourers = {
-        culture = basque
+        culture = spanish
         religion = animist
         size = 35025
         militancy = 8
@@ -998,13 +998,13 @@
     }
 
     clergymen = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 1950
     }
@@ -1042,31 +1042,31 @@
     }
 
     aristocrats = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 200
     }
 
     clergymen = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 175
     }
 
     artisans = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 850
     }
 
     soldiers = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 250
     }
 
     labourers = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 16025
     }
@@ -1117,61 +1117,61 @@
 #Barcelona (464000/116000 POPS)
 498 = {
     aristocrats = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 1700
     }
 
     officers = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 200
     }
 
     bureaucrats = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 2750
     }
 
     clergymen = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 825
     }
 
     artisans = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 1100
     }
 
     soldiers = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 2000
     }
 
     farmers = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 53225
     }
@@ -1221,31 +1221,31 @@
 #Gerona (228000/57000 POPS)
 499 = {
     aristocrats = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 750
     }
 
     clergymen = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 350
     }
 
     artisans = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 1750
     }
 
     soldiers = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 350
     }
 
     farmers = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 33300
         militancy = 8
@@ -1285,7 +1285,7 @@
 #Lerida (164000/41000 POPS)
 500 = {
     aristocrats = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 550
         militancy = 8
@@ -1293,7 +1293,7 @@
     }
 
     clergymen = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 250
         militancy = 8
@@ -1301,7 +1301,7 @@
     }
 
     artisans = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 2750
         militancy = 8
@@ -1309,7 +1309,7 @@
     }
 
     soldiers = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 275
         militancy = 8
@@ -1317,7 +1317,7 @@
     }
 
     farmers = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 24150
         militancy = 8
@@ -1357,7 +1357,7 @@
 #Tarragona (244000/61000 POPS)
 501 = {
     aristocrats = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 850
         militancy = 8
@@ -1365,7 +1365,7 @@
     }
 
     clergymen = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 400
         militancy = 8
@@ -1373,13 +1373,13 @@
     }
 
     artisans = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 2000
     }
 
     soldiers = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 400
         militancy = 8
@@ -1387,7 +1387,7 @@
     }
 
     farmers = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 37850
         militancy = 8
@@ -1431,31 +1431,31 @@
 #Balearics (240000/60000 POPS)
 502 = {
     aristocrats = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 400
     }
 
     clergymen = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 400
     }
 
     artisans = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 6000
     }
 
     soldiers = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 400
     }
 
     farmers = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 33300
     }
@@ -1542,43 +1542,43 @@
     }
 
     aristocrats = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 1100
     }
 
     officers = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 100
     }
 
     bureaucrats = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 1125
     }
 
     clergymen = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 500
     }
 
     artisans = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 10000
     }
 
     soldiers = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 500
     }
 
     farmers = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 39675
     }
@@ -1616,31 +1616,31 @@
     }
 
     aristocrats = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 500
     }
 
     clergymen = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 275
     }
 
     artisans = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 1700
     }
 
     soldiers = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 250
     }
 
     farmers = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 26275
     }
@@ -1678,31 +1678,31 @@
     }
 
     aristocrats = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 400
     }
 
     clergymen = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 400
     }
 
     artisans = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 2000
     }
 
     soldiers = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 400
     }
 
     labourers = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 38300
     }
@@ -2195,7 +2195,7 @@
 #Lleida
 3295 = {
     aristocrats = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 550
         militancy = 8
@@ -2203,7 +2203,7 @@
     }
 
     clergymen = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 250
         militancy = 8
@@ -2211,7 +2211,7 @@
     }
 
     artisans = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 2750
         militancy = 8
@@ -2219,7 +2219,7 @@
     }
 
     soldiers = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 275
         militancy = 8
@@ -2227,7 +2227,7 @@
     }
 
     farmers = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 24150
         militancy = 8

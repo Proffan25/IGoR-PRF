@@ -3135,31 +3135,31 @@
     }
 
     aristocrats = {
-        culture = basque
+        culture = spanish
         religion = animist
         size = 400
     }
 
     clergymen = {
-        culture = basque
+        culture = spanish
         religion = animist
         size = 450
     }
 
     artisans = {
-        culture = basque
+        culture = spanish
         religion = animist
         size = 2500
     }
 
     soldiers = {
-        culture = basque
+        culture = spanish
         religion = animist
         size = 450
     }
 
     farmers = {
-        culture = basque
+        culture = spanish
         religion = animist
         size = 41200
     }
@@ -3312,31 +3312,31 @@
     }
 
     aristocrats = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 200
     }
 
     clergymen = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 275
     }
 
     artisans = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 2250
     }
 
     soldiers = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 250
     }
 
     farmers = {
-        culture = catalan
+        culture = spanish
         religion = animist
         size = 24975
     }
