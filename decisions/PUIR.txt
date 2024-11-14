@@ -1809,6 +1809,7 @@ political_decisions = {
 		effect = {
 			change_tag = PBA
 			set_country_flag = new_world_nation
+			set_country_flag = south_american_immigrant_nation
 			capital = 2447
             POR = {
                 all_core = { remove_core = POR add_core = PBA }
