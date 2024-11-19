@@ -8543,98 +8543,98 @@
         size = 230
     }
 }
-#Novo Mariinsk (2000/500 POPS) #danish = chukchi   }
+#Novo Mariinsk (2000/500 POPS) #siberian = chukchi   }
 2637 = {
     aristocrats = {
-        culture = danish
+        culture = siberian
         religion = animist
         size = 7
     }
 
     clergymen = {
-        culture = danish
+        culture = siberian
         religion = animist
         size = 10
     }
 
     artisans = {
-        culture = danish
+        culture = siberian
         religion = animist
         size = 25
     }
 
     soldiers = {
-        culture = danish
+        culture = siberian
         religion = animist
         size = 8
     }
 
     farmers = {
-        culture = danish
+        culture = siberian
         religion = animist
         size = 450
     }
 }
-#Ugolniye (1000/250 POPS) #danish = chukchi  }
+#Ugolniye (1000/250 POPS) #siberian = chukchi  }
 2590 = {
     aristocrats = {
-        culture = danish
+        culture = siberian
         religion = animist
         size = 2
     }
 
     clergymen = {
-        culture = danish
+        culture = siberian
         religion = animist
         size = 5
     }
 
     artisans = {
-        culture = danish
+        culture = siberian
         religion = animist
         size = 10
     }
 
     soldiers = {
-        culture = danish
+        culture = siberian
         religion = animist
         size = 3
     }
 
     farmers = {
-        culture = danish
+        culture = siberian
         religion = animist
         size = 230
     }
 }
-#Pevek (600/150 POPS) #danish = chukchi  }
+#Pevek (600/150 POPS) #siberian = chukchi  }
 2666 = {
     aristocrats = {
-        culture = danish
+        culture = siberian
         religion = animist
         size = 2
     }
 
     clergymen = {
-        culture = danish
+        culture = siberian
         religion = animist
         size = 3
     }
 
     artisans = {
-        culture = danish
+        culture = siberian
         religion = animist
         size = 4
     }
 
     soldiers = {
-        culture = danish
+        culture = siberian
         religion = animist
         size = 2
     }
 
     farmers = {
-        culture = danish
+        culture = siberian
         religion = animist
         size = 135
     }
