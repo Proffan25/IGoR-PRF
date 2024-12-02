@@ -1113,6 +1113,19 @@ Bonus_Immigration = {
 	global_immigrant_attract = 0.15
 	icon = 17
 }
+###PRF-USA###
+continental_army = {
+	mobilisation_size = 0.01
+	icon = 17
+}
+
+2nd_revolutionary_war = {
+	org_regain = 0.1
+	land_organisation = 0.05
+	land_unit_start_experience = 0.5
+	supply_consumption = -0.05
+	icon = 15
+}
 
 Hazardous_Journey = {
 	global_immigrant_attract = -0.15 #-15% immigration
