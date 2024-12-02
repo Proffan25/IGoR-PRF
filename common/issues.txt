@@ -9,8 +9,8 @@ party_issues = {
 		}
 		free_trade = {
 			global_immigrant_attract = 0.01  #1%
-			max_tariff = 0.25
-			min_tariff = -1
+			max_tariff = 0.75 #1
+			min_tariff = -0.25
 		}
 		world_bank = {
 			max_tariff = 0.01
@@ -45,7 +45,6 @@ party_issues = {
 			}
 		}
 		laissez_faire = {
-			max_tax = 0.6
 			global_immigrant_attract = 0.02  #2% , go where my stuff wont be stolen by the state
 			factory_owner_cost = 0.3
 			factory_output = 0.15
@@ -99,7 +98,6 @@ party_issues = {
 			}
 		}
 		state_capitalism = {
-			min_tax = 0.25
 			factory_owner_cost = -1	#negative costs, can't build.
 			rules = {
 				build_factory = yes
@@ -124,7 +122,6 @@ party_issues = {
 			}
 		}
 		planned_economy = {
-			min_tax = 0.5
 			
 			factory_throughput = 0.05
 			factory_owner_cost = -1	#negative costs, can't build.
@@ -213,7 +210,7 @@ party_issues = {
 		}
 		pacifism = {
 			max_military_spending = 0.6
-			supply_consumption = -0.25
+			supply_consumption = -0.15
 			war_exhaustion_effect = 1.25
 			cb_generation_speed_modifier = -0.3
 			mobilization_impact = 1
