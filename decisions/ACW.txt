@@ -839,12 +839,12 @@ political_decisions = {
 			}
 			ai = no
 			NOT = { has_country_modifier = continental_army }
+			exists = CAN
 		}
 		allow = {
 			NOT = {
 				year = 1845
 			}
-			exists = CAN
 			CAN = {
 				ai = no
 			}
@@ -853,10 +853,45 @@ political_decisions = {
 			add_country_modifier = {
 				name = continental_army
 				duration = 365
-			}		
+			}
 		}		
 		ai_will_do = {
 			factor = 1
 		}	
+	}
+	
+	american_rev_war = {
+		picture = washingtons_ghost
+		potential = {
+			tag = USA
+			NOT = {
+				year = 1845
+			}
+			ai = no
+			NOT = {
+				has_country_flag = 2nd_rev_war_flag
+			}
+		}
+		allow = {
+			NOT = {
+				year = 1845
+			}
+			war_with = ENG
+		}
+		effect = {
+			add_country_modifier = {
+				name = rev_fervor
+				duration = 1643
+			)
+			define_general = {
+				name = "Ghost of D.C."
+				personality = defence_3.1
+				background = attack_3.1
+			}
+			set_country_flag = 2nd_rev_war_flag
+		}		
+		ai_will_do = {
+			factor = 1
+		}
 	}
 }

@@ -20,9 +20,9 @@ country_event = {
 	immediate = {
 		define_general = {
 			name = "Sam Hyde"
-			#+1 attack, +1 defence. +10% morale
+			#+4 defence, reliability +20%, org +10%
 			personality = defence_4.3
-			#+3 attack, +3 defence
+			#4 attack, reliability +20%, attrition +4%
 			background = attack_4.3
 		}
 	}

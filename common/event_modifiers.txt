@@ -1119,6 +1119,14 @@ continental_army = {
 	icon = 17
 }
 
+rev_fervor = {
+	org_regain = 0.1
+	land_organisation = 0.05
+	land_unit_start_experience = 0.5
+	supply_consumption = -0.05
+	icon = 15
+}
+
 2nd_revolutionary_war = {
 	org_regain = 0.1
 	land_organisation = 0.05
