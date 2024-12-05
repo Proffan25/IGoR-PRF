@@ -332,5 +332,160 @@ political_decisions = {
 			set_country_flag = establish_the_observatorio_astronomico
 		}
 	}
-
+	
+#Immigration flags
+	south_american_hegemon_ARG = {
+	
+		picture = form_gran_colombia
+	
+		potential = {
+			OR = {
+				tag = ARG
+			}
+			NOT = { has_country_flag = south_american_hegemon }
+		}
+		
+		allow = {
+			war = no
+			year = 1860
+			owns = 2447
+			owns = 2295
+			ARG = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+						province_id = 2131
+						province_id = 2133
+                    }
+                }
+            }	
+		}
+		
+		effect = {
+			any_country = {
+				limit = {
+					has_country_flag = south_american_hegemon
+				}
+				clr_country_flag = south_american_hegemon
+				clr_country_flag = north_american_immigrant_nation
+			}
+			set_country_flag = north_american_immigrant_nation
+			set_country_flag = south_american_hegemon
+		}
+		
+	}
+	
+	south_american_hegemon_BRZ = {
+	
+		picture = form_gran_colombia
+	
+		potential = {
+			OR = {
+				tag = BRZ
+			}
+			NOT = { has_country_flag = south_american_hegemon }
+		}
+		
+		allow = {
+			war = no
+			year = 1860
+			owns = 2247
+			owns = 2348
+			BRZ = {
+                all_core = { 
+					owned_by = THIS 
+                }
+            }
+		}
+		
+		effect = {
+			any_country = {
+				limit = {
+					has_country_flag = south_american_hegemon
+				}
+				clr_country_flag = south_american_hegemon
+				clr_country_flag = north_american_immigrant_nation
+			}
+			set_country_flag = north_american_immigrant_nation
+			set_country_flag = south_american_hegemon
+		}
+		
+	}
+	
+	south_american_hegemon_CLM = {
+	
+		picture = form_gran_colombia
+	
+		potential = {
+			OR = {
+				tag = CLM
+			}
+			NOT = { has_country_flag = south_american_hegemon }
+		}
+		
+		allow = {
+			war = no
+			year = 1860
+			owns = 2447
+			owns = 2295
+			CLM = {
+                all_core = { 
+					OR = {
+                        owned_by = THIS
+						province_id = 1723
+                    }
+                }
+            }
+		}
+		
+		effect = {
+			any_country = {
+				limit = {
+					has_country_flag = south_american_hegemon
+				}
+				clr_country_flag = south_american_hegemon
+				clr_country_flag = north_american_immigrant_nation
+			}
+			set_country_flag = north_american_immigrant_nation
+			set_country_flag = south_american_hegemon
+		}
+		
+	}
+	
+	south_american_hegemon_PEU = {
+	
+		picture = form_gran_colombia
+	
+		potential = {
+			OR = {
+				tag = PEU
+			}
+			NOT = { has_country_flag = south_american_hegemon }
+		}
+		
+		allow = {
+			war = no
+			year = 1860
+			owns = 2247
+			owns = 2348
+			PEU = {
+                all_core = { 
+					owned_by = THIS 
+                }
+            }
+		}
+		
+		effect = {
+			any_country = {
+				limit = {
+					has_country_flag = south_american_hegemon
+				}
+				clr_country_flag = south_american_hegemon
+				clr_country_flag = north_american_immigrant_nation
+			}
+			set_country_flag = north_american_immigrant_nation
+			set_country_flag = south_american_hegemon
+		}
+		
+	}
 }
