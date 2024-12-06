@@ -380,7 +380,7 @@ political_decisions = {
 		potential = {
 			OR = {
 				tag = BRZ
-				tag = PBC
+				tag = PBA
 			}
 			NOT = { has_country_flag = south_american_hegemon }
 		}
