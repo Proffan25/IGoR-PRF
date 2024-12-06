@@ -854,7 +854,7 @@ political_decisions = {
 				name = continental_army
 				duration = 365
 			}
-		}		
+		}
 		ai_will_do = {
 			factor = 1
 		}	
@@ -882,14 +882,14 @@ political_decisions = {
 			add_country_modifier = {
 				name = rev_fervor
 				duration = 1643
-			)
+		}
 			define_general = {
 				name = "Ghost of D.C."
 				personality = defence_3.1
 				background = attack_3.1
 			}
 			set_country_flag = 2nd_rev_war_flag
-		}		
+		}
 		ai_will_do = {
 			factor = 1
 		}
