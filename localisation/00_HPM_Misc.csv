@@ -306,6 +306,9 @@ absolute_monarchy_ruler;King;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 prussian_constitutionalism_ruler;King;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 hms_government_ruler;King;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 democracy_ruler;President;;;;;;;;;;;;;;;;;;;x;;;;
+absolute_empire_ruler;Liege;;;;;;;;;;;;;;;;;;;x;;;;
+semi_constitutional_empire_ruler;Liege;;;;;;;;;;;;;;;;;;;x;;;;
+constitutional_empire_ruler;Liege;;;;;;;;;;;;;;;;;;;x;;;;
 islamic_fundamentalists_title;Islamic Fundamentalists;;;;;;;;;;;;x,,,
 islamic_fundamentalists_name;Islamic Fundamentalists;;;;;;;;;;;;x,,,
 islamic_fundamentalists_desc;Islamic fundamentalists believe that Islam is based on the Qur'an, Hadith and Sunnah and "criticize the tradition, the commentaries, popular religious practices (maraboutism, the cult of saints), deviations, and superstitions". They aim to return to the founding texts, shake off the foreign decadence and to overthrow the government and establish a fundamentalist state.;;;;;;;;;;;;;;;;x,,,

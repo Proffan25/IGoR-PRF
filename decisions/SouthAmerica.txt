@@ -339,9 +339,7 @@ political_decisions = {
 		picture = form_gran_colombia
 	
 		potential = {
-			OR = {
-				tag = ARG
-			}
+			tag = ARG
 			NOT = { has_country_flag = south_american_hegemon }
 		}
 		
@@ -382,6 +380,7 @@ political_decisions = {
 		potential = {
 			OR = {
 				tag = BRZ
+				tag = PBC
 			}
 			NOT = { has_country_flag = south_american_hegemon }
 		}
@@ -392,10 +391,10 @@ political_decisions = {
 			owns = 2247
 			owns = 2348
 			BRZ = {
-                all_core = { 
+				all_core = { 
 					owned_by = THIS 
-                }
-            }
+				}
+			}
 		}
 		
 		effect = {
@@ -417,9 +416,7 @@ political_decisions = {
 		picture = form_gran_colombia
 	
 		potential = {
-			OR = {
-				tag = CLM
-			}
+			tag = CLM
 			NOT = { has_country_flag = south_american_hegemon }
 		}
 		
@@ -457,9 +454,7 @@ political_decisions = {
 		picture = form_gran_colombia
 	
 		potential = {
-			OR = {
-				tag = PEU
-			}
+			tag = PEU
 			NOT = { has_country_flag = south_american_hegemon }
 		}
 		
