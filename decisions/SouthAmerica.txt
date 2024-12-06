@@ -416,7 +416,10 @@ political_decisions = {
 		picture = form_gran_colombia
 	
 		potential = {
-			tag = CLM
+			OR = {
+				tag = CLM
+				tag = GCO
+			}
 			NOT = { has_country_flag = south_american_hegemon }
 		}
 		
@@ -454,7 +457,10 @@ political_decisions = {
 		picture = form_gran_colombia
 	
 		potential = {
-			tag = PEU
+			OR = {
+				tag = PEU
+				tag = PBC
+			}
 			NOT = { has_country_flag = south_american_hegemon }
 		}
 		
