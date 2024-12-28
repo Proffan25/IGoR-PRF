@@ -58,7 +58,7 @@ prussian_constitutionalism = {
 	reactionary = yes	
 	
 	election = yes
-	duration = 1000
+	duration = 1200
 	appoint_ruling_party = yes
 	flagType = monarchy
 }
@@ -73,7 +73,7 @@ hms_government = {
 	fascist = yes	
 	
 	election = yes
-	duration = 1000
+	duration = 1200
 	appoint_ruling_party = yes
 	flagType = monarchy
 }
@@ -88,7 +88,7 @@ democracy = {
 	fascist = yes	
 	
 	election = yes
-	duration = 1000
+	duration = 1200
 	appoint_ruling_party = yes
 	flagType = republic
 }
@@ -119,7 +119,7 @@ semi_constitutional_empire = {
     reactionary = yes
 
     election = yes
-    duration = 1000
+    duration = 1200
     appoint_ruling_party = yes
     flagType = monarchy
 }
@@ -134,7 +134,7 @@ constitutional_empire = {
     fascist = yes
 
     election = yes
-    duration = 1000
+    duration = 1200
     appoint_ruling_party = yes
     flagType = monarchy
 }
