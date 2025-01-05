@@ -1338,3 +1338,9 @@ classless_society_modifier = {
 	leadership_modifier = -0.1
 	icon = 17
 }
+
+### Rice Farming techniques ###
+rice_farming_techniques = {
+	population_growth = 0.001
+	icon = 19
+}

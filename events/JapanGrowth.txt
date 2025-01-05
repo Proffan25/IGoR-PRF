@@ -1,0 +1,34 @@
+#############################
+#Japan Growth Events      #
+#############################
+country_event = {
+	
+	id = 200017
+	
+	trigger = {
+		tag = JAP
+		any_core = {
+			owner = { tag = JAP }
+			NOT = { has_province_modifier = rice_farming_techniques }
+			NOT = { state_id = 1485 }
+		}
+	}
+	
+	title = "EVTNAME200017"
+	desc = "EVTDESC200017"
+	
+	option = {
+		name = "EVTOPTA200017"
+		all_core = {
+			limit = {
+				owner = { tag = JAP }
+				NOT = { state_id = 1485 }
+			}
+            add_province_modifier = {
+                name = rice_farming_techniques
+                duration = -1
+            }
+        }
+	}
+}
+	
