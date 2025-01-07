@@ -34,6 +34,18 @@ south_american_hegemon_PEU_desc;Through might and conquest we have managed to im
 EVTNAME200017;Rice Farming Techniques;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;
 EVTDESC200017;Adds a modifier to compensate for us lowering Japan's LR so it's less rewarding to partition it;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;
 EVTOPTA200017;Glorious Nippon rice, planted over 1000 times;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;
+EVTNAME200101;Lost South American Hegemony;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;
+EVTDESC200101;As we have lost control over either §GBuenos Aires§!, §GLima§! or §GRio de Janeiro§! we can no longer claim to be hegemonic.\n§RWe will no longer benefit from north american immigration.;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;
+EVTOPTA200101;Death to South American Hugboxes;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;
+EVTNAME200102;Lost South American Hegemony;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;
+EVTDESC200102;As we have lost control over either §GRio de Janeiro§!, §GBuenos Aires§! or §GBogota§! we can no longer claim to be hegemonic.\n§RWe will no longer benefit from north american immigration.;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;
+EVTOPTA200102;Death to South American Hugboxes;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;
+EVTNAME200103;Lost South American Hegemony;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;
+EVTDESC200103;As we have lost control over either §GBogota§!, §GRio de Janeiro§! or §GLima§! we can no longer claim to be hegemonic.\n§RWe will no longer benefit from north american immigration.;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;
+EVTOPTA200103;Death to South American Hugboxes;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;
+EVTNAME200104;Lost South American Hegemony;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;
+EVTDESC200104;As we have lost control over either §GLima§!, §GBogota§! or §GBuenos Aires§! we can no longer claim to be hegemonic.\n§RWe will no longer benefit from north american immigration.;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;
+EVTOPTA200104;Death to South American Hugboxes;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;
 #;;;;;;;;;;;;;;Modifiers;;;;
 continental_army;Continental Army;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;
 continental_army_desc;Irish please apply, we need more soldiers UwU.;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;

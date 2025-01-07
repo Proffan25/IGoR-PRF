@@ -1,0 +1,116 @@
+#############################
+#Clear Hegemon events       #
+#############################
+
+country_event = {
+
+	id = 200101
+	
+	trigger = {
+		tag = ARG
+		has_country_flag = south_american_hegemon
+		NOT = {
+			AND = {
+				owns = 2348
+				owns = 2447
+				owns = 2295
+			}
+		}
+	}
+	
+	title = "EVTNAME200101"
+	desc = "EVTDESC200101"
+	
+	option = {
+		name = "EVTOPTA200101"
+		clr_country_flag = south_american_hegemon
+		clr_country_flag = north_american_immigrant_nation
+	}
+}
+
+country_event = {
+
+	id = 200102
+	
+	trigger = {
+		OR = {
+			tag = BRZ
+			tag = PBA
+		}
+		has_country_flag = south_american_hegemon
+		NOT = {
+			AND = {
+				owns = 2447
+				owns = 2247
+				owns = 2348
+			}
+		}
+	}
+	
+	title = "EVTNAME200102"
+	desc = "EVTDESC200102"
+	
+	option = {
+		name = "EVTOPTA200102"
+		clr_country_flag = south_american_hegemon
+		clr_country_flag = north_american_immigrant_nation
+	}
+}
+
+country_event = {
+
+	id = 200103
+	
+	trigger = {
+		OR = {
+			tag = CLM
+			tag = GCO
+		}
+		has_country_flag = south_american_hegemon
+		NOT = {
+			AND = {
+				owns = 2247
+				owns = 2447
+				owns = 2295
+			}
+		}
+	}
+	
+	title = "EVTNAME200103"
+	desc = "EVTDESC200103"
+	
+	option = {
+		name = "EVTOPTA200103"
+		clr_country_flag = south_american_hegemon
+		clr_country_flag = north_american_immigrant_nation
+	}
+}
+
+country_event = {
+
+	id = 200104
+	
+	trigger = {
+		OR = {
+			tag = PEU
+			tag = PBC
+		}
+		has_country_flag = south_american_hegemon
+		NOT = {
+			AND = {
+				owns = 2295
+				owns = 2247
+				owns = 2348
+			}
+		}
+	}
+	
+	title = "EVTNAME200104"
+	desc = "EVTDESC200104"
+	
+	option = {
+		name = "EVTOPTA200104"
+		clr_country_flag = south_american_hegemon
+		clr_country_flag = north_american_immigrant_nation
+	}
+}
