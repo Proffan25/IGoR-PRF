@@ -1,0 +1,21 @@
+political_decisions = {
+	
+	canals = {
+		potential = {
+			tag = GHO
+			NOT = { has_global_flag = canals }
+		}
+		allow = {
+		}
+		effect = {
+		enable_canal = 4
+		enable_canal = 5
+		enable_canal = 6
+			set_global_flag = canals
+		}
+		 ai_will_do = {
+            factor = 100
+        }
+	}
+
+}
