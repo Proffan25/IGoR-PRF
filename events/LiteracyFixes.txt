@@ -84,8 +84,7 @@ country_event = {
 				OR = {	
 					has_pop_culture = south_german
 					has_pop_culture = flemish
-					has_pop_culture = basque
-					has_pop_culture = catalan
+					has_pop_culture = spanish
 					has_pop_culture = north_italian
 				}
 			}
