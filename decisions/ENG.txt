@@ -425,6 +425,7 @@ political_decisions = {
 			HND = { 
 				vassal_of = ENG 
 			}
+			war = no
 		}
 		effect = {
 			HND = {
