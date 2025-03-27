@@ -1091,19 +1091,13 @@
     soldiers = {
         culture = north_german
         religion = animist
-        size = 975
+        size = 1365
     }
 
     farmers = {
         culture = north_german
         religion = animist
-        size = 29225
-    }
-
-    farmers = {
-        culture = north_german
-        religion = animist
-        size = 525
+        size = 29340
     }
 }
 #Stralsund (157000/39250 POPS)
@@ -1129,7 +1123,7 @@
     soldiers = {
         culture = north_german
         religion = animist
-        size = 780
+        size = 2184
     }
 
     farmers = {
@@ -1148,12 +1142,6 @@
         culture = north_german
         religion = animist
         size = 1400
-    }
-
-    soldiers = {
-        culture = north_german
-        religion = animist
-        size = 780
     }
 
     farmers = {
@@ -1177,13 +1165,7 @@
     farmers = {
         culture = north_german
         religion = animist
-        size = 420
-    }
-
-    farmers = {
-        culture = north_german
-        religion = animist
-        size = 420
+        size = 216
     }
 }
 #Brandenburg Region (1628000) #see Poland.txt for balance of region
@@ -1271,7 +1253,7 @@
     soldiers = {
         culture = north_german
         religion = animist
-        size = 10000
+        size = 10064
     }
 
     farmers = {
@@ -1296,12 +1278,6 @@
         culture = north_german
         religion = animist
         size = 1350
-    }
-
-    soldiers = {
-        culture = north_german
-        religion = animist
-        size = 32
     }
 
     farmers = {
@@ -1352,12 +1328,6 @@
         size = 1850
     }
 
-    soldiers = {
-        culture = polish
-        religion = animist
-        size = 32
-    }
-
     farmers = {
         culture = polish
         religion = animist
@@ -1405,19 +1375,13 @@
     soldiers = {
         culture = north_german
         religion = animist
-        size = 1560
+        size = 3120
     }
 
     farmers = {
         culture = north_german
         religion = animist
-        size = 62500
-    }
-
-    farmers = {
-        culture = north_german
-        religion = animist
-        size = 840
+        size = 61780
     }
 }
 #Pritzwalk (232000/58000 POPS)
@@ -1443,19 +1407,13 @@
     soldiers = {
         culture = north_german
         religion = animist
-        size = 1560
+        size = 2886
     }
 
     farmers = {
         culture = north_german
         religion = animist
-        size = 51475
-    }
-
-    farmers = {
-        culture = north_german
-        religion = animist
-        size = 840
+        size = 50989
     }
 }
 #Cottbus (344000/86000 POPS)
@@ -1481,7 +1439,7 @@
     soldiers = {
         culture = north_german
         religion = animist
-        size = 1495
+        size = 3817
     }
 
     farmers = {
@@ -1502,28 +1460,10 @@
         size = 300
     }
 
-    soldiers = {
-        culture = north_german
-        religion = animist
-        size = 32
-    }
-
     farmers = {
         culture = north_german
         religion = animist
-        size = 5600
-    }
-
-    farmers = {
-        culture = north_german
-        religion = animist
-        size = 805
-    }
-
-    farmers = {
-        culture = north_german
-        religion = animist
-        size = 18
+        size = 4133
     }
 }
 #Anhalt Region (1527000)
@@ -1563,7 +1503,7 @@
     soldiers = {
         culture = north_german
         religion = animist
-        size = 1495
+        size = 6142
     }
 
     farmers = {
@@ -1584,16 +1524,10 @@
         size = 1750
     }
 
-    soldiers = {
-        culture = north_german
-        religion = animist
-        size = 162
-    }
-
     farmers = {
         culture = north_german
         religion = animist
-        size = 22750
+        size = 19158
     }
 
     clergymen = {
@@ -1606,18 +1540,6 @@
         culture = north_german
         religion = animist
         size = 295
-    }
-
-    farmers = {
-        culture = north_german
-        religion = animist
-        size = 805
-    }
-
-    farmers = {
-        culture = north_german
-        religion = animist
-        size = 88
     }
 }
 #Erfurt (220800/55200 POPS)
@@ -1643,7 +1565,7 @@
     soldiers = {
         culture = north_german
         religion = animist
-        size = 845
+        size = 2275
     }
 
     farmers = {
@@ -1664,16 +1586,10 @@
         size = 750
     }
 
-    soldiers = {
-        culture = north_german
-        religion = animist
-        size = 65
-    }
-
     farmers = {
         culture = north_german
         religion = animist
-        size = 9050
+        size = 8175
     }
 
     clergymen = {
@@ -1686,18 +1602,6 @@
         culture = north_german
         religion = animist
         size = 195
-    }
-
-    farmers = {
-        culture = north_german
-        religion = animist
-        size = 455
-    }
-
-    farmers = {
-        culture = north_german
-        religion = animist
-        size = 35
     }
 }
 #Halle (445000/111250 POPS)
@@ -1723,7 +1627,7 @@
     soldiers = {
         culture = north_german
         religion = animist
-        size = 910
+        size = 3900
     }
 
     farmers = {
@@ -1744,16 +1648,10 @@
         size = 575
     }
 
-    soldiers = {
-        culture = north_german
-        religion = animist
-        size = 65
-    }
-
     farmers = {
         culture = north_german
         religion = animist
-        size = 10225
+        size = 7825
     }
 
     clergymen = {
@@ -1766,18 +1664,6 @@
         culture = north_german
         religion = animist
         size = 245
-    }
-
-    farmers = {
-        culture = north_german
-        religion = animist
-        size = 490
-    }
-
-    farmers = {
-        culture = north_german
-        religion = animist
-        size = 35
     }
 }
 #Stendal (140000/35000 POPS)
@@ -1803,19 +1689,13 @@
     soldiers = {
         culture = north_german
         religion = animist
-        size = 845
+        size = 1690
     }
 
     farmers = {
         culture = north_german
         religion = animist
         size = 31275
-    }
-
-    farmers = {
-        culture = north_german
-        religion = animist
-        size = 455
     }
 }
 #under the rule of Anhalt 1836
@@ -2934,7 +2814,7 @@
     soldiers = {
         culture = north_german
         religion = animist
-        size = 179
+        size = 1432
     }
 
     farmers = {
@@ -2971,12 +2851,6 @@
         culture = north_german
         religion = animist
         size = 5000
-    }
-
-    soldiers = {
-        culture = north_german
-        religion = animist
-        size = 179
     }
 
     farmers = {
@@ -3029,12 +2903,6 @@
         size = 2000
     }
 
-    soldiers = {
-        culture = north_german
-        religion = animist
-        size = 162
-    }
-
     farmers = {
         culture = north_german
         religion = animist
@@ -3074,7 +2942,7 @@
     soldiers = {
         culture = north_german
         religion = animist
-        size = 975
+        size = 2274
     }
 
     farmers = {
@@ -3154,7 +3022,7 @@
     soldiers = {
         culture = north_german
         religion = animist
-        size = 227
+        size = 1556
     }
 
     farmers = {
@@ -3191,12 +3059,6 @@
         culture = north_german
         religion = animist
         size = 2950
-    }
-
-    soldiers = {
-        culture = north_german
-        religion = animist
-        size = 162
     }
 
     farmers = {
@@ -3352,7 +3214,7 @@
     soldiers = {
         culture = north_german
         religion = animist
-        size = 1495
+        size = 4485
     }
 
     farmers = {
@@ -3414,7 +3276,7 @@
     soldiers = {
         culture = north_german
         religion = animist
-        size = 1495
+        size = 3900
     }
 
     farmers = {
@@ -3439,12 +3301,6 @@
         culture = north_german
         religion = animist
         size = 450
-    }
-
-    soldiers = {
-        culture = north_german
-        religion = animist
-        size = 65
     }
 
     farmers = {
@@ -3500,7 +3356,7 @@
     soldiers = {
         culture = north_german
         religion = animist
-        size = 1495
+        size = 4680
     }
 
     farmers = {
@@ -3537,12 +3393,6 @@
         culture = north_german
         religion = animist
         size = 1600
-    }
-
-    soldiers = {
-        culture = north_german
-        religion = animist
-        size = 845
     }
 
     farmers = {
@@ -3616,7 +3466,7 @@
     soldiers = {
         culture = north_german
         religion = animist
-        size = 325
+        size = 1300
     }
 
     farmers = {
@@ -3660,7 +3510,7 @@
     soldiers = {
         culture = north_german
         religion = animist
-        size = 845
+        size = 1600
     }
 
     farmers = {
@@ -3736,7 +3586,7 @@
     soldiers = {
         culture = north_german
         religion = animist
-        size = 845
+        size = 3607
     }
 
     farmers = {
@@ -3767,12 +3617,6 @@
         culture = north_german
         religion = animist
         size = 3300
-    }
-
-    soldiers = {
-        culture = north_german
-        religion = animist
-        size = 1560
     }
 
     farmers = {
@@ -3828,7 +3672,7 @@
     soldiers = {
         culture = north_german
         religion = animist
-        size = 325
+        size = 4868
     }
 
     farmers = {
@@ -3853,12 +3697,6 @@
         culture = north_german
         religion = animist
         size = 4850
-    }
-
-    soldiers = {
-        culture = north_german
-        religion = animist
-        size = 2112
     }
 
     farmers = {
@@ -3902,7 +3740,7 @@
     soldiers = {
         culture = north_german
         religion = animist
-        size = 845
+        size = 2247
     }
 
     farmers = {
@@ -3927,12 +3765,6 @@
         culture = north_german
         religion = animist
         size = 1100
-    }
-
-    soldiers = {
-        culture = north_german
-        religion = animist
-        size = 845
     }
 
     farmers = {
@@ -3976,7 +3808,7 @@
     soldiers = {
         culture = north_german
         religion = animist
-        size = 97
+        size = 1620
     }
 
     farmers = {
@@ -4001,12 +3833,6 @@
         culture = north_german
         religion = animist
         size = 900
-    }
-
-    soldiers = {
-        culture = north_german
-        religion = animist
-        size = 65
     }
 
     farmers = {
@@ -5075,7 +4901,7 @@
     soldiers = {
         culture = north_german
         religion = animist
-        size = 910
+        size = 2355
     }
 
     farmers = {
@@ -5094,12 +4920,6 @@
         culture = north_german
         religion = animist
         size = 200
-    }
-
-    soldiers = {
-        culture = north_german
-        religion = animist
-        size = 32
     }
 
     farmers = {
@@ -5163,7 +4983,7 @@
     soldiers = {
         culture = north_german
         religion = animist
-        size = 2145
+        size = 5802
     }
 
     farmers = {
@@ -5182,12 +5002,6 @@
         culture = north_german
         religion = animist
         size = 1100
-    }
-
-    soldiers = {
-        culture = north_german
-        religion = animist
-        size = 845
     }
 
     farmers = {
@@ -5220,12 +5034,6 @@
         size = 250
     }
 
-    soldiers = {
-        culture = polish
-        religion = animist
-        size = 32
-    }
-
     farmers = {
         culture = polish
         religion = animist
@@ -5242,12 +5050,6 @@
         culture = lithuanian
         religion = animist
         size = 250
-    }
-
-    soldiers = {
-        culture = lithuanian
-        religion = animist
-        size = 32
     }
 
     farmers = {
@@ -5303,7 +5105,7 @@
     soldiers = {
         culture = north_german
         religion = animist
-        size = 357
+        size = 1556
     }
 
     farmers = {
@@ -5323,13 +5125,7 @@
         religion = animist
         size = 100
     }
-
-    soldiers = {
-        culture = polish
-        religion = animist
-        size = 16
-    }
-
+	
     farmers = {
         culture = polish
         religion = animist
@@ -5346,12 +5142,6 @@
         culture = lithuanian
         religion = animist
         size = 150
-    }
-
-    soldiers = {
-        culture = lithuanian
-        religion = animist
-        size = 16
     }
 
     farmers = {
