@@ -203,6 +203,19 @@ COM_proletarian_dictatorship;People's Commonwealth;;;;;;;;;;;;;
 COM_democracy;Federation of Nations;;;;;;;;;;;;;
 COM_presidential_dictatorship;Commonwealth of Nations;;;;;;;;;;;;;
 COM_ADJ;British;;;;;;;;;;;;;
+TUR;Turkey;;;;;;;;;x;;;;
+TUR_ADJ;Turkish;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+TUR_absolute_monarchy;Ottoman Empire;;;;;;;;;;;;;;;;;;;;;;;;x
+TUR_absolute_monarchy_ADJ;Ottoman;;;;;;;;;;;;;;;;;;;;;;;;x
+TUR_prussian_constitutionalism;Ottoman Empire;;;;;;;;;;;;;;;;;;;;;;;x
+TUR_prussian_constitutionalism_ADJ;Ottoman;;;;;;;;;;;;;;;;;;;;;;;;x
+TUR_hms_government;Ottoman Empire;;;;;;;;;;;;;;;;;;;;;;;;x
+TUR_hms_government_ADJ;Ottoman;;;;;;;;;;;;;;;;;;;;;;;;x
+TUR_proletarian_dictatorship;Turkish SR;;;;;;;;;;;;;x
+TUR_proletarian_dictatorship_ADJ;Turkish;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+TUR_fascist_dictatorship;Turkish State;;;;;;;;;;;;;
+TUR_presidential_dictatorship;Republic of Turkey;;;;;;;;;;;;;
+TUR_democracy;Republic of Turkey;;;;;;;;;;;;;
 #;;;;;;;;;;;;;;RGOs;;;;
 opium;Copium;Copium;Copium;;Copium;;;;;;;;;x;;;;
 #;;;;;;;;;;;;;;States;;;;

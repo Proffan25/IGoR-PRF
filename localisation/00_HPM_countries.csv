@@ -2446,17 +2446,6 @@ BYZ_democracy;The Greek Federation;;;;;;;;;;;;;x
 BYZ_presidential_dictatorship;The Greek Federation;;;;;;;;;;;;;x
 BYZ_bourgeois_dictatorship;The Greek Federation;;;;;;;;;;;;;x
 BYZ_proletarian_dictatorship;The Socialist Greek Union;;;;;;;;;;;;;x
-TUR;Turkey;;;;;;;;;x;;;;
-TUR_ADJ;Turkish;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-TUR_absolute_monarchy;The Ottoman Empire;;;;;;;;;;;;;;;;;;;;;;;;x
-TUR_absolute_monarchy_ADJ;Ottoman;;;;;;;;;;;;;;;;;;;;;;;;x
-TUR_prussian_constitutionalism;The Ottoman Empire;;;;;;;;;;;;;;;;;;;;;;;x
-TUR_prussian_constitutionalism_ADJ;Ottoman;;;;;;;;;;;;;;;;;;;;;;;;x
-TUR_hms_government;The Ottoman Empire;;;;;;;;;;;;;;;;;;;;;;;;x
-TUR_hms_government_ADJ;Ottoman;;;;;;;;;;;;;;;;;;;;;;;;x
-TUR_bourgeois_dictatorship;Turkish Free State;;;;;;;;;;;;;x
-TUR_proletarian_dictatorship;Turkish Socialist Republic;;;;;;;;;;;;;x
-TUR_proletarian_dictatorship_ADJ;Turkish;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 TUR_reactionary;Nizam-i Alem;;;;;;;;;;;;;x
 TUR_reactionary_2;Ittihad-i Muhammedi Firkasi;;;;;;;;;;;;;x
 TUR_reactionary_3;Halâskâr Zabitân;;;;;;;;;;;;;x
