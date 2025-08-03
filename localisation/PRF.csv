@@ -216,6 +216,10 @@ TUR_proletarian_dictatorship_ADJ;Turkish;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 TUR_fascist_dictatorship;Turkish State;;;;;;;;;;;;;
 TUR_presidential_dictatorship;Republic of Turkey;;;;;;;;;;;;;
 TUR_democracy;Republic of Turkey;;;;;;;;;;;;;
+PAP_democracy;Roman Republic;;;;;;;;;;;;;
+PAP_presidential_dictatorship;Roman Republic;;;;;;;;;;;;;
+PAP_democracy_ADJ;Roman;;;;;;;;;;;;;
+PAP_presidential_dictatorship_ADJ;Roman;;;;;;;;;;;;;
 #;;;;;;;;;;;;;;RGOs;;;;
 opium;Copium;Copium;Copium;;Copium;;;;;;;;;x;;;;
 #;;;;;;;;;;;;;;States;;;;
