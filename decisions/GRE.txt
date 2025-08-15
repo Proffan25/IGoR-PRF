@@ -89,6 +89,7 @@ political_decisions = {
 			858 = { change_province_name = "Saranta Ekklisiès" }
 			861 = { change_province_name = "Skoutarion" }
 			TUR = { all_core = { remove_core = TUR } }
+            add_accepted_culture = south_italian
 			set_country_flag = gre_rome_restored
 		}
 	}
