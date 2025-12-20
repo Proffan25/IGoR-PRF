@@ -152,9 +152,9 @@ BEL_390;Brabant;;;;;;;;;;;;;x;;
 NET_379;Zeeland;;;;;;;;;;;;;x;;
 AUS_2538;Vojvodina;;;;;;;;;;;;;x;;
 AUS_736;Friaul;Frioul;Friaul;;Friuli;;;;;;;;;x;;;;
-AUS_778;Istria;Istrie;Istrien;;Istria;;;;;;;;;x;;;;
+AUS_778;Istrien;Istrien;Istrien;;Istrien;;;;;;;;;x;;;;
 AUS_781;North Dalmatia;La Dalmatie du Nord;Nord-Dalmatien;;Dalmacia del norte;;;;;;;;;x;;;;
-AUS_780;South Dalmatia;Dalmatie du Sud;Süd-Dalmatien;;Dalmacia del sur;;;;;;;;;x;;;;
+AUS_780;Dalmatien;Dalmatien;Dalmatien;;Dalmatien;;;;;;;;;x;;;;
 #############################################;;;;;;;;;;;;;;x
 #State Localisations - Italy;;;;;;;;;;;;;;x
 #############################################;;;;;;;;;;;;;;x

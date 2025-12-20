@@ -236,7 +236,6 @@ FRO_socialist;Javnaðarflokkurin;;;;;;;;;;;;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,,,
 FRO_anarcho_liberal;Vinnuflokkurin;;;;;;;;;;;;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,,,
 FRO_communist;Kommunistiski Flokkur Føroya;;;;;;;;;;;;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,,,
 FRO_fascist;Loysingarflokkurin;;;;;;;;;;;;;;;;;;;;;;;;;;X,,,,,,,,,,,,,,,,
-RUS_proletarian_dictatorship;The Soviet Union;;;;;;;;;;;;;;;;;;;x
 NCT;Neuchatel;;;;;;;;;;;;;;;;;;;;;;x;;;;
 NCT_ADJ;Neuchateli;;;;;;;;;;;;;;;;;;;;;;x;;;;
 UBD;The United Baltic Provinces;;;;;;;;;;;;;;;;;;;;;;x;;;;
@@ -1142,14 +1141,6 @@ GAB_reactionary;Gabonese Democratic Bloc;;;;;;;;;;;;x
 GAB_anarcho_liberal;Defense of Gabonese Interests;;;;;;;;;;;;x
 GAB_communist;Union, Work, Progress;;;;;;;;;;;;x
 GAB_fascist;People's Unity Party;;;;;;;;;;;;x
-GCO;Gran Colombia;;;;;;;;;;;;x
-GCO_ADJ;Colombian;;;;;;;;;;;;x
-GCO_absolute_monarchy;New Granada;;;;;;;;;;;;x
-GCO_prussian_constitutionalism;New Granada;;;;;;;;;;;;x
-GCO_hms_government;New Granada;;;;;;;;;;;;x
-GCO_absolute_monarchy_ADJ;New Granadan;;;;;;;;;;;;x
-GCO_prussian_constitutionalism_ADJ;New Granadan;;;;;;;;;;;;x
-GCO_hms_government_ADJ;New Granadan;;;;;;;;;;;;x
 GLC;Galicia;;;;;;;;;;;;;x
 GLC_ADJ;Galician;;;;;;;;;;;;;x
 GLC_conservative;Partido Moderado;Partido Moderado;Partido Moderado;;;;;;;;;;;;x;;;;;;;;;;;;;;
