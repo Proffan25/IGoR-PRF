@@ -377,9 +377,6 @@ YNN_conservative_2;Local Tusi;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 XIN_reactionary_2;Confucianist Faction;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 XIN_conservative_2;Amban Faction;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 XIN_liberal_2;Reformer Faction;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-KOR;Korea;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-KOR_absolute_monarchy;The Kingdom of Joseon;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
-KOR_proletarian_dictatorship;DPRK;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 KOR_reactionary;Bandong;;;;;;;;;;;;;;;;;;x;;;;
 KOR_liberal;Taewon'gun;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 KOR_liberal_2;Songgyungwan;;;;;;;;;;;;;;;;;;;;;;;x;;;;
@@ -1350,10 +1347,6 @@ KAM_anarcho_liberal;The Libertains;Faction radicale;Die radikale Fraktion;;;;;;;
 KAM_socialist;The Socialists;Faction socialiste;Die sozialistische Fraktion;;;;;;;;;;;x
 KAM_communist;The Communists;Faction communiste;Die kommunistische Fraktion;;;;;;;;;;;x
 KAM_fascist;The Nationalists;Faction fasciste;Die faschistische Fraktion;;;;;;;;;;;x
-KHI_absolute_monarchy;The Khanate of Khiva;;;;;;;;;;;;;;;;;;x;;;;
-BUK_absolute_monarchy;The Emirate of Bukhara;;;;;;;;;;;;;;;;x;;;;
-KOK_absolute_monarchy;The Khanate of Kokand;;;;;;;;;;;;;;;;;;x;;;;
-KAZ_absolute_monarchy;The Kazakh Khanate;;;;;;;;;;;;;x
 KAZ;Kazakhstan;;;;;;;;;;;;;x
 KAZ_ADJ;Kazakh;;;;;;;;;;;;;x
 KAZ_conservative;The Conservatives;Faction royale;Königsfraktion;;;;;;;;;;;x
@@ -1678,12 +1671,6 @@ MRU_absolute_monarchy;The Maritime Union;;;;;;;;;;;;x
 MRU_prussian_constitutionalism;The Maritime Union;;;;;;;;;;;;x
 MRU_hms_government;The Maritime Union;;;;;;;;;;;;x
 MRU_ADJ;Maritime;;;;;;;;;;;;x
-NEJ_absolute_monarchy;Nejd Emirate;;;;;;;;;;;;x
-NEJ_prussian_constitutionalism;Nejd Emirate;;;;;;;;;;;;x
-NEJ_hms_government;Nejd Emirate;;;;;;;;;;;;x
-NEJ_absolute_monarchy_ADJ;Saudi;;;;;;;;;;;;x
-NEJ_prussian_constitutionalism_ADJ;Saudi;;;;;;;;;;;;x
-NEJ_hms_government_ADJ;Saudi;;;;;;;;;;;;x
 NEJ_conservative;Al-Sa'ud;;;;;;;;;;;;;;;;;;;x;;;;
 NEJ_liberal;Al-Ahrar;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 NEJ_reactionary;Al-Da'wa al-Wahhabiyyah;;;;;;;;;;;;;;;;;;;;;;x;;;;
@@ -1879,8 +1866,6 @@ PML;Pomerelia;;;;;;;;;;;;x
 PML_ADJ;Pomerelian;;;;;;;;;;;;x
 PNP;Pohnpei;Pohnpei;Pohnpei;;;;;;;;;;;;x
 PNP_ADJ;Pohnpeian;Pohnpeian;Pohnpeian;;;;;;;;;;;;x
-PNJ;Punjab;Pendjab;Pandschab;;Punjab;;;;;;;;;;x;;;;;;;;;;;;;;
-PNJ_ADJ;Panjabi;Penjabi;Pundschabisch;;;;;;;;;;;;x;;;;;;;;;;;;;;
 PNJ_conservative;Khalsa;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 PNJ_liberal;Fauj-i-Khas;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 PNJ_reactionary;Misls;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -1888,16 +1873,6 @@ PNJ_anarcho_liberal;The Radical Party;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 PNJ_socialist;The Socialist Party;;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 PNJ_communist;The Communist Party;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 PNJ_fascist;The Fascist Party;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-PNJ_absolute_monarchy;The Sikh Empire;;;;;;;;;;;;x
-PNJ_prussian_constitutionalism;The Sikh Empire;;;;;;;;;;;;x
-PNJ_absolute_monarchy_ADJ;Sikh;;;;;;;;;;;;x
-PNJ_prussian_constitutionalism_ADJ;Sikh;;;;;;;;;;;;x
-PNJ_hms_government;The Sikh Kingdom;;;;;;;;;;;;x
-PNJ_hms_government_ADJ;Sikh;;;;;;;;;;;;x
-PNJ_democracy;Khalistan;;;;;;;;;;;;x
-PNJ_democracy_ADJ;Khalistani;;;;;;;;;;;;x
-PNJ_fascist_dictatorship;Khalistan;;;;;;;;;;;;x
-PNJ_fascist_dictatorship_ADJ;Khalistani;;;;;;;;;;;;x
 PNT;Pontus;;;;;;;;;;;;x
 PNT_ADJ;Pontic;;;;;;;;;;;;x
 PRI;Puerto Rico;Puerto Rico;Puerto Rico;;Puerto Rico;;;;;;;;;x

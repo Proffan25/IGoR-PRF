@@ -1,5 +1,2 @@
-owner = USA
-controller = USA
 trade_goods = iron
-life_rating = 32
-colonial = 1
+life_rating = 20
