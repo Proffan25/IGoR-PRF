@@ -7,6 +7,8 @@ country_event = {
 	trigger = {
 		tag = GHO
 		NOT = { has_country_flag = indian_economic_compensation }
+		# Morally equivalent to chiang kai shek winning
+		always = no
 	}
 	
 	mean_time_to_happen = {
@@ -42,6 +44,8 @@ country_event = {
 	trigger = {
 		tag = GHO
 		NOT = { has_country_flag = chinese_economic_compensation }
+		# Morally equivalent to chiang kai shek winning
+		always = no
 	}
 	
 	mean_time_to_happen = {
