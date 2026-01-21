@@ -75,7 +75,7 @@
 	}
 
 	slaves = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 6500
 	}
@@ -155,7 +155,7 @@
 	}
 
 	slaves = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 2000
 	}
@@ -223,7 +223,7 @@
 	}
 
 	slaves = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 5000
 	}
@@ -303,7 +303,7 @@
 	}
 
 	slaves = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 4000
 	}
@@ -391,7 +391,7 @@
 	}
 
 	slaves = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 6000
 	}
@@ -471,7 +471,7 @@
 	}
 
 	slaves = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 2000
 	}
@@ -539,7 +539,7 @@
 	}
 
 	slaves = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 3000
 	}
@@ -611,31 +611,31 @@
 	}
 
 	aristocrats = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 15
 	}
 
 	clergymen = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 900
 	}
@@ -673,31 +673,31 @@
 	}
 
 	aristocrats = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 15
 	}
 
 	clergymen = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 900
 	}
@@ -705,31 +705,31 @@
 #Matan al Sarah (4000/1000 POPS)
 2585 = {
 	aristocrats = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 15
 	}
 
 	clergymen = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 900
 	}
@@ -781,37 +781,37 @@
 	}
 
 	aristocrats = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 1875
 	}
 
 	slaves = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 1100
 	}
@@ -849,37 +849,37 @@
 	}
 
 	aristocrats = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 1875
 	}
 
 	slaves = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 500
 	}
@@ -917,37 +917,37 @@
 	}
 
 	aristocrats = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 1100
 	}
 
 	farmers = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 900
 	}
 
 	slaves = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 1100
 	}
@@ -985,37 +985,37 @@
 	}
 
 	aristocrats = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 15
 	}
 
 	clergymen = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 900
 	}
 
 	slaves = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 2000
 	}

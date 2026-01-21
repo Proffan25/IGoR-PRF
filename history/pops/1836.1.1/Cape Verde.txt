@@ -39,31 +39,31 @@
 	}
 
 	clergymen = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 150
 	}
 
 	artisans = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 700
 	}
 
 	soldiers = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 150
 	}
 
 	farmers = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 13500
 	}
 
 	slaves = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 4000
 	}

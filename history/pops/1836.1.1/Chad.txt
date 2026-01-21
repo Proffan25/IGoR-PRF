@@ -3,112 +3,112 @@
 #Massenya (320000/80000 POPS)
 1818 = {
 	aristocrats = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 500
 	}
 
 	bureaucrats = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 40
 	}
 
 	officers = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 60
 	}
 
 	clergymen = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 400
 	}
 
 	artisans = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 1800
 	}
 
 	soldiers = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 400
 
 	}
 
 	farmers = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 24800
 	}
 
 	aristocrats = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 400
 	}
 
 	clergymen = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 200
 	}
 
 	artisans = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 1200
 	}
 
 	soldiers = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 200
 
 	}
 
 	farmers = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 22000
 	}
 
 	slaves = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 8000
 	}
 
 	aristocrats = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 300
 	}
 
 	clergymen = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 200
 	}
 
 	artisans = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 1100
 	}
 
 	soldiers = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 200
 
 	}
 
 	farmers = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 18300
 	}
@@ -116,75 +116,75 @@
 #Moundou (48000/12000 POPS)
 1819 = {
 	aristocrats = {
-		culture = niger_congo_a
+		culture = bantu
 		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = niger_congo_a
+		culture = bantu
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = niger_congo_a
+		culture = bantu
 		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = niger_congo_a
+		culture = bantu
 		religion = animist
 		size = 50
 
 	}
 
 	farmers = {
-		culture = niger_congo_a
+		culture = bantu
 		religion = animist
 		size = 575
 	}
 
 	aristocrats = {
-		culture = niger_congo_a
+		culture = bantu
 		religion = animist
 		size = 125
 	}
 
 	clergymen = {
-		culture = niger_congo_a
+		culture = bantu
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = niger_congo_a
+		culture = bantu
 		religion = animist
 		size = 350
 	}
 
 	soldiers = {
-		culture = niger_congo_a
+		culture = bantu
 		religion = animist
 		size = 75
 
 	}
 
 	farmers = {
-		culture = niger_congo_a
+		culture = bantu
 		religion = animist
 		size = 6375
 	}
 
 	slaves = {
-		culture = niger_congo_a
+		culture = bantu
 		religion = animist
 		size = 2000
 	}
 
 	slaves = {
-		culture = niger_congo_a
+		culture = bantu
 		religion = animist
 		size = 2000
 	}
@@ -192,63 +192,63 @@
 #Bongor (36000/9000 POPS)
 1820 = {
 	aristocrats = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 25
 
 	}
 
 	farmers = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 1800
 	}
 
 	aristocrats = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 125
 	}
 
 	clergymen = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 350
 	}
 
 	soldiers = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 75
 
 	}
 
 	farmers = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 6375
 	}
@@ -258,81 +258,81 @@
 #Abeche (136000/34000 POPS)
 1821 = {
 	aristocrats = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 350
 	}
 
 	bureaucrats = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 50
 	}
 
 	officers = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 200
 	}
 
 	artisans = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 1100
 	}
 
 	soldiers = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 1250
 
 	}
 
 	farmers = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 13000
 	}
 
 	aristocrats = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 150
 	}
 
 	clergymen = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 600
 	}
 
 	soldiers = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 100
 
 	}
 
 	farmers = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 9000
 	}
 
 	slaves = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 8000
 	}
@@ -340,38 +340,38 @@
 #Am Timan (168000/42000 POPS)
 1822 = {
 	aristocrats = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 550
 	}
 
 	clergymen = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 300
 	}
 
 	artisans = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 1200
 	}
 
 	soldiers = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 300
 
 	}
 
 	farmers = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 21650
 	}
 
 	slaves = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 10000
 	}
@@ -410,32 +410,32 @@
 #Mongo (184000/46000 POPS)
 1823 = {
 	aristocrats = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 700
 	}
 
 	clergymen = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 350
 	}
 
 	artisans = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 1450
 	}
 
 	soldiers = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 1000
 
 	}
 
 	farmers = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 26500
 	}
@@ -472,38 +472,38 @@
 	}
 
 	aristocrats = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 200
 	}
 
 	soldiers = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 50
 
 	}
 
 	farmers = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 3600
 	}
 
 	slaves = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 6000
 	}
@@ -544,81 +544,81 @@
 	}
 
 	aristocrats = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 200
 	}
 
 	artisans = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 400
 	}
 
 	soldiers = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 100
 
 	}
 
 	farmers = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 7200
 	}
 
 	aristocrats = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 900
 	}
 
 	bureaucrats = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 100
 	}
 
 	officers = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 200
 	}
 
 	clergymen = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 500
 	}
 
 	artisans = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 2400
 	}
 
 	soldiers = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 500
 
 	}
 
 	farmers = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 23400
 	}
 
 	slaves = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 48000
 	}
@@ -626,63 +626,63 @@
 #Zouar (72000/18000 POPS)
 1825 = {
 	aristocrats = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 300
 	}
 
 	clergymen = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 150
 	}
 
 	artisans = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 800
 	}
 
 	soldiers = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 175
 
 	}
 
 	farmers = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 14575
 	}
 
 	aristocrats = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 25
 
 	}
 
 	farmers = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 1800
 	}
@@ -691,32 +691,32 @@
 #Faya (56000/14000 POPS)
 1826 = {
 	aristocrats = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 250
 	}
 
 	clergymen = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 150
 	}
 
 	artisans = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 700
 	}
 
 	soldiers = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 150
 
 	}
 
 	farmers = {
-		culture = nilo_saharan
+		culture = bantu
 		religion = animist
 		size = 12750
 	}

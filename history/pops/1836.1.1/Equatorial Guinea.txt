@@ -33,25 +33,25 @@
     }
 
     artisans = {
-        culture = niger_congo_a
+        culture = bantu
         religion = animist
         size = 120
     }
 
     soldiers = {
-        culture = niger_congo_a
+        culture = bantu
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = niger_congo_a
+        culture = bantu
         religion = animist
         size = 1530
     }
 
     slaves = {
-        culture = niger_congo_a
+        culture = bantu
         religion = animist
         size = 1100
     }

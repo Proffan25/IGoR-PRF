@@ -224,85 +224,85 @@
 #Bopulu (124000/31000 POPS) 
 1889 = {
 	clergymen = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 10
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 50
 	}
 	
 	aristocrats = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 475
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 250
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 1250
 	}
 
 	soldiers = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 250
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 22695
 	}
 
 	aristocrats = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 5475
 	}
@@ -310,85 +310,85 @@
 #Gbarnga (132000/33000 POPS) 
 1890 = {
 	clergymen = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 10
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 50
 	}
 
 	aristocrats = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 200
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 550
 	}
 
 	soldiers = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 125
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 10025
 	}
 
 	aristocrats = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 425
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 225
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 1100
 	}
 
 	soldiers = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 225
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 19945
 	}
@@ -396,87 +396,86 @@
 #Zwedru (168000/42000 POPS) 
 1891 = {
 	clergymen = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 10
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 10
 	}
 
 	soldiers = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 50
 	}
 	
 	aristocrats = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 225
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 250
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 1150
 	}
 
 	soldiers = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 170
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 21175
 	}
 
 	aristocrats = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 150
 	}
 
 	clergymen = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 200
 	}
 
 	artisans = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 950
 	}
 
 	soldiers = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 200
 	}
 
 	farmers = {
-		culture = afro_american
+		culture = bantu
 		religion = animist
 		size = 17500
 	}
-
 }

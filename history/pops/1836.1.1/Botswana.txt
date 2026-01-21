@@ -97,61 +97,61 @@
 #Tshabong (12000/3000 POPS) 
 2077 = {
 	aristocrats = {
-		culture = khoisan
+		culture = bantu
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = khoisan
+		culture = bantu
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = khoisan
+		culture = bantu
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = khoisan
+		culture = bantu
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = khoisan
+		culture = bantu
 		religion = animist
 		size = 1800
 	}
 
 	aristocrats = {
-		culture = khoisan
+		culture = bantu
 		religion = animist
 		size = 15
 	}
 
 	clergymen = {
-		culture = khoisan
+		culture = bantu
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = khoisan
+		culture = bantu
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = khoisan
+		culture = bantu
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = khoisan
+		culture = bantu
 		religion = animist
 		size = 900
 	}

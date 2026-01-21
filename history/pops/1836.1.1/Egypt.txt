@@ -153,7 +153,7 @@
 	}
 
 	slaves = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 9000
 	}
@@ -588,7 +588,7 @@
 	}
 
 	slaves = {
-		culture = afro_asiatic
+		culture = bantu
 		religion = animist
 		size = 6000
 	}
