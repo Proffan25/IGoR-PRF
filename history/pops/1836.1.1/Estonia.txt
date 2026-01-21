@@ -3,25 +3,25 @@
 #Tallinn/Reval (160000/40000 POPS)
 349 = {
     clergymen = {
-        culture = estonian
+        culture = latvian
         religion = animist
         size = 325
     }
 
     artisans = {
-        culture = estonian
+        culture = latvian
         religion = animist
         size = 750
     }
 
     soldiers = {
-        culture = estonian
+        culture = latvian
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = estonian
+        culture = latvian
         religion = animist
         size = 34925
     }
@@ -125,25 +125,25 @@
 #Narva (184000/46000 POPS)
 350 = {
     clergymen = {
-        culture = estonian
+        culture = latvian
         religion = animist
         size = 425
     }
 
     artisans = {
-        culture = estonian
+        culture = latvian
         religion = animist
         size = 2300
     }
 
     soldiers = {
-        culture = estonian
+        culture = latvian
         religion = animist
         size = 450
     }
 
     farmers = {
-        culture = estonian
+        culture = latvian
         religion = animist
         size = 40825
     }
@@ -205,25 +205,25 @@
     }
 
     clergymen = {
-        culture = estonian
+        culture = latvian
         religion = animist
         size = 400
     }
 
     artisans = {
-        culture = estonian
+        culture = latvian
         religion = animist
         size = 600
     }
 
     soldiers = {
-        culture = estonian
+        culture = latvian
         religion = animist
         size = 200
     }
 
     farmers = {
-        culture = estonian
+        culture = latvian
         religion = animist
         size = 20800
     }
@@ -255,25 +255,25 @@
     }
 
     clergymen = {
-        culture = estonian
+        culture = latvian
         religion = animist
         size = 350
     }
 
     artisans = {
-        culture = estonian
+        culture = latvian
         religion = animist
         size = 1300
     }
 
     soldiers = {
-        culture = estonian
+        culture = latvian
         religion = animist
         size = 350
     }
 
     farmers = {
-        culture = estonian
+        culture = latvian
         religion = animist
         size = 34500
     }
@@ -329,25 +329,25 @@
     }
 
     clergymen = {
-        culture = estonian
+        culture = latvian
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = estonian
+        culture = latvian
         religion = animist
         size = 150
     }
 
     soldiers = {
-        culture = estonian
+        culture = latvian
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = estonian
+        culture = latvian
         religion = animist
         size = 3625
     }

@@ -1823,7 +1823,7 @@
     farmers = {
         culture = ukrainian
         religion = animist
-        size = 342350
+        size = 312350
     }
 
     clergymen = {
@@ -2063,13 +2063,13 @@
     soldiers = {
         culture = ukrainian
         religion = animist
-        size = 150
+        size = 275
     }
 
     farmers = {
         culture = ukrainian
         religion = animist
-        size = 12000
+        size = 72100
     }
 
     aristocrats = {
@@ -2088,12 +2088,6 @@
         culture = tatar
         religion = animist
         size = 200
-    }
-
-    soldiers = {
-        culture = tatar
-        religion = animist
-        size = 50
     }
 
     farmers = {
@@ -2120,12 +2114,6 @@
         size = 150
     }
 
-    soldiers = {
-        culture = russian
-        religion = animist
-        size = 50
-    }
-
     farmers = {
         culture = russian
         religion = animist
@@ -2144,88 +2132,16 @@
         size = 400
     }
 
-    soldiers = {
-        culture = ashkenazi
-        religion = animist
-        size = 25
-    }
-
     farmers = {
         culture = ashkenazi
         religion = animist
         size = 1550
     }
 
-    clergymen = {
-        culture = greek
-        religion = animist
-        size = 25
-    }
-
-    artisans = {
-        culture = greek
-        religion = animist
-        size = 200
-    }
-
-    soldiers = {
-        culture = greek
-        religion = animist
-        size = 25
-    }
-
     farmers = {
         culture = greek
         religion = animist
-        size = 750
-    }
-
-    clergymen = {
-        culture = bulgarian
-        religion = animist
-        size = 50
-    }
-
-    artisans = {
-        culture = bulgarian
-        religion = animist
-        size = 100
-    }
-
-    soldiers = {
-        culture = bulgarian
-        religion = animist
-        size = 25
-    }
-
-    farmers = {
-        culture = bulgarian
-        religion = animist
-        size = 2825
-    }
-
-    clergymen = {
-        culture = south_german
-        religion = animist
-        size = 50
-    }
-
-    artisans = {
-        culture = south_german
-        religion = animist
-        size = 125
-    }
-
-    soldiers = {
-        culture = south_german
-        religion = animist
-        size = 25
-    }
-
-    farmers = {
-        culture = south_german
-        religion = animist
-        size = 1800
+        size = 1000
     }
 }
 #Kerch (48000/12000 POPS)
@@ -3229,7 +3145,7 @@
     farmers = {
         culture = ukrainian
         religion = animist
-        size = 15650
+        size = 60700
     }
 
     clergymen = {
@@ -3575,7 +3491,7 @@
     farmers = {
         culture = ukrainian
         religion = animist
-        size = 125125
+        size = 90000
     }
 
     clergymen = {
@@ -3625,12 +3541,6 @@
         religion = animist
         size = 100
     }
-
-    farmers = {
-        culture = russian
-        religion = animist
-        size = 7075
-    }
 }
 #Donbass Region (652000) #see Russia.txt for balance of region
 #under the rule of Russia in 1836
@@ -3663,7 +3573,7 @@
     farmers = {
         culture = ukrainian
         religion = animist
-        size = 128350
+        size = 110350
     }
 
     aristocrats = {
@@ -3688,11 +3598,5 @@
         culture = russian
         religion = animist
         size = 225
-    }
-
-    farmers = {
-        culture = russian
-        religion = animist
-        size = 20000
     }
 }

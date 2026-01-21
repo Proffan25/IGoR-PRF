@@ -528,15 +528,12 @@ political_decisions = {
 		}
 		
 		effect = {
-			change_tag = SCA
 			add_accepted_culture = danish
-			add_accepted_culture = icelandic
-			SCH = { all_core = { remove_core = SCH add_core = SCA } }
-			DEN = { all_core = { remove_core = DEN add_core = SCA } }
 			SWE = { all_core = { remove_core = SWE add_core = SCA } }
-			NOR = { all_core = { remove_core = NOR add_core = SCA } }
-			ICL = { all_core = { remove_core = ICL add_core = SCA } }
+			DEN = { all_core = { add_core = SCA } }
+			NOR = { all_core = { add_core = SCA } }
 			inherit = DEN
+			change_tag = SCA
 		}
 		ai_will_do = {
 			factor = 1

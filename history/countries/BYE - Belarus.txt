@@ -1,12 +1,11 @@
 capital = 718
-primary_culture = byelorussian
+primary_culture = ukrainian
 religion = animist
 government = democracy
 plurality = 0.2
 nationalvalue = nv_order
 literacy = 0.6
 civilized = yes
-
 
 # Political reforms
 slavery = no_slavery

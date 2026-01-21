@@ -479,7 +479,7 @@
     }
 
     farmers = {
-        culture = estonian
+        culture = latvian
         religion = animist
         size = 1500
     }

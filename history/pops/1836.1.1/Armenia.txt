@@ -155,31 +155,31 @@
     }
 
     aristocrats = {
-        culture = georgian
+        culture = armenian
         religion = animist
         size = 10
     }
 
     clergymen = {
-        culture = georgian
+        culture = armenian
         religion = animist
         size = 15
     }
 
     artisans = {
-        culture = georgian
+        culture = armenian
         religion = animist
         size = 40
     }
 
     soldiers = {
-        culture = georgian
+        culture = armenian
         religion = animist
         size = 10
     }
 
     farmers = {
-        culture = georgian
+        culture = armenian
         religion = animist
         size = 925
     }

@@ -1,5 +1,5 @@
 capital = 349
-primary_culture = estonian
+primary_culture = latvian
 religion = animist
 government = absolute_monarchy
 plurality = 0.2

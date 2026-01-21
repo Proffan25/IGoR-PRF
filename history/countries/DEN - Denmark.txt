@@ -1,6 +1,5 @@
 capital = 372
 primary_culture = danish
-culture = icelandic
 religion = animist
 government = absolute_monarchy
 plurality = 25.0

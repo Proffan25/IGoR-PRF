@@ -157,25 +157,25 @@
     }
 
     clergymen = {
-        culture = byelorussian
+        culture = ukrainian
         religion = animist
         size = 175
     }
 
     artisans = {
-        culture = byelorussian
+        culture = ukrainian
         religion = animist
         size = 800
     }
 
     soldiers = {
-        culture = byelorussian
+        culture = ukrainian
         religion = animist
         size = 200
     }
 
     farmers = {
-        culture = byelorussian
+        culture = ukrainian
         religion = animist
         size = 18825
     }
@@ -2457,25 +2457,25 @@
     }
 
     clergymen = {
-        culture = estonian
+        culture = latvian
         religion = animist
         size = 15
     }
 
     artisans = {
-        culture = estonian
+        culture = latvian
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = estonian
+        culture = latvian
         religion = animist
         size = 10
     }
 
     farmers = {
-        culture = estonian
+        culture = latvian
         religion = animist
         size = 925
     }

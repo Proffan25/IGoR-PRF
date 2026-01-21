@@ -3265,25 +3265,25 @@
 #Bialystok (320000/80000 POPS)
 719 = {
     clergymen = {
-        culture = byelorussian
+        culture = ukrainian
         religion = animist
         size = 325
     }
 
     artisans = {
-        culture = byelorussian
+        culture = ukrainian
         religion = animist
         size = 1100
     }
 
     soldiers = {
-        culture = byelorussian
+        culture = ukrainian
         religion = animist
         size = 350
     }
 
     farmers = {
-        culture = byelorussian
+        culture = ukrainian
         religion = animist
         size = 30225
     }
@@ -3319,25 +3319,25 @@
     }
 
     clergymen = {
-        culture = byelorussian
+        culture = ukrainian
         religion = animist
         size = 225
     }
 
     artisans = {
-        culture = byelorussian
+        culture = ukrainian
         religion = animist
         size = 1250
     }
 
     soldiers = {
-        culture = byelorussian
+        culture = ukrainian
         religion = animist
         size = 300
     }
 
     farmers = {
-        culture = byelorussian
+        culture = ukrainian
         religion = animist
         size = 28225
     }
