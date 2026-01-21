@@ -913,7 +913,9 @@ CHI_1529 = { 1529 1526 1525 1528 1524 } #Hunan
 
 CHI_2562 = { 2562 1485} #Taiwan
 
-RUS_340 = { 343 340 344 345 346 347 348 339 } #Southern Finland
+RUS_340 = { 343 340 344 345 346 347 339 } #Southern Finland
+
+RUS_348 = { 348 } #Aland Islands
 
 RUS_336 = { 336 337 338 341 342 982 } #Northern Finland
 
