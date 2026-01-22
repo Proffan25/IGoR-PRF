@@ -1,11 +1,9 @@
-owner = ENG
-controller = ENG
-add_core = CAN
-#add_core = NEN
-add_core = USA
+owner = COM
+controller = COM
+add_core = COM
 trade_goods = timber
 life_rating = 35
-colonial = 2
+#colonial = 2
 1836.1.2 = {
 	owner = CAN
 	controller = CAN

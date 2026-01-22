@@ -192,14 +192,14 @@ country_event = {
 #Starting 1836 Literacy Fix for Korea
 country_event = {
 	id = 123412352
-	title = "Education Buff for Koreans"
-	desc = "Education Buff for Koreans"
+	title = "Education Buff for the Commonwealth"
+	desc = "Education Buff for the Commonwealth"
 	picture = "Administration"
 	
 	
 	trigger = {
 		year = 1836
-		tag = KOR
+		tag = COM
 	} 
 
 	fire_only_once = yes
@@ -209,14 +209,26 @@ country_event = {
 	}
 	
 	option = {
-		name = "The Koreans can read!"
+		name = "Learn 2 read dud"
 		any_pop = {
 			limit = {
-				OR = {
-					has_pop_culture = korean
+				OR = {	
+					has_pop_culture = french_canadian
+					has_pop_culture = australian
+					has_pop_culture = british
 				}
 			}
-			literacy = 0.14
+			literacy = 0.3 #30 percent increase
+		}
+		any_owned = {
+			any_pop = {
+				limit = { 
+					is_primary_culture = no
+					is_accepted_culture = no
+					type = bureaucrats
+				}
+				pop_type = artisans
+			}				
 		}
 	}
 }

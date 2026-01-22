@@ -1,9 +1,9 @@
-owner = ENG
-controller = ENG
-add_core = CAN
+owner = COM
+controller = COM
+add_core = COM
 trade_goods = fruit
 life_rating = 35
-colonial = 2
+#colonial = 2
 1836.1.2 = {
 	owner = CAN
 	controller = CAN

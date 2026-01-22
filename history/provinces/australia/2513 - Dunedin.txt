@@ -1,8 +1,8 @@
-add_core = AST
+add_core = COM
 trade_goods = wool
 life_rating = 30
 1861.1.1 = {
-	owner = ENG
-	controller = ENG
-	colonial = 2
+	owner = COM
+	controller = COM
+	#colonial = 2
 }

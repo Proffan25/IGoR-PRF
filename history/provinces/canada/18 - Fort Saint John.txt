@@ -1,10 +1,11 @@
-add_core = CAN
-
+owner = COM
+controller = COM
+add_core = COM
 trade_goods = timber
 life_rating = 25
-colonial = 2
+#colonial = 2
 1861.1.1 = {
-	owner = ENG
-	controller = ENG
-	colonial = 2
+	owner = COM
+	controller = COM
+	#colonial = 2
 }
