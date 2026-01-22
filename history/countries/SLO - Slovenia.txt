@@ -1,5 +1,5 @@
 capital = 768
-primary_culture = slovene
+primary_culture = croat
 religion = animist
 government = absolute_monarchy
 plurality = 0.05

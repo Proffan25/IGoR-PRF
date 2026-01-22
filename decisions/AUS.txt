@@ -225,61 +225,27 @@ political_decisions = {
 		}
 	}
 	
-		embrace_croat_minority = {
-			picture = embrace_minority
-			potential = {
-				tag = KUK
-				any_owned_province = { is_core = CRO }
-				NOT = {
-					accepted_culture = croat
-					has_country_flag = embraced_croats
-				}
-			}
-			allow = {
-				year = 1860
-				nationalism_n_imperialism = 1
-				experimental_psychology = 1
-			}
-			effect = {
-				set_country_flag = embraced_croats
-				add_accepted_culture = croat
-				any_pop = {
-					limit = { has_pop_culture = croat }
-					militancy = -4
-					consciousness = -4
-				}
-			}
-			ai_will_do = {
-				factor = 1
+	embrace_croat_minority = {
+		picture = embrace_minority
+		potential = {
+			tag = KUK
+            NOT = { accepted_culture = croat }
+		}
+		allow = {
+			year = 1860
+			nationalism_n_imperialism = 1
+			experimental_psychology = 1
+		}
+		effect = {
+			add_accepted_culture = croat
+			any_pop = {
+				limit = { has_pop_culture = croat }
+				militancy = -4
+				consciousness = -4
 			}
 		}
-	
-		embrace_slovene_minority = {
-			picture = embrace_minority
-			potential = {
-				tag = KUK
-				any_owned_province = { is_core = SLO }
-				NOT = {
-					accepted_culture = slovene
-					has_country_flag = embraced_slovenes
-				}
-			}
-			allow = {
-				year = 1850
-				state_n_government = 1
-				associationism = 1
-			}
-			effect = {
-				set_country_flag = embraced_slovenes
-				add_accepted_culture = slovene
-				any_pop = {
-					limit = { has_pop_culture = slovene }
-					militancy = -4
-					consciousness = -4
-				}
-			}
-			ai_will_do = {
-				factor = 1
-			}
+		ai_will_do = {
+			factor = 1
 		}
+	}
 }

@@ -81,25 +81,25 @@
     }
 
     clergymen = {
-        culture = lithuanian
+        culture = latvian
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = lithuanian
+        culture = latvian
         religion = animist
         size = 200
     }
 
     soldiers = {
-        culture = lithuanian
+        culture = latvian
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = lithuanian
+        culture = latvian
         religion = animist
         size = 4700
     }
@@ -443,25 +443,25 @@
     }
 
     clergymen = {
-        culture = lithuanian
+        culture = latvian
         religion = animist
         size = 15
     }
 
     artisans = {
-        culture = lithuanian
+        culture = latvian
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = lithuanian
+        culture = latvian
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = lithuanian
+        culture = latvian
         religion = animist
         size = 910
     }
@@ -535,25 +535,25 @@
 #Lida (192000/48000 POPS)
 938 = {
     clergymen = {
-        culture = lithuanian
+        culture = latvian
         religion = animist
         size = 200
     }
 
     artisans = {
-        culture = lithuanian
+        culture = latvian
         religion = animist
         size = 800
     }
 
     soldiers = {
-        culture = lithuanian
+        culture = latvian
         religion = animist
         size = 250
     }
 
     farmers = {
-        culture = lithuanian
+        culture = latvian
         religion = animist
         size = 22750
     }
@@ -1253,25 +1253,25 @@
     }
 
     clergymen = {
-        culture = lithuanian
+        culture = latvian
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = lithuanian
+        culture = latvian
         religion = animist
         size = 250
     }
 
     soldiers = {
-        culture = lithuanian
+        culture = latvian
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = lithuanian
+        culture = latvian
         religion = animist
         size = 4625
     }
@@ -1279,25 +1279,25 @@
 #Pastavy (348000/87000 POPS)
 947 = {
     clergymen = {
-        culture = lithuanian
+        culture = latvian
         religion = animist
         size = 550
     }
 
     artisans = {
-        culture = lithuanian
+        culture = latvian
         religion = animist
         size = 2000
     }
 
     soldiers = {
-        culture = lithuanian
+        culture = latvian
         religion = animist
         size = 600
     }
 
     farmers = {
-        culture = lithuanian
+        culture = latvian
         religion = animist
         size = 55850
     }

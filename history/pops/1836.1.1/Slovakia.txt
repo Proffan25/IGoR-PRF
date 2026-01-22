@@ -3,7 +3,7 @@
 #Bratislava (784000/196000 POPS)
 633 = {
     bureaucrats = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 625
     }
@@ -15,31 +15,31 @@
     }
 
     officers = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 75
     }
 
     clergymen = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 1200
     }
 
     artisans = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 6200
     }
 
     soldiers = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 1250
     }
 
     farmers = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 100150
     }
@@ -185,25 +185,25 @@
 #Trencin (228000/57000 POPS)
 634 = {
     clergymen = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 500
     }
 
     artisans = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 2600
     }
 
     soldiers = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 500
     }
 
     farmers = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 48400
     }
@@ -265,25 +265,25 @@
 #Nitra (352000/88000 POPS)
 635 = {
     clergymen = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 650
     }
 
     artisans = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 3400
     }
 
     soldiers = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 650
     }
 
     farmers = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 63300
     }
@@ -393,25 +393,25 @@
 #Banska Bystrica (224000/56000 POPS)
 636 = {
     clergymen = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 475
     }
 
     artisans = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 2650
     }
 
     soldiers = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 500
     }
 
     farmers = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 49375
     }
@@ -445,37 +445,37 @@
 #Kosice (712000/178000POPS)
 637 = {
     bureaucrats = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 375
     }
 
     officers = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 75
     }
 
     clergymen = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 975
     }
 
     artisans = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 5000
     }
 
     soldiers = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 93875
     }
@@ -657,25 +657,25 @@
 #Roznava (148000/37000 POPS)
 638 = {
     clergymen = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 175
     }
 
     artisans = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 1100
     }
 
     soldiers = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 200
     }
 
     farmers = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 18625
     }

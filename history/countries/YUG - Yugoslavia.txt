@@ -1,7 +1,6 @@
 capital = 794 #Belgrade
 primary_culture = serb
 culture = croat
-culture = slovene
 culture = bosniak
 religion = animist
 government = hms_government

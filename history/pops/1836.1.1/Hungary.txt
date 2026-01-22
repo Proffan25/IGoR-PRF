@@ -233,25 +233,25 @@
     }
 
     clergymen = {
-        culture = slovene
+        culture = croat
         religion = animist
         size = 150
     }
 
     artisans = {
-        culture = slovene
+        culture = croat
         religion = animist
         size = 750
     }
 
     soldiers = {
-        culture = slovene
+        culture = croat
         religion = animist
         size = 150
     }
 
     farmers = {
-        culture = slovene
+        culture = croat
         religion = animist
         size = 13950
     }
@@ -699,25 +699,25 @@
     }
 
     clergymen = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 275
     }
 
     artisans = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 1500
     }
 
     soldiers = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 300
     }
 
     farmers = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 29925
     }
@@ -1123,25 +1123,25 @@
     }
 
     clergymen = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 300
     }
 
     soldiers = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 6600
     }
@@ -1241,25 +1241,25 @@
     }
 
     clergymen = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 10
     }
 
     artisans = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 915
     }

@@ -11782,25 +11782,25 @@
     }
 
     clergymen = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 300
     }
 
     soldiers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 75
     }
 
     farmers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 5575
     }

@@ -2,7 +2,6 @@ capital = 619
 primary_culture = south_german
 culture = hungarian
 culture = czech
-culture = slovak
 religion = animist
 government = absolute_monarchy
 plurality = 0.0

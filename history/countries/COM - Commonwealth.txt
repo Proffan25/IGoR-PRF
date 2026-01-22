@@ -1,12 +1,10 @@
 capital = 57
 primary_culture = anglo_canadian
-culture = french_canadian
-culture = australian
 religion = animist
 government = hms_government
 plurality = 0.2
 nationalvalue = nv_productivity
-literacy = 0.6
+literacy = 0.75
 civilized = yes
 
 set_country_flag = new_world_nation
@@ -76,10 +74,9 @@ precision_work = yes
 ruling_party = CAN_conservative
 upper_house = {
 	fascist = 0
-	liberal = 35
-	conservative = 50
-	reactionary = 8
-	anarcho_liberal = 7
+	liberal = 37
+	conservative = 53
+	reactionary = 10
 	socialist = 0
 	communist = 0
 }

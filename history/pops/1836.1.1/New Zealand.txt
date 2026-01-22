@@ -34,7 +34,7 @@
 	}
 
 	farmers = {
-		culture = australian
+		culture = anglo_canadian
 		religion = animist
 		size = 250
 	}

@@ -277,25 +277,25 @@
     }
 
     clergymen = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 450
     }
 
     soldiers = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = slovak
+        culture = czech
         religion = animist
         size = 9375
     }

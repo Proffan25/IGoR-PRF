@@ -1,6 +1,5 @@
 capital = 425
 primary_culture = french
-culture = french_canadian
 religion = animist
 government = hms_government
 plurality = 25

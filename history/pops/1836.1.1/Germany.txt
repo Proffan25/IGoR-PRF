@@ -5041,19 +5041,19 @@
     }
 
     clergymen = {
-        culture = lithuanian
+        culture = latvian
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = lithuanian
+        culture = latvian
         religion = animist
         size = 250
     }
 
     farmers = {
-        culture = lithuanian
+        culture = latvian
         religion = animist
         size = 5650
     }
@@ -5077,7 +5077,7 @@
     }
 
     farmers = {
-        culture = lithuanian
+        culture = latvian
         religion = animist
         size = 18
     }
@@ -5133,19 +5133,19 @@
     }
 
     clergymen = {
-        culture = lithuanian
+        culture = latvian
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = lithuanian
+        culture = latvian
         religion = animist
         size = 150
     }
 
     farmers = {
-        culture = lithuanian
+        culture = latvian
         religion = animist
         size = 3800
     }
@@ -5163,7 +5163,7 @@
     }
 
     farmers = {
-        culture = lithuanian
+        culture = latvian
         religion = animist
         size = 9
     }

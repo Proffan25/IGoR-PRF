@@ -2296,25 +2296,25 @@
     }
 
     clergymen = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 250
     }
 
     soldiers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 1700
     }
@@ -2346,25 +2346,25 @@
     }
 
     clergymen = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 200
     }
 
     soldiers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 3700
     }
@@ -2687,31 +2687,31 @@
     }
 
     bureaucrats = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 100
     }
 
     clergymen = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 500
     }
 
     artisans = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 6000
     }
 
     soldiers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 400
     }
 
     farmers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 36000
     }
@@ -2749,25 +2749,25 @@
     }
 
     clergymen = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 100
     }
 
     soldiers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 1825
     }
@@ -2805,25 +2805,25 @@
     }
 
     clergymen = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 10
     }
 
     farmers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 915
     }
@@ -2861,25 +2861,25 @@
     }
 
     clergymen = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 150
     }
 
     soldiers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 2750
     }
@@ -2887,25 +2887,25 @@
 #Trois-Rivieres (68000/17000 POPS)
 64 = {
     clergymen = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 175
     }
 
     artisans = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 1100
     }
 
     soldiers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 150
     }
 
     labourers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 15675
     }
@@ -2913,25 +2913,25 @@
 #Quebec City (188000/47000 POPS)
 65 = {
     clergymen = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 500
     }
 
     artisans = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 5000
     }
 
     soldiers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 2500
     }
 
     farmers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 41000
     }
@@ -2963,25 +2963,25 @@
     }
 
     clergymen = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 250
     }
 
     artisans = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 700
     }
 
     soldiers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 150
     }
 
     farmers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 10900
     }
@@ -2989,25 +2989,25 @@
 #Riviere du Loup (56000/14000 POPS)
 67 = {
     clergymen = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 150
     }
 
     artisans = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 750
     }
 
     soldiers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 150
     }
 
     labourers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 12950
     }
@@ -3047,25 +3047,25 @@
     }
 
     clergymen = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 150
     }
 
     artisans = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 350
     }
 
     soldiers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 6400
     }
@@ -3097,25 +3097,25 @@
     }
 
     clergymen = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 200
     }
 
     soldiers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 3725
     }
@@ -3183,7 +3183,7 @@
     }
 
     labourers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 1100
     }
@@ -3221,7 +3221,7 @@
     }
 
     labourers = {
-        culture = french_canadian
+        culture = anglo_canadian
         religion = animist
         size = 1100
     }
