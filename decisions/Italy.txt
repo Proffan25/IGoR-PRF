@@ -337,8 +337,6 @@ political_decisions = {
 			badboy = 12
 			LOM = { all_core = { remove_core = LOM add_core = ITA } }
 			VEN = { all_core = { remove_core = VEN add_core = ITA } }
-			TRE = { all_core = { remove_core = TRE add_core = ITA } }
-			inherit = TRE
 			inherit = LOM
 			inherit = VEN
 			AUS_726 = {
@@ -353,21 +351,21 @@ political_decisions = {
 				}
 				life_rating = 2
 			}
-			AUS_736 = {
+			AUS_778 = {
 				limit = {
 					NOT = { life_rating = 36 }
 				}
 				life_rating = 2
 			}
-			AUS_734 = { 
-				add_core = ITA
-			} #South Tirol
 			473 = { 
 				add_core = ITA 
 			} #Corsica
 			AUS_778 = {
 				add_core = ITA
 			}	#Istria
+			AUS_780 = {
+				add_core = ITA
+			}	#Dalmatia
 		}
 		ai_will_do = {
 			factor = 1
