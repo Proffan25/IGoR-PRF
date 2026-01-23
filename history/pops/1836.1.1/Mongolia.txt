@@ -363,31 +363,31 @@
 #Uliatai (32000/8000 POPS) #now Tuva Republic of Russia  Tatar = Tuvan   
 1469 = {
 	aristocrats = {
-		culture = tatar
+		culture = turkic
 		religion = animist
 		size = 150
 	}
 
 	clergymen = {
-		culture = tatar
+		culture = turkic
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = tatar
+		culture = turkic
 		religion = animist
 		size = 400
 	}
 
 	soldiers = {
-		culture = tatar
+		culture = turkic
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = tatar
+		culture = turkic
 		religion = animist
 		size = 7300
 	}

@@ -4,43 +4,43 @@
 #Singapore (36000/9000 POPS)
 1384 = {
     clergymen = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 2450
     }
 
     farmers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 500
     }
 
     clergymen = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 250
     }
 
     farmers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 4700
     }
 
     artisans = {
-        culture = dravidian
+        culture = indo_aryan
         religion = animist
         size = 1100
     }
@@ -48,19 +48,19 @@
 #Malacca (52800/13200 POPS)
 1386 = {
     clergymen = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 1450
     }
 
     farmers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 1500
     }
@@ -78,25 +78,25 @@
     }
 
     clergymen = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 100
     }
 
     artisans = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 500
     }
 
     soldiers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 9300
     }
@@ -104,43 +104,43 @@
 #Penang (84000/21000 POPS)
 1388 = {
     clergymen = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 3875
     }
 
     farmers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 2075
     }
 
     clergymen = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 150
     }
 
     artisans = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 750
     }
 
     soldiers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 200
     }
 
     farmers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 13900
     }
@@ -149,61 +149,61 @@
 #Johor Bahru (108000/27000 POPS)
 1385 = {
     aristocrats = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 250
     }
 
     bureaucrats = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 125
     }
 
     officers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 75
     }
 
     clergymen = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 250
     }
 
     artisans = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 1250
     }
 
     soldiers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 22050
     }
 
     clergymen = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 1450
     }
 
     farmers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 500
     }
@@ -211,49 +211,49 @@
 #Kuala Lumpur (68000/17000 POPS)
 1387 = {
     aristocrats = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 150
     }
 
     clergymen = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 150
     }
 
     artisans = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 750
     }
 
     soldiers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 1100
     }
 
     labourers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 12950
     }
 
     clergymen = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 950
     }
 
     farmers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 1100
     }
@@ -261,31 +261,31 @@
 #Kuantan (32000/8000 POPS)
 1390 = {
     aristocrats = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 75
     }
 
     clergymen = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 400
     }
 
     soldiers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 75
     }
 
     labourers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 7375
     }
@@ -293,49 +293,49 @@
 #Ipoh (116000/29000 POPS)
 2575 = {
     aristocrats = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 300
     }
 
     clergymen = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 300
     }
 
     artisans = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 1500
     }
 
     soldiers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 1100
     }
 
     labourers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 25900
     }
 
     clergymen = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 925
     }
 
     farmers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 2000
     }
@@ -344,49 +344,49 @@
 #Alor Setar (116000/29000 POPS)
 1389 = {
     aristocrats = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 300
     }
 
     clergymen = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 300
     }
 
     artisans = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 1350
     }
 
     soldiers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 250
     }
 
     farmers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 24800
     }
 
     clergymen = {
-        culture = thai
+        culture = vietnamese
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = thai
+        culture = vietnamese
         religion = animist
         size = 950
     }
 
     farmers = {
-        culture = thai
+        culture = vietnamese
         religion = animist
         size = 1100
     }
@@ -394,49 +394,49 @@
 #Kota Bharu (168000/42000 POPS)
 1391 = {
     aristocrats = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 400
     }
 
     clergymen = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 425
     }
 
     artisans = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 2000
     }
 
     soldiers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 350
     }
 
     farmers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 36825
     }
 
     clergymen = {
-        culture = thai
+        culture = vietnamese
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = thai
+        culture = vietnamese
         religion = animist
         size = 950
     }
 
     farmers = {
-        culture = thai
+        culture = vietnamese
         religion = animist
         size = 1100
     }
@@ -446,43 +446,43 @@
 #Brunei (24000/6000 POPS)
 1393 = {
     aristocrats = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 75
     }
 
     bureaucrats = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 50
     }
 
     officers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 25
     }
 
     clergymen = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 300
     }
 
     soldiers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 75
     }
 
     farmers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 5425
     }
@@ -490,79 +490,79 @@
 #Kuching (88000/22000 POPS)
 1394 = {
     aristocrats = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 100
     }
 
     clergymen = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 100
     }
 
     artisans = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 500
     }
 
     soldiers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 8300
     }
 
     aristocrats = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 125
     }
 
     clergymen = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 100
     }
 
     artisans = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 525
     }
 
     soldiers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 125
     }
 
     farmers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 10125
     }
 
     clergymen = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 475
     }
 
     farmers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 500
     }
@@ -570,61 +570,61 @@
 #Bintulu (44000/11000 POPS)
 1395 = {
     aristocrats = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 25
     }
 
     clergymen = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 150
     }
 
     soldiers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 2725
     }
 
     aristocrats = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 100
     }
 
     clergymen = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 350
     }
 
     soldiers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 7375
     }
@@ -632,79 +632,79 @@
 #Api (56000/14000 POPS)
 1396 = {
     aristocrats = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 50
     }
 
     clergymen = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 250
     }
 
     soldiers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 75
     }
 
     farmers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 5575
     }
 
     aristocrats = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 75
     }
 
     clergymen = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 350
     }
 
     soldiers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 75
     }
 
     farmers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 6425
     }
 
     clergymen = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 25
     }
 
     artisans = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 500
     }
 
     farmers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 475
     }
@@ -713,61 +713,61 @@
 #Sandakan (40000/10000 POPS)
 1397 = {
     aristocrats = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 75
     }
 
     clergymen = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 300
     }
 
     soldiers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 75
     }
 
     farmers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 6475
     }
 
     aristocrats = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 25
     }
 
     clergymen = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 150
     }
 
     soldiers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = malay
+        culture = javan
         religion = animist
         size = 2750
     }

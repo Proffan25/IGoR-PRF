@@ -3,73 +3,73 @@
 #Louangprabang (240000/60000 POPS) #lao = hmong/montagnard
 1356 = {
     aristocrats = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 800
     }
 
     bureaucrats = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 75
     }
 
     officers = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 100
     }
 
     clergymen = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 425
     }
 
     artisans = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 2150
     }
 
     soldiers = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 37940
     }
 
     aristocrats = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 300
     }
 
     clergymen = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 150
     }
 
     artisans = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 800
     }
 
     soldiers = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 175
     }
 
     farmers = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 15575
     }
@@ -77,61 +77,61 @@
 #Vientiane (88000/22000 POPS)
 1357 = {
     aristocrats = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 250
     }
 
     clergymen = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 150
     }
 
     artisans = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 750
     }
 
     soldiers = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 150
     }
 
     farmers = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 13700
     }
 
     aristocrats = {
-        culture = thai
+        culture = vietnamese
         religion = animist
         size = 125
     }
 
     clergymen = {
-        culture = thai
+        culture = vietnamese
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = thai
+        culture = vietnamese
         religion = animist
         size = 350
     }
 
     soldiers = {
-        culture = thai
+        culture = vietnamese
         religion = animist
         size = 75
     }
 
     farmers = {
-        culture = thai
+        culture = vietnamese
         religion = animist
         size = 6375
     }
@@ -139,61 +139,61 @@
 #Savannakhet (80000/20000 POPS)
 1361 = {
     aristocrats = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 250
     }
 
     clergymen = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 150
     }
 
     artisans = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 750
     }
 
     soldiers = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 150
     }
 
     farmers = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 13700
     }
 
     aristocrats = {
-        culture = thai
+        culture = vietnamese
         religion = animist
         size = 100
     }
 
     clergymen = {
-        culture = thai
+        culture = vietnamese
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = thai
+        culture = vietnamese
         religion = animist
         size = 250
     }
 
     soldiers = {
-        culture = thai
+        culture = vietnamese
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = thai
+        culture = vietnamese
         religion = animist
         size = 4550
     }
@@ -201,61 +201,61 @@
 #Satavan (168000/42000 POPS)
 1362 = {
     aristocrats = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 450
     }
 
     clergymen = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 250
     }
 
     artisans = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 1200
     }
 
     soldiers = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 21096
     }
 
     aristocrats = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 325
     }
 
     clergymen = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 175
     }
 
     artisans = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 900
     }
 
     soldiers = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 175
     }
 
     farmers = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 16425
     }
@@ -264,61 +264,61 @@
 #Xaignabouli (64000/16000 POPS)
 1360 = {
     aristocrats = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 150
     }
 
     clergymen = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 400
     }
 
     soldiers = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 75
     }
 
     farmers = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 8300
     }
 
     aristocrats = {
-        culture = thai
+        culture = vietnamese
         religion = animist
         size = 125
     }
 
     clergymen = {
-        culture = thai
+        culture = vietnamese
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = thai
+        culture = vietnamese
         religion = animist
         size = 350
     }
 
     soldiers = {
-        culture = thai
+        culture = vietnamese
         religion = animist
         size = 75
     }
 
     farmers = {
-        culture = thai
+        culture = vietnamese
         religion = animist
         size = 6375
     }
@@ -326,31 +326,31 @@
 #Paekche (60000/15000 POPS)
 1363 = {
     aristocrats = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 275
     }
 
     clergymen = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 150
     }
 
     artisans = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 750
     }
 
     soldiers = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 125
     }
 
     farmers = {
-        culture = lao
+        culture = vietnamese
         religion = animist
         size = 13700
     }

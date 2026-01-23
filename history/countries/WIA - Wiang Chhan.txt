@@ -1,5 +1,5 @@
 capital = 1357
-primary_culture = lao
+primary_culture = vietnamese
 religion = animist
 government = absolute_monarchy
 plurality = 0.0

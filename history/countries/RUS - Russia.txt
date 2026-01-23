@@ -1,6 +1,5 @@
 capital = 994
 primary_culture = russian
-culture = ukrainian
 religion = animist
 government = absolute_monarchy
 plurality = 25

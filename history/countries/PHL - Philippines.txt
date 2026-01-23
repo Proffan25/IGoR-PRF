@@ -1,5 +1,5 @@
 capital = 1455
-primary_culture = filipino
+primary_culture = javan
 religion = animist
 government = democracy
 plurality = 25.0

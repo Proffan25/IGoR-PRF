@@ -3,7 +3,7 @@
 #Christmas Island (60/15POPS) 
 2244 = {
 	farmers = {
-		culture = malay
+		culture = javan
 		religion = animist
 		size = 15
 	}
@@ -17,7 +17,7 @@
 	}
 
 	farmers = {
-		culture = malay
+		culture = javan
 		religion = animist
 		size = 120
 	}

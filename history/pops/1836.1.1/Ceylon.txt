@@ -153,31 +153,31 @@
 	}
 
 	aristocrats = {
-		culture = malay
+		culture = javan
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = malay
+		culture = javan
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = malay
+		culture = javan
 		religion = animist
 		size = 1100
 	}
 
 	soldiers = {
-		culture = malay
+		culture = javan
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = malay
+		culture = javan
 		religion = animist
 		size = 1900
 	}
@@ -221,61 +221,61 @@
 #Jaffna (288000/72000 POPS)
 1322 = {
 	aristocrats = {
-		culture = dravidian
+		culture = indo_aryan
 		religion = animist
 		size = 500
 	}
 
 	clergymen = {
-		culture = dravidian
+		culture = indo_aryan
 		religion = animist
 		size = 500
 	}
 
 	artisans = {
-		culture = dravidian
+		culture = indo_aryan
 		religion = animist
 		size = 4000
 	}
 
 	soldiers = {
-		culture = dravidian
+		culture = indo_aryan
 		religion = animist
 		size = 500
 	}
 
 	farmers = {
-		culture = dravidian
+		culture = indo_aryan
 		religion = animist
 		size = 42500
 	}
 
 	aristocrats = {
-		culture = dravidian
+		culture = indo_aryan
 		religion = animist
 		size = 250
 	}
 
 	clergymen = {
-		culture = dravidian
+		culture = indo_aryan
 		religion = animist
 		size = 250
 	}
 
 	artisans = {
-		culture = dravidian
+		culture = indo_aryan
 		religion = animist
 		size = 2000
 	}
 
 	soldiers = {
-		culture = dravidian
+		culture = indo_aryan
 		religion = animist
 		size = 500
 	}
 
 	labourers = {
-		culture = dravidian
+		culture = indo_aryan
 		religion = animist
 		size = 21000
 	}
@@ -315,133 +315,133 @@
 #Trincomalee (208000/52000 POPS)
 1324 = {
 	aristocrats = {
-		culture = dravidian
+		culture = indo_aryan
 		religion = animist
 		size = 250
 	}
 
 	clergymen = {
-		culture = dravidian
+		culture = indo_aryan
 		religion = animist
 		size = 225
 	}
 
 	artisans = {
-		culture = dravidian
+		culture = indo_aryan
 		religion = animist
 		size = 500
 	}
 
 	soldiers = {
-		culture = dravidian
+		culture = indo_aryan
 		religion = animist
 		size = 200
 	}
 
 	farmers = {
-		culture = dravidian
+		culture = indo_aryan
 		religion = animist
 		size = 19825
 	}
 
 	aristocrats = {
-		culture = dravidian
+		culture = indo_aryan
 		religion = animist
 		size = 250
 	}
 
 	clergymen = {
-		culture = dravidian
+		culture = indo_aryan
 		religion = animist
 		size = 250
 	}
 
 	artisans = {
-		culture = dravidian
+		culture = indo_aryan
 		religion = animist
 		size = 500
 	}
 
 	soldiers = {
-		culture = dravidian
+		culture = indo_aryan
 		religion = animist
 		size = 250
 	}
 
 	labourers = {
-		culture = dravidian
+		culture = indo_aryan
 		religion = animist
 		size = 22750
 	}
 
 	clergymen = {
-		culture = dravidian
+		culture = indo_aryan
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = dravidian
+		culture = indo_aryan
 		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = dravidian
+		culture = indo_aryan
 		religion = animist
 		size = 25
 	}
 
 	labourers = {
-		culture = dravidian
+		culture = indo_aryan
 		religion = animist
 		size = 700
 	}
 
 	clergymen = {
-		culture = dravidian
+		culture = indo_aryan
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = dravidian
+		culture = indo_aryan
 		religion = animist
 		size = 500
 	}
 
 	soldiers = {
-		culture = dravidian
+		culture = indo_aryan
 		religion = animist
 		size = 25
 	}
 
 	labourers = {
-		culture = dravidian
+		culture = indo_aryan
 		religion = animist
 		size = 1475
 	}
 
 	clergymen = {
-		culture = malay
+		culture = javan
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = malay
+		culture = javan
 		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = malay
+		culture = javan
 		religion = animist
 		size = 50
 	}
 
 	labourers = {
-		culture = malay
+		culture = javan
 		religion = animist
 		size = 675
 	}
@@ -479,31 +479,31 @@
 #Maldives (24000/6000 POPS) #now independent
 1325 = {
 	aristocrats = {
-		culture = dravidian
+		culture = indo_aryan
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = dravidian
+		culture = indo_aryan
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = dravidian
+		culture = indo_aryan
 		religion = animist
 		size = 500
 	}
 
 	soldiers = {
-		culture = dravidian
+		culture = indo_aryan
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = dravidian
+		culture = indo_aryan
 		religion = animist
 		size = 5325
 	}

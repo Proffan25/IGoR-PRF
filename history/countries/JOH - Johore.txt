@@ -1,5 +1,5 @@
 capital = 1385
-primary_culture = malay
+primary_culture = javan
 culture = yue
 religion = animist
 government = absolute_monarchy

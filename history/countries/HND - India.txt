@@ -1,6 +1,5 @@
 capital = 1268
 primary_culture = indo_aryan
-culture = dravidian
 religion = animist
 government = presidential_dictatorship
 plurality = 0.0

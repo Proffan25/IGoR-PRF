@@ -1,5 +1,5 @@
 capital = 1235
-primary_culture = nepali
+primary_culture = tibetan
 religion = animist
 government = absolute_monarchy
 plurality = 0.0

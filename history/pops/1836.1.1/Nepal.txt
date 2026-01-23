@@ -3,43 +3,43 @@
 #Katmandu (540000/135000 POPS)   
 1326 = {
 	aristocrats = {
-		culture = nepali
+		culture = tibetan
 		religion = animist
 		size = 2000
 	}
 
 	bureaucrats = {
-		culture = nepali
+		culture = tibetan
 		religion = animist
 		size = 175
 	}
 
 	officers = {
-		culture = nepali
+		culture = tibetan
 		religion = animist
 		size = 225
 	}
 
 	clergymen = {
-		culture = nepali
+		culture = tibetan
 		religion = animist
 		size = 1100
 	}
 
 	artisans = {
-		culture = nepali
+		culture = tibetan
 		religion = animist
 		size = 4050
 	}
 
 	soldiers = {
-		culture = nepali
+		culture = tibetan
 		religion = animist
 		size = 7000
 	}
 
 	farmers = {
-		culture = nepali
+		culture = tibetan
 		religion = animist
 		size = 86250
 	}
@@ -75,31 +75,31 @@
 	}
 
 	aristocrats = {
-		culture = nepali
+		culture = tibetan
 		religion = animist
 		size = 400
 	}
 
 	clergymen = {
-		culture = nepali
+		culture = tibetan
 		religion = animist
 		size = 225
 	}
 
 	artisans = {
-		culture = nepali
+		culture = tibetan
 		religion = animist
 		size = 1050
 	}
 
 	soldiers = {
-		culture = nepali
+		culture = tibetan
 		religion = animist
 		size = 200
 	}
 
 	farmers = {
-		culture = nepali
+		culture = tibetan
 		religion = animist
 		size = 21125
 	}
@@ -107,31 +107,31 @@
 #Jumla (412000/103000 POPS)   
 1327 = {
 	aristocrats = {
-		culture = nepali
+		culture = tibetan
 		religion = animist
 		size = 900
 	}
 
 	clergymen = {
-		culture = nepali
+		culture = tibetan
 		religion = animist
 		size = 450
 	}
 
 	artisans = {
-		culture = nepali
+		culture = tibetan
 		religion = animist
 		size = 2300
 	}
 
 	soldiers = {
-		culture = nepali
+		culture = tibetan
 		religion = animist
 		size = 1100
 	}
 
 	farmers = {
-		culture = nepali
+		culture = tibetan
 		religion = animist
 		size = 49250
 	}
@@ -167,31 +167,31 @@
 	}
 
 	aristocrats = {
-		culture = nepali
+		culture = tibetan
 		religion = animist
 		size = 350
 	}
 
 	clergymen = {
-		culture = nepali
+		culture = tibetan
 		religion = animist
 		size = 200
 	}
 
 	artisans = {
-		culture = nepali
+		culture = tibetan
 		religion = animist
 		size = 950
 	}
 
 	soldiers = {
-		culture = nepali
+		culture = tibetan
 		religion = animist
 		size = 200
 	}
 
 	farmers = {
-		culture = nepali
+		culture = tibetan
 		religion = animist
 		size = 18300
 	}

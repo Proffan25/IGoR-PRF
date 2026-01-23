@@ -1,6 +1,5 @@
 capital = 322
 primary_culture = swedish
-culture = norwegian
 culture = finnish
 religion = animist
 government = hms_government

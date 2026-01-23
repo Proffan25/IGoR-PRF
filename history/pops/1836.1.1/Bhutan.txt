@@ -45,31 +45,31 @@
 	}
 
 	aristocrats = {
-		culture = nepali
+		culture = tibetan
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = nepali
+		culture = tibetan
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = nepali
+		culture = tibetan
 		religion = animist
 		size = 200
 	}
 
 	soldiers = {
-		culture = nepali
+		culture = tibetan
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = nepali
+		culture = tibetan
 		religion = animist
 		size = 3650
 	}

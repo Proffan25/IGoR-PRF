@@ -27,25 +27,25 @@
     }
 
     clergymen = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 200
     }
 
     artisans = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 1100
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 200
     }
 
     farmers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 19600
     }
@@ -235,25 +235,25 @@
     }
 
     clergymen = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 100
     }
 
     artisans = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 500
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 9300
     }
@@ -287,25 +287,25 @@
 #Uzgorod (856000/214000 POPS) #Part of Ukraine today
 950 = {
     clergymen = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 850
     }
 
     artisans = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 4600
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 900
     }
 
     farmers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 85650
     }
@@ -465,25 +465,25 @@
 #Lvov (660000/165000 POPS) #now part of Ukraine
 702 = {
     clergymen = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 750
     }
 
     artisans = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 4200
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 78050
     }
@@ -581,25 +581,25 @@
 #Stryi (404000/101000 POPS) #now part of Ukraine
 951 = {
     clergymen = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 475
     }
 
     artisans = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 2550
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 500
     }
 
     farmers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 47475
     }
@@ -685,25 +685,25 @@
 #Ternopil (1136000/284000 POPS) #now part of Ukraine
 952 = {
     clergymen = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 1950
     }
 
     artisans = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 9900
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 1950
     }
 
     farmers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 184200
     }
@@ -789,25 +789,25 @@
 #Stanislavov (376000/94000 POPS) #now part of Ukraine
 953 = {
     clergymen = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 500
     }
 
     artisans = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 2650
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 525
     }
 
     farmers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 49325
     }
@@ -895,25 +895,25 @@
 #Vinnitsa (492000/123000 POPS)
 954 = {
     clergymen = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 1100
     }
 
     artisans = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 5850
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 1050
     }
 
     farmers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 96100
     }
@@ -1011,25 +1011,25 @@
 #Proskorov (496000/124000 POPS)
 955 = {
     clergymen = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 950
     }
 
     artisans = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 2450
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 93600
     }
@@ -1115,25 +1115,25 @@
 #Rovne (460000/115000 POPS)
 956 = {
     clergymen = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 825
     }
 
     artisans = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 2400
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 83775
     }
@@ -1195,25 +1195,25 @@
 #Kovel (444000/111000 POPS)
 957 = {
     clergymen = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 825
     }
 
     artisans = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 2350
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 82825
     }
@@ -1277,43 +1277,43 @@
 #Kiev (492000/123000 POPS)
 958 = {
     aristocrats = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 1300
     }
 
     bureaucrats = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 1250
     }
 
     officers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 600
     }
 
     clergymen = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 900
     }
 
     artisans = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 9500
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 82450
     }
@@ -1417,31 +1417,31 @@
 #Korosten (448000/112000 POPS)
 959 = {
     aristocrats = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 1700
     }
 
     clergymen = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 875
     }
 
     artisans = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 2100
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 900
     }
 
     farmers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 83425
     }
@@ -1503,31 +1503,31 @@
 #Zhitomir (460000/115000 POPS)
 960 = {
     aristocrats = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 1600
     }
 
     clergymen = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 1100
     }
 
     artisans = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 2600
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 92800
     }
@@ -1589,31 +1589,31 @@
 #Cherkassy (460000/115000 POPS)
 961 = {
     aristocrats = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 1600
     }
 
     clergymen = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 800
     }
 
     artisans = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 1950
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 900
     }
 
     farmers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 81750
     }
@@ -1705,31 +1705,31 @@
 #Chernigov (616000/154000 POPS)
 962 = {
     aristocrats = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 3000
     }
 
     clergymen = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 1400
     }
 
     artisans = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 6000
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 1450
     }
 
     farmers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 132150
     }
@@ -1791,37 +1791,37 @@
 #Poltava (1552000/388000 POPS)
 963 = {
     aristocrats = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 6000
     }
 
     clergymen = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 3500
     }
 
     artisans = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 10000
     }
 
     artisans = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 6000
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 3750
     }
 
     farmers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 312350
     }
@@ -1885,67 +1885,67 @@
 #Simferopol (126000/29000 POPS)
 964 = {
     aristocrats = {
-        culture = tatar
+        culture = turkic
         religion = animist
         size = 550
     }
 
     bureaucrats = {
-        culture = tatar
+        culture = turkic
         religion = animist
         size = 375
     }
 
     officers = {
-        culture = tatar
+        culture = turkic
         religion = animist
         size = 40
     }
 
     clergymen = {
-        culture = tatar
+        culture = turkic
         religion = animist
         size = 200
     }
 
     artisans = {
-        culture = tatar
+        culture = turkic
         religion = animist
         size = 950
     }
 
     soldiers = {
-        culture = tatar
+        culture = turkic
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = tatar
+        culture = turkic
         religion = animist
         size = 18185
     }
 
     clergymen = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 150
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 2750
     }
@@ -2043,55 +2043,55 @@
 #Cherson (126000/29000 POPS)
 965 = {
     aristocrats = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 450
     }
 
     clergymen = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 125
     }
 
     artisans = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 275
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 275
     }
 
     farmers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 72100
     }
 
     aristocrats = {
-        culture = tatar
+        culture = turkic
         religion = animist
         size = 100
     }
 
     clergymen = {
-        culture = tatar
+        culture = turkic
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = tatar
+        culture = turkic
         religion = animist
         size = 200
     }
 
     farmers = {
-        culture = tatar
+        culture = turkic
         religion = animist
         size = 4575
     }
@@ -2147,31 +2147,31 @@
 #Kerch (48000/12000 POPS)
 966 = {
     aristocrats = {
-        culture = tatar
+        culture = turkic
         religion = animist
         size = 200
     }
 
     clergymen = {
-        culture = tatar
+        culture = turkic
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = tatar
+        culture = turkic
         religion = animist
         size = 175
     }
 
     soldiers = {
-        culture = tatar
+        culture = turkic
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = tatar
+        culture = turkic
         religion = animist
         size = 7950
     }
@@ -2251,31 +2251,31 @@
 #Sevastopol (60000/15000 POPS)
 967 = {
     aristocrats = {
-        culture = tatar
+        culture = turkic
         religion = animist
         size = 250
     }
 
     clergymen = {
-        culture = tatar
+        culture = turkic
         religion = animist
         size = 100
     }
 
     artisans = {
-        culture = tatar
+        culture = turkic
         religion = animist
         size = 175
     }
 
     soldiers = {
-        culture = tatar
+        culture = turkic
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = tatar
+        culture = turkic
         religion = animist
         size = 9375
     }
@@ -2381,55 +2381,55 @@
 #Odessa (248000/62000 POPS)
 968 = {
     aristocrats = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 550
     }
 
     bureaucrats = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 375
     }
 
     officers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 200
     }
 
     clergymen = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 425
     }
 
     artisans = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 7500
     }
 
     clerks = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 50
     }
 
     craftsmen = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 3000
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 30675
     }
@@ -2635,31 +2635,31 @@
 #Pervomaisk (496000/124000 POPS)
 969 = {
     aristocrats = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 2000
     }
 
     clergymen = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 1100
     }
 
     artisans = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 2650
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 1100
     }
 
     farmers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 101000
     }
@@ -2745,31 +2745,31 @@
 #Nikolaev (248000/62000 POPS)
 970 = {
     aristocrats = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 850
     }
 
     clergymen = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 275
     }
 
     artisans = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 700
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 300
     }
 
     farmers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 27875
     }
@@ -2909,31 +2909,31 @@
 #Krivoy Rog (244000/61000 POPS)
 971 = {
     aristocrats = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 1100
     }
 
     clergymen = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 500
     }
 
     artisans = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 1300
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 525
     }
 
     farmers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 48675
     }
@@ -2995,31 +2995,31 @@
 #Ekaterinoslav (252000/63000 POPS)
 972 = {
     aristocrats = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 850
     }
 
     clergymen = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 525
     }
 
     artisans = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 1900
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 550
     }
 
     farmers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 49175
     }
@@ -3107,43 +3107,43 @@
 #Melitopol (84000/21000 POPS)
 973 = {
     aristocrats = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 250
     }
 
     bureaucrats = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 250
     }
 
     officers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 75
     }
 
     clergymen = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 150
     }
 
     artisans = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 650
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 175
     }
 
     farmers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 60700
     }
@@ -3211,31 +3211,31 @@
 #Kramatorsk (240000/60000 POPS)
 974 = {
     aristocrats = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 1250
     }
 
     clergymen = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 550
     }
 
     artisans = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 2250
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 575
     }
 
     farmers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 52875
     }
@@ -3267,31 +3267,31 @@
 #Yuzovka (76000/19000 POPS)
 975 = {
     aristocrats = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 300
     }
 
     clergymen = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 125
     }
 
     artisans = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 500
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 150
     }
 
     farmers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 12925
     }
@@ -3347,31 +3347,31 @@
 #Mariopol (248000/62000 POPS)
 976 = {
     aristocrats = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 1400
     }
 
     clergymen = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 525
     }
 
     artisans = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 1275
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 550
     }
 
     farmers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 52150
     }
@@ -3453,43 +3453,43 @@
 #Kharkov (596000/149000 POPS) #now part of Ukraine
 978 = {
     aristocrats = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 2250
     }
 
     clergymen = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 1375
     }
 
     artisans = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 6200
     }
 
     clerks = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 100
     }
 
     craftsmen = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 3800
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 1400
     }
 
     farmers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 90000
     }
@@ -3547,31 +3547,31 @@
 #Luhansk (652000/163000 POPS) #now part of Ukraine
 980 = {
     aristocrats = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 2900
     }
 
     clergymen = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 1325
     }
 
     artisans = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 7000
     }
 
     soldiers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 1425
     }
 
     farmers = {
-        culture = ukrainian
+        culture = russian
         religion = animist
         size = 110350
     }
