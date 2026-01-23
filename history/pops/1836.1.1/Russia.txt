@@ -9311,37 +9311,37 @@
 #Yaksa (52000/13000 POPS)
 1081 = {
     aristocrats = {
-        culture = manchu
+        culture = beifaren
         religion = animist
         size = 125
     }
 
     bureaucrats = {
-        culture = manchu
+        culture = beifaren
         religion = animist
         size = 125
     }
 
     clergymen = {
-        culture = manchu
+        culture = beifaren
         religion = animist
         size = 100
     }
 
     artisans = {
-        culture = manchu
+        culture = beifaren
         religion = animist
         size = 550
     }
 
     soldiers = {
-        culture = manchu
+        culture = beifaren
         religion = animist
         size = 125
     }
 
     farmers = {
-        culture = manchu
+        culture = beifaren
         religion = animist
         size = 10575
     }
@@ -9403,31 +9403,31 @@
 #Magdagachi (44000/11000 POPS)
 2697 = {
     aristocrats = {
-        culture = manchu
+        culture = beifaren
         religion = animist
         size = 100
     }
 
     clergymen = {
-        culture = manchu
+        culture = beifaren
         religion = animist
         size = 100
     }
 
     artisans = {
-        culture = manchu
+        culture = beifaren
         religion = animist
         size = 500
     }
 
     soldiers = {
-        culture = manchu
+        culture = beifaren
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = manchu
+        culture = beifaren
         religion = animist
         size = 9200
     }
@@ -9467,31 +9467,31 @@
 #Haishenwai (328000/82000 POPS)
 1082 = {
     aristocrats = {
-        culture = manchu
+        culture = beifaren
         religion = animist
         size = 1500
     }
 
     clergymen = {
-        culture = manchu
+        culture = beifaren
         religion = animist
         size = 775
     }
 
     artisans = {
-        culture = manchu
+        culture = beifaren
         religion = animist
         size = 3900
     }
 
     soldiers = {
-        culture = manchu
+        culture = beifaren
         religion = animist
         size = 750
     }
 
     farmers = {
-        culture = manchu
+        culture = beifaren
         religion = animist
         size = 71075
     }
@@ -9559,31 +9559,31 @@
 #Boli (328000/82000 POPS)
 1083 = {
     aristocrats = {
-        culture = manchu
+        culture = beifaren
         religion = animist
         size = 1450
     }
 
     clergymen = {
-        culture = manchu
+        culture = beifaren
         religion = animist
         size = 775
     }
 
     artisans = {
-        culture = manchu
+        culture = beifaren
         religion = animist
         size = 4000
     }
 
     soldiers = {
-        culture = manchu
+        culture = beifaren
         religion = animist
         size = 800
     }
 
     farmers = {
-        culture = manchu
+        culture = beifaren
         religion = animist
         size = 72975
     }
@@ -9621,31 +9621,31 @@
 #Utchan (18000 POPS)
 1084 = {
     aristocrats = {
-        culture = manchu
+        culture = beifaren
         religion = animist
         size = 300
     }
 
     clergymen = {
-        culture = manchu
+        culture = beifaren
         religion = animist
         size = 150
     }
 
     artisans = {
-        culture = manchu
+        culture = beifaren
         religion = animist
         size = 800
     }
 
     soldiers = {
-        culture = manchu
+        culture = beifaren
         religion = animist
         size = 175
     }
 
     farmers = {
-        culture = manchu
+        culture = beifaren
         religion = animist
         size = 14575
     }
@@ -9683,37 +9683,37 @@
 #Ulusamudan (372000/93000 POPS)
 1085 = {
     aristocrats = {
-        culture = manchu
+        culture = beifaren
         religion = animist
         size = 1800
     }
 
     bureaucrats = {
-        culture = manchu
+        culture = beifaren
         religion = animist
         size = 425
     }
 
     clergymen = {
-        culture = manchu
+        culture = beifaren
         religion = animist
         size = 900
     }
 
     artisans = {
-        culture = manchu
+        culture = beifaren
         religion = animist
         size = 4600
     }
 
     soldiers = {
-        culture = manchu
+        culture = beifaren
         religion = animist
         size = 900
     }
 
     farmers = {
-        culture = manchu
+        culture = beifaren
         religion = animist
         size = 82375
     }
@@ -9751,31 +9751,31 @@
 #Saghalian Oula (62000 POPS)
 2617 = {
     aristocrats = {
-        culture = manchu
+        culture = beifaren
         religion = animist
         size = 1200
     }
 
     clergymen = {
-        culture = manchu
+        culture = beifaren
         religion = animist
         size = 600
     }
 
     artisans = {
-        culture = manchu
+        culture = beifaren
         religion = animist
         size = 3050
     }
 
     soldiers = {
-        culture = manchu
+        culture = beifaren
         religion = animist
         size = 625
     }
 
     farmers = {
-        culture = manchu
+        culture = beifaren
         religion = animist
         size = 55525
     }

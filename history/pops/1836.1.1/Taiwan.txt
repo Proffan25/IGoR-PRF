@@ -3,97 +3,97 @@
 #Taipei (1452000/363000 POPS) #now part of Taiwan   
 1485 = {
 	aristocrats = {
-		culture = nanfaren
+		culture = beifaren
 		religion = animist
 		size = 1500
 	}
 
 	bureaucrats = {
-		culture = nanfaren
+		culture = beifaren
 		religion = animist
 		size = 400
 	}
 
 	officers = {
-		culture = nanfaren
+		culture = beifaren
 		religion = animist
 		size = 725
 	}
 
 	clergymen = {
-		culture = nanfaren
+		culture = beifaren
 		religion = animist
 		size = 1225
 	}
 
 	artisans = {
-		culture = nanfaren
+		culture = beifaren
 		religion = animist
 		size = 6150
 	}
 
 	soldiers = {
-		culture = nanfaren
+		culture = beifaren
 		religion = animist
 		size = 1250
 	}
 
 	farmers = {
-		culture = nanfaren
+		culture = beifaren
 		religion = animist
 		size = 110625
 	}
 
 	aristocrats = {
-		culture = nanfaren
+		culture = beifaren
 		religion = animist
 		size = 3000
 	}
 
 	clergymen = {
-		culture = nanfaren
+		culture = beifaren
 		religion = animist
 		size = 2400
 	}
 
 	artisans = {
-		culture = nanfaren
+		culture = beifaren
 		religion = animist
 		size = 10000
 	}
 
 	artisans = {
-		culture = nanfaren
+		culture = beifaren
 		religion = animist
 		size = 2000
 	}
 
 	soldiers = {
-		culture = nanfaren
+		culture = beifaren
 		religion = animist
 		size = 2400
 	}
 
 	farmers = {
-		culture = nanfaren
+		culture = beifaren
 		religion = animist
 		size = 220200
 	}
 
 	bureaucrats = {
-		culture = manchu
+		culture = beifaren
 		religion = animist
 		size = 50
 	}
 
 	officers = {
-		culture = manchu
+		culture = beifaren
 		religion = animist
 		size = 25
 	}
 
 	soldiers = {
-		culture = manchu
+		culture = beifaren
 		religion = animist
 		size = 50
 	}
@@ -101,67 +101,67 @@
 #Tainan (1528000/382000 POPS) #now part of Taiwan  
 2562 = {
 	aristocrats = {
-		culture = nanfaren
+		culture = beifaren
 		religion = animist
 		size = 1525
 	}
 
 	clergymen = {
-		culture = nanfaren
+		culture = beifaren
 		religion = animist
 		size = 1325
 	}
 
 	artisans = {
-		culture = nanfaren
+		culture = beifaren
 		religion = animist
 		size = 6600
 	}
 
 	soldiers = {
-		culture = nanfaren
+		culture = beifaren
 		religion = animist
 		size = 1325
 	}
 
 	farmers = {
-		culture = nanfaren
+		culture = beifaren
 		religion = animist
 		size = 121225
 	}
 
 	aristocrats = {
-		culture = nanfaren
+		culture = beifaren
 		religion = animist
 		size = 3500
 	}
 
 	clergymen = {
-		culture = nanfaren
+		culture = beifaren
 		religion = animist
 		size = 2500
 	}
 
 	artisans = {
-		culture = nanfaren
+		culture = beifaren
 		religion = animist
 		size = 10000
 	}
 
 	artisans = {
-		culture = nanfaren
+		culture = beifaren
 		religion = animist
 		size = 2500
 	}
 
 	soldiers = {
-		culture = nanfaren
+		culture = beifaren
 		religion = animist
 		size = 2500
 	}
 
 	farmers = {
-		culture = nanfaren
+		culture = beifaren
 		religion = animist
 		size = 229000
 	}
