@@ -23,6 +23,60 @@ substate = {
 	start_date = 1836.1.1
 	end_date = 1937.1.1
 }
+substate = {
+	first = CHI
+	second = WEN
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+substate = {
+	first = CHI
+	second = QIN
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+substate = {
+	first = CHI
+	second = QNG
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+substate = {
+	first = CHI
+	second = SHA
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+substate = {
+	first = CHI
+	second = HAG
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+substate = {
+	first = CHI
+	second = NIN
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+substate = {
+	first = CHI
+	second = HOG
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+substate = {
+	first = CHI
+	second = MAC
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+substate = {
+	first = CHI
+	second = BEI
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
 
 #vassal = {
 #	first = CHI

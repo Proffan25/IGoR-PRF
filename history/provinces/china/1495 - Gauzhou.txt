@@ -1,9 +1,5 @@
-owner = CHI
-controller = CHI
-add_core = CHI
-#add_core = TPG
-#add_core = GNG
-#add_core = GXI
+owner = BEI
+controller = BEI
+add_core = BEI
 trade_goods = grain
 life_rating = 32
-

@@ -1,9 +1,5 @@
-owner = CHI
-controller = CHI
-add_core = CHI
-#add_core = TPG
-#add_core = GNG
-#add_core = GXI
+owner = MAC
+controller = MAC
+add_core = MAC
 trade_goods = tropical_wood
 life_rating = 32
-

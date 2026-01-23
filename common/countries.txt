@@ -2,6 +2,18 @@
 #Do not remove this rebel entry.
 REB 	= 	"countries/rebels.txt"
 
+# treaty port nations
+
+WEN		= "countries/WEN.txt"
+QIN		= "countries/QIN.txt"
+QNG		= "countries/QNG.txt"
+SHA		= "countries/SHA.txt"
+HAG		= "countries/HAG.txt"
+NIN		= "countries/NIN.txt"
+HOG		= "countries/HOG.txt"
+MAC		= "countries/MAC.txt"
+BEI		= "countries/BEI.txt"
+
 # Common Great Powers
 ENG		= "countries/United Kingdom.txt"
 RUS		= "countries/Russia.txt"
