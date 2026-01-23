@@ -63,31 +63,31 @@
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 275
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 150
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 800
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 125
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 14650
 	}
@@ -551,31 +551,31 @@
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 125
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 350
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 6375
 	}
@@ -649,31 +649,31 @@
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 2700
 	}
@@ -755,31 +755,31 @@
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 250
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 125
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 700
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 150
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 12775
 	}
@@ -853,31 +853,31 @@
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 200
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 3600
 	}
@@ -945,31 +945,31 @@
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 5475
 	}
@@ -1007,31 +1007,31 @@
 #Salima (8000/2000 POPS)
 2564 = {
 	aristocrats = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 1800
 	}
@@ -1285,31 +1285,31 @@
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 1800
 	}

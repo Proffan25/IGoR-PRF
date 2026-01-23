@@ -1,5 +1,5 @@
 capital = 1151
-primary_culture = mashriqi
+primary_culture = misri
 religion = animist
 government = absolute_monarchy
 plurality = 0.0

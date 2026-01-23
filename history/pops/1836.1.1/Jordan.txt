@@ -33,31 +33,31 @@
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 175
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 3675
 	}
@@ -95,31 +95,31 @@
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 15
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 15
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 35
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 910
 	}
@@ -129,31 +129,31 @@
 #Ruwayshid (12000/3000 POPS) #now part of Jordan 
 910 = {
 	aristocrats = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 125
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 2725
 	}
@@ -191,31 +191,31 @@
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 3675
 	}
@@ -249,31 +249,31 @@
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 150
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 3775
 	}

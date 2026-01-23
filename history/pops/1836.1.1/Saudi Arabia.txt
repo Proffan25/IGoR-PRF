@@ -3,73 +3,73 @@
 #Mecca (196000/49000 POPS)
 1151 = {
 	aristocrats = {
-		culture = mashriqi
+		culture = misri
 		religion = animist
 		size = 400
 	}
 
 	bureaucrats = {
-		culture = mashriqi
+		culture = misri
 		religion = animist
 		size = 100
 	}
 
 	officers = {
-		culture = mashriqi
+		culture = misri
 		religion = animist
 		size = 125
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = misri
 		religion = animist
 		size = 375
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = misri
 		religion = animist
 		size = 6500
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = misri
 		religion = animist
 		size = 1100
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = misri
 		religion = animist
 		size = 16500
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 400
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 125
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 1100
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 250
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 20125
 	}
@@ -83,61 +83,61 @@
 #Jidda (100000/25000 POPS)
 1152 = {
 	aristocrats = {
-		culture = mashriqi
+		culture = misri
 		religion = animist
 		size = 350
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = misri
 		religion = animist
 		size = 175
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = misri
 		religion = animist
 		size = 4500
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = misri
 		religion = animist
 		size = 1100
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = misri
 		religion = animist
 		size = 21025
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 200
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 3625
 	}
@@ -151,61 +151,61 @@
 #Medina (80000/20000 POPS)
 1153 = {
 	aristocrats = {
-		culture = mashriqi
+		culture = misri
 		religion = animist
 		size = 250
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = misri
 		religion = animist
 		size = 150
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = misri
 		religion = animist
 		size = 1500
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = misri
 		religion = animist
 		size = 1100
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = misri
 		religion = animist
 		size = 11100
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 200
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 3600
 	}
@@ -219,31 +219,31 @@
 #Tabuk (8000/2000 POPS)
 1154 = {
 	aristocrats = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 25
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 1825
 	}
@@ -251,61 +251,61 @@
 #Abha (56000/14000 POPS)
 1155 = {
 	aristocrats = {
-		culture = mashriqi
+		culture = misri
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = misri
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = misri
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = misri
 		religion = animist
 		size = 1100
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = misri
 		religion = animist
 		size = 4550
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 150
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 350
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 7300
 	}
@@ -315,31 +315,31 @@
 #Kaf (20000/5000 POPS) #now part of Saudi Arabia
 1156 = {
 	aristocrats = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 200
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 4600
 	}
@@ -349,43 +349,43 @@
 #Riyadh (116000/29000 POPS)
 1157 = {
 	aristocrats = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 500
 	}
 
 	bureaucrats = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 25
 	}
 
 	officers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 325
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 1450
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 4000
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 22625
 	}
@@ -393,31 +393,31 @@
 #Rafha (20000/5000 POPS)
 1158 = {
 	aristocrats = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 1100
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 3675
 	}
@@ -425,31 +425,31 @@
 #Halaban (28000/7000 POPS)
 1159 = {
 	aristocrats = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 325
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 1100
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 5525
 	}
@@ -457,31 +457,31 @@
 #Hail (12000/3000 POPS)
 1160 = {
 	aristocrats = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 125
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 2750
 	}
@@ -489,31 +489,31 @@
 #Sharawah (28000/7000 POPS)
 1161 = {
 	aristocrats = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 325
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 1100
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 5525
 	}
@@ -523,73 +523,73 @@
 #Qatif (92000/23000 POPS)
 1163 = {
 	aristocrats = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 100
 	}
 
 	bureaucrats = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 25
 	}
 
 	officers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 350
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 1100
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 5525
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 200
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 150
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 800
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 175
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 14675
 	}
@@ -597,61 +597,61 @@
 #Hufuf (96000/POPS)
 1164 = {
 	aristocrats = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 175
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 550
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 1100
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 9175
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 225
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 125
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 650
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 125
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 11875
 	}
@@ -659,31 +659,31 @@
 #Ahsa (16000/4000 POPS)
 2586 = {
 	aristocrats = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 200
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = misri
 		religion = animist
 		size = 3850
 	}
