@@ -106,63 +106,58 @@ political_decisions = {
 		}
 	}
 
-	ionian_islands_question = {
-		potential = {
-			tag = ENG
-			ION = {
-				vassal_of = ENG
-			}
-			ION = { ai = yes }
-			NOT = {
-				truce_with = GRE
-			}			
-		}
-
-		allow = {
-			nationalism_n_imperialism = 1
-			war = no
-		}
-
-		effect = {
-			ION = { all_core = { remove_core = ION } }
-			relation = {
-				who = GRE
-				value = 50
-			}
-			diplomatic_influence = {
-				who = GRE
-				value = 50
-			}
-			prestige = 10
-			badboy = -2
-			GRE = {
-				inherit = ION
-			}
-		}
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				NOT = {
-					AND = {
-						year = 1864 
-						month = 4
-					}
-				}
-			}
-		}
-	}
+#	ionian_islands_question = {
+#		potential = {
+#			tag = ENG
+#				vassal_of = ENG
+#			}
+#			ION = { ai = yes }
+#			NOT = {
+#				truce_with = GRE
+#			}			
+#		}
+#
+#		allow = {
+#			nationalism_n_imperialism = 1
+#			war = no
+#		}
+#
+#		effect = {
+#			ION = { all_core = { remove_core = ION } }
+#			relation = {
+#				who = GRE
+#				value = 50
+#			}
+#			diplomatic_influence = {
+#				who = GRE
+#				value = 50
+#			}
+#			prestige = 10
+#			badboy = -2
+#			GRE = {
+#				inherit = ION
+#			}
+#		}
+#		ai_will_do = {
+#			factor = 1
+#			modifier = {
+#				factor = 0
+#				NOT = {
+#					AND = {
+#						year = 1864 
+#						month = 4
+#					}
+#				}
+#			}
+#		}
+#	}
 
 	rhodesia_charter = {
 		potential = {
-			tag = ENG
-			owns = 2068
-			owns = 2069
-			owns = 2070
-			owns = 2071
-			owns = 2072
-			owns = 2073
-			owns = 2635
+			or = {
+				tag = ENG
+				tag = COM
+			}
 			NOT = {
 				has_country_flag = ian_would_be_proud
 			}
@@ -170,16 +165,16 @@ political_decisions = {
 
 		allow = {
 			invention = mission_to_civilize
+			ENG_2068 = { owned_by = THIS }
 		}
 
 		effect = {
-			prestige = 10
 			2068 = {
 				change_province_name = "Salisbury"
 				state_scope = {
 					change_region_name = "Southern Rhodesia"
 					any_owned = {
-						add_core = RHO
+						add_core = COM
 					}
 				}
 			}
@@ -194,57 +189,56 @@ political_decisions = {
 		}
 	}
 
-	mediate_belgian_independence = {
-		picture = sign_treaty_of_london
-		potential = {
-			tag = ENG
-			is_greater_power = yes
-			BEL = { 
-				exists = yes
-				in_sphere = ENG
-			}
-			NET = {
-				exists = yes
-				NOT = { any_owned_province = { is_core = BEL } }
-				NOT = { has_country_flag = signed_treaty_of_london }
-			}
-			NOT = { has_country_flag = mediated_belgian_independence }
-		}
-		
-		allow = {
-			NET = {
-				war = no
-				is_greater_power = no
-			}
-			BEL = {
-				war = no
-			}
-			OR = { 
-				relation = {
-					who = NET
-					value = 100
-				}
-				diplomatic_influence = {
-					who = NET
-					value = 60
-				}
-			}
-		}
-		
-		effect = {
-			set_country_flag = mediated_belgian_independence
-			prestige = 10
-			NET = { country_event = 36709 }
-		}
-		
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				NOT = { year = 1839 }
-			}
-		}
-	}
+#	mediate_belgian_independence = {
+#		picture = sign_treaty_of_london
+#		potential = {
+#			tag = ENG
+#			is_greater_power = yes
+#			BEL = { 
+#				exists = yes
+#				in_sphere = ENG
+#			}
+#			NET = {
+#				NOT = { any_owned_province = { is_core = BEL } }
+#				NOT = { has_country_flag = signed_treaty_of_london }
+#			}
+#			NOT = { has_country_flag = mediated_belgian_independence }
+#		}
+#		
+#		allow = {
+#			NET = {
+#				war = no
+#				is_greater_power = no
+#			}
+#			BEL = {
+#				war = no
+#			}
+#			OR = { 
+#				relation = {
+#					who = NET
+#					value = 100
+#				}
+#				diplomatic_influence = {
+#					who = NET
+#					value = 60
+#				}
+#			}
+#		}
+#		
+#		effect = {
+#			set_country_flag = mediated_belgian_independence
+#			prestige = 10
+#			NET = { country_event = 36709 }
+#		}
+#		
+#		ai_will_do = {
+#			factor = 1
+#			modifier = {
+#				factor = 0
+#				NOT = { year = 1839 }
+#			}
+#		}
+#	}
 
 	aden_protectorate = {
 		picture = map_arabia
@@ -281,14 +275,9 @@ political_decisions = {
 		potential = {
 			is_greater_power = yes
 			owns = 1908 #Cape Coast
-			OR = {
-				is_canal_enabled = 2
-				year = 1874
-			}
 			NET = {
-				owns = 1909 		#Sekondi
-				owns = 1413		#Batavia
-				NOT = { owns = 1910 }	#Kumassi
+				war = no
+				owns = 1909 #Sekondi
 			}
 			NOT = {
 				has_country_flag = gold_coast_treaty
@@ -298,9 +287,9 @@ political_decisions = {
 		allow = {
 			war = no
 			money = 20000
-			NET = {
-				war = no
-				owns = 1909 #Sekondi
+			OR = {
+				is_canal_enabled = 2
+				year = 1874
 			}
 		}
 		
@@ -406,6 +395,34 @@ political_decisions = {
 				annex_to = ENG
 			}
 			set_global_flag = ai_australia_annexed
+		}
+	}
+	
+	annex_ai_commonwealth = {
+		picture = dreams_of_empire
+		alert = yes
+		potential = {
+			tag = ENG
+			year = 1836
+			NOT = { year = 1837 }
+			exists = COM
+			ai = no
+			NOT = { has_global_flag = ai_commonwealth_annexed }
+		}
+		
+		allow = {
+			COM = {
+				ai = yes
+			}
+			year = 1836
+			NOT = { year = 1837 }
+		}
+		
+		effect = {
+			COM = {
+				annex_to = ENG
+			}
+			set_global_flag = ai_commonwealth_annexed
 		}
 	}
 	
