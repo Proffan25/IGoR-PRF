@@ -2,421 +2,407 @@
 #Zurich (560000/140000 POPS)
 603 = {
 	aristocrats = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 450
 	}
 
 	clergymen = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 1300
 	}
 
 	capitalists = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 100
 	}
 
 	clerks = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 400
 	}
 
 	craftsmen = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 9800
 	}
 
 	artisans = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 3300
 	}
 
-	soldiers = {
-		culture = swiss
-		religion = animist
-		size = 1100
-	}
-
 	farmers = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 73650
 	}
 
 	aristocrats = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 250
 	}
 
 	clergymen = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 500
 	}
 
 	clerks = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 200
 	}
 
 	craftsmen = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 5000
 	}
 
 	artisans = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 1900
 	}
 
-	soldiers = {
-		culture = swiss
-		religion = animist
-		size = 1100
-	}
-
 	farmers = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 41150
+	}
+	soldiers = {
+		culture = south_german
+		religion = animist
+		size = 2500
 	}
 }
 #Basel (272000/68000 POPS)
 604 = {
 	aristocrats = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 150
 	}
 
 	clergymen = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 275
 	}
 
 	clerks = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 135
 	}
 
 	craftsmen = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 3500
 	}
 
 	artisans = {
-		culture = swiss
+		culture = south_german
 		religion = animist
-		size = 2250
-	}
-
-	soldiers = {
-		culture = swiss
-		religion = animist
-		size = 1100
+		size = 350
 	}
 
 	farmers = {
-		culture = swiss
+		culture = south_german
 		religion = animist
-		size = 30690
+		size = 10190
 	}
 
 	aristocrats = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 150
 	}
 
-	clergymen = {
-		culture = swiss
-		religion = animist
-		size = 250
-	}
-
 	clerks = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 130
 	}
 
 	craftsmen = {
-		culture = swiss
+		culture = south_german
 		religion = animist
-		size = 1500
-	}
-
-	artisans = {
-		culture = swiss
-		religion = animist
-		size = 1900
+		size = 900
 	}
 
 	soldiers = {
-		culture = swiss
+		culture = south_german
 		religion = animist
-		size = 1100
+		size = 2200
 	}
 
 	farmers = {
-		culture = swiss
+		culture = south_german
 		religion = animist
-		size = 24800
+		size = 20800
 	}
 }
 #Bern (352000/88000 POPS)
 605 = {
 	aristocrats = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 450
 	}
 
 	officers = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 350
 	}
 
 	bureaucrats = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 800
 	}
 
 	clergymen = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 625
 	}
 
 	clerks = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 275
 	}
 
 	craftsmen = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 7000
 	}
 
 	artisans = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 3500
 	}
 
 	soldiers = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 1100
 	}
 
 	farmers = {
-		culture = swiss
+		culture = south_german
 		religion = animist
-		size = 74300
+		size = 66825
+	}
+
+	farmers = {
+		culture = french
+		religion = animist
+		size = 5225
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = animist
+		size = 2250
 	}
 }
 #Lucerne (204000/51000 POPS)
 606 = {
 	aristocrats = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 175
 	}
 
 	clergymen = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 450
 	}
 
 	artisans = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 2500
 	}
 
 	clerks = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 100
 	}
 	
 	craftsmen = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 2900
 	}
 	
 	soldiers = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 1100
 	}
 
 	farmers = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 42725
 	}
-
 }
 #Vaud & Valais Region (444000)
 #Geneva (316000/79000 POPS)
 607 = {
 	aristocrats = {
-		culture = swiss
+		culture = french
 		religion = animist
 		size = 200
 	}
 
 	bureaucrats = {
-		culture = swiss
+		culture = french
 		religion = animist
 		size = 120
 	}
 
 	officers = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 60
 	}
 
 	clergymen = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 300
 	}
 
 	artisans = {
-		culture = swiss
+		culture = french
 		religion = animist
 		size = 3000
 	}
 
 	clerks = {
-		culture = swiss
+		culture = french
 		religion = animist
 		size = 100
 	}
 	
 	craftsmen = {
-		culture = swiss
+		culture = french
 		religion = animist
 		size = 2500
 	}
 	
 	soldiers = {
-		culture = swiss
+		culture = french
 		religion = animist
-		size = 1100
+		size = 3250
 	}
 
 	farmers = {
-		culture = swiss
+		culture = french
 		religion = animist
 		size = 35720
 	}
 
 	aristocrats = {
-		culture = swiss
+		culture = french
 		religion = animist
 		size = 300
 	}
 
 	bureaucrats = {
-		culture = swiss
+		culture = french
 		religion = animist
 		size = 80
 	}
 
 	officers = {
-		culture = swiss
+		culture = french
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = swiss
+		culture = french
 		religion = animist
 		size = 350
 	}
 
 	artisans = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 3000
 	}
 
 	clerks = {
-		culture = swiss
+		culture = french
 		religion = animist
 		size = 100
 	}
 	
 	craftsmen = {
-		culture = swiss
+		culture = french
 		religion = animist
 		size = 1500
 	}
-	
-	soldiers = {
-		culture = swiss
+
+	farmers = {
+		culture = french
 		religion = animist
-		size = 1100
+		size = 19630
 	}
 
 	farmers = {
-		culture = swiss
+		culture = south_german
 		religion = animist
-		size = 29630
+		size = 10000
 	}
 }
 #Neuchatel (56000/14000 POPS)
 608 = {
 	aristocrats = {
-		culture = swiss
+		culture = french
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = swiss
+		culture = french
 		religion = animist
 		size = 125
 	}
 
 	artisans = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 3000
 	}
 
 	soldiers = {
-		culture = swiss
+		culture = french
 		religion = animist
-		size = 150
+		size = 1150
 	}
 
 	farmers = {
-		culture = swiss
+		culture = french
 		religion = animist
 		size = 10625
 	}
@@ -424,77 +410,88 @@
 #Sitten (72000/18000) POPS
 609 = {
 	aristocrats = {
-		culture = swiss
+		culture = french
 		religion = animist
 		size = 150
 	}
 
 	clergymen = {
-		culture = swiss
+		culture = french
 		religion = animist
 		size = 175
 	}
 
 	artisans = {
-		culture = swiss
+		culture = french
 		religion = animist
 		size = 1100
 	}
 
 	soldiers = {
-		culture = swiss
+		culture = french
 		religion = animist
 		size = 1100
 	}
 
 	farmers = {
-		culture = swiss
+		culture = french
 		religion = animist
-		size = 15675
+		size = 10000
 	}
 
+	farmers = {
+		culture = south_german
+		religion = animist
+		size = 5175
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = animist
+		size = 500
+	}
 }
 #Ticino & Grisons Region (188000)
 #Lugano (108000/27000 POPS)
 2568 = {
 	aristocrats = {
-		culture = swiss
+		culture = north_italian
 		religion = animist
 		size = 250
 	}
 
 	bureaucrats = {
-		culture = swiss
+		culture = north_italian
 		religion = animist
 		size = 100
 	}
 
 	officers = {
-		culture = swiss
+		culture = north_italian
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = swiss
+		culture = north_italian
 		religion = animist
 		size = 275
 	}
 
 	artisans = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 1250
 	}
 
 	soldiers = {
-		culture = swiss
+		culture = north_italian
 		religion = animist
 		size = 1100
 	}
 
 	farmers = {
-		culture = swiss
+		culture = north_italian
 		religion = animist
 		size = 24075
 	}
@@ -502,63 +499,173 @@
 #Chur (80000/20000 POPS)
 611 = {
 	aristocrats = {
-		culture = swiss
+		culture = north_italian
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = swiss
+		culture = north_italian
 		religion = animist
 		size = 275
 	}
 
 	artisans = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 650
 	}
 
 	soldiers = {
-		culture = swiss
+		culture = north_italian
 		religion = animist
-		size = 1100
+		size = 1175
 	}
 
 	farmers = {
-		culture = swiss
+		culture = north_italian
 		religion = animist
 		size = 11275
 	}
 
 	aristocrats = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = swiss
+		culture = north_italian
 		religion = animist
 		size = 350
 	}
 
-	soldiers = {
-		culture = swiss
-		religion = animist
-		size = 75
-	}
-
 	farmers = {
-		culture = swiss
+		culture = south_german
 		religion = animist
 		size = 6475
 	}
+}
+#Chur (80000/20000 POPS)
+611 = {
+	aristocrats = {
+		culture = north_italian
+		religion = animist
+		size = 100
+	}
 
+	clergymen = {
+		culture = north_italian
+		religion = animist
+		size = 275
+	}
+
+	artisans = {
+		culture = south_german
+		religion = animist
+		size = 650
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = animist
+		size = 1175
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = animist
+		size = 11275
+	}
+
+	aristocrats = {
+		culture = south_german
+		religion = animist
+		size = 50
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = animist
+		size = 350
+	}
+
+	farmers = {
+		culture = south_german
+		religion = animist
+		size = 6475
+	}
+}
+
+#Jura (POPS Taken from Basel)
+#(65800/16450)
+
+3298 = {
+	aristocrats = {
+		culture = french
+		religion = animist
+		size = 25
+	}
+	clergymen = {
+		culture = french
+		religion = animist
+		size = 165
+	}
+	craftsmen = {
+		culture = french
+		religion = animist
+		size = 160
+	}
+	artisans = {
+		culture = french
+		religion = animist
+		size = 3002
+	}
+	farmers = {
+		culture = french
+		religion = animist
+		size = 4800
+	}
+	aristocrats = {
+		culture = french
+		religion = animist
+		size = 75
+	}
+	clergymen = {
+		culture = french
+		religion = animist
+		size = 100
+	}
+	craftsmen = {
+		culture = french
+		religion = animist
+		size = 440
+	}
+	artisans = {
+		culture = french
+		religion = animist
+		size = 800
+	}
+	farmers = {
+		culture = french
+		religion = animist
+		size = 19800
+	}
+	soldiers = {
+		culture = french
+		religion = animist
+		size = 1175
+	}
 }

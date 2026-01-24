@@ -95929,7 +95929,7 @@
 
     }
 
-} # Valpara˙êo
+} # Valpara˙ùo
 
 2325 = {
     text_position = {
@@ -99726,7 +99726,7 @@
 
     }
 
-} # S„o Lu˙ê
+} # S„o Lu˙ù
 
 2424 = {
     unit = {
@@ -119444,3 +119444,37 @@
 3297 = {
     text_scale = 0.000001
 }
+
+
+3298 = {
+    text_position = {
+        x = 2924.899902
+        y = 1575.199951
+    }
+
+    text_rotation = 0.261799
+    text_scale = 2.300000
+    building_construction = {
+        x = 2929.000000
+        y = 1578.000000
+    }
+
+    military_construction = {
+        x = 2918.300049
+        y = 1573.900024
+    }
+
+    factory = {
+        x = 2932.500000
+        y = 1579.199951
+    }
+
+    building_position = {
+        fort = {
+            x = 2916.699951
+            y = 1577.500000
+        }
+
+    }
+
+} # Bern
