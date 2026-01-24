@@ -149,7 +149,7 @@ ENG_258;Connacht;;;;;;;;;;;;;x;;
 ENG_301;Kent;;;;;;;;;;;;;x;;
 ENG_517;Gibraltar;;;;;;;;;;;;;x;;
 FRA_473;Corse;;;;;;;;;;;;;x;;
-BEL_390;Brabant;;;;;;;;;;;;;x;;
+BEL_390;Vlaanderen;;;;;;;;;;;;;x;;
 NET_379;Zeeland;;;;;;;;;;;;;x;;
 AUS_2538;Vojvodina;;;;;;;;;;;;;x;;
 AUS_736;Friaul;Frioul;Friaul;;Friuli;;;;;;;;;x;;;;
@@ -165,7 +165,7 @@ ITA_753;Abruzzo-Marche;;;;;;;;;;;;;x;;
 #State Localisations - Germany;;;;;;;;;;;;;;x
 #############################################;;;;;;;;;;;;;;x
 HAN_538;East Friesland;;;;;;;;;;;;;x;;
-HAN_536;Lower Saxony;;;;;;;;;;;;;x;;
+HAN_536;Niedersachsen;;;;;;;;;;;;;x;;
 HAM_528;Lower Elbe;;;;;;;;;;;;;x;;
 SCH_370;Schleswig;;;;;;;;;;;;;x;;
 HOL_369;Holstein;;;;;;;;;;;;;x;;
