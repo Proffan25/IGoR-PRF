@@ -77,22 +77,17 @@ political_decisions = {
 	the_railroad_law = { #Originally modified from VIP
 		potential = {
 			tag = NET
-			early_railroad = 1 
-			NOT = {
-				has_country_flag = rails_regulated
-			}
+			NOT = { iron_railroad = 1 }
 		}
 		allow = {
 			year = 1860
 			money = 5000
-			NOT = { iron_railroad = 1 }
+			early_railroad = 1
 		}
 
 		effect = {
 			treasury = -5000
-			research_points = -500
 			activate_technology = iron_railroad
-			set_country_flag = rails_regulated
 		}
 		ai_will_do = {
 			factor = 1
@@ -101,15 +96,14 @@ political_decisions = {
 	begin_cultuurstelsel = { #Originally modified from VIP
 		potential = {
 			tag = NET
-			owns = 1413 #Batavia
 			NOT = {
 				has_country_flag = batavia_reborn
 			}
 		}
 		allow = {
+			owns = 1413 #Batavia
 			money = 50000
 		}
-
 		effect = {
 			treasury = -50000
 			prestige = 5
@@ -124,6 +118,37 @@ political_decisions = {
 		}
 		ai_will_do = {
 			factor = 1
+		}
+	}
+	
+	restore_burgundy = {
+		picture = burgundy
+		potential = {
+			tag = NET
+			NOT = {
+				has_country_flag = net_burgundy_restored
+			}
+		}
+		allow = {
+			NET = {
+				all_core = {
+					owned_by = THIS
+				}
+			}
+			FRA_399 = { owned_by = THIS } #Picardie
+			FRA_404 = { owned_by = THIS } #Champagne
+			FRA_411 = { owned_by = THIS } #Frache-Comte
+			FRA_428 = { owned_by = THIS } #Bourgogne
+		}
+		effect = {
+			government = absolute_empire
+			capital = 390
+			390 = { life_rating = 5 }
+			FRA_399 = { add_core = NET }
+			FRA_404 = { add_core = NET }
+			FRA_411 = { add_core = NET }
+			FRA_428 = { add_core = NET }
+			set_country_flag = net_burgundy_restored
 		}
 	}
 }

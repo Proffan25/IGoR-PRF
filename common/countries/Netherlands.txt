@@ -1,4 +1,7 @@
 color = { 220  138  57 }
+absolute_empire = { 128 0 32 }
+semi_constitutional_empire = { 128 0 32 }
+constitutional_empire = { 128 0 32 }
 graphical_culture = EuropeanGC
 
 party = {
