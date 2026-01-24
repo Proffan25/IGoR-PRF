@@ -1,9 +1,11 @@
 capital = 605
-primary_culture = swiss
+primary_culture = south_german
+culture = french
+culture = north_italian
 religion = animist
 government = democracy
 plurality = 25.0
-nationalvalue = nv_order
+nationalvalue = nv_productivity
 literacy = 0.7
 civilized = yes
 prestige = 5
