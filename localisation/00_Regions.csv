@@ -74,13 +74,13 @@ ALD_1705;Oran;;;;;;;;;;;;;x;;
 ALD_1708;Constantine;;;;;;;;;;;;;x;;
 TRI_1734;Cyrenaica;;;;;;;;;;;;;x;;
 TRI_1731;Tripolitania;;;;;;;;;;;;;x;;
-TRI_1738;Libya;;;;;;;;;;;;;x;;
+TRI_1738;Trablusgarp;;;;;;;;;;;;;x;;
 EGY_1752;Western Desert;;;;;;;;;;;;;x;;
-EGY_1745;Lower Egypt;;;;;;;;;;;;;x;;
+EGY_1745;Wajh al-Bahri;;;;;;;;;;;;;x;;
 EGY_1756;Sinai;;;;;;;;;;;;;x;;
 EGY_1765;Middle Egypt;;;;;;;;;;;;;x;;
 EGY_1770;Red Sea Coast;;;;;;;;;;;;;x;;
-EGY_1767;Upper Egypt;;;;;;;;;;;;;x;;
+EGY_1767;Al-Said;;;;;;;;;;;;;x;;
 EGY_1835;Dongola;;;;;;;;;;;;;x;;
 EGY_1827;Sudan;;;;;;;;;;;;;x;;
 MAD_2115;Merina;;;;;;;;;;;;;x;;
@@ -95,7 +95,8 @@ TUR_873;Adana;;;;;;;;;;;;;x;;
 TUR_887;Erzerum;;;;;;;;;;;;;x;;
 TUR_889;Diyarbakir;;;;;;;;;;;;;x;;
 TUR_913;Levantine Coast;;;;;;;;;;;;;x;;
-TUR_902;Syria;;;;;;;;;;;;;x;;
+TUR_902;Suriya;;;;;;;;;;;;;x;;
+EGY_1757;Al-Suways;;;;;;;;;;;;;x;;
 #############################################;;;;;;;;;;;;;;x
 #State Localisations - Arabia;;;;;;;;;;;;;;x
 #############################################;;;;;;;;;;;;;;x
