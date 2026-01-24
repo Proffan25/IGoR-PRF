@@ -30,6 +30,14 @@
 3186;3182;impassable;0;0;scary mountain
 3186;3159;impassable;0;0;scary mountain
 3186;3183;impassable;0;0;scary mountain
+#Host Nation
+3252;614;impassable;0;0;Vaduz to Bregenz
+3252;611;impassable;0;0;Vaduz to Chur
+3252;603;impassable;0;0;Vaduz to Zurich
+
+
+
+
 
 #
 # African Straits
@@ -170,14 +178,11 @@
 732;615;impassable;0;0;Treviso-Linz
 732;618;impassable;0;0;Treviso-Klagenfurth
 733;618;impassable;0;0;Udine-Klagenfurt
-727;611;impassable;0;0;Bergamo-Chur
 727;2568;impassable;0;0;Bergamo-Lugano
 722;605;impassable;0;0;Novara-Bern
 2568;722;impassable;0;0;Lugano-Novara
 609;722;impassable;0;0;Sitten-Novara
 606;722;impassable;0;0;Lucerne-Novara
-608;432;impassable;0;0;Neuchatel-Besancon
-607;432;impassable;0;0;Geneva-Besancon
 611;735;impassable;0;0;Chur-Bozen
 611;612;impassable;0;0;Chur-Innsbruck
 611;614;impassable;0;0;Chur-Bregenz
@@ -2334,12 +2339,6 @@
 1800;1799;sea;0;0;Segu to Sikasso
 1794;1798;sea;0;0;Bougouni to Bamako
 1881;1798;sea;0;0;Dinguiraye to Bougouni
-
-
-
-
-
-
 
 
 
