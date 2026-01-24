@@ -4,15 +4,15 @@ REB 	= 	"countries/rebels.txt"
 
 # treaty port nations
 
-WEN		= "countries/WEN.txt"
-QIN		= "countries/QIN.txt"
-QNG		= "countries/QNG.txt"
-SHA		= "countries/SHA.txt"
-HAG		= "countries/HAG.txt"
-NIN		= "countries/NIN.txt"
-HOG		= "countries/HOG.txt"
-MAC		= "countries/MAC.txt"
-BEI		= "countries/BEI.txt"
+WEN		= "countries/WEN.txt" #Port Artur
+QIN		= "countries/QIN.txt" #Weihaiwei
+QNG		= "countries/QNG.txt" #Qingdao
+SHA		= "countries/SHA.txt" #Shangai
+HAG		= "countries/HAG.txt" #Jiaxing
+NIN		= "countries/NIN.txt" #Ningbo
+HOG		= "countries/HOG.txt" #Hong Kong
+MAC		= "countries/MAC.txt" #Macao
+BEI		= "countries/BEI.txt" #Guangzhouwan
 
 # Common Great Powers
 ENG		= "countries/United Kingdom.txt"

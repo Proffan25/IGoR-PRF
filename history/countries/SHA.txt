@@ -11,7 +11,7 @@ nationalvalue = nv_productivity
 literacy = 0.04
 non_state_culture_literacy = 0.04
 prestige = 0
-schools = traditional_academic
+schools = commerce_tech_school
 oob = "SHA.txt"
 
 
