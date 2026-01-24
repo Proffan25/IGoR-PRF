@@ -310,10 +310,6 @@ political_decisions = {
 		picture = map_east_indies
 		potential = {
 			tag = FRA
-			1380 = {
-				owned_by = THIS
-				is_colonial = yes
-			}
 			NOT = { has_country_flag = created_french_indochina }
 		}
 		
@@ -341,16 +337,11 @@ political_decisions = {
 			}
 			any_neighbor_country = {
 				limit = {
-					OR = {
-						primary_culture = vietnamese
-						primary_culture = thai
-						primary_culture = lao
-						primary_culture = khmer
-					}
+					primary_culture = vietnamese
 					civilized = no
 				}
 				relation = { who = THIS value = -100 }
-			}	
+			}
 		}
 	}
 }

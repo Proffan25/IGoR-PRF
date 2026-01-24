@@ -28,12 +28,12 @@ political_decisions = {
 	support_french_foreign_legion = {
 		potential = {
 			tag = FRA
-			owns = 1700
 			NOT = {
 				has_country_flag = french_foreign_legion_supported
 			}
 		}
 		allow = {
+			owns = 1700
 			army_professionalism = 1
 		}
 		effect = {
@@ -141,8 +141,8 @@ political_decisions = {
 				MAD = {
 					in_sphere = FRA
 					civilized = no
-			}
 				}
+			}
 			NOT = {
 				has_country_flag = merina_monarchy_is_over
 			}
@@ -171,13 +171,13 @@ political_decisions = {
 	brazzas_expedition = {
 		potential = {
 			tag = FRA
-			owns = 1977
 			NOT = {
 				has_global_flag = brazzaville_formed
 			}
 		}
 		
 		allow = {
+			owns = 1977
 			invention = mission_to_civilize
 		}
 		
@@ -185,6 +185,7 @@ political_decisions = {
 			1977 = {
 				change_province_name = "Brazzaville"
 			}
+			FRA_1978 = { life_rating = 20 }
 			prestige = 5
 			set_global_flag = brazzaville_formed
 		}
@@ -269,12 +270,9 @@ political_decisions = {
 		potential = {
 			tag = FRA
 			owns = 425
+			owns = 427
 			NOT = {
 				has_country_flag = extreme_home_makeover
-			}
-			OR = {
-				realism = 1
-				early_railroad = 1
 			}
 		}
 		
@@ -286,6 +284,18 @@ political_decisions = {
 		
 		effect = {
 			425 = {
+				life_rating = 5
+			}
+			426 = {
+				life_rating = 5
+			}
+			427 = {
+				life_rating = 5
+			}
+			438 = {
+				life_rating = 5
+			}
+			2570 = {
 				life_rating = 5
 			}
 			prestige = 10
