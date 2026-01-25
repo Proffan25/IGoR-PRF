@@ -251,7 +251,17 @@ political_decisions = {
 		alert = no
 		potential = {
 			part_of_sphere = yes
-			
+			NOT = {
+				tag = WEN
+				tag = QIN
+				tag = QNG
+				tag = SHA
+				tag = HAG
+				tag = NIN
+				tag = HOG
+				tag = MAC
+				tag = BEI
+			}
 		}
 		allow = {
 #			is_secondary_power = yes
