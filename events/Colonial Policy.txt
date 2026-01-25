@@ -1,0 +1,161 @@
+country_event = {
+	id = 91520
+	title = "EVTNAME91520"
+	desc = "EVTDESC91520"
+	picture = "colonial_policy"
+
+	is_triggered_only = yes
+
+	option = {
+		name = "EVTOPTA91520"
+			any_owned = {
+				remove_province_modifier = indirect_rule
+			}
+		clr_country_flag = set_colonial_policy
+		clr_country_flag = colonialindirectrule
+	}
+}
+
+country_event = {
+	id = 91524
+	title = "EVTNAME91520"
+	desc = "EVTDESC91520"
+
+	is_triggered_only = yes
+
+	option = {
+		name = "EVTOPTA91520"
+			any_owned = {
+				remove_province_modifier = settlement
+			}
+		clr_country_flag = set_colonial_policy
+		clr_country_flag = colonialsettlement
+	}
+}
+
+country_event = {
+	id = 91521
+	title = "EVTNAME91521"
+	desc = "EVTDESC91521"
+	picture = "colonial_policy"
+
+	trigger = {
+		any_owned_province = {
+			is_colonial = yes
+			NOT = {
+				OR = {
+					has_province_modifier = indirect_rule
+					has_province_modifier = settlement
+				}
+			}
+		}
+		NOT = {
+		has_country_flag = set_colonial_policy }
+	}
+
+	option = {
+		name = "EVTOPTA91521"
+		any_owned = {
+			limit = {
+				is_colonial = yes
+				NOT = {
+					OR = {
+						has_province_modifier = indirect_rule
+						has_province_modifier = settlement
+					}
+				}
+			}
+			add_province_modifier = { name = indirect_rule duration = -1 }
+		}
+		set_country_flag = set_colonial_policy
+		set_country_flag = colonialindirectrule
+		ai_chance = {
+			factor = 0
+		}
+	}
+	option = {
+		name = "EVTOPTC91521"
+		any_owned = {
+			limit = {
+				is_colonial = yes
+				NOT = {
+					OR = {
+						has_province_modifier = indirect_rule
+						has_province_modifier = settlement
+					}
+				}
+			}
+			add_province_modifier = { name = settlement duration = -1 }
+		}
+		set_country_flag = set_colonial_policy
+		set_country_flag = colonialsettlement
+	}
+}
+
+country_event = {
+	id = 91522
+	title = "EVTNAME91522"
+	desc = "EVTDESC91522"
+	picture = "colonial_policy"
+
+	trigger = {
+	has_country_flag = set_colonial_policy
+	has_country_flag = colonialindirectrule
+		any_owned_province = {
+			is_colonial = yes
+			NOT = {
+					has_province_modifier = indirect_rule
+				}
+			}
+		}
+
+	option = {
+		name = "EVTOPTA91520"
+		any_owned = {
+			limit = {
+				is_colonial = yes
+				NOT = {
+					OR = {
+						has_province_modifier = indirect_rule
+					}
+				}
+			}
+			add_province_modifier = { name = indirect_rule duration = -1 }
+			remove_province_modifier = settlement
+		}
+}
+}
+
+country_event = {
+	id = 91523
+	title = "EVTNAME91522"
+	desc = "EVTDESC91522"
+	picture = "colonial_policy"
+
+	trigger = {
+	has_country_flag = set_colonial_policy
+	has_country_flag = colonialsettlement
+		any_owned_province = {
+			is_colonial = yes
+			NOT = {
+					has_province_modifier = settlement
+				}
+			}
+		}
+
+	option = {
+		name = "EVTOPTA91520"
+		any_owned = {
+			limit = {
+				is_colonial = yes
+				NOT = {
+					OR = {
+						has_province_modifier = settlement
+					}
+				}
+			}
+			add_province_modifier = { name = settlement duration = -1 }
+			remove_province_modifier = indirect_rule
+		}
+}
+}

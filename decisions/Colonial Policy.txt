@@ -1,0 +1,39 @@
+political_decisions = {
+	zstate_colonial_policyindirect = {
+		picture = colonial_policy
+		potential = {
+			ai = no
+			has_country_flag = colonialindirectrule
+			has_country_flag = show_ex_decisions
+		}
+		allow = {
+			any_owned_province = {
+				is_colonial = yes
+			}
+		}
+		effect = {
+			THIS = {
+				country_event = { id=91520 days=0 }
+			}
+		}
+	}
+
+	zstate_colonial_policysettlement = {
+		picture = colonial_policy
+		potential = {
+			ai = no
+			has_country_flag = colonialsettlement
+			has_country_flag = show_ex_decisions
+		}
+		allow = {
+			any_owned_province = {
+				is_colonial = yes
+			}
+		}
+		effect = {
+			THIS = {
+				country_event = { id=91524 days=0 }
+			}
+		}
+	}
+}
