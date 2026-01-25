@@ -1,5 +1,5 @@
 capital = 372
-primary_culture = danish
+primary_culture = swedish
 religion = animist
 government = absolute_monarchy
 plurality = 25.0

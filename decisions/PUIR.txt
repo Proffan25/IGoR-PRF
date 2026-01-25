@@ -1684,7 +1684,7 @@ political_decisions = {
 	}
 	papua_act = {
 		potential = {
-			tag = AST
+			tag = COM
 			NOT = { has_country_flag = passed_papua_act }
 			invention = mission_to_civilize
 			2528 = {
@@ -1712,12 +1712,11 @@ political_decisions = {
 
 		effect = {
 			set_country_flag = passed_papua_act
-			prestige = 20
 			2528 = { 
-				secede_province = AST
+				secede_province = COM
 			}
 			2529 = { 
-				secede_province = AST
+				secede_province = COM
 			}
 		}
 		ai_will_do = {
@@ -1752,50 +1751,6 @@ political_decisions = {
 				factor = 0
 				NOT = { year = 1890 }
 			} 
-		}
-	}
-	reclaim_baltic_empire = {
-		potential = {
-			tag = SWE
-			NOT = { has_country_flag = finland_abandoned }
-			NOT = { has_country_flag = stormaktstiden }
-			exists = NOR
-			NOR = { 
-				all_core = {
-					NOT = { owned_by = SWE }
-				}
-			}		
-		}
-
-		allow = {
-			war = no
-			invention = expansionism
-			owns = 336 #Oulu - Northern Finland
-			owns = 345 #Turku - Southern Finland
-		}
-
-		effect = {
-			set_country_flag = stormaktstiden
-			remove_accepted_culture = norwegian
-			add_accepted_culture = estonian
-			add_accepted_culture = north_german
-			RUS_994 = {		#Ingria
-				add_core = SWE
-			}
-			RUS_349 = {		#Estonia
-				add_core = SWE
-			}
-			RUS_354 = {		#Latvia
-				add_core = SWE
-			}
-		}
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				is_greater_power = no
-			} 
-			
 		}
 	}
 }

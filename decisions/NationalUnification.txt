@@ -528,10 +528,8 @@ political_decisions = {
 		}
 		
 		effect = {
-			add_accepted_culture = danish
 			SWE = { all_core = { remove_core = SWE add_core = SCA } }
-			DEN = { all_core = { add_core = SCA } }
-			NOR = { all_core = { add_core = SCA } }
+			DEN = { all_core = { remove_core = DEN add_core = SCA } }
 			inherit = DEN
 			change_tag = SCA
 		}
