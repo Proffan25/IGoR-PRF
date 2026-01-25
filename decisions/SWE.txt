@@ -77,7 +77,7 @@ political_decisions = {
 		}
 	}
 	
-	reclaim_baltic_empire = {
+	baltic_protectors = {
 		picture = livonia
 		potential = {
 			OR = {
@@ -98,7 +98,7 @@ political_decisions = {
 		}
 	}
 	
-	baltic_protectors = {
+	reclaim_baltic_empire = {
 		picture = pomerania
 		potential = {
 			OR = {
