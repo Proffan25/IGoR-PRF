@@ -77,6 +77,28 @@ political_decisions = {
 		}
 	}
 	
+	annex_finland = {
+		picture = greater_finland
+		potential = {
+			OR = {
+				tag = SWE
+				tag = SCA
+			}
+			NOT = { has_country_flag = swe_annexed_finland }
+		}
+		allow = {
+			NOT = {
+				FIN = {
+					vassal_of = RUS
+				}
+			}
+		}
+		effect = {
+			inherit = FIN
+			set_country_flag = swe_annexed_finland
+		}
+	}
+	
 	baltic_protectors = {
 		picture = livonia
 		potential = {

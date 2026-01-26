@@ -530,7 +530,9 @@ political_decisions = {
 		effect = {
 			SWE = { all_core = { remove_core = SWE add_core = SCA } }
 			DEN = { all_core = { remove_core = DEN add_core = SCA } }
+			533 = { add_core = SCA }
 			inherit = DEN
+			inherit = HOL
 			change_tag = SCA
 		}
 		ai_will_do = {

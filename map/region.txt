@@ -497,7 +497,7 @@ BEL_390 = { 387 390 391 388 389 } #Brabant
 
 #NET_381 = { 381 379 380 382 }
 
-DEN_367 = { 367 366 368 2557 } #Jylland
+DEN_367 = { 366 367 368 2557 370 371 } #Jylland
 
 DEN_372 = { 372 373 374 } #Sjaelland
 
@@ -1444,7 +1444,7 @@ MEC_545 = { 530 544 545 528 369 529 547 548 } #Mecklenburg
 
 #MEC_544 = { 369 370 371 529 } #Schleswig-Holstein
 
-SCH_370 = { 370 371 } #Schleswig
+#SCH_370 = { 370 371 } #Schleswig
 
 #HOL_369 = { 369 529 } #Holstein
 
