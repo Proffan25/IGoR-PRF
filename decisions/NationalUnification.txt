@@ -1,7 +1,6 @@
 political_decisions = {
 	form_south_german_confederation = {
 		potential = {
-			#is_greater_power = yes
 			primary_culture = south_german
 			NOT = {
 				exists = SGF
@@ -82,96 +81,6 @@ political_decisions = {
 			factor = 1
 		}
 	}
-	
-	austrian_form_south_german_confederation = {
-		potential = {
-			OR = {
-				tag = AUS
-				tag = KUK
-			}
-			is_greater_power = yes
-			primary_culture = south_german
-			NOT = {
-				exists = GER
-				exists = SGF
-			}
-		}	
-		allow = {
-			war = no
-			FRA_412 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						OR = {
-							in_sphere = THIS
-							overlord = {
-								tag = THIS
-							}
-						}
-					}
-				}
-			}
-			BAV_599 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						OR = {
-							in_sphere = THIS
-							overlord = {
-								tag = THIS
-							}
-						}
-					}
-				}
-			}
-			BAD_586 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						OR = {
-							in_sphere = THIS
-							overlord = {
-								tag = THIS
-							}
-						}
-					}
-				}
-			}
-		}
-		
-		effect = {
-			prestige = 10
-			any_country = {
-				limit = {
-					primary_culture = south_german
-					OR = {
-						in_sphere = THIS
-						overlord = {
-							tag = THIS
-						}
-					}
-					NOT = {
-						tag = THIS
-					}
-				}
-				annex_to = THIS
-			}
-			BAV = { all_core = { remove_core = BAV add_core = SGF } }
-			WUR = { all_core = { remove_core = WUR add_core = SGF } }
-			BAD = { all_core = { remove_core = BAD add_core = SGF } }
-			FRA_412 = {
-				add_core = SGF
-			}
-			release_vassal = SGF
-			diplomatic_influence = {
-				who = SGF
-				value = 300
-			}
-		}
-		ai_will_do = {
-			factor = 1
-		}
-	}	
 	
 	form_north_german_confederation = {
 		potential = {
