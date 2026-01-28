@@ -1355,3 +1355,15 @@ indirect_rule = {
 settlement = {
 	icon = 22
 }
+
+##########Prussian lapse#######
+
+pressing_political_integration = {
+	badboy = 0.01
+	icon = 17
+}
+
+prussian_influence = {
+	prestige = -0.01
+	icon = 10
+}

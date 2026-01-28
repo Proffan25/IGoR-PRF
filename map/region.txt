@@ -1072,13 +1072,13 @@ AUS_619 = { 619 620 621 622 624 612 613 614 615 616 618 617 735 } #Osterreich
 #AUS_777 = { 791 792 2538 }
 
 
-PRU_701 = { 699 700 701 694 } #Posen
+PRU_701 = { 699 700 701 681 } #Posen
 
 PRU_581 = { 581 580 582 583 584 585 578 579 2561 } #Westfalen
 
 PRU_553 = { 553 554 555 556 557 536 537 } #Magdeburg
 
-PRU_690 = { 695 693 690 691 696 697 698 } #Westpreussen
+PRU_690 = { 695 693 696 697 698 694 } #Westpreussen
 
 #PRU_695 = { 695 697 698 } #Ostpreussen
 
@@ -1368,9 +1368,9 @@ NET_1454 = { 1454 1452 1453 1560 } #Western New Guinea
 
 AST_2528 = { 2528 2529 } #Southern New Guinea
 
-GER_2530 = { 2530 2531 } #Northern New Guinea
+GER_2530 = { 2530 2531 2537 1531 } #Northern New Guinea
 
-GER_2537 = { 2537 1531 } #Bismarck Archipelago
+#GER_2537 = { 2537 1531 } #Bismarck Archipelago
 
 ENG_2534 = { 2534 2536 2539 } #Solomon Islands
 
@@ -1438,7 +1438,7 @@ NET_385 = { 377 382 3257 383 385 386 384 3256 } #Friesland
 
 #PRU_546 = { 546 } #Vorpommern
 
-PRU_679 = { 679 680 692 546 681 } #Hinterpommern
+PRU_679 = { 546 679 680 692 690 691 } #Hinterpommern
 
 MEC_545 = { 530 544 545 528 369 529 547 548 } #Mecklenburg
 

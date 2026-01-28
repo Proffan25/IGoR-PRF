@@ -233,7 +233,10 @@ political_decisions = {
 		news_desc_medium = "form_germany_NEWS_MEDIUM"
 		news_desc_short = "form_germany_NEWS_SHORT"
 		potential = {
-			tag = NGF
+			OR = {
+				tag = PRU
+				tag = NGF
+			}
 			NOT = {
 				exists = GER
 				tag = ISR
@@ -313,7 +316,6 @@ political_decisions = {
 			LIP = { all_core = { remove_core = LIP add_core = GER } }
 			ANH = { all_core = { remove_core = ANH add_core = GER } }
 			HES = { all_core = { remove_core = HES add_core = GER } }
-			BAV = { all_core = { remove_core = BAV add_core = GER } }
 			MEC = { all_core = { remove_core = MEC add_core = GER } }
 			LUB = { all_core = { remove_core = LUB add_core = GER } }
 			HOL = { all_core = { remove_core = HOL add_core = GER } }
@@ -329,8 +331,9 @@ political_decisions = {
 			MEI = { all_core = { remove_core = MEI add_core = GER } }
 			WEI = { all_core = { remove_core = WEI add_core = GER } }
 			SAX = { all_core = { remove_core = SAX add_core = GER } }
-			WUR = { all_core = { remove_core = WUR add_core = GER } }
-			BAD = { all_core = { remove_core = BAD add_core = GER } }
+			BAV = { all_core = { add_core = GER } }
+			WUR = { all_core = { add_core = GER } }
+			BAD = { all_core = { add_core = GER } }
 		}
 		ai_will_do = {
 			factor = 1

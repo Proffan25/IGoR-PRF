@@ -38,6 +38,8 @@ baltic_protectors_title;Baltic Protectors;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 baltic_protectors_desc;The Baltic peoples never truly enjoyed independence, being contested between the Russians and the Germans. But in contrary to the Russians, we have a tradition of accepting the local cultures and integrate in our state! Long live the Norse rule of Livonia!;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 unite_north_sea_title;Reforge the North Sea Empire;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 unite_north_sea_desc;The sagas still speak of it: a vast thalassocracy uniting the Northern seas under a single, mighty ruler. Cnut the Great’s realm, stretching from the icy shores of Norway to the white cliffs of England, was the apex of Nordic power—a network of trade, tribute, and tradition that made the North the center of the world. As the spiritual heirs to the Vikings and the united kings of the North, we now possess the strength to make the skalds sing anew. The path of the longships calls us. It is time to reclaim our destiny and forge a new empire of the waves, a crown of three kingdoms upon a single head.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+pressure_political_integration_title;Further Political Integration in Northern Germany;;;;;;;;;;;;;x;;;;;;;;;;;,,,,,,,,,,,,,,,,,
+pressure_political_integration_desc;§RDO NOT use this decision unless you have had a North German spherling for at least 10 years. §!\nPrussia is destined to dominate and unify Germany. Our influence over the principalites and duchies of northern Germany have entrenched itself to such a degree that we may force political integration," if we disregard the international outrage...;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 #;;;;;;;;;;;;;;Events;;;;
 EVTNAME200017;Rice Farming Techniques;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;
 EVTDESC200017;Adds a modifier to compensate for us lowering Japan's LR so it's less rewarding to partition it;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;
@@ -54,12 +56,30 @@ EVTOPTA200103;Death to South American Hugboxes;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;
 EVTNAME200104;Lost South American Hegemony;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;
 EVTDESC200104;As we have lost control over either §GLima§!, §GBogota§! or §GBuenos Aires§! we can no longer claim to be hegemonic.\n§RWe will no longer benefit from north american immigration.;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;
 EVTOPTA200104;Death to South American Hugboxes;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;
+EVTNAME954957;Prussian Influence;;;;;;;;;;;;;;x,,,,,
+EVTDESC954957;Prussian influence looms above us.;;;;;;;;;;;;;;x,,,,,
+EVTNAME954958;Prussian Dominance;;;;;;;;;;;;;;x,,,,,
+EVTDESC954958;We are now at the mercy of Prussia.;;;;;;;;;;;;;;x,,,,,
+EVTNAME954959;Prussian Influence Wanes;;;;;;;;;;;;;;x,,,,,
+EVTDESC954959;We are now free to follow another great power!;;;;;;;;;;;;;;x,,,,,
+EVTNAME954960;Let us exert our influence;;;;;;;;;;;;;;x,,,,,
+EVTDESC954960;;;;;;;;;;;;;;;x,,,,,
+EVTNAME954954;German Lapse PROC;;;;;;;;;;;;;;x,,,,,
+EVTDESC954954;You're getting annexed.;;;;;;;;;;;;;;x,,,,,
+EVTNAME954955;German Sphereling Annexation;;;;;;;;;;;;;;x,,,,,
+EVTDESC954955;Another component of the wider German Nation has chosen to align themselves with our cause!"";;;;;;;;;;;;;;x",,,,,
+EVTNAME954961;German Lapse PROC;;;;;;;;;;;;;;x,,,,,
+EVTDESC954961;You're getting annexed.;;;;;;;;;;;;;;x,,,,,
+EVTNAME954965;German Lapse PROC;;;;;;;;;;;;;;x,,,,,
+EVTDESC954965;You're getting annexed.;;;;;;;;;;;;;;x,,,,,
 #;;;;;;;;;;;;;;Modifiers;;;;
 continental_army;Continental Army;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;
 continental_army_desc;Irish please apply, we need more soldiers UwU.;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;
 rev_fervor;Revolutionary Fervor;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;
 rev_fervor_desc;Erm no taxes please;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;
 rice_farming_techniques;Shinzo Abe's Ghost;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;
+pressing_political_integration;Pressing Political Influence;;;;;;;;;;;;;x,,,,,,,
+pressing_political_integration_desc;We are applying pressure to the north german duchies and principalites to further their political integration with Prussia.;;;;;;;;;;;;;x,,,,,,,
 #;;;;;;;;;;;;;;Country names;;;;
 JAP;Japan;;;;;;;;;;;;;
 JAP_absolute_monarchy;Empire of Japan;;;;;;;;;;;;;
