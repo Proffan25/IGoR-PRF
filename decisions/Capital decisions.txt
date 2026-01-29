@@ -1,0 +1,317 @@
+political_decisions = {
+	arg_capital = {
+		picture = restore_washington_capital
+		potential = {
+			tag = ARG
+			NOT = { capital = 2348 }
+		}
+		allow = {
+			owns = 2348
+		}
+		effect = {
+			capital = 2348
+		}
+	}
+	brz_capital = {
+		picture = restore_washington_capital
+		potential = {
+			OR = {
+				tag = BRZ
+				tag = PBA
+			}
+			NOT = { capital = 2447 }
+		}
+		allow = {
+			owns = 2447
+		}
+		effect = {
+			capital = 2447
+		}
+	}
+	pbc_capital = {
+		picture = restore_washington_capital
+		potential = {
+			OR = {
+				tag = PBC
+				tag = PEU
+			}
+			NOT = { capital = 2295 }
+		}
+		allow = {
+			owns = 2295
+		}
+		effect = {
+			capital = 2295
+		}
+	}
+	clm_capital = {
+		picture = restore_washington_capital
+		potential = {
+			OR = {
+				tag = GCO
+				tag = CLM
+			}
+			NOT = { capital = 2247 }
+		}
+		allow = {
+			owns = 2247
+		}
+		effect = {
+			capital = 2247
+		}
+	}
+	mex_capital = {
+		picture = restore_washington_capital
+		potential = {
+			tag = MEX
+			NOT = { capital = 2172 }
+		}
+		allow = {
+			owns = 2172
+		}
+		effect = {
+			capital = 2172
+		}
+	}
+	usa_capital = {
+		picture = restore_washington_capital
+		potential = {
+			tag = USA
+			NOT = { capital = 220 }
+		}
+		allow = {
+			owns = 220
+		}
+		effect = {
+			capital = 220
+		}
+	}
+	com_capital = {
+		picture = restore_washington_capital
+		potential = {
+			tag = COM
+			NOT = { capital = 57 }
+		}
+		allow = {
+			owns = 57
+		}
+		effect = {
+			capital = 57
+		}
+	}
+	spa_capital = {
+		picture = restore_washington_capital
+		potential = {
+			OR = {
+				tag = SPA
+				tag = IBR
+			}
+			NOT = { capital = 487 }
+		}
+		allow = {
+			owns = 487
+		}
+		effect = {
+			capital = 487
+		}
+	}
+	fra_capital = {
+		picture = restore_washington_capital
+		potential = {
+			tag = FRA
+			NOT = { capital = 425 }
+		}
+		allow = {
+			owns = 425
+		}
+		effect = {
+			capital = 425
+		}
+	}
+	eng_capital = {
+		picture = restore_washington_capital
+		potential = {
+			tag = ENG
+			NOT = { capital = 300 }
+		}
+		allow = {
+			owns = 300
+		}
+		effect = {
+			capital = 300
+		}
+	}
+	net_capital = {
+		picture = restore_washington_capital
+		potential = {
+			tag = NET
+			NOT = {
+				OR = {
+					capital = 375
+					capital = 390
+				}
+			}
+		}
+		allow = {
+			owns = 375
+		}
+		effect = {
+			capital = 375
+		}
+	}
+	pru_capital = {
+		picture = restore_washington_capital
+		potential = {
+			OR = {
+				tag = PRU
+				tag = NGF
+				tag = GER
+			}
+			NOT = { capital = 549 }
+		}
+		allow = {
+			owns = 549
+		}
+		effect = {
+			capital = 549
+		}
+	}
+	swe_capital = {
+		picture = restore_washington_capital
+		potential = {
+			OR = {
+				tag = SWE
+				tag = SCA
+			}
+			NOT = {
+				OR = {
+					capital = 322
+					capital = 281
+				}
+			}
+		}
+		allow = {
+			owns = 322
+		}
+		effect = {
+			capital = 322
+		}
+	}
+	aus_capital = {
+		picture = restore_washington_capital
+		potential = {
+			OR = {
+				tag = AUS
+				tag = KUK
+			}
+			NOT = {
+				capital = 619
+			}
+		}
+		allow = {
+			owns = 619
+		}
+		effect = {
+			capital = 619
+		}
+	}
+	ita_capital = {
+		picture = restore_washington_capital
+		potential = {
+			tag = ITA
+			NOT = {
+				capital = 749
+			}
+		}
+		allow = {
+			owns = 749
+		}
+		effect = {
+			capital = 749
+		}
+	}
+	tur_capital = {
+		picture = restore_washington_capital
+		potential = {
+			tag = TUR
+			NOT = {
+				capital = 860
+			}
+		}
+		allow = {
+			owns = 860
+		}
+		effect = {
+			capital = 860
+		}
+	}
+	rus_capital = {
+		picture = restore_washington_capital
+		potential = {
+			tag = RUS
+			NOT = {
+				OR = {
+					capital = 994
+					capital = 1008
+				}
+			}
+		}
+		allow = {
+			owns = 994
+		}
+		effect = {
+			capital = 994
+		}
+	}
+	egy_capital = {
+		picture = restore_washington_capital
+		potential = {
+			OR = {
+				tag = EGY
+				tag = ALA
+			}
+			NOT = {
+				capital = 1745
+			}
+		}
+		allow = {
+			owns = 1745
+		}
+		effect = {
+			capital = 1745
+		}
+	}
+	per_capital = {
+		picture = restore_washington_capital
+		potential = {
+			tag = PER
+			NOT = {
+				capital = 1121
+			}
+		}
+		allow = {
+			owns = 1121
+		}
+		effect = {
+			capital = 1121
+		}
+	}
+	jap_capital = {
+		picture = restore_washington_capital
+		potential = {
+			tag = JAP
+			NOT = {
+				OR = {
+					capital = 1657
+					capital = 1649
+				}
+			}
+		}
+		allow = {
+			owns = 1649
+		}
+		effect = {
+			capital = 1649
+		}
+	}
+}
