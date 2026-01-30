@@ -682,3 +682,7 @@ demand_capital_concession_huge;Take Huge Capital Concession;;;;;;;;;;;;;
 demand_capital_concession_huge_desc;Take the Huge Capital region of a 即country劬 and force them to move their capital elsewhere;;;;;;;;;;;;;
 demand_capital_concession_huge_setup;Take Huge Capital region $STATE$ of $RECIPIENT$;;;;;;;;;;;;;
 demand_capital_concession_huge_short;Takes Huge Capital Concession from $RECIPIENT$;;;;;;;;;;;;;
+take_puppet;Take Puppet;;;;;;;;;;;;;
+take_puppet_desc;Take a puppet from 即country劬;;;;;;;;;;;;;
+take_puppet_setup;Take a puppet from 即country劬;;;;;;;;;;;;;
+take_puppet_short;Take a puppet from 即country劬;;;;;;;;;;;;;

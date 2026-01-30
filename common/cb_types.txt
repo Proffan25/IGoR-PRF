@@ -1421,6 +1421,113 @@ acquire_state_huge = {
 	}
 }
 
+take_capital = {
+	sprite_index = 6
+	is_triggered_only = yes
+	months = 12
+	construction_speed = 0.5
+	
+	badboy_factor = 1.1
+	prestige_factor = 10
+	peace_cost_factor = 0.016
+	penalty_factor = 1
+
+	break_truce_prestige_factor = 1
+	break_truce_infamy_factor = 2
+	break_truce_militancy_factor = 2
+	truce_months = 60
+	
+	good_relation_prestige_factor = 1
+	good_relation_infamy_factor = 1
+	good_relation_militancy_factor = 1
+
+	can_use = {
+		NOT = { tag = LCT }
+		NOT = { tag = GHO }
+		NOT = { tag = CHI }
+		this = { NOT = { tag = CHI } }
+		this = { NOT = { badboy = 1 } }
+		NOT = { 
+			OR = { 
+				has_country_modifier = neutrality
+				has_country_modifier = generic_neutrality
+			}
+		}
+		THIS = { NOT = {
+				OR = {
+					has_country_modifier = neutrality
+					has_country_modifier = generic_neutrality
+				}
+			 } 
+		}
+		number_of_states = 2 # annex if you want their last state
+		any_owned_province = {
+			not = { is_core = THIS }
+			is_colonial = no
+		}
+		OR = {
+			AND = {
+				civilized = yes
+				THIS = {
+					civilized = yes
+				}
+			}
+			AND = {
+				civilized = no
+				THIS = {
+					civilized = no
+				}
+			}
+			AND = {
+				civilized = no
+				THIS = {
+					civilized = yes
+				}
+			}
+			AND = {
+				civilized = yes
+				THIS = {
+					civilized = no
+				}
+			}
+		}
+		THIS = {
+			NOT = { has_country_flag = conquerable_1865 }
+		}
+		NOT = { has_country_flag = conquerable_1865 }
+	}
+	
+	allowed_states = {
+		is_colonial = no
+		any_owned_province = {
+			not = {	is_core = THIS }
+			is_colonial = no
+		}
+		any_owned_province = { is_capital = yes }
+	}
+	
+	allowed_states_in_crisis = {
+		any_owned_province = {
+			any_neighbor_province = {
+				owner = { tag = THIS }
+			}
+		}
+	}		
+
+	po_demand_state = yes
+	po_remove_prestige = yes
+	
+	war_name = WAR_TAKE_NAME
+	
+	on_add = {
+		move_issue_percentage = { 
+			from = jingoism 
+			to = pro_military
+			value = 0.25
+		}
+	}
+}
+
 # Place in the Sun Tiny
 place_in_the_sun_tiny = {
 	sprite_index = 7
@@ -2751,6 +2858,83 @@ release_puppet = {
 	}
 }
 
+# Take Puppet Under Our Control
+take_puppet = {
+	sprite_index = 10
+	is_triggered_only = yes
+	months = 12
+	
+	construction_speed = 0.5
+
+	badboy_factor = 2.5
+	prestige_factor = 2
+	peace_cost_factor = 0.008
+	penalty_factor = 1
+
+	break_truce_prestige_factor = 1
+	break_truce_infamy_factor = 1
+	break_truce_militancy_factor = 1
+	truce_months = 60
+	
+	good_relation_prestige_factor = 1
+	good_relation_infamy_factor = 1
+	good_relation_militancy_factor = 1
+	
+	can_use = {
+		NOT = { tag = LCT }
+		NOT = { tag = GHO }
+		NOT = { is_our_vassal = THIS }
+		this = { NOT = { badboy = 1 } }
+		num_of_vassals_no_substates = 1
+		THIS = {
+			NOT = { has_country_flag = conquerable_1865 }
+		}
+		NOT = { has_country_flag = conquerable_1865 }
+	}
+	
+	# THIS - us
+	# FROM - country scope is possible match?
+	# war target country of goal is scope
+	allowed_countries = {
+		is_our_vassal = FROM
+		FROM = { is_substate = no }
+	}
+	
+	po_release_puppet = yes
+	po_add_to_sphere = yes
+
+	war_name = WAR_NAME
+	
+	on_add = {
+		move_issue_percentage = { 
+			from = jingoism 
+			to = pro_military
+			value = 0.25
+		}
+		
+		any_country = {
+			limit = {
+				exists = yes
+				vassal_of = FROM
+				is_substate = no
+			}
+			set_country_flag = puppet_nation
+		}
+	}
+	
+	on_po_accepted = {
+		any_country = {
+			limit = {
+				exists = yes
+				has_country_flag = puppet_nation
+				is_vassal = no
+				in_sphere = THIS
+			}
+			country_event = 95522
+		}
+	}
+}
+
 # Make Puppet
 make_puppet = {
 	sprite_index = 10
@@ -3966,113 +4150,6 @@ conquest_low = {
 	war_name = WAR_CONQUEST_NAME
 }
 
-take_capital = {
-	sprite_index = 6
-	is_triggered_only = yes
-	months = 12
-	construction_speed = 0.5
-	
-	badboy_factor = 1.5
-	prestige_factor = 10
-	peace_cost_factor = 0.016
-	penalty_factor = 1
-
-	break_truce_prestige_factor = 1
-	break_truce_infamy_factor = 2
-	break_truce_militancy_factor = 2
-	truce_months = 60
-	
-	good_relation_prestige_factor = 1
-	good_relation_infamy_factor = 1
-	good_relation_militancy_factor = 1
-
-	can_use = {
-		NOT = { tag = LCT }
-		NOT = { tag = GHO }
-		NOT = { tag = CHI }
-		this = { NOT = { tag = CHI } }
-		this = { NOT = { badboy = 1 } }
-		NOT = { 
-			OR = { 
-				has_country_modifier = neutrality
-				has_country_modifier = generic_neutrality
-			}
-		}
-		THIS = { NOT = {
-				OR = {
-					has_country_modifier = neutrality
-					has_country_modifier = generic_neutrality
-				}
-			 } 
-		}
-		number_of_states = 2 # annex if you want their last state
-		any_owned_province = {
-			not = { is_core = THIS }
-			is_colonial = no
-		}
-		OR = {
-			AND = {
-				civilized = yes
-				THIS = {
-					civilized = yes
-				}
-			}
-			AND = {
-				civilized = no
-				THIS = {
-					civilized = no
-				}
-			}
-			AND = {
-				civilized = no
-				THIS = {
-					civilized = yes
-				}
-			}
-			AND = {
-				civilized = yes
-				THIS = {
-					civilized = no
-				}
-			}
-		}
-		THIS = {
-			NOT = { has_country_flag = conquerable_1865 }
-		}
-		NOT = { has_country_flag = conquerable_1865 }
-	}
-	
-	allowed_states = {
-		is_colonial = no
-		any_owned_province = {
-			not = {	is_core = THIS }
-			is_colonial = no
-		}
-		any_owned_province = { is_capital = yes }
-	}
-	
-	allowed_states_in_crisis = {
-		any_owned_province = {
-			any_neighbor_province = {
-				owner = { tag = THIS }
-			}
-		}
-	}		
-
-	po_demand_state = yes
-	po_remove_prestige = yes
-	
-	war_name = WAR_TAKE_NAME
-	
-	on_add = {
-		move_issue_percentage = { 
-			from = jingoism 
-			to = pro_military
-			value = 0.25
-		}
-	}
-}
-
 # Demand Concession on Tiny Capital
 demand_capital_concession_tiny = {
 	sprite_index = 7
@@ -5138,81 +5215,4 @@ total_war_conquest = {
 	po_remove_prestige = yes
 	
 	war_name = TOTAL_WAR_CONQUEST_NAME
-}
-
-# Take Puppet Under Our Control
-take_puppet = {
-	sprite_index = 10
-	is_triggered_only = yes
-	months = 12
-	
-	construction_speed = 0.5
-
-	badboy_factor = 1.5
-	prestige_factor = 1
-	peace_cost_factor = 15
-	penalty_factor = 1
-
-	break_truce_prestige_factor = 1
-	break_truce_infamy_factor = 1
-	break_truce_militancy_factor = 1
-	truce_months = 60
-	
-	good_relation_prestige_factor = 1
-	good_relation_infamy_factor = 1
-	good_relation_militancy_factor = 1
-	
-	can_use = {
-		NOT = { tag = LCT }
-		NOT = { tag = GHO }
-		NOT = { is_our_vassal = THIS }
-		this = { NOT = { badboy = 1 } }
-		num_of_vassals_no_substates = 1
-		THIS = {
-			NOT = { has_country_flag = conquerable_1865 }
-		}
-		NOT = { has_country_flag = conquerable_1865 }
-	}
-	
-	# THIS - us
-	# FROM - country scope is possible match?
-	# war target country of goal is scope
-	allowed_countries = {
-		is_our_vassal = FROM
-		FROM = { is_substate = no }
-	}
-	
-	po_release_puppet = yes
-	po_add_to_sphere = yes
-
-	war_name = WAR_NAME
-	
-	on_add = {
-		move_issue_percentage = { 
-			from = jingoism 
-			to = pro_military
-			value = 0.25
-		}
-		
-		any_country = {
-			limit = {
-				exists = yes
-				vassal_of = FROM
-				is_substate = no
-			}
-			set_country_flag = puppet_nation
-		}
-	}
-	
-	on_po_accepted = {
-		any_country = {
-			limit = {
-				exists = yes
-				has_country_flag = puppet_nation
-				is_vassal = no
-				in_sphere = THIS
-			}
-			country_event = 95522
-		}
-	}
 }
