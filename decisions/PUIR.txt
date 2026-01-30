@@ -1552,22 +1552,7 @@ political_decisions = {
 			#	}
 			#	add_core = PBA
 			#}
-			prestige = 50
 			add_accepted_culture = brazilian
-			add_accepted_culture = afro_brazilian
-			any_pop = {
-				limit = { is_primary_culture = yes }
-				ideology = {
-					value = reactionary
-					factor = 0.15
-				}
-				ideology = {
-					value = anarcho_liberal
-					factor = 0.15
-				}
-				consciousness = 3
-				militancy = 3
-			}
 		}
 		ai_will_do = {
 			factor = 1
