@@ -154,6 +154,7 @@ political_decisions = {
 	}
 
     create_iberia = {
+        picture = iberian
         potential = {
             is_culture_group = iberian
             NOT = {
@@ -220,28 +221,6 @@ political_decisions = {
                     ai = yes
                 }
                 THIS = { inherit = POR }
-            }
-            random_country = {
-                limit = {
-                    tag = CAT
-                    exists = yes
-                    ai = yes
-                }
-                THIS = { inherit = CAT }
-            }
-            any_country = {
-                limit = {
-                    NOT = { is_culture_group = iberian }
-                    in_sphere = THIS
-                }
-                any_owned = {
-                    limit = { is_core = IBR }
-                    secede_province = THIS
-                }
-            }
-            any_pop = {
-                limit = { is_culture_group = iberian }
-                militancy = -4
             }
         }
 
