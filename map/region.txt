@@ -1460,9 +1460,9 @@ HES_2560 = { 2560 564 566 565 567 568 } #Hesse-Nassau
 
 #Italy
 
-SAR_466 = { 607 465 466 608 609 3298 } #Savoie and Nice
+SAR_466 = { 607 465 466 608 609 721 3298 } #Savoie and Nice
 
-SAR_720 = { 720 3255 721 722 723 724 725 472 } #Piedmont
+SAR_720 = { 720 3255 722 723 724 725 472 } #Piedmont
 
 SAR_765 = { 765 766 473 } #Sardegna
 
