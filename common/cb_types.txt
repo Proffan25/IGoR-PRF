@@ -98,11 +98,12 @@ annex
 install_communist_gov_cb
 uninstall_communist_gov_cb
 great_war_penalty_cb
-take_capital_tiny
-take_capital_small
-take_capital_medium
-take_capital_large
-take_capital_huge
+take_capital
+#take_capital_tiny
+#take_capital_small
+#take_capital_medium
+#take_capital_large
+#take_capital_huge
 demand_capital_concession_tiny
 demand_capital_concession_small
 demand_capital_concession_medium
@@ -3965,399 +3966,14 @@ conquest_low = {
 	war_name = WAR_CONQUEST_NAME
 }
 
-# Gain control of Tiny capital
-take_capital_tiny = {
+take_capital = {
 	sprite_index = 6
 	is_triggered_only = yes
 	months = 12
 	construction_speed = 0.5
 	
-	badboy_factor = 1.1
-	prestige_factor = 2
-	peace_cost_factor = 0.003
-	penalty_factor = 1
-
-	break_truce_prestige_factor = 1
-	break_truce_infamy_factor = 2
-	break_truce_militancy_factor = 2
-	truce_months = 60
-	
-	good_relation_prestige_factor = 1
-	good_relation_infamy_factor = 1
-	good_relation_militancy_factor = 1
-
-	can_use = {
-		NOT = { tag = LCT }
-		NOT = { tag = GHO }
-		this = { NOT = { badboy = 1 } }
-		NOT = { 
-			OR = { 
-				has_country_modifier = neutrality
-				has_country_modifier = generic_neutrality
-			}
-		}
-		THIS = { NOT = {
-				OR = {
-					has_country_modifier = neutrality
-					has_country_modifier = generic_neutrality
-				}
-			 } 
-		}
-		THIS = {
-			NOT = { has_country_flag = conquerable_1865 }
-		}
-		NOT = { has_country_flag = conquerable_1865 }
-		number_of_states = 2 # annex if you want their last state
-		any_owned_province = {
-			not = { is_core = THIS }
-			is_colonial = no
-		}
-				
-		OR = {
-			AND = {
-				civilized = yes
-				THIS = {
-					civilized = yes
-				}
-			}
-			AND = {
-				civilized = no
-				THIS = {
-					civilized = no
-				}
-			}
-		}
-	}
-	
-	allowed_states = {
-		is_colonial = no
-		any_owned_province = {
-			is_core = TIN
-			not = {	is_core = THIS }
-			is_colonial = no
-		}
-		any_owned_province = { is_capital = yes }
-	}
-	
-	allowed_states_in_crisis = {
-		any_owned_province = {
-			any_neighbor_province = {
-				owner = { tag = THIS }
-			}
-		}
-	}		
-
-	po_demand_state = yes
-	po_remove_prestige = yes
-	
-	war_name = WAR_TAKE_NAME
-	
-	on_add = {
-		move_issue_percentage = { 
-			from = jingoism 
-			to = pro_military
-			value = 0.25
-		}
-	}
-}
-
-# Gain control of Small capital
-take_capital_small = {
-	sprite_index = 6
-	is_triggered_only = yes
-	months = 12
-	construction_speed = 0.5
-	
-	badboy_factor = 1.1
-	prestige_factor = 2
-	peace_cost_factor = 0.006
-	penalty_factor = 1
-
-	break_truce_prestige_factor = 1
-	break_truce_infamy_factor = 2
-	break_truce_militancy_factor = 2
-	truce_months = 60
-	
-	good_relation_prestige_factor = 1
-	good_relation_infamy_factor = 1
-	good_relation_militancy_factor = 1
-
-	can_use = {
-		NOT = { tag = LCT }
-		NOT = { tag = GHO }
-		this = { NOT = { badboy = 1 } }
-		NOT = { 
-			OR = { 
-				has_country_modifier = neutrality
-				has_country_modifier = generic_neutrality
-			}
-		}
-		THIS = { NOT = {
-				OR = {
-					has_country_modifier = neutrality
-					has_country_modifier = generic_neutrality
-				}
-			 } 
-		}
-		THIS = {
-			NOT = { has_country_flag = conquerable_1865 }
-		}
-		NOT = { has_country_flag = conquerable_1865 }
-		number_of_states = 2 # annex if you want their last state
-		any_owned_province = {
-			not = { is_core = THIS }
-			is_colonial = no
-		}
-				
-		OR = {
-			AND = {
-				civilized = yes
-				THIS = {
-					civilized = yes
-				}
-			}
-			AND = {
-				civilized = no
-				THIS = {
-					civilized = no
-				}
-			}
-		}
-	}
-	
-	allowed_states = {
-		is_colonial = no
-		any_owned_province = {
-			is_core = SMA
-			not = {	is_core = THIS }
-			is_colonial = no
-		}
-		any_owned_province = { is_capital = yes }
-	}
-	
-	allowed_states_in_crisis = {
-		any_owned_province = {
-			any_neighbor_province = {
-				owner = { tag = THIS }
-			}
-		}
-	}		
-
-	po_demand_state = yes
-	po_remove_prestige = yes
-	
-	war_name = WAR_TAKE_NAME
-	
-	on_add = {
-		move_issue_percentage = { 
-			from = jingoism 
-			to = pro_military
-			value = 0.25
-		}
-	}
-}
-
-# Gain control of Medium capital
-take_capital_medium = {
-	sprite_index = 6
-	is_triggered_only = yes
-	months = 12
-	construction_speed = 0.5
-	
-	badboy_factor = 1.1
-	prestige_factor = 2
-	peace_cost_factor = 0.008
-	penalty_factor = 1
-
-	break_truce_prestige_factor = 1
-	break_truce_infamy_factor = 2
-	break_truce_militancy_factor = 2
-	truce_months = 60
-	
-	good_relation_prestige_factor = 1
-	good_relation_infamy_factor = 1
-	good_relation_militancy_factor = 1
-
-	can_use = {
-		NOT = { tag = LCT }
-		NOT = { tag = GHO }
-		this = { NOT = { badboy = 1 } }
-		NOT = { 
-			OR = { 
-				has_country_modifier = neutrality
-				has_country_modifier = generic_neutrality
-			}
-		}
-		THIS = { NOT = {
-				OR = {
-					has_country_modifier = neutrality
-					has_country_modifier = generic_neutrality
-				}
-			 } 
-		}
-		THIS = {
-			NOT = { has_country_flag = conquerable_1865 }
-		}
-		NOT = { has_country_flag = conquerable_1865 }
-		number_of_states = 2 # annex if you want their last state
-		any_owned_province = {
-			not = { is_core = THIS }
-			is_colonial = no
-		}
-				
-		OR = {
-			AND = {
-				civilized = yes
-				THIS = {
-					civilized = yes
-				}
-			}
-			AND = {
-				civilized = no
-				THIS = {
-					civilized = no
-				}
-			}
-		}
-	}
-	
-	allowed_states = {
-		is_colonial = no
-		any_owned_province = {
-			is_core = MED
-			not = {	is_core = THIS }
-			is_colonial = no
-		}
-		any_owned_province = { is_capital = yes }
-	}
-	
-	allowed_states_in_crisis = {
-		any_owned_province = {
-			any_neighbor_province = {
-				owner = { tag = THIS }
-			}
-		}
-	}		
-
-	po_demand_state = yes
-	po_remove_prestige = yes
-	
-	war_name = WAR_TAKE_NAME
-	
-	on_add = {
-		move_issue_percentage = { 
-			from = jingoism 
-			to = pro_military
-			value = 0.25
-		}
-	}
-}
-
-# Gain control of Large capital
-take_capital_large = {
-	sprite_index = 6
-	is_triggered_only = yes
-	months = 12
-	construction_speed = 0.5
-	
-	badboy_factor = 1.1
-	prestige_factor = 2
-	peace_cost_factor = 0.012
-	penalty_factor = 1
-
-	break_truce_prestige_factor = 1
-	break_truce_infamy_factor = 2
-	break_truce_militancy_factor = 2
-	truce_months = 60
-	
-	good_relation_prestige_factor = 1
-	good_relation_infamy_factor = 1
-	good_relation_militancy_factor = 1
-
-	can_use = {
-		NOT = { tag = LCT }
-		NOT = { tag = GHO }
-		this = { NOT = { badboy = 1 } }
-		NOT = { 
-			OR = { 
-				has_country_modifier = neutrality
-				has_country_modifier = generic_neutrality
-			}
-		}
-		THIS = { NOT = {
-				OR = {
-					has_country_modifier = neutrality
-					has_country_modifier = generic_neutrality
-				}
-			 } 
-		}
-		THIS = {
-			NOT = { has_country_flag = conquerable_1865 }
-		}
-		NOT = { has_country_flag = conquerable_1865 }
-		number_of_states = 2 # annex if you want their last state
-		any_owned_province = {
-			not = { is_core = THIS }
-			is_colonial = no
-		}
-				
-		OR = {
-			AND = {
-				civilized = yes
-				THIS = {
-					civilized = yes
-				}
-			}
-			AND = {
-				civilized = no
-				THIS = {
-					civilized = no
-				}
-			}
-		}
-	}
-	
-	allowed_states = {
-		is_colonial = no
-		any_owned_province = {
-			is_core = LRG
-			not = {	is_core = THIS }
-			is_colonial = no
-		}
-		any_owned_province = { is_capital = yes }
-	}
-	
-	allowed_states_in_crisis = {
-		any_owned_province = {
-			any_neighbor_province = {
-				owner = { tag = THIS }
-			}
-		}
-	}		
-
-	po_demand_state = yes
-	po_remove_prestige = yes
-	
-	war_name = WAR_TAKE_NAME
-	
-	on_add = {
-		move_issue_percentage = { 
-			from = jingoism 
-			to = pro_military
-			value = 0.25
-		}
-	}
-}
-
-# Gain control of Huge capital
-take_capital_huge = {
-	sprite_index = 6
-	is_triggered_only = yes
-	months = 12
-	construction_speed = 0.5
-	
-	badboy_factor = 1.1
-	prestige_factor = 2
+	badboy_factor = 1.5
+	prestige_factor = 10
 	peace_cost_factor = 0.016
 	penalty_factor = 1
 
@@ -4373,6 +3989,8 @@ take_capital_huge = {
 	can_use = {
 		NOT = { tag = LCT }
 		NOT = { tag = GHO }
+		NOT = { tag = CHI }
+		this = { NOT = { tag = CHI } }
 		this = { NOT = { badboy = 1 } }
 		NOT = { 
 			OR = { 
@@ -4387,16 +4005,11 @@ take_capital_huge = {
 				}
 			 } 
 		}
-		THIS = {
-			NOT = { has_country_flag = conquerable_1865 }
-		}
-		NOT = { has_country_flag = conquerable_1865 }
 		number_of_states = 2 # annex if you want their last state
 		any_owned_province = {
 			not = { is_core = THIS }
 			is_colonial = no
 		}
-				
 		OR = {
 			AND = {
 				civilized = yes
@@ -4410,13 +4023,28 @@ take_capital_huge = {
 					civilized = no
 				}
 			}
+			AND = {
+				civilized = no
+				THIS = {
+					civilized = yes
+				}
+			}
+			AND = {
+				civilized = yes
+				THIS = {
+					civilized = no
+				}
+			}
 		}
+		THIS = {
+			NOT = { has_country_flag = conquerable_1865 }
+		}
+		NOT = { has_country_flag = conquerable_1865 }
 	}
 	
 	allowed_states = {
 		is_colonial = no
 		any_owned_province = {
-			is_core = HUG
 			not = {	is_core = THIS }
 			is_colonial = no
 		}
