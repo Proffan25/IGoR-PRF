@@ -63,25 +63,25 @@
 	}
 
 	clergymen = {
-		culture = malagasy
+		culture = bantu
 		religion = animist
 		size = 125
 	}
 
 	artisans = {
-		culture = malagasy
+		culture = bantu
 		religion = animist
 		size = 1100
 	}
 
 	soldiers = {
-		culture = malagasy
+		culture = bantu
 		religion = animist
 		size = 250
 	}
 
 	farmers = {
-		culture = malagasy
+		culture = bantu
 		religion = animist
 		size = 22375
 	}
@@ -89,7 +89,7 @@
 #Diego Garcia (700/175 POPS) #remains under British Rule
 2128 = {
 	farmers = {
-		culture = malagasy
+		culture = bantu
 		religion = animist
 		size = 175
 	}

@@ -4,61 +4,61 @@
 2123 = {
 
 	clergymen = {
-		culture = malagasy
+		culture = bantu
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = malagasy
+		culture = bantu
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = malagasy
+		culture = bantu
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = malagasy
+		culture = bantu
 		religion = animist
 		size = 400
 	}
 
 	aristocrats = {
-		culture = malagasy
+		culture = bantu
 		religion = animist
 		size = 15
 	}
 
 	clergymen = {
-		culture = malagasy
+		culture = bantu
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = malagasy
+		culture = bantu
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = malagasy
+		culture = bantu
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = malagasy
+		culture = bantu
 		religion = animist
 		size = 900
 	}
 
 	slaves = {
-		culture = malagasy
+		culture = bantu
 		religion = animist
 		size = 500
 	}
@@ -68,61 +68,61 @@
 2124 = {
 
 	clergymen = {
-		culture = malagasy
+		culture = bantu
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = malagasy
+		culture = bantu
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = malagasy
+		culture = bantu
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = malagasy
+		culture = bantu
 		religion = animist
 		size = 400
 	}
 
 	aristocrats = {
-		culture = malagasy
+		culture = bantu
 		religion = animist
 		size = 15
 	}
 
 	clergymen = {
-		culture = malagasy
+		culture = bantu
 		religion = animist
 		size = 25
 	}
 
 	artisans = {
-		culture = malagasy
+		culture = bantu
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = malagasy
+		culture = bantu
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = malagasy
+		culture = bantu
 		religion = animist
 		size = 900
 	}
 
 	slaves = {
-		culture = malagasy
+		culture = bantu
 		religion = animist
 		size = 500
 	}
