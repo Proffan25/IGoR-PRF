@@ -1,13 +1,13 @@
-capital = 1887
+capital = 192
 primary_culture = afro_american
 religion = animist
 government = democracy
 plurality = 0.0
 nationalvalue = nv_order
 literacy = 0.10
+civilized = yes
+is_releasable_vassal = no
 non_state_culture_literacy = 0.03
-
-set_country_flag = conquerable_1865
 
 #Political Reforms
 slavery = no_slavery

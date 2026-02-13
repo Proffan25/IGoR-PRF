@@ -367,6 +367,8 @@ ENG_proletarian_dictatorship;British SR;;;;;;;;;;;;;
 ENG_democracy;British Republic;;;;;;;;;;;;;
 ENG_presidential_dictatorship;British Republic;;;;;;;;;;;;;
 ENG_ADJ;British;British;British;;British;;;;;;;;;x;;;;
+LIB;New Africa;;;;;;;;;;;;;
+LIB_ADJ;New African;New African;New African;;New African;;;;;;;;;x;;;;
 ###############China treatyports;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,
 BEI_ADJ;Chinese;Chinese;Chinese;;;;;;;;;;;x;,,,,,,,,,,,,,,,,,,,,,,,,,
 BEI;Guangzhouwan Economic Area;Guangzhouwan Economic Area;Guangzhouwan Economic Area;;;;;;;;;;;x;,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -612,6 +614,7 @@ misri;Egypto-Peninsular Arab;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 mashriqi;Levantine-Mesopotamian Arab;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 maghrebi;North African Arab;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 beifaren;Chinese;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+yankee;American;;;;;;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 #;;;;;;;;;;;;;;RGOs;;;;
 opium;Copium;Copium;Copium;;Copium;;;;;;;;;x;;;;
 #;;;;;;;;;;;;;;States;;;;

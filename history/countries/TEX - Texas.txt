@@ -1,6 +1,5 @@
 capital = 133
-primary_culture = dixie
-culture = mexican
+primary_culture = yankee
 religion = animist
 government = democracy
 plurality = 25.0

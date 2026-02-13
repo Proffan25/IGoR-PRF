@@ -1,6 +1,6 @@
 capital = 211
 primary_culture = dixie
-culture = cherokee
+culture = yankee
 religion = animist
 government = democracy
 plurality = 25.1
