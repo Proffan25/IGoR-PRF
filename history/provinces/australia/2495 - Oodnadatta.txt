@@ -1,6 +1,5 @@
-add_core = COM
+owner = COM
+controller = COM
+#add_core = COM
 trade_goods = iron
 life_rating = 25
-
-
-

@@ -1,11 +1,4 @@
-owner = ENG
-controller = ENG
-add_core = COM
+owner = COM
+controller = COM
 trade_goods = fish
-life_rating = 30
-colonial = 2
-1836.1.2 = {
-	owner = AST
-	controller = AST
-	colonial = 0
-}
+life_rating = 35

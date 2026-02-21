@@ -1,6 +1,6 @@
 owner = COM
 controller = COM
-add_core = COM
+#add_core = COM
 trade_goods = wool
 life_rating = 50
 #colonial = 2
