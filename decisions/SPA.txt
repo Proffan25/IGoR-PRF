@@ -156,7 +156,7 @@ political_decisions = {
     create_iberia = {
         picture = iberian
         potential = {
-            is_culture_group = iberian
+			tag = SPA
             NOT = {
                 exists = IBR
                 has_global_flag = created_iberia
@@ -191,29 +191,39 @@ political_decisions = {
                     }
                 }
             }
+			POR_518 = {
+                OR = {
+                    owned_by = THIS
+                    owner = {
+                        vassal_of = THIS
+                        war = no
+                        is_mobilised = no
+                    }
+                }
+			}
+			POR_521 = {
+                OR = {
+                    owned_by = THIS
+                    owner = {
+                        vassal_of = THIS
+                        war = no
+                        is_mobilised = no
+                    }
+                }
+			}
         }
 
         effect = {
             set_global_flag = created_iberia
-            prestige = 10
             all_core = { add_core = IBR }
             SPA = {
                 all_core = { remove_core = SPA add_core = IBR }
             }
-            POR = {
-                all_core = { add_core = IBR }
-            }
+			POR_518 = { add_core = IBR }
+			POR_521 = { add_core = IBR }
+			POR_2134 = { add_core = IBR }
             add_accepted_culture = portuguese
-            add_accepted_culture = spanish
             change_tag = IBR
-            any_country = {
-                limit = {
-                    tag = SPA
-                    exists = yes
-                    ai = yes
-                }
-                THIS = { inherit = SPA }
-            }
             random_country = {
                 limit = {
                     tag = POR
