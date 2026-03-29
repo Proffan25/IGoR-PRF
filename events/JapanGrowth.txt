@@ -10,7 +10,19 @@ country_event = {
 		any_core = {
 			owner = { tag = JAP }
 			NOT = { has_province_modifier = rice_farming_techniques }
-			NOT = { state_id = 1485 }
+			OR = { 
+				region = JAP_1088
+				region = JAP_1672
+				region = JAP_1649
+				region = JAP_1675
+				region = JAP_1645
+				region = JAP_1655
+				region = JAP_1654
+				region = JAP_1660
+				region = JAP_1678
+				region = JAP_1638
+				region = JAP_1665
+			}
 		}
 	}
 	
@@ -22,7 +34,19 @@ country_event = {
 		all_core = {
 			limit = {
 				owner = { tag = JAP }
-				NOT = { state_id = 1485 }
+				OR = { 
+					region = JAP_1088
+					region = JAP_1672
+					region = JAP_1649
+					region = JAP_1675
+					region = JAP_1645
+					region = JAP_1655
+					region = JAP_1654
+					region = JAP_1660
+					region = JAP_1678
+					region = JAP_1638
+					region = JAP_1665
+				}
 			}
             add_province_modifier = {
                 name = rice_farming_techniques

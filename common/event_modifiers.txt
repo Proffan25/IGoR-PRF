@@ -1341,7 +1341,7 @@ classless_society_modifier = {
 
 ### Rice Farming techniques ###
 rice_farming_techniques = {
-	population_growth = 0.001
+	life_rating = 0.17
 	icon = 19
 }
 
