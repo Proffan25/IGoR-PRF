@@ -735,7 +735,7 @@ guild_based_production = {
 	year = 1836
 	cost = 3600
 	activate_building = canned_food_factory 
-	factory_output = 0.2
+	factory_output = 0.15
 	ai_chance = {
 		factor = 1.05
 		modifier = {
@@ -769,7 +769,7 @@ organized_factories = {
 	year = 1836
 	cost = 7200
 
-	factory_output = 0.2
+	factory_output = 0.15
 		ai_chance = {
 		factor = 1.05
 		modifier = {
@@ -803,7 +803,7 @@ scientific_management = {
 	year = 1850
 	cost = 10800
 
-	factory_output = 0.2
+	factory_output = 0.15
 	ai_chance = {
 		factor = 1.05
 		modifier = {
@@ -837,7 +837,7 @@ time_saving_measures = {
 	year = 1870
 	cost = 14400
 
-	factory_output = 0.2
+	factory_output = 0.15
 	ai_chance = {
 		factor = 1.05
 		modifier = {
@@ -859,7 +859,7 @@ management_strategy = {
 	year = 1900
 	cost = 18000
 
-	factory_output = 0.2
+	factory_output = 0.15
 	ai_chance = {
 		factor = 1.05
 		modifier = {
@@ -881,7 +881,7 @@ organizational_development = {
 	year = 1919
 	cost = 21600
 
-	factory_output = 0.2
+	factory_output = 0.15
 	ai_chance = {
 		factor = 1.05
 		modifier = {
