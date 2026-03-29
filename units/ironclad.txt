@@ -35,9 +35,9 @@ ironclad = {
 	
 	supply_consumption = 1.0
 	supply_cost = {
-		steamer_convoy = 0.5  #24
-		artillery = 0.1      #12
-		canned_food = 0.2     #2  total 38
+		steamer_convoy = 0.3  #24
+		artillery = 0.05      #12
+		canned_food = 0.1     #2  total 38
 		coal = 0.2
 	}
 	

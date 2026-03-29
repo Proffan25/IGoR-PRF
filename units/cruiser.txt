@@ -27,7 +27,6 @@ cruiser = {
 		artillery = 20
 		coal = 100
 		canned_food = 100
-		fuel = 5
 	}
 	min_port_level = 4
 	limit_per_port = -1
