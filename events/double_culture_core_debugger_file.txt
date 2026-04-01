@@ -122,14 +122,6 @@ province_event = {
 				is_core = USA
 				is_core = TEX
 			}
-			AND = {
-				is_core = USA
-				is_core = TEX
-			}
-			AND = {
-				is_core = USA
-				is_core = TEX
-			}
 		}
 	}
 	
@@ -141,6 +133,65 @@ province_event = {
 		name = "Fix me up!"
 		remove_core = USA
 		remove_core = TEX
+		add_core = THIS
+	}
+}
+
+province_event = {
+	id = 78700946
+	title = "Persian Core Debugging"
+	desc = "If there is an awkward overlapping culture core, this event is intended to clean it up"
+	
+	trigger = {
+		owner = {
+			OR = {
+				tag = PER
+				tag = AFG
+				tag = KAL
+				tag = MAK
+			}
+			NOT = {
+				war = yes
+			}
+		}
+		OR = {
+			AND = {
+				is_core = PER
+				is_core = AFG
+			}
+			AND = {
+				is_core = PER
+				is_core = KAL
+			}
+			AND = {
+				is_core = PER
+				is_core = MAK
+			}
+			AND = {
+				is_core = AFG
+				is_core = KAL
+			}
+			AND = {
+				is_core = AFG
+				is_core = MAK
+			}
+			AND = {
+				is_core = KAL
+				is_core = MAK
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Fix me up!"
+		remove_core = PER
+		remove_core = AFG
+		remove_core = KAL
+		remove_core = MAK
 		add_core = THIS
 	}
 }
