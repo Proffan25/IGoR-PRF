@@ -19,33 +19,22 @@ country_event = {
 	option = {				
 		name = "EVTOPTA90900"
 		set_global_flag = the_dragon_wakes
-		any_country = {
-			limit = {
-				NOT = {
-					tag = THIS
-				}
-				substate_of = CHI
-#				num_of_cities = 1
-			}
-			country_event = { id=90901 days=0 }
+		remove_country_modifier = educational_reform
+		remove_country_modifier = military_reform
+		remove_country_modifier = western_influences
+		remove_country_modifier = uncivilized_isolationism
+		remove_country_modifier = trade_restrictions
+		remove_country_modifier = sayings_of_the_dutch
+		remove_country_modifier = extraterritoriality_granted
+		any_owned = {
+			remove_province_modifier = western_presence
+			remove_province_modifier = foreign_smugglers
+			remove_province_modifier = foreign_trading_post
+			remove_province_modifier = local_opium_habit
+			remove_province_modifier = european_military_mission
+			remove_province_modifier = legation_quarter
+			remove_province_modifier = kettler_denkmal
 		}
-		prestige = 10
-			remove_country_modifier = educational_reform
-			remove_country_modifier = military_reform
-			remove_country_modifier = western_influences
-			remove_country_modifier = uncivilized_isolationism
-			remove_country_modifier = trade_restrictions
-			remove_country_modifier = sayings_of_the_dutch
-			remove_country_modifier = extraterritoriality_granted
-			any_owned = {
-				remove_province_modifier = western_presence
-				remove_province_modifier = foreign_smugglers
-				remove_province_modifier = foreign_trading_post
-				remove_province_modifier = local_opium_habit
-				remove_province_modifier = european_military_mission
-				remove_province_modifier = legation_quarter
-				remove_province_modifier = kettler_denkmal
-			}
 	}
 }
 

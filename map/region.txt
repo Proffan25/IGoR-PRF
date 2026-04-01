@@ -865,7 +865,9 @@ CHI_1504 = { 1502 1503 1504 1527 1530 } #Guangxi
 
 #CHI_1494 = { 1494 1497 1500 } #Shaozhou
 
-CHI_1496 = { 1496 1498 } #Hong Kong and Macao
+CHI_1496 = { 1496 } #Hong Kong
+
+CHI_1498 = { 1498 } #Macao
 
 CHI_1532 = { 1532 1535 1534 3282 } #Inner Mongolia
 

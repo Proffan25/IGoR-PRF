@@ -1242,7 +1242,6 @@ treaty_port_buff = {
 	mine_rgo_size = 4
 	farm_rgo_size = 4
 	local_rgo_output = 4
-	immigrant_attract = 3
 	icon = 7
 }
 

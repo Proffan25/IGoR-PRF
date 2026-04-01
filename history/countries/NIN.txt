@@ -2,7 +2,7 @@
 
 #========================= H E A D E R =========================
 
-capital = 1608
+capital = 1609
 primary_culture = beifaren
 religion = animist
 government = absolute_monarchy
