@@ -110,7 +110,7 @@ NEJ_1164;Al Hasa;;;;;;;;;;;;;x;;
 #State Localisations - Pacific;;;;;;;;;;;;;;x
 #############################################;;;;;;;;;;;;;;x
 HAW_658;Hawaiian Islands;;;;;;;;;;;;;x;;
-NET_1454;Western New Guinea;;;;;;;;;;;;;x;;
+NET_1454;Westelijk Nieuw-Guinea;;;;;;;;;;;;;x;;
 USA_2623;Midway;;;;;;;;;;;;;x;;
 USA_2524;Wake Island;;;;;;;;;;;;;x;;
 SPA_2518;Marianas Islands;;;;;;;;;;;;;x;;
@@ -134,12 +134,12 @@ NET_1398;Jambi;;;;;;;;;;;;;x;;
 NET_1399;Palembang;;;;;;;;;;;;;x;;
 NET_1426;Pontianak;;;;;;;;;;;;;x;;
 NET_1423;Banjarmasin;;;;;;;;;;;;;x;;
-NET_1414;West Java;;;;;;;;;;;;;x;;
-NET_1417;East Java;;;;;;;;;;;;;x;;
-NET_1430;Sulawesi;;;;;;;;;;;;;x;;
-BAL_1438;Lesser Sundas;;;;;;;;;;;;;x;;
+NET_1414;West-Java;;;;;;;;;;;;;x;;
+NET_1417;Oost-Java;;;;;;;;;;;;;x;;
+NET_1430;Celebes;;;;;;;;;;;;;x;;
+BAL_1438;Kleine Soenda;;;;;;;;;;;;;x;;
 POR_1446;Timor;;;;;;;;;;;;;x;;
-NET_1449;Moluccas;;;;;;;;;;;;;x;;
+NET_1449;Molukken;;;;;;;;;;;;;x;;
 #############################################;;;;;;;;;;;;;;x
 #State Localisations - Europe;;;;;;;;;;;;;;x
 #############################################;;;;;;;;;;;;;;x
