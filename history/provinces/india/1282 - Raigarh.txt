@@ -1,5 +1,5 @@
-owner = HND
-controller = HND
+owner = ENG
+controller = ENG
 add_core = HND
 trade_goods = grain
 life_rating = 32
