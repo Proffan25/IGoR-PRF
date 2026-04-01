@@ -1,6 +1,5 @@
 capital = 1385
 primary_culture = javan
-culture = yue
 religion = animist
 government = absolute_monarchy
 plurality = 0.0
