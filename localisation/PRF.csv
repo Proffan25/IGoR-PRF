@@ -82,6 +82,8 @@ per_capital_title;Move to Our Previous Capital;;;;;;;;;;;;;
 per_capital_desc;We regained the seat of our traditional capital and thus we can relocate there.;;;;;;;;;;;;;
 jap_capital_title;Move to Our Previous Capital;;;;;;;;;;;;;
 jap_capital_desc;We regained the seat of our traditional capital and thus we can relocate there.;;;;;;;;;;;;;
+french_algeria_title;Crémieux Decree;;;;;;;;;;;;;
+french_algeria_desc;Algeria is not merely a colony, it is a prolongation of France herself. To solidify our hold on the Maghreb, we must bridge the gap between the metropole and the frontier. By granting full French citizenship to the Sephardic Jewish population of Algeria, we create a loyal, urbanized middle class that identifies with the Nation. Simultaneously, we must offer land grants and subsidies to encourage our own citizens from the mainland to cross the Mediterranean. By transforming the departments of Algiers, Oran, and Constantine into vibrant centers of French life, we ensure that the tricolor shall never be lowered from the shores of Africa.;;;;;;;;;;;;;
 #;;;;;;;;;;;;;;Events;;;;
 EVTNAME200017;Rice Farming Techniques;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;
 EVTDESC200017;Adds a modifier to compensate for us lowering Japan's LR so it's less rewarding to partition it;;;;;;;;;;;;;x,,,,,,,,,,,,;;;;;;;;;;;

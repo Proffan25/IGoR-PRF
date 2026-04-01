@@ -447,4 +447,33 @@ political_decisions = {
 			factor = 1
 		}
 	}
+
+	french_algeria = {
+		picture = cremieux_decree
+		potential = {
+			tag = FRA
+            NOT = { accepted_culture = sephardic }
+		}
+		
+		allow = {
+            nationalism_n_imperialism = 1
+			year = 1865
+            ALD = {
+                all_core = {
+                    owned_by = THIS
+                }
+            }
+		}
+		
+		effect = {
+			ALD_1700 = {
+				add_core = FRA
+				add_province_modifier = {
+					name = Bonus_Immigration
+					duration = 3650
+				}
+			}
+			add_accepted_culture = sephardic
+		}
+	}
 }
