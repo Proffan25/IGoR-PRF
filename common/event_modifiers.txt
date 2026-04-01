@@ -1366,3 +1366,35 @@ prussian_influence = {
 	prestige = -0.01
 	icon = 10
 }
+
+##########Assim inventions buff#######
+
+prestige_assimilation_1 = {
+	global_assimilation_rate = 0.5
+	icon = 17
+}
+
+prestige_assimilation_2 = {
+	global_assimilation_rate = 1
+	icon = 17
+}
+
+prestige_assimilation_3 = {
+	global_assimilation_rate = 2
+	icon = 17
+}
+
+prestige_assimilation_4 = {
+	global_assimilation_rate = 3.5
+	icon = 17
+}
+
+prestige_assimilation_5 = {
+	global_assimilation_rate = 6
+	icon = 17
+}
+
+prestige_assimilation_6 = {
+	global_assimilation_rate = 8.5
+	icon = 17
+}

@@ -17,8 +17,8 @@ country_event = {
 	}
 	
 	option = {
-		name = "Canada"
-		CAN = {
+		name = "Commonwealth"
+		COM = {
 			country_event = { id=19300 days=0 }
 		}
 	}
@@ -31,14 +31,14 @@ country_event = {
 	}
 	
 	option = {
-		name = "Gran Columbia"
+		name = "Colombia"
 		GCO = {
 			country_event = { id=19300 days=0 }
 		}
 	}
 	
 	option = {
-		name = "Columbia"
+		name = "Colombia"
 		CLM = {
 			country_event = { id=19300 days=0 }
 		}
@@ -89,5 +89,171 @@ country_event = {
 	option = {
 		name = "Nevermind."
 		clr_global_flag = statue_of_liberty_has_been_built
+	}
+}
+
+country_event = {
+	id = 7771002
+	title = "Assimilation Modifier"
+	desc = "Event because vicky 2 can't handle it in the tech"
+	picture = "dixie"
+	
+	trigger = {
+		classicism_n_early_romanticism = 1
+		NOT = { has_country_modifier = prestige_assimilation_1 }
+		NOT = { has_country_modifier = prestige_assimilation_2 }
+		NOT = { has_country_modifier = prestige_assimilation_3 }
+		NOT = { has_country_modifier = prestige_assimilation_4 }
+		NOT = { has_country_modifier = prestige_assimilation_5 }
+		NOT = { has_country_modifier = prestige_assimilation_6 }
+	}
+	mean_time_to_happen =  {
+		days = 1
+	}
+	
+	option = {
+		name = "Integrate better the [SLURS](derogatory)"
+		add_country_modifier = {
+			name = prestige_assimilation_1
+			duration = -1
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}
+
+country_event = {
+	id = 7771003
+	title = "Assimilation Modifier"
+	desc = "Event because vicky 2 can't handle it in the tech"
+	picture = "dixie"
+	
+	trigger = {
+		romanticism = 1
+		has_country_modifier = prestige_assimilation_1
+	}
+	mean_time_to_happen =  {
+		days = 1
+	}
+	
+	option = {
+		name = "Integrate better the [SLURS](derogatory)"
+		remove_country_modifier = prestige_assimilation_1
+		add_country_modifier = {
+			name = prestige_assimilation_2
+			duration = -1
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}
+
+country_event = {
+	id = 7771004
+	title = "Assimilation Modifier"
+	desc = "Event because vicky 2 can't handle it in the tech"
+	picture = "dixie"
+	
+	trigger = {
+		realism = 1
+		has_country_modifier = prestige_assimilation_2
+	}
+	mean_time_to_happen =  {
+		days = 1
+	}
+	
+	option = {
+		name = "Integrate better the [SLURS](derogatory)"
+		remove_country_modifier = prestige_assimilation_2
+		add_country_modifier = {
+			name = prestige_assimilation_3
+			duration = -1
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}
+
+country_event = {
+	id = 7771005
+	title = "Assimilation Modifier"
+	desc = "Event because vicky 2 can't handle it in the tech"
+	picture = "dixie"
+	
+	trigger = {
+		impressionism = 1
+		has_country_modifier = prestige_assimilation_3
+	}
+	mean_time_to_happen =  {
+		days = 1
+	}
+	
+	option = {
+		name = "Integrate better the [SLURS](derogatory)"
+		remove_country_modifier = prestige_assimilation_3
+		add_country_modifier = {
+			name = prestige_assimilation_4
+			duration = -1
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}
+
+country_event = {
+	id = 7771006
+	title = "Assimilation Modifier"
+	desc = "Event because vicky 2 can't handle it in the tech"
+	picture = "dixie"
+	
+	trigger = {
+		expressionism = 1
+		has_country_modifier = prestige_assimilation_4
+	}
+	mean_time_to_happen =  {
+		days = 1
+	}
+	
+	option = {
+		name = "Integrate better the [SLURS](derogatory)"
+		remove_country_modifier = prestige_assimilation_4
+		add_country_modifier = {
+			name = prestige_assimilation_5
+			duration = -1
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}
+
+country_event = {
+	id = 7771007
+	title = "Assimilation Modifier"
+	desc = "Event because vicky 2 can't handle it in the tech"
+	picture = "dixie"
+	
+	trigger = {
+		mass_culture_n_the_avant_garde = 1
+		has_country_modifier = prestige_assimilation_5
+	}
+	mean_time_to_happen =  {
+		days = 1
+	}
+	
+	option = {
+		name = "Integrate better the [SLURS](derogatory)"
+		remove_country_modifier = prestige_assimilation_5
+		add_country_modifier = {
+			name = prestige_assimilation_6
+			duration = -1
+		}
+		ai_will_do = {
+			factor = 1
+		}
 	}
 }

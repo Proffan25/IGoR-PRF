@@ -45,3 +45,51 @@ pop_shift_invention_6 = {
 		base = 100
 	}
 }
+
+pop_ass_invention_1 = {
+	limit = { classicism_n_early_romanticism = 1 }
+	news = no
+	chance = {
+		base = 100
+	}
+}
+
+pop_ass_invention_2 = {
+	limit = { romanticism = 1 }
+	news = no
+	chance = {
+		base = 100
+	}
+}
+
+pop_ass_invention_3 = {
+	limit = { realism = 1 }
+	news = no
+	chance = {
+		base = 100
+	}
+}
+
+pop_ass_invention_4 = {
+	limit = { impressionism = 1 }
+	news = no
+	chance = {
+		base = 100
+	}
+}
+
+pop_ass_invention_5 = {
+	limit = { expressionism = 1 }
+	news = no
+	chance = {
+		base = 100
+	}
+}
+
+pop_ass_invention_6 = {
+	limit = { mass_culture_n_the_avant_garde = 1 }
+	news = no
+	chance = {
+		base = 100
+	}
+}

@@ -21,7 +21,8 @@ romanticist_literature = {
 		}
 	}
 	effect = {
-		shared_prestige = 5 
+		shared_prestige = 5
+		global_assimilation_rate = 0.075
 	}
 }
 romanticist_art = {
