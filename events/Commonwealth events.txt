@@ -1,0 +1,44 @@
+#############################
+#Anti-abuse events	        #
+#############################
+country_event = {
+	
+	id = 202001
+	
+	trigger = {
+		tag = COM
+		NOT = { capital = 57 }
+		NOT = { capital = 58 }
+		owns = 57
+	}
+	
+	title = "EVTNAME202001"
+	desc = "EVTDESC202001"
+	
+	option = {
+		name = "EVTOPTA202001"
+		capital = 57
+	}
+}
+
+country_event = {
+	
+	id = 202002
+	
+	trigger = {
+		tag = COM
+		NOT = { capital = 57 }
+		NOT = { capital = 58 }
+		NOT = { owns = 57 }
+		owns = 58
+	}
+	
+	title = "EVTNAME202002"
+	desc = "EVTDESC202002"
+	
+	option = {
+		name = "EVTOPTA202002"
+		capital = 58
+	}
+}
+	
