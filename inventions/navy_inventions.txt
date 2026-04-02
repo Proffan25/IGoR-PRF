@@ -918,7 +918,7 @@ advanced_battleships = {
         }
         dreadnought = {
             hull = 3
-            gun_power = 1
+            gun_power = 2
         }
     }
 }
@@ -1285,7 +1285,7 @@ heavy_caliber_guns = {
             gun_power = 2
         }
         dreadnought = {
-            gun_power = 2
+            gun_power = 4
         }
     }
 }
@@ -1350,7 +1350,7 @@ gun_hydraulics = {
             gun_power = 2
         }
         dreadnought = {
-            gun_power = 2
+            gun_power = 4
         }
     }
 }
@@ -1429,7 +1429,7 @@ advanced_fire_control = {
     }
     effect = {
         dreadnought = {
-            gun_power = 1
+            gun_power = 2
         }
         cruiser = {
             gun_power = 1
@@ -1455,7 +1455,7 @@ advanced_fire_control = {
     }
     effect = {
         dreadnought = {
-            gun_power = 1
+            gun_power = 2
         }
     }
 }
