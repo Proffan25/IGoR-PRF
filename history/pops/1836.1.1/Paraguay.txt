@@ -460,3 +460,98 @@
         size = 9180
     }
 }
+#Under loose authority of Paraguay 1836
+#Formosa (24000/6000 POPS) #now part of Argentina
+2366 = {
+    aristocrats = {
+        culture = platinean
+        religion = animist
+        size = 254
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = animist
+        size = 254
+    }
+
+    artisans = {
+        culture = platinean
+        religion = animist
+        size = 850
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = animist
+        size = 170
+    }
+
+    farmers = {
+        culture = platinean
+        religion = animist
+        size = 15554
+    }
+
+    bureaucrats = {
+        culture = platinean
+        religion = animist
+        size = 6
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = animist
+        size = 78
+    }
+
+    artisans = {
+        culture = platinean
+        religion = animist
+        size = 170
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = animist
+        size = 84
+    }
+
+    farmers = {
+        culture = platinean
+        religion = animist
+        size = 3060
+    }
+}
+#Xolotas (20000/5000 POPS) #now part of Argentina
+2367 = {
+    aristocrats = {
+        culture = platinean
+        religion = animist
+        size = 254
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = animist
+        size = 254
+    }
+
+    artisans = {
+        culture = platinean
+        religion = animist
+        size = 850
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = animist
+        size = 170
+    }
+
+    farmers = {
+        culture = platinean
+        religion = animist
+        size = 15554
+    }
+}

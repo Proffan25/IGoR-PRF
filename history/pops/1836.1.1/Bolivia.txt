@@ -786,3 +786,36 @@
         size = 4590
     }
 }
+
+#Cochinoca (4000/1000 POPS)
+2370 = {
+    aristocrats = {
+        culture = platinean
+        religion = animist
+        size = 50
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = animist
+        size = 84
+    }
+
+    artisans = {
+        culture = platinean
+        religion = animist
+        size = 170
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = animist
+        size = 34
+    }
+
+    farmers = {
+        culture = platinean
+        religion = animist
+        size = 3060
+    }
+}
