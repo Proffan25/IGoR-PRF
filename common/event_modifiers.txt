@@ -1395,6 +1395,6 @@ prestige_assimilation_5 = {
 }
 
 prestige_assimilation_6 = {
-	global_assimilation_rate = 8.5
+	global_assimilation_rate = 9
 	icon = 17
 }
