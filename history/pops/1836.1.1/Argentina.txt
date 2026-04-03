@@ -541,8 +541,36 @@
         size = 1625
     }
 }
-#Rosario (56000/14000 POPS)
+#Reconquista (56000/14000 POPS)
 2362 = {
+    aristocrats = {
+        culture = platinean
+        religion = animist
+        size = 22
+    }
+    clergymen = {
+        culture = platinean
+        religion = animist
+        size = 45
+    }
+    artisans = {
+        culture = platinean
+        religion = animist
+        size = 90
+    }
+    soldiers = {
+        culture = platinean
+        religion = animist
+        size = 22
+    }
+    farmers = {
+        culture = platinean
+        religion = animist
+        size = 1625
+    }
+}
+#Rosario (8000/2000 POPS)
+2363 = {
     aristocrats = {
         culture = platinean
         religion = animist
@@ -577,34 +605,6 @@
         culture = platinean
         religion = animist
         size = 8440
-    }
-}
-#Reconquista (8000/2000 POPS)
-2363 = {
-    aristocrats = {
-        culture = platinean
-        religion = animist
-        size = 22
-    }
-    clergymen = {
-        culture = platinean
-        religion = animist
-        size = 45
-    }
-    artisans = {
-        culture = platinean
-        religion = animist
-        size = 90
-    }
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 22
-    }
-    farmers = {
-        culture = platinean
-        religion = animist
-        size = 1625
     }
 }
 #Chaco Region (76000)

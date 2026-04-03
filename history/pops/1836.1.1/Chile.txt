@@ -1,242 +1,6 @@
 #Atacama Region (164000) #see Peru.txt for balance of Region
 #Ruled by Bolivia 1836
-#Antofagasta (80000/20000 POPS)
-2305 = {
-    aristocrats = {
-        culture = platinean
-        religion = animist
-        size = 1444
-    }
-
-    bureaucrats = {
-        culture = platinean
-        religion = animist
-        size = 84
-    }
-
-    officers = {
-        culture = platinean
-        religion = animist
-        size = 84
-    }
-
-    clergymen = {
-        culture = platinean
-        religion = animist
-        size = 510
-    }
-
-    artisans = {
-        culture = platinean
-        religion = animist
-        size = 1360
-    }
-
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 254
-    }
-
-    farmers = {
-        culture = platinean
-        religion = animist
-        size = 23460
-    }
-
-    clergymen = {
-        culture = platinean
-        religion = animist
-        size = 170
-    }
-
-    artisans = {
-        culture = platinean
-        religion = animist
-        size = 2040
-    }
-
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 424
-    }
-
-    farmers = {
-        culture = platinean
-        religion = animist
-        size = 38164
-    }
-}
-#Calama (32000/8000 POPS)
-2309 = {
-    aristocrats = {
-        culture = platinean
-        religion = animist
-        size = 594
-    }
-
-    clergymen = {
-        culture = platinean
-        religion = animist
-        size = 170
-    }
-
-    artisans = {
-        culture = platinean
-        religion = animist
-        size = 510
-    }
-
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 170
-    }
-
-    farmers = {
-        culture = platinean
-        religion = animist
-        size = 8754
-    }
-
-    clergymen = {
-        culture = platinean
-        religion = animist
-        size = 170
-    }
-
-    artisans = {
-        culture = platinean
-        religion = animist
-        size = 850
-    }
-
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 170
-    }
-
-    farmers = {
-        culture = platinean
-        religion = animist
-        size = 15980
-    }
-}
 #Ruled by Peru 1836
-#Iquique (32000/8000 POPS)
-2307 = {
-    aristocrats = {
-        culture = platinean
-        religion = animist
-        size = 594
-    }
-
-    clergymen = {
-        culture = platinean
-        religion = animist
-        size = 170
-    }
-
-    artisans = {
-        culture = platinean
-        religion = animist
-        size = 340
-    }
-
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 84
-    }
-
-    farmers = {
-        culture = platinean
-        religion = animist
-        size = 5610
-    }
-
-    clergymen = {
-        culture = platinean
-        religion = animist
-        size = 170
-    }
-
-    artisans = {
-        culture = platinean
-        religion = animist
-        size = 1020
-    }
-
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 254
-    }
-
-    farmers = {
-        culture = platinean
-        religion = animist
-        size = 18954
-    }
-}
-#Arica (20000/5000 POPS)
-2308 = {
-    aristocrats = {
-        culture = platinean
-        religion = animist
-        size = 424
-    }
-
-    clergymen = {
-        culture = platinean
-        religion = animist
-        size = 254
-    }
-
-    artisans = {
-        culture = platinean
-        religion = animist
-        size = 170
-    }
-
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 34
-    }
-
-    farmers = {
-        culture = platinean
-        religion = animist
-        size = 2516
-    }
-
-    clergymen = {
-        culture = platinean
-        religion = animist
-        size = 84
-    }
-
-    artisans = {
-        culture = platinean
-        religion = animist
-        size = 680
-    }
-
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 170
-    }
-
-    farmers = {
-        culture = platinean
-        religion = animist
-        size = 12664
-    }
-}
 #Chile Norte Region (116000)
 #Ruled by Chile 1836
 #Copiapo (52000/13000 POPS)
@@ -244,31 +8,31 @@
     aristocrats = {
         culture = platinean
         religion = animist
-        size = 934
+        size = 279
     }
 
     clergymen = {
         culture = platinean
         religion = animist
-        size = 424
+        size = 127
     }
 
     artisans = {
         culture = platinean
         religion = animist
-        size = 2210
+        size = 661
     }
 
     soldiers = {
         culture = platinean
         religion = animist
-        size = 424
+        size = 127
     }
 
     farmers = {
         culture = platinean
         religion = animist
-        size = 40204
+        size = 12025
     }
 }
 #La Serena (64000/16000 POPS)
@@ -276,43 +40,43 @@
     aristocrats = {
         culture = platinean
         religion = animist
-        size = 1190
+        size = 356
     }
 
     bureaucrats = {
         culture = platinean
         religion = animist
-        size = 170
+        size = 51
     }
 
     officers = {
         culture = platinean
         religion = animist
-        size = 84
+        size = 25
     }
 
     clergymen = {
         culture = platinean
         religion = animist
-        size = 510
+        size = 153
     }
 
     artisans = {
         culture = platinean
         religion = animist
-        size = 2720
+        size = 814
     }
 
     soldiers = {
         culture = platinean
         religion = animist
-        size = 594
+        size = 178
     }
 
     farmers = {
         culture = platinean
         religion = animist
-        size = 49130
+        size = 14695
     }
 }
 #Valle Central Region (640000)
@@ -322,49 +86,49 @@
     aristocrats = {
         culture = platinean
         religion = animist
-        size = 7480
+        size = 2237
     }
 
     bureaucrats = {
         culture = platinean
         religion = animist
-        size = 1020
+        size = 305
     }
 
     officers = {
         culture = platinean
         religion = animist
-        size = 594
+        size = 178
     }
 
     clergymen = {
         culture = platinean
         religion = animist
-        size = 3570
+        size = 1068
     }
 
     artisans = {
         culture = platinean
         religion = animist
-        size = 34000
+        size = 10170
     }
 
     artisans = {
         culture = platinean
         religion = animist
-        size = 25500
+        size = 7627
     }
 
     soldiers = {
         culture = platinean
         religion = animist
-        size = 13600
+        size = 4068
     }
 
     farmers = {
         culture = platinean
         religion = animist
-        size = 271234
+        size = 81128
     }
 }
 #Valparaiso (128000/32000 POPS)
@@ -372,37 +136,37 @@
     aristocrats = {
         culture = platinean
         religion = animist
-        size = 2294
+        size = 686
     }
 
     clergymen = {
         culture = platinean
         religion = animist
-        size = 1104
+        size = 330
     }
 
     artisans = {
         culture = platinean
         religion = animist
-        size = 34000
+        size = 10170
     }
 
     artisans = {
         culture = platinean
         religion = animist
-        size = 6800
+        size = 2034
     }
 
     soldiers = {
         culture = platinean
         religion = animist
-        size = 3740
+        size = 1119
     }
 
     farmers = {
         culture = platinean
         religion = animist
-        size = 61200
+        size = 18305
     }
 }
 #Vina del Mar (72000/18000 POPS)
@@ -410,31 +174,31 @@
     aristocrats = {
         culture = platinean
         religion = animist
-        size = 1274
+        size = 381
     }
 
     clergymen = {
         culture = platinean
         religion = animist
-        size = 594
+        size = 178
     }
 
     artisans = {
         culture = platinean
         religion = animist
-        size = 3060
+        size = 915
     }
 
     soldiers = {
         culture = platinean
         religion = animist
-        size = 3740
+        size = 1119
     }
 
     farmers = {
         culture = platinean
         religion = animist
-        size = 52870
+        size = 15814
     }
 }
 #Talca (20000/5000 POPS)
@@ -442,31 +206,31 @@
     aristocrats = {
         culture = platinean
         religion = animist
-        size = 424
+        size = 127
     }
 
     clergymen = {
         culture = platinean
         religion = animist
-        size = 170
+        size = 51
     }
 
     artisans = {
         culture = platinean
         religion = animist
-        size = 850
+        size = 254
     }
 
     soldiers = {
         culture = platinean
         religion = animist
-        size = 170
+        size = 51
     }
 
     farmers = {
         culture = platinean
         religion = animist
-        size = 15384
+        size = 4601
     }
 }
 #Bio-Bio Region (232000)
@@ -476,73 +240,73 @@
     aristocrats = {
         culture = platinean
         religion = animist
-        size = 1190
+        size = 356
     }
 
     bureaucrats = {
         culture = platinean
         religion = animist
-        size = 170
+        size = 51
     }
 
     officers = {
         culture = platinean
         religion = animist
-        size = 170
+        size = 51
     }
 
     clergymen = {
         culture = platinean
         religion = animist
-        size = 594
+        size = 178
     }
 
     artisans = {
         culture = platinean
         religion = animist
-        size = 2890
+        size = 864
     }
 
     soldiers = {
         culture = platinean
         religion = animist
-        size = 3740
+        size = 1119
     }
 
     farmers = {
         culture = platinean
         religion = animist
-        size = 49470
+        size = 14797
     }
 
     aristocrats = {
         culture = platinean
         religion = animist
-        size = 340
+        size = 102
     }
 
     clergymen = {
         culture = platinean
         religion = animist
-        size = 170
+        size = 51
     }
 
     artisans = {
         culture = platinean
         religion = animist
-        size = 1020
+        size = 305
     }
 
     soldiers = {
         culture = platinean
         religion = animist
-        size = 254
+        size = 76
     }
 
     farmers = {
         culture = platinean
         religion = animist
-        size = 18614
+        size = 5568
     }
 }
 #Temuco (36000/9000 POPS)
@@ -550,61 +314,61 @@
     aristocrats = {
         culture = platinean
         religion = animist
-        size = 424
+        size = 127
     }
 
     clergymen = {
         culture = platinean
         religion = animist
-        size = 170
+        size = 51
     }
 
     artisans = {
-        culture = platinean
-        religion = animist
-        size = 850
-    }
-
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 170
-    }
-
-    farmers = {
-        culture = platinean
-        religion = animist
-        size = 15384
-    }
-
-    aristocrats = {
-        culture = platinean
-        religion = animist
-        size = 170
-    }
-
-    clergymen = {
         culture = platinean
         religion = animist
         size = 254
     }
 
-    artisans = {
-        culture = platinean
-        religion = animist
-        size = 680
-    }
-
     soldiers = {
         culture = platinean
         religion = animist
-        size = 170
+        size = 51
     }
 
     farmers = {
         culture = platinean
         religion = animist
-        size = 12324
+        size = 4601
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = animist
+        size = 51
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = animist
+        size = 76
+    }
+
+    artisans = {
+        culture = platinean
+        religion = animist
+        size = 203
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = animist
+        size = 51
+    }
+
+    farmers = {
+        culture = platinean
+        religion = animist
+        size = 3686
     }
 }
 #Cauquenes (68000/17000 POPS)
@@ -612,31 +376,31 @@
     aristocrats = {
         culture = platinean
         religion = animist
-        size = 1190
+        size = 356
     }
 
     clergymen = {
         culture = platinean
         religion = animist
-        size = 510
+        size = 153
     }
 
     artisans = {
         culture = platinean
         religion = animist
-        size = 2890
+        size = 864
     }
 
     soldiers = {
         culture = platinean
         religion = animist
-        size = 3740
+        size = 1119
     }
 
     farmers = {
         culture = platinean
         religion = animist
-        size = 49810
+        size = 14898
     }
 }
 #Chillan (36000/9000 POPS)
@@ -644,61 +408,61 @@
     aristocrats = {
         culture = platinean
         religion = animist
-        size = 594
+        size = 178
     }
 
     clergymen = {
         culture = platinean
         religion = animist
-        size = 254
+        size = 76
     }
 
     artisans = {
         culture = platinean
         religion = animist
-        size = 1190
+        size = 356
     }
 
     soldiers = {
         culture = platinean
         religion = animist
-        size = 254
+        size = 76
     }
 
     farmers = {
         culture = platinean
         religion = animist
-        size = 21504
+        size = 6432
     }
 
     aristocrats = {
         culture = platinean
         religion = animist
-        size = 84
+        size = 25
     }
 
     clergymen = {
         culture = platinean
         religion = animist
-        size = 170
+        size = 51
     }
 
     artisans = {
         culture = platinean
         religion = animist
-        size = 340
+        size = 102
     }
 
     soldiers = {
         culture = platinean
         religion = animist
-        size = 84
+        size = 25
     }
 
     farmers = {
         culture = platinean
         religion = animist
-        size = 6120
+        size = 1831
     }
 }
 #Magellanes Region (92000)
@@ -708,73 +472,73 @@
     aristocrats = {
         culture = platinean
         religion = animist
-        size = 934
+        size = 279
     }
 
     bureaucrats = {
         culture = platinean
         religion = animist
-        size = 50
+        size = 15
     }
 
     officers = {
         culture = platinean
         religion = animist
-        size = 34
+        size = 10
     }
 
     clergymen = {
         culture = platinean
         religion = animist
-        size = 424
+        size = 127
     }
 
     artisans = {
         culture = platinean
         religion = animist
-        size = 2210
+        size = 661
     }
 
     soldiers = {
         culture = platinean
         religion = animist
-        size = 424
+        size = 127
     }
 
     farmers = {
         culture = platinean
         religion = animist
-        size = 40120
+        size = 12000
     }
 
     aristocrats = {
         culture = platinean
         religion = animist
-        size = 254
+        size = 76
     }
 
     clergymen = {
         culture = platinean
         religion = animist
-        size = 254
+        size = 76
     }
 
     artisans = {
         culture = platinean
         religion = animist
-        size = 680
+        size = 203
     }
 
     soldiers = {
         culture = platinean
         religion = animist
-        size = 170
+        size = 51
     }
 
     farmers = {
         culture = platinean
         religion = animist
-        size = 12240
+        size = 3661
     }
 }
 #uncolonized/claimed by Chile 1836
@@ -783,31 +547,31 @@
     aristocrats = {
         culture = platinean
         religion = animist
-        size = 170
+        size = 51
     }
 
     clergymen = {
         culture = platinean
         religion = animist
-        size = 254
+        size = 76
     }
 
     artisans = {
         culture = platinean
         religion = animist
-        size = 510
+        size = 153
     }
 
     soldiers = {
         culture = platinean
         religion = animist
-        size = 84
+        size = 25
     }
 
     farmers = {
         culture = platinean
         religion = animist
-        size = 9180
+        size = 2746
     }
 }
 #Punta Arenas (8000/2000 POPS)
@@ -815,31 +579,31 @@
     aristocrats = {
         culture = platinean
         religion = animist
-        size = 84
+        size = 25
     }
 
     clergymen = {
         culture = platinean
         religion = animist
-        size = 170
+        size = 51
     }
 
     artisans = {
         culture = platinean
         religion = animist
-        size = 340
+        size = 102
     }
 
     soldiers = {
         culture = platinean
         religion = animist
-        size = 84
+        size = 25
     }
 
     farmers = {
         culture = platinean
         religion = animist
-        size = 6120
+        size = 1831
     }
 }
 #Porvenir (4000/1000 POPS)
@@ -847,30 +611,30 @@
     aristocrats = {
         culture = platinean
         religion = animist
-        size = 34
+        size = 10
     }
 
     clergymen = {
         culture = platinean
         religion = animist
-        size = 84
+        size = 25
     }
 
     artisans = {
         culture = platinean
         religion = animist
-        size = 170
+        size = 51
     }
 
     soldiers = {
         culture = platinean
         religion = animist
-        size = 50
+        size = 15
     }
 
     farmers = {
         culture = platinean
         religion = animist
-        size = 3060
+        size = 915
     }
 }
