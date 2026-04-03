@@ -1,49 +1,41 @@
 #Buenos Aires Region (272000)
-#Under rule of Argentina 1836
-#Buenos Aires (132000/33000 POPS)
+#Under rule of Argentina 1836#Buenos Aires (132000/33000 POPS)
 2348 = {
     aristocrats = {
         culture = platinean
         religion = animist
         size = 2124
     }
-
     bureaucrats = {
         culture = platinean
         religion = animist
         size = 340
     }
-
     officers = {
         culture = platinean
         religion = animist
         size = 254
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 1274
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 34000
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 17000
     }
-
     soldiers = {
         culture = platinean
         religion = animist
         size = 23800
     }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -57,25 +49,21 @@
         religion = animist
         size = 934
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 594
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 3740
     }
-
     soldiers = {
         culture = platinean
         religion = animist
         size = 23800
     }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -89,25 +77,21 @@
         religion = animist
         size = 170
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 254
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 510
     }
-
     soldiers = {
         culture = platinean
         religion = animist
         size = 84
     }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -121,25 +105,21 @@
         religion = animist
         size = 50
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 84
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     soldiers = {
         culture = platinean
         religion = animist
         size = 34
     }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -153,25 +133,21 @@
         religion = animist
         size = 170
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 254
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 510
     }
-
     soldiers = {
         culture = platinean
         religion = animist
         size = 84
     }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -186,49 +162,41 @@
         religion = animist
         size = 84
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     soldiers = {
         culture = platinean
         religion = animist
         size = 84
     }
-
     farmers = {
         culture = platinean
         religion = animist
         size = 3060
     }
-
     aristocrats = {
         culture = platinean
         religion = animist
         size = 84
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 340
     }
-
     soldiers = {
         culture = platinean
         religion = animist
         size = 84
     }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -242,49 +210,36 @@
         religion = animist
         size = 254
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 510
     }
-
     soldiers = {
         culture = platinean
         religion = animist
-        size = 170
+        size = 254
     }
-
     farmers = {
         culture = platinean
         religion = animist
         size = 9264
     }
-
     aristocrats = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 254
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 510
     }
-
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 84
-    }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -298,49 +253,41 @@
         religion = animist
         size = 170
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 340
     }
-
     soldiers = {
         culture = platinean
         religion = animist
         size = 84
     }
-
     farmers = {
         culture = platinean
         religion = animist
         size = 6374
     }
-
     aristocrats = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 254
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 510
     }
-
     soldiers = {
         culture = platinean
         religion = animist
         size = 84
     }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -356,61 +303,46 @@
         religion = animist
         size = 1530
     }
-
     bureaucrats = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     officers = {
         culture = platinean
         religion = animist
         size = 118
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 764
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 13600
     }
-
     soldiers = {
         culture = platinean
         religion = animist
-        size = 764
+        size = 848
     }
-
     farmers = {
         culture = platinean
         religion = animist
         size = 54450
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 254
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 510
     }
-
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 84
-    }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -424,49 +356,36 @@
         religion = animist
         size = 84
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 340
     }
-
     soldiers = {
         culture = platinean
         religion = animist
-        size = 84
+        size = 126
     }
-
     farmers = {
         culture = platinean
         religion = animist
         size = 6120
     }
-
     clergymen = {
         culture = brazilian
         religion = animist
         size = 85
     }
-
     artisans = {
         culture = brazilian
         religion = animist
         size = 170
     }
-
-    soldiers = {
-        culture = brazilian
-        religion = animist
-        size = 42
-    }
-
     farmers = {
         culture = brazilian
         religion = animist
@@ -480,73 +399,56 @@
         religion = animist
         size = 170
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 340
     }
-
     soldiers = {
         culture = platinean
         religion = animist
-        size = 84
+        size = 126
     }
-
     farmers = {
         culture = platinean
         religion = animist
         size = 6374
     }
-
     clergymen = {
         culture = brazilian
         religion = animist
         size = 85
     }
-
     artisans = {
         culture = brazilian
         religion = animist
         size = 170
     }
-
     soldiers = {
         culture = brazilian
         religion = animist
         size = 42
     }
-
     farmers = {
         culture = brazilian
         religion = animist
         size = 3102
     }
-
     aristocrats = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 254
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 510
     }
-
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 84
-    }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -560,25 +462,21 @@
         religion = animist
         size = 84
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 340
     }
-
     soldiers = {
         culture = platinean
         religion = animist
         size = 84
     }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -592,25 +490,21 @@
         religion = animist
         size = 254
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 680
     }
-
     soldiers = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -626,25 +520,21 @@
         religion = animist
         size = 84
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 340
     }
-
     soldiers = {
         culture = platinean
         religion = animist
         size = 84
     }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -658,37 +548,31 @@
         religion = animist
         size = 934
     }
-
     bureaucrats = {
         culture = platinean
         religion = animist
         size = 102
     }
-
     officers = {
         culture = platinean
         religion = animist
         size = 68
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 594
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 13600
     }
-
     soldiers = {
         culture = platinean
         religion = animist
         size = 510
     }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -702,32 +586,28 @@
         religion = animist
         size = 84
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 340
     }
-
     soldiers = {
         culture = platinean
         religion = animist
         size = 84
     }
-
     farmers = {
         culture = platinean
         religion = animist
         size = 6120
     }
 }
-#Chaco Region (76000) #see Paraguay.txt for balance of region
+#Chaco Region (76000)
 #Under loose authority of Argentina 1836
 #Resistencia (16000/4000 POPS)
 2364 = {
@@ -736,55 +616,41 @@
         religion = animist
         size = 170
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 254
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 510
     }
-
     soldiers = {
         culture = platinean
         religion = animist
-        size = 84
+        size = 168
     }
-
     farmers = {
         culture = platinean
         religion = animist
         size = 9180
     }
-
     bureaucrats = {
         culture = platinean
         religion = animist
         size = 6
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 78
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 170
     }
-
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 84
-    }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -798,49 +664,36 @@
         religion = animist
         size = 170
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 254
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 510
     }
-
     soldiers = {
         culture = platinean
         religion = animist
-        size = 84
+        size = 168
     }
-
     farmers = {
         culture = platinean
         religion = animist
         size = 9180
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 84
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 170
     }
-
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 84
-    }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -856,37 +709,31 @@
         religion = animist
         size = 254
     }
-
     bureaucrats = {
         culture = platinean
         religion = animist
         size = 50
     }
-
     officers = {
         culture = platinean
         religion = animist
         size = 34
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 5100
     }
-
     soldiers = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -900,25 +747,21 @@
         religion = animist
         size = 84
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 3740
     }
-
     soldiers = {
         culture = platinean
         religion = animist
         size = 84
     }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -932,25 +775,21 @@
         religion = animist
         size = 50
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 84
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     soldiers = {
         culture = platinean
         religion = animist
         size = 34
     }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -964,25 +803,21 @@
         religion = animist
         size = 50
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 84
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     soldiers = {
         culture = platinean
         religion = animist
         size = 34
     }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -998,37 +833,31 @@
         religion = animist
         size = 340
     }
-
     bureaucrats = {
         culture = platinean
         religion = animist
         size = 50
     }
-
     officers = {
         culture = platinean
         religion = animist
         size = 34
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 340
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 5100
     }
-
     soldiers = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -1042,25 +871,21 @@
         religion = animist
         size = 170
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 254
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 510
     }
-
     soldiers = {
         culture = platinean
         religion = animist
         size = 84
     }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -1074,25 +899,21 @@
         religion = animist
         size = 50
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 84
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     soldiers = {
         culture = platinean
         religion = animist
         size = 34
     }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -1108,37 +929,31 @@
         religion = animist
         size = 254
     }
-
     bureaucrats = {
         culture = platinean
         religion = animist
         size = 34
     }
-
     officers = {
         culture = platinean
         religion = animist
         size = 34
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 680
     }
-
     soldiers = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -1152,49 +967,36 @@
         religion = animist
         size = 84
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     soldiers = {
         culture = platinean
         religion = animist
-        size = 84
+        size = 168
     }
-
     farmers = {
         culture = platinean
         religion = animist
         size = 3060
     }
-
     aristocrats = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 254
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 510
     }
-
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 84
-    }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -1208,25 +1010,21 @@
         religion = animist
         size = 84
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 340
     }
-
     soldiers = {
         culture = platinean
         religion = animist
         size = 84
     }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -1242,37 +1040,31 @@
         religion = animist
         size = 1444
     }
-
     bureaucrats = {
         culture = platinean
         religion = animist
         size = 136
     }
-
     officers = {
         culture = platinean
         religion = animist
         size = 118
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 680
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 10200
     }
-
     soldiers = {
         culture = platinean
         religion = animist
         size = 23800
     }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -1286,25 +1078,21 @@
         religion = animist
         size = 84
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 340
     }
-
     soldiers = {
         culture = platinean
         religion = animist
         size = 84
     }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -1318,25 +1106,21 @@
         religion = animist
         size = 84
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 340
     }
-
     soldiers = {
         culture = platinean
         religion = animist
         size = 84
     }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -1350,25 +1134,21 @@
         religion = animist
         size = 84
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 340
     }
-
     soldiers = {
         culture = platinean
         religion = animist
         size = 84
     }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -1383,49 +1163,36 @@
         religion = animist
         size = 170
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 340
     }
-
     soldiers = {
         culture = platinean
         religion = animist
-        size = 84
+        size = 168
     }
-
     farmers = {
         culture = platinean
         religion = animist
         size = 6204
     }
-
     aristocrats = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 254
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 510
     }
-
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 84
-    }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -1439,49 +1206,36 @@
         religion = animist
         size = 84
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     soldiers = {
         culture = platinean
         religion = animist
-        size = 84
+        size = 134
     }
-
     farmers = {
         culture = platinean
         religion = animist
         size = 3060
     }
-
     aristocrats = {
         culture = platinean
         religion = animist
         size = 34
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 84
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 170
     }
-
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 50
-    }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -1497,37 +1251,31 @@
         religion = animist
         size = 254
     }
-
     bureaucrats = {
         culture = platinean
         religion = animist
         size = 50
     }
-
     officers = {
         culture = platinean
         religion = animist
         size = 34
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 680
     }
-
     soldiers = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -1541,25 +1289,21 @@
         religion = animist
         size = 84
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 340
     }
-
     soldiers = {
         culture = platinean
         religion = animist
         size = 84
     }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -1573,25 +1317,21 @@
         religion = animist
         size = 170
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 254
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 510
     }
-
     soldiers = {
         culture = platinean
         religion = animist
         size = 84
     }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -1605,25 +1345,21 @@
         religion = animist
         size = 50
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 84
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     soldiers = {
         culture = platinean
         religion = animist
         size = 34
     }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -1639,37 +1375,31 @@
         religion = animist
         size = 170
     }
-
     bureaucrats = {
         culture = platinean
         religion = animist
         size = 16
     }
-
     officers = {
         culture = platinean
         religion = animist
         size = 34
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 254
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 510
     }
-
     soldiers = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -1683,25 +1413,21 @@
         religion = animist
         size = 84
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 340
     }
-
     soldiers = {
         culture = platinean
         religion = animist
         size = 84
     }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -1716,49 +1442,36 @@
         religion = animist
         size = 84
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     soldiers = {
         culture = platinean
         religion = animist
-        size = 84
+        size = 168
     }
-
     farmers = {
         culture = platinean
         religion = animist
         size = 3060
     }
-
     aristocrats = {
         culture = platinean
         religion = animist
         size = 84
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 340
     }
-
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 84
-    }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -1774,25 +1487,21 @@
         religion = animist
         size = 170
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 254
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 510
     }
-
     soldiers = {
         culture = platinean
         religion = animist
         size = 84
     }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -1806,25 +1515,21 @@
         religion = animist
         size = 170
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 254
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 510
     }
-
     soldiers = {
         culture = platinean
         religion = animist
         size = 84
     }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -1838,49 +1543,36 @@
         religion = animist
         size = 84
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     soldiers = {
         culture = platinean
         religion = animist
-        size = 84
+        size = 254
     }
-
     farmers = {
         culture = platinean
         religion = animist
         size = 3060
     }
-
     aristocrats = {
         culture = platinean
         religion = animist
         size = 254
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 680
     }
-
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 170
-    }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -1894,25 +1586,21 @@
         religion = animist
         size = 170
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 254
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 510
     }
-
     soldiers = {
         culture = platinean
         religion = animist
         size = 84
     }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -1928,25 +1616,21 @@
         religion = animist
         size = 34
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 84
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     soldiers = {
         culture = platinean
         religion = animist
         size = 50
     }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -1960,25 +1644,21 @@
         religion = animist
         size = 34
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 84
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     soldiers = {
         culture = platinean
         religion = animist
         size = 50
     }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -1992,25 +1672,21 @@
         religion = animist
         size = 34
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 84
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     soldiers = {
         culture = platinean
         religion = animist
         size = 50
     }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -2024,25 +1700,21 @@
         religion = animist
         size = 34
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 84
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     soldiers = {
         culture = platinean
         religion = animist
         size = 50
     }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -2056,83 +1728,66 @@
         religion = animist
         size = 34
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 84
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     soldiers = {
         culture = platinean
         religion = animist
         size = 50
     }
-
     farmers = {
         culture = platinean
         religion = animist
         size = 3060
     }
 }
-#Paraguay Region (16000) #see Paraguay.txt & Brazil.txt for balance of region
+#Paraguay Region (16000)
 #Under loose authority of Paraguay 1836
-#Posadas (16000/4000 POPS) #now part of Argentina
+#Posadas (16000/4000 POPS)
 2554 = {
     clergymen = {
         culture = platinean
         religion = animist
         size = 84
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     soldiers = {
         culture = platinean
         religion = animist
-        size = 84
+        size = 168
     }
-
     farmers = {
         culture = platinean
         religion = animist
         size = 3060
     }
-
     aristocrats = {
         culture = platinean
         religion = animist
         size = 170
     }
-
     clergymen = {
         culture = platinean
         religion = animist
         size = 254
     }
-
     artisans = {
         culture = platinean
         religion = animist
         size = 510
     }
-
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 84
-    }
-
     farmers = {
         culture = platinean
         religion = animist
