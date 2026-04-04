@@ -5,194 +5,97 @@
     aristocrats = {
         culture = andean
         religion = animist
-        size = 127
+        size = 81
     }
 
     bureaucrats = {
         culture = andean
         religion = animist
-        size = 8
+        size = 5
     }
 
     officers = {
         culture = andean
         religion = animist
-        size = 8
+        size = 5
     }
 
     clergymen = {
         culture = andean
         religion = animist
-        size = 127
+        size = 81
     }
 
     artisans = {
         culture = andean
         religion = animist
-        size = 255
+        size = 163
     }
 
     soldiers = {
         culture = andean
         religion = animist
-        size = 42
+        size = 27
     }
 
     farmers = {
         culture = andean
         religion = animist
-        size = 4530
+        size = 2887
     }
 
     clergymen = {
         culture = andean
         religion = animist
-        size = 42
+        size = 27
     }
 
     artisans = {
         culture = andean
         religion = animist
-        size = 170
+        size = 108
     }
 
     soldiers = {
         culture = andean
         religion = animist
-        size = 42
+        size = 27
     }
 
     farmers = {
         culture = andean
         religion = animist
-        size = 1445
+        size = 921
     }
 
     aristocrats = {
         culture = andean
         religion = animist
-        size = 297
+        size = 189
     }
 
     clergymen = {
         culture = andean
         religion = animist
-        size = 170
+        size = 108
     }
 
     artisans = {
         culture = andean
         religion = animist
-        size = 850
+        size = 542
     }
 
     soldiers = {
         culture = andean
         religion = animist
-        size = 170
+        size = 108
     }
 
     farmers = {
         culture = andean
         religion = animist
-        size = 15512
-    }
-}
-#"Ruled" by Ecuador 1836
-#Yurimagues (12000/3000 POPS)
-2287 = {
-    aristocrats = {
-        culture = andean
-        religion = animist
-        size = 85
-    }
-
-    clergymen = {
-        culture = andean
-        religion = animist
-        size = 127
-    }
-
-    artisans = {
-        culture = andean
-        religion = animist
-        size = 255
-    }
-
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 42
-    }
-
-    farmers = {
-        culture = andean
-        religion = animist
-        size = 4590
-    }
-}
-#Yuncos (12000/3000 POPS)
-2288 = {
-    aristocrats = {
-        culture = andean
-        religion = animist
-        size = 85
-    }
-
-    clergymen = {
-        culture = andean
-        religion = animist
-        size = 127
-    }
-
-    artisans = {
-        culture = andean
-        religion = animist
-        size = 255
-    }
-
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 42
-    }
-
-    farmers = {
-        culture = andean
-        religion = animist
-        size = 4590
-    }
-}
-#Puca Urco (12000/3000 POPS)
-2289 = {
-    aristocrats = {
-        culture = andean
-        religion = animist
-        size = 85
-    }
-
-    clergymen = {
-        culture = andean
-        religion = animist
-        size = 127
-    }
-
-    artisans = {
-        culture = andean
-        religion = animist
-        size = 255
-    }
-
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 42
-    }
-
-    farmers = {
-        culture = andean
-        religion = animist
-        size = 4590
+        size = 9885
     }
 }
 #Cajamarca Region (296000)
@@ -202,67 +105,67 @@
     aristocrats = {
         culture = andean
         religion = animist
-        size = 1360
+        size = 867
     }
 
     bureaucrats = {
         culture = andean
         religion = animist
-        size = 170
+        size = 108
     }
 
     officers = {
         culture = andean
         religion = animist
-        size = 127
+        size = 81
     }
 
     clergymen = {
         culture = andean
         religion = animist
-        size = 425
+        size = 271
     }
 
     artisans = {
         culture = andean
         religion = animist
-        size = 1020
+        size = 650
     }
 
     soldiers = {
         culture = andean
         religion = animist
-        size = 212
+        size = 135
     }
 
     farmers = {
         culture = andean
         religion = animist
-        size = 17085
+        size = 10888
     }
 
     clergymen = {
         culture = andean
         religion = animist
-        size = 212
+        size = 135
     }
 
     artisans = {
         culture = andean
         religion = animist
-        size = 2210
+        size = 1408
     }
 
     soldiers = {
         culture = andean
         religion = animist
-        size = 425
+        size = 271
     }
 
     farmers = {
         culture = andean
         religion = animist
-        size = 41352
+        size = 26353
     }
 }
 #Piura (60000/15000 POPS)
@@ -270,85 +173,85 @@
     aristocrats = {
         culture = andean
         religion = animist
-        size = 552
+        size = 352
     }
 
     clergymen = {
         culture = andean
         religion = animist
-        size = 170
+        size = 108
     }
 
     artisans = {
         culture = andean
         religion = animist
-        size = 255
+        size = 163
     }
 
     soldiers = {
         culture = andean
         religion = animist
-        size = 85
+        size = 54
     }
 
     farmers = {
         culture = andean
         religion = animist
-        size = 4037
+        size = 2573
     }
 
     clergymen = {
         culture = andean
         religion = animist
-        size = 127
+        size = 81
     }
 
     artisans = {
         culture = andean
         religion = animist
-        size = 850
+        size = 542
     }
 
     soldiers = {
         culture = andean
         religion = animist
-        size = 170
+        size = 108
     }
 
     farmers = {
         culture = andean
         religion = animist
-        size = 17000
+        size = 10834
     }
 
     clergymen = {
         culture = andean
         religion = animist
-        size = 42
+        size = 27
     }
 
     artisans = {
         culture = andean
         religion = animist
-        size = 170
+        size = 108
     }
 
     soldiers = {
         culture = andean
         religion = animist
-        size = 42
+        size = 27
     }
 
     farmers = {
         culture = andean
         religion = animist
-        size = 1870
+        size = 1192
     }
 
     slaves = {
         culture = andean
         religion = animist
-        size = 1275
+        size = 813
     }
 }
 #Trujillo (68000/17000 POPS)
@@ -356,85 +259,85 @@
     aristocrats = {
         culture = andean
         religion = animist
-        size = 637
+        size = 406
     }
 
     clergymen = {
         culture = andean
         religion = animist
-        size = 212
+        size = 135
     }
 
     artisans = {
         culture = andean
         religion = animist
-        size = 510
+        size = 325
     }
 
     soldiers = {
         culture = andean
         religion = animist
-        size = 127
+        size = 81
     }
 
     farmers = {
         culture = andean
         religion = animist
-        size = 8627
+        size = 5498
     }
 
     clergymen = {
         culture = andean
         religion = animist
-        size = 127
+        size = 81
     }
 
     artisans = {
         culture = andean
         religion = animist
-        size = 765
+        size = 488
     }
 
     soldiers = {
         culture = andean
         religion = animist
-        size = 170
+        size = 108
     }
 
     farmers = {
         culture = andean
         religion = animist
-        size = 14237
+        size = 9073
     }
 
     clergymen = {
         culture = andean
         religion = animist
-        size = 42
+        size = 27
     }
 
     artisans = {
         culture = andean
         religion = animist
-        size = 170
+        size = 108
     }
 
     soldiers = {
         culture = andean
         religion = animist
-        size = 42
+        size = 27
     }
 
     farmers = {
         culture = andean
         religion = animist
-        size = 1870
+        size = 1192
     }
 
     slaves = {
         culture = andean
         religion = animist
-        size = 1275
+        size = 813
     }
 }
 #Moyobamba (24000/6000 POPS)
@@ -442,85 +345,85 @@
     aristocrats = {
         culture = andean
         religion = animist
-        size = 85
+        size = 54
     }
 
     clergymen = {
         culture = andean
         religion = animist
-        size = 127
+        size = 81
     }
 
     artisans = {
         culture = andean
         religion = animist
-        size = 170
+        size = 108
     }
 
     soldiers = {
         culture = andean
         religion = animist
-        size = 42
+        size = 27
     }
 
     farmers = {
         culture = andean
         religion = animist
-        size = 2975
+        size = 1896
     }
 
     clergymen = {
         culture = andean
         religion = animist
-        size = 42
+        size = 27
     }
 
     artisans = {
         culture = andean
         religion = animist
-        size = 85
+        size = 54
     }
 
     soldiers = {
         culture = andean
         religion = animist
-        size = 17
+        size = 11
     }
 
     farmers = {
         culture = andean
         religion = animist
-        size = 1555
+        size = 991
     }
 
     aristocrats = {
         culture = andean
         religion = animist
-        size = 85
+        size = 54
     }
 
     clergymen = {
         culture = andean
         religion = animist
-        size = 127
+        size = 81
     }
 
     artisans = {
         culture = andean
         religion = animist
-        size = 255
+        size = 163
     }
 
     soldiers = {
         culture = andean
         religion = animist
-        size = 42
+        size = 27
     }
 
     farmers = {
         culture = andean
         religion = animist
-        size = 4590
+        size = 2925
     }
 }
 #Junin Region (204000)
@@ -530,55 +433,55 @@
     aristocrats = {
         culture = andean
         religion = animist
-        size = 340
+        size = 217
     }
 
     clergymen = {
         culture = andean
         religion = animist
-        size = 85
+        size = 54
     }
 
     artisans = {
         culture = andean
         religion = animist
-        size = 170
+        size = 108
     }
 
     soldiers = {
         culture = andean
         religion = animist
-        size = 42
+        size = 27
     }
 
     farmers = {
         culture = andean
         religion = animist
-        size = 2762
+        size = 1760
     }
 
     clergymen = {
         culture = andean
         religion = animist
-        size = 127
+        size = 81
     }
 
     artisans = {
         culture = andean
         religion = animist
-        size = 595
+        size = 379
     }
 
     soldiers = {
         culture = andean
         religion = animist
-        size = 127
+        size = 81
     }
 
     farmers = {
         culture = andean
         religion = animist
-        size = 11050
+        size = 7042
     }
 }
 #Jauja (60000/15000 POPS)
@@ -586,55 +489,55 @@
     aristocrats = {
         culture = andean
         religion = animist
-        size = 552
+        size = 352
     }
 
     clergymen = {
         culture = andean
         religion = animist
-        size = 127
+        size = 81
     }
 
     artisans = {
         culture = andean
         religion = animist
-        size = 170
+        size = 108
     }
 
     soldiers = {
         culture = andean
         religion = animist
-        size = 42
+        size = 27
     }
 
     farmers = {
         culture = andean
         religion = animist
-        size = 2507
+        size = 1598
     }
 
     clergymen = {
         culture = andean
         religion = animist
-        size = 85
+        size = 54
     }
 
     artisans = {
         culture = andean
         religion = animist
-        size = 1105
+        size = 704
     }
 
     soldiers = {
         culture = andean
         religion = animist
-        size = 212
+        size = 135
     }
 
     farmers = {
         culture = andean
         religion = animist
-        size = 20697
+        size = 13190
     }
 }
 #Ayacucho (108000/27000 POPS)
@@ -642,67 +545,67 @@
     aristocrats = {
         culture = andean
         religion = animist
-        size = 977
+        size = 623
     }
 
     bureaucrats = {
         culture = andean
         religion = animist
-        size = 127
+        size = 81
     }
 
     officers = {
         culture = andean
         religion = animist
-        size = 85
+        size = 54
     }
 
     clergymen = {
         culture = andean
         religion = animist
-        size = 297
+        size = 189
     }
 
     artisans = {
         culture = andean
         religion = animist
-        size = 340
+        size = 217
     }
 
     soldiers = {
         culture = andean
         religion = animist
-        size = 85
+        size = 54
     }
 
     farmers = {
         culture = andean
         religion = animist
-        size = 4887
+        size = 3114
     }
 
     clergymen = {
         culture = andean
         religion = animist
-        size = 170
+        size = 108
     }
 
     artisans = {
         culture = andean
         religion = animist
-        size = 1955
+        size = 1246
     }
 
     soldiers = {
         culture = andean
         religion = animist
-        size = 382
+        size = 243
     }
 
     farmers = {
         culture = andean
         religion = animist
-        size = 36592
+        size = 23319
     }
 }
 #Lima Region (484000)
@@ -712,103 +615,103 @@
     aristocrats = {
         culture = andean
         religion = animist
-        size = 2847
+        size = 1814
     }
 
     bureaucrats = {
         culture = andean
         religion = animist
-        size = 340
+        size = 217
     }
 
     officers = {
         culture = andean
         religion = animist
-        size = 255
+        size = 163
     }
 
     clergymen = {
         culture = andean
         religion = animist
-        size = 1190
+        size = 758
     }
 
     artisans = {
         culture = andean
         religion = animist
-        size = 17000
+        size = 10834
     }
 
     artisans = {
         culture = andean
         religion = animist
-        size = 3740
+        size = 2383
     }
 
     soldiers = {
         culture = andean
         religion = animist
-        size = 20000
+        size = 12746
     }
 
     farmers = {
         culture = andean
         religion = animist
-        size = 71527
+        size = 45582
     }
 
     clergymen = {
         culture = andean
         religion = animist
-        size = 127
+        size = 81
     }
 
     artisans = {
         culture = andean
         religion = animist
-        size = 1360
+        size = 867
     }
 
     soldiers = {
         culture = andean
         religion = animist
-        size = 297
+        size = 189
     }
 
     farmers = {
         culture = andean
         religion = animist
-        size = 25415
+        size = 16196
     }
 
     clergymen = {
         culture = andean
         religion = animist
-        size = 85
+        size = 54
     }
 
     artisans = {
         culture = andean
         religion = animist
-        size = 3400
+        size = 2167
     }
 
     soldiers = {
         culture = andean
         religion = animist
-        size = 85
+        size = 54
     }
 
     farmers = {
         culture = andean
         religion = animist
-        size = 2380
+        size = 1517
     }
 
     slaves = {
         culture = andean
         religion = animist
-        size = 2550
+        size = 1625
     }
 }
 #Ica (60000/15000 POPS)
@@ -816,85 +719,85 @@
     aristocrats = {
         culture = andean
         religion = animist
-        size = 552
+        size = 352
     }
 
     clergymen = {
         culture = andean
         religion = animist
-        size = 127
+        size = 81
     }
 
     artisans = {
         culture = andean
         religion = animist
-        size = 340
+        size = 217
     }
 
     soldiers = {
         culture = andean
         religion = animist
-        size = 85
+        size = 54
     }
 
     farmers = {
         culture = andean
         religion = animist
-        size = 5695
+        size = 3629
     }
 
     clergymen = {
         culture = andean
         religion = animist
-        size = 85
+        size = 54
     }
 
     artisans = {
         culture = andean
         religion = animist
-        size = 850
+        size = 542
     }
 
     soldiers = {
         culture = andean
         religion = animist
-        size = 170
+        size = 108
     }
 
     farmers = {
         culture = andean
         religion = animist
-        size = 17085
+        size = 10888
     }
 
     clergymen = {
         culture = andean
         religion = animist
-        size = 42
+        size = 27
     }
 
     artisans = {
         culture = andean
         religion = animist
-        size = 85
+        size = 54
     }
 
     soldiers = {
         culture = andean
         religion = animist
-        size = 42
+        size = 27
     }
 
     farmers = {
         culture = andean
         religion = animist
-        size = 850
+        size = 542
     }
 
     slaves = {
         culture = andean
         religion = animist
-        size = 680
+        size = 433
     }
 }
 #Huaraz (100000/25000 POPS)
@@ -902,85 +805,85 @@
     aristocrats = {
         culture = andean
         religion = animist
-        size = 892
+        size = 568
     }
 
     clergymen = {
         culture = andean
         religion = animist
-        size = 255
+        size = 163
     }
 
     artisans = {
         culture = andean
         religion = animist
-        size = 510
+        size = 325
     }
 
     soldiers = {
         culture = andean
         religion = animist
-        size = 127
+        size = 81
     }
 
     farmers = {
         culture = andean
         religion = animist
-        size = 8415
+        size = 5363
     }
 
     clergymen = {
         culture = andean
         religion = animist
-        size = 127
+        size = 81
     }
 
     artisans = {
         culture = andean
         religion = animist
-        size = 1445
+        size = 921
     }
 
     soldiers = {
         culture = andean
         religion = animist
-        size = 297
+        size = 189
     }
 
     farmers = {
         culture = andean
         religion = animist
-        size = 27030
+        size = 17226
     }
 
     clergymen = {
         culture = andean
         religion = animist
-        size = 42
+        size = 27
     }
 
     artisans = {
         culture = andean
         religion = animist
-        size = 170
+        size = 108
     }
 
     soldiers = {
         culture = andean
         religion = animist
-        size = 42
+        size = 27
     }
 
     farmers = {
         culture = andean
         religion = animist
-        size = 1870
+        size = 1192
     }
 
     slaves = {
         culture = andean
         religion = animist
-        size = 1275
+        size = 813
     }
 }
 #Ucayali Region (32000)
@@ -990,7 +893,7 @@
     aristocrats = {
         culture = andean
         religion = animist
-        size = 23
+        size = 15
     }
 
     bureaucrats = {
@@ -1002,55 +905,55 @@
     clergymen = {
         culture = andean
         religion = animist
-        size = 42
+        size = 27
     }
 
     artisans = {
         culture = andean
         religion = animist
-        size = 85
+        size = 54
     }
 
     soldiers = {
         culture = andean
         religion = animist
-        size = 17
+        size = 11
     }
 
     farmers = {
         culture = andean
         religion = animist
-        size = 1530
+        size = 975
     }
 
     aristocrats = {
         culture = andean
         religion = animist
-        size = 127
+        size = 81
     }
 
     clergymen = {
         culture = andean
         religion = animist
-        size = 85
+        size = 54
     }
 
     artisans = {
         culture = andean
         religion = animist
-        size = 340
+        size = 217
     }
 
     soldiers = {
         culture = andean
         religion = animist
-        size = 85
+        size = 54
     }
 
     farmers = {
         culture = andean
         religion = animist
-        size = 6162
+        size = 3927
     }
 }
 #Puerto Maldonado (12000/3000 POPS)
@@ -1058,31 +961,31 @@
     aristocrats = {
         culture = andean
         religion = animist
-        size = 85
+        size = 54
     }
 
     clergymen = {
         culture = andean
         religion = animist
-        size = 127
+        size = 81
     }
 
     artisans = {
         culture = andean
         religion = animist
-        size = 255
+        size = 163
     }
 
     soldiers = {
         culture = andean
         religion = animist
-        size = 42
+        size = 27
     }
 
     farmers = {
         culture = andean
         religion = animist
-        size = 4590
+        size = 2925
     }
 }
 #Cusco Region (404000)
@@ -1092,67 +995,67 @@
     aristocrats = {
         culture = andean
         religion = animist
-        size = 1955
+        size = 1246
     }
 
     bureaucrats = {
         culture = andean
         religion = animist
-        size = 212
+        size = 135
     }
 
     officers = {
         culture = andean
         religion = animist
-        size = 170
+        size = 108
     }
 
     clergymen = {
         culture = andean
         religion = animist
-        size = 637
+        size = 406
     }
 
     artisans = {
         culture = andean
         religion = animist
-        size = 1275
+        size = 813
     }
 
     soldiers = {
         culture = andean
         religion = animist
-        size = 1870
+        size = 1192
     }
 
     farmers = {
         culture = andean
         religion = animist
-        size = 19762
+        size = 12594
     }
 
     clergymen = {
         culture = andean
         religion = animist
-        size = 340
+        size = 217
     }
 
     artisans = {
         culture = andean
         religion = animist
-        size = 3570
+        size = 2275
     }
 
     soldiers = {
         culture = andean
         religion = animist
-        size = 722
+        size = 460
     }
 
     farmers = {
         culture = andean
         religion = animist
-        size = 66767
+        size = 42549
     }
 }
 #Puno (104000/26000 POPS)
@@ -1160,55 +1063,167 @@
     aristocrats = {
         culture = andean
         religion = animist
-        size = 977
+        size = 623
     }
 
     clergymen = {
         culture = andean
         religion = animist
-        size = 255
+        size = 163
     }
 
     artisans = {
         culture = andean
         religion = animist
-        size = 255
+        size = 163
     }
 
     soldiers = {
         culture = andean
         religion = animist
-        size = 85
+        size = 54
     }
 
     farmers = {
         culture = andean
         religion = animist
-        size = 3527
+        size = 2248
     }
 
     clergymen = {
         culture = andean
         religion = animist
-        size = 170
+        size = 108
     }
 
     artisans = {
         culture = andean
         religion = animist
-        size = 1955
+        size = 1246
     }
 
     soldiers = {
         culture = andean
         religion = animist
-        size = 425
+        size = 271
     }
 
     farmers = {
         culture = andean
         religion = animist
-        size = 36550
+        size = 23292
+    }
+}
+#Iquique (32000/8000 POPS)
+2307 = {
+    aristocrats = {
+        culture = platinean
+        religion = animist
+        size = 379
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = animist
+        size = 108
+    }
+
+    artisans = {
+        culture = platinean
+        religion = animist
+        size = 217
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = animist
+        size = 54
+    }
+
+    farmers = {
+        culture = platinean
+        religion = animist
+        size = 3575
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = animist
+        size = 108
+    }
+
+    artisans = {
+        culture = platinean
+        religion = animist
+        size = 650
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = animist
+        size = 162
+    }
+
+    farmers = {
+        culture = platinean
+        religion = animist
+        size = 12079
+    }
+}
+#Arica (20000/5000 POPS)
+2308 = {
+    aristocrats = {
+        culture = platinean
+        religion = animist
+        size = 270
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = animist
+        size = 162
+    }
+
+    artisans = {
+        culture = platinean
+        religion = animist
+        size = 108
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = animist
+        size = 22
+    }
+
+    farmers = {
+        culture = platinean
+        religion = animist
+        size = 1603
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = animist
+        size = 54
+    }
+
+    artisans = {
+        culture = platinean
+        religion = animist
+        size = 433
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = animist
+        size = 108
+    }
+
+    farmers = {
+        culture = platinean
+        religion = animist
+        size = 8070
     }
 }
 #Arequipa (72000/18000 POPS)
@@ -1216,55 +1231,55 @@
     aristocrats = {
         culture = andean
         religion = animist
-        size = 637
+        size = 406
     }
 
     clergymen = {
         culture = andean
         religion = animist
-        size = 212
+        size = 135
     }
 
     artisans = {
         culture = andean
         religion = animist
-        size = 340
+        size = 217
     }
 
     soldiers = {
         culture = andean
         religion = animist
-        size = 85
+        size = 54
     }
 
     farmers = {
         culture = andean
         religion = animist
-        size = 5525
+        size = 3521
     }
 
     clergymen = {
         culture = andean
         religion = animist
-        size = 85
+        size = 54
     }
 
     artisans = {
         culture = andean
         religion = animist
-        size = 1190
+        size = 758
     }
 
     soldiers = {
         culture = andean
         religion = animist
-        size = 255
+        size = 163
     }
 
     farmers = {
         culture = andean
         religion = animist
-        size = 22270
+        size = 14192
     }
 }
 #Atacama Region (100000) #see Chile.txt for balance of Region
@@ -1274,66 +1289,66 @@
     aristocrats = {
         culture = andean
         religion = animist
-        size = 935
+        size = 596
     }
 
     bureaucrats = {
         culture = andean
         religion = animist
-        size = 42
+        size = 27
     }
 
     officers = {
         culture = andean
         religion = animist
-        size = 85
+        size = 54
     }
 
     clergymen = {
         culture = andean
         religion = animist
-        size = 255
+        size = 163
     }
 
     artisans = {
         culture = andean
         religion = animist
-        size = 425
+        size = 271
     }
 
     soldiers = {
         culture = andean
         religion = animist
-        size = 85
+        size = 54
     }
 
     farmers = {
         culture = andean
         religion = animist
-        size = 6672
+        size = 4252
     }
 
     clergymen = {
         culture = andean
         religion = animist
-        size = 170
+        size = 108
     }
 
     artisans = {
         culture = andean
         religion = animist
-        size = 1870
+        size = 1192
     }
 
     soldiers = {
         culture = andean
         religion = animist
-        size = 340
+        size = 217
     }
 
     farmers = {
         culture = andean
         religion = animist
-        size = 31790
+        size = 20259
     }
 }

@@ -426,3 +426,100 @@
         size = 76
     }
 }
+#"Ruled" by Ecuador 1836
+#Yurimagues (12000/3000 POPS)
+2287 = {
+    aristocrats = {
+        culture = andean
+        religion = animist
+        size = 85
+    }
+
+    clergymen = {
+        culture = andean
+        religion = animist
+        size = 127
+    }
+
+    artisans = {
+        culture = andean
+        religion = animist
+        size = 255
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 42
+    }
+
+    farmers = {
+        culture = andean
+        religion = animist
+        size = 4590
+    }
+}
+#Yuncos (12000/3000 POPS)
+2288 = {
+    aristocrats = {
+        culture = andean
+        religion = animist
+        size = 85
+    }
+
+    clergymen = {
+        culture = andean
+        religion = animist
+        size = 127
+    }
+
+    artisans = {
+        culture = andean
+        religion = animist
+        size = 255
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 42
+    }
+
+    farmers = {
+        culture = andean
+        religion = animist
+        size = 4590
+    }
+}
+#Puca Urco (12000/3000 POPS)
+2289 = {
+    aristocrats = {
+        culture = andean
+        religion = animist
+        size = 85
+    }
+
+    clergymen = {
+        culture = andean
+        religion = animist
+        size = 127
+    }
+
+    artisans = {
+        culture = andean
+        religion = animist
+        size = 255
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 42
+    }
+
+    farmers = {
+        culture = andean
+        religion = animist
+        size = 4590
+    }
+}

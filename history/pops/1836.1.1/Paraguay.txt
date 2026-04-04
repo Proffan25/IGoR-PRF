@@ -555,3 +555,54 @@
         size = 15554
     }
 }
+#Under loose authority of Paraguay 1836
+#Igautemi (20000/5000 POPS) #now part of Brazil
+2420 = {
+    clergymen = {
+        culture = brazilian
+        religion = animist
+        size = 85
+    }
+
+    artisans = {
+        culture = brazilian
+        religion = animist
+        size = 170
+    }
+
+    soldiers = {
+        culture = brazilian
+        religion = animist
+        size = 126
+    }
+
+    farmers = {
+        culture = brazilian
+        religion = animist
+        size = 3102
+    }
+
+    aristocrats = {
+        culture = platinean
+        religion = animist
+        size = 170
+    }
+
+    clergymen = {
+        culture = platinean
+        religion = animist
+        size = 254
+    }
+
+    artisans = {
+        culture = platinean
+        religion = animist
+        size = 510
+    }
+
+    farmers = {
+        culture = platinean
+        religion = animist
+        size = 9180
+    }
+}

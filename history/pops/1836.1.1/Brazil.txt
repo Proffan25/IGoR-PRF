@@ -1028,57 +1028,6 @@
     }
 }
 #Paraguay Region (20000) #see Paraguay.txt & Argentina.txt for balance of region
-#Under loose authority of Paraguay 1836
-#Igautemi (20000/5000 POPS) #now part of Brazil
-2420 = {
-    clergymen = {
-        culture = brazilian
-        religion = animist
-        size = 85
-    }
-
-    artisans = {
-        culture = brazilian
-        religion = animist
-        size = 170
-    }
-
-    soldiers = {
-        culture = brazilian
-        religion = animist
-        size = 126
-    }
-
-    farmers = {
-        culture = brazilian
-        religion = animist
-        size = 3102
-    }
-
-    aristocrats = {
-        culture = platinean
-        religion = animist
-        size = 170
-    }
-
-    clergymen = {
-        culture = platinean
-        religion = animist
-        size = 254
-    }
-
-    artisans = {
-        culture = platinean
-        religion = animist
-        size = 510
-    }
-
-    farmers = {
-        culture = platinean
-        religion = animist
-        size = 9180
-    }
-}
 #Goias Region (64000)
 #Under the rule of Brazil 1836
 #Vila Boa (44000/11000 POPS)
@@ -3960,40 +3909,6 @@
         size = 15554
         militancy = 8
         rebel_type = anarcho_liberal_rebels
-    }
-}
-#Beni Region (32000) #see Bolivia.txt for balance of region
-#Under loose authority of Bolivia 1836
-#Tarauaca (16000/4000 POPS) #now part of Brazil - Acre State
-2549 = {
-    aristocrats = {
-        culture = andean
-        religion = animist
-        size = 127
-    }
-
-    clergymen = {
-        culture = andean
-        religion = animist
-        size = 85
-    }
-
-    artisans = {
-        culture = andean
-        religion = animist
-        size = 340
-    }
-
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 85
-    }
-
-    farmers = {
-        culture = andean
-        religion = animist
-        size = 6162
     }
 }
 #Forte do Principe (16000/4000 POPS) #now part of Brazil - Rondonia State
