@@ -5,43 +5,43 @@
 	aristocrats = {
 		culture = afro_antillean
 		religion = animist
-		size = 825
+		size = 901
 	}
 
 	bureaucrats = {
 		culture = afro_antillean
 		religion = animist
-		size = 150
+		size = 164
 	}
 
 	officers = {
 		culture = afro_antillean
 		religion = animist
-		size = 150
+		size = 164
 	}
 
 	clergymen = {
 		culture = afro_antillean
 		religion = animist
-		size = 775
+		size = 847
 	}
 
 	artisans = {
 		culture = afro_antillean
 		religion = animist
-		size = 3900
+		size = 4260
 	}
 
 	soldiers = {
 		culture = afro_antillean
 		religion = animist
-		size = 4000
+		size = 4370
 	}
 
 	farmers = {
 		culture = afro_antillean
 		religion = animist
-		size = 68300
+		size = 74610
 	}
 }
 #Cap Haitien (204000/51000 POPS)
@@ -49,31 +49,145 @@
 	aristocrats = {
 		culture = afro_antillean
 		religion = animist
-		size = 550
+		size = 601
 	}
 
 	clergymen = {
 		culture = afro_antillean
 		religion = animist
-		size = 475
+		size = 519
 	}
 
 	artisans = {
 		culture = afro_antillean
 		religion = animist
-		size = 2550
+		size = 2786
 	}
 
 	soldiers = {
 		culture = afro_antillean
 		religion = animist
-		size = 1100
+		size = 1202
 	}
 
 	farmers = {
 		culture = afro_antillean
 		religion = animist
-		size = 46425
+		size = 50714
+	}
+
+}
+#Ruled by Haiti 1836
+#Santo Domingo (68000/17000 POPS) #now part of Dominican Republic
+2214 = {
+	aristocrats = {
+		culture = caribeno
+		religion = animist
+		size = 328
+	}
+
+	clergymen = {
+		culture = caribeno
+		religion = animist
+		size = 137
+	}
+
+	artisans = {
+		culture = caribeno
+		religion = animist
+		size = 382
+	}
+
+	soldiers = {
+		culture = caribeno
+		religion = animist
+		size = 82
+	}
+
+	farmers = {
+		culture = caribeno
+		religion = animist
+		size = 6718
+	}
+
+	clergymen = {
+		culture = afro_caribeno
+		religion = animist
+		size = 55
+	}
+
+	artisans = {
+		culture = afro_caribeno
+		religion = animist
+		size = 546
+	}
+
+	soldiers = {
+		culture = afro_caribeno
+		religion = animist
+		size = 109
+	}
+
+	farmers = {
+		culture = afro_caribeno
+		religion = animist
+		size = 10214
+	}
+}
+#La Vega (56000/15000 POPS) #now part of Dominican Republic
+2216 = {
+	aristocrats = {
+		culture = caribeno
+		religion = animist
+		size = 273
+	}
+
+	clergymen = {
+		culture = caribeno
+		religion = animist
+		size = 109
+	}
+
+	artisans = {
+		culture = caribeno
+		religion = animist
+		size = 437
+	}
+
+	soldiers = {
+		culture = caribeno
+		religion = animist
+		size = 82
+	}
+
+	farmers = {
+		culture = caribeno
+		religion = animist
+		size = 7838
+	}
+
+	clergymen = {
+		culture = afro_caribeno
+		religion = animist
+		size = 55
+	}
+
+	artisans = {
+		culture = afro_caribeno
+		religion = animist
+		size = 328
+	}
+
+	soldiers = {
+		culture = afro_caribeno
+		religion = animist
+		size = 82
+	}
+
+	farmers = {
+		culture = afro_caribeno
+		religion = animist
+		size = 6090
 	}
 
 }

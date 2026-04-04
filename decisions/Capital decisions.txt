@@ -35,13 +35,13 @@ political_decisions = {
 				tag = PBC
 				tag = PEU
 			}
-			NOT = { capital = 2295 }
+			NOT = { capital = 2578 }
 		}
 		allow = {
-			owns = 2295
+			owns = 2578
 		}
 		effect = {
-			capital = 2295
+			capital = 2578
 		}
 	}
 	clm_capital = {

@@ -1,10 +1,10 @@
-capital = 2310
+capital = 2578
 primary_culture = andean
 religion = animist
 government = democracy
 plurality = 25.0
 nationalvalue = nv_productivity
-literacy = 0.09
+literacy = 0.1
 non_state_culture_literacy = 0.09
 civilized = yes
 prestige = 1
@@ -14,13 +14,13 @@ set_country_flag = south_american_immigrant_nation
 
 # Political reforms
 slavery = no_slavery
-upper_house_composition = appointed
-vote_franschise = none_voting
+upper_house_composition = state_equal_weight
+vote_franschise = landed_voting
 public_meetings = yes_meeting
 press_rights = state_press
 trade_unions = no_trade_unions
-voting_system = first_past_the_post
-political_parties = underground_parties
+voting_system = jefferson_method
+political_parties = non_secret_ballots
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -31,7 +31,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
-ruling_party = BOL_conservative
+ruling_party = PEU_conservative
 upper_house = {
 	fascist = 0
 	liberal = 29
@@ -46,6 +46,7 @@ upper_house = {
 post_napoleonic_thought = 1
 flintlock_rifles = 1
 bronze_muzzle_loaded_artillery = 1
+military_staff_system = 1
 army_command_principle = 1
 post_nelsonian_thought = 1
 the_command_principle = 1
