@@ -5,49 +5,49 @@
     aristocrats = {
         culture = central_american
         religion = animist
-        size = 1615
+        size = 486
         militancy = 9
     }
 
     bureaucrats = {
         culture = central_american
         religion = animist
-        size = 212
+        size = 64
         militancy = 9
     }
 
     officers = {
         culture = central_american
         religion = animist
-        size = 170
+        size = 51
         militancy = 9
     }
 
     clergymen = {
         culture = central_american
         religion = animist
-        size = 765
+        size = 230
         militancy = 9
     }
 
     artisans = {
         culture = central_american
         religion = animist
-        size = 3825
+        size = 1151
         militancy = 9
     }
 
     soldiers = {
         culture = central_american
         religion = animist
-        size = 765
+        size = 230
         militancy = 9
     }
 
     farmers = {
         culture = central_american
         religion = animist
-        size = 69147
+        size = 20800
         militancy = 9
     }
 }
@@ -56,35 +56,35 @@
     aristocrats = {
         culture = central_american
         religion = animist
-        size = 935
+        size = 281
         militancy = 9
     }
 
     clergymen = {
         culture = central_american
         religion = animist
-        size = 382
+        size = 115
         militancy = 9
     }
 
     artisans = {
         culture = central_american
         religion = animist
-        size = 1955
+        size = 588
         militancy = 9
     }
 
     soldiers = {
         culture = central_american
         religion = animist
-        size = 382
+        size = 115
         militancy = 9
     }
 
     farmers = {
         culture = central_american
         religion = animist
-        size = 35445
+        size = 10662
         militancy = 9
     }
 }
@@ -93,35 +93,35 @@
     aristocrats = {
         culture = central_american
         religion = animist
-        size = 722
+        size = 217
         militancy = 9
     }
 
     clergymen = {
         culture = central_american
         religion = animist
-        size = 297
+        size = 89
         militancy = 9
     }
 
     artisans = {
         culture = central_american
         religion = animist
-        size = 1445
+        size = 435
         militancy = 9
     }
 
     soldiers = {
         culture = central_american
         religion = animist
-        size = 297
+        size = 89
         militancy = 9
     }
 
     farmers = {
         culture = central_american
         religion = animist
-        size = 26137
+        size = 7862
         militancy = 9
     }
 }
@@ -130,35 +130,35 @@
     aristocrats = {
         culture = central_american
         religion = animist
-        size = 127
+        size = 38
         militancy = 9
     }
 
     clergymen = {
         culture = central_american
         religion = animist
-        size = 85
+        size = 26
         militancy = 9
     }
 
     artisans = {
         culture = central_american
         religion = animist
-        size = 255
+        size = 77
         militancy = 9
     }
 
     soldiers = {
         culture = central_american
         religion = animist
-        size = 42
+        size = 13
         militancy = 9
     }
 
     farmers = {
         culture = central_american
         religion = animist
-        size = 4590
+        size = 1381
         militancy = 9
     }
 }

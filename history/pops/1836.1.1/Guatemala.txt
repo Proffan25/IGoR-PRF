@@ -5,67 +5,67 @@
     aristocrats = {
         culture = central_american
         religion = animist
-        size = 1020
+        size = 1207
     }
 
     bureaucrats = {
         culture = central_american
         religion = animist
-        size = 297
+        size = 352
     }
 
     officers = {
         culture = central_american
         religion = animist
-        size = 255
+        size = 302
     }
 
     clergymen = {
         culture = central_american
         religion = animist
-        size = 467
+        size = 553
     }
 
     artisans = {
         culture = central_american
         religion = animist
-        size = 2295
+        size = 2716
     }
 
     soldiers = {
         culture = central_american
         religion = animist
-        size = 1870
+        size = 2213
     }
 
     farmers = {
         culture = central_american
         religion = animist
-        size = 39695
+        size = 46979
     }
 
     clergymen = {
         culture = mayan
         religion = animist
-        size = 225
+        size = 266
     }
 
     artisans = {
         culture = mayan
         religion = animist
-        size = 2100
+        size = 2485
     }
 
     soldiers = {
         culture = mayan
         religion = animist
-        size = 425
+        size = 503
     }
 
     farmers = {
         culture = mayan
         religion = animist
-        size = 39250
+        size = 46453
     }
 }
 #Quetzaltenango (112000/28000 POPS)
@@ -73,55 +73,55 @@
     aristocrats = {
         culture = central_american
         religion = animist
-        size = 297
+        size = 352
     }
 
     clergymen = {
         culture = central_american
         religion = animist
-        size = 127
+        size = 150
     }
 
     artisans = {
         culture = central_american
         religion = animist
-        size = 595
+        size = 704
     }
 
     soldiers = {
         culture = central_american
         religion = animist
-        size = 1870
+        size = 2213
     }
 
     farmers = {
         culture = central_american
         religion = animist
-        size = 9180
+        size = 10865
     }
 
     clergymen = {
         culture = mayan
         religion = animist
-        size = 100
+        size = 118
     }
 
     artisans = {
         culture = mayan
         religion = animist
-        size = 1050
+        size = 1243
     }
 
     soldiers = {
         culture = mayan
         religion = animist
-        size = 225
+        size = 266
     }
 
     farmers = {
         culture = mayan
         religion = animist
-        size = 19625
+        size = 23226
     }
 }
 #Puerto Barrios (72000/18000 POPS)
@@ -129,55 +129,55 @@
     aristocrats = {
         culture = central_american
         religion = animist
-        size = 255
+        size = 302
     }
 
     clergymen = {
         culture = central_american
         religion = animist
-        size = 85
+        size = 101
     }
 
     artisans = {
         culture = central_american
         religion = animist
-        size = 510
+        size = 604
     }
 
     soldiers = {
         culture = central_american
         religion = animist
-        size = 127
+        size = 150
     }
 
     farmers = {
         culture = central_american
         religion = animist
-        size = 9222
+        size = 10914
     }
 
     clergymen = {
         culture = mayan
         religion = animist
-        size = 50
+        size = 59
     }
 
     artisans = {
         culture = mayan
         religion = animist
-        size = 600
+        size = 710
     }
 
     soldiers = {
         culture = mayan
         religion = animist
-        size = 125
+        size = 148
     }
 
     farmers = {
         culture = mayan
         religion = animist
-        size = 11225
+        size = 13285
     }
 }
 #Sayaxche (16000/4000 POPS)
@@ -185,54 +185,54 @@
     aristocrats = {
         culture = central_american
         religion = animist
-        size = 25
+        size = 30
     }
 
     clergymen = {
         culture = central_american
         religion = animist
-        size = 42
+        size = 50
     }
 
     artisans = {
         culture = central_american
         religion = animist
-        size = 85
+        size = 101
     }
 
     soldiers = {
         culture = central_american
         religion = animist
-        size = 17
+        size = 20
     }
 
     farmers = {
         culture = central_american
         religion = animist
-        size = 1530
+        size = 1811
     }
 
     clergymen = {
         culture = mayan
         religion = animist
-        size = 25
+        size = 30
     }
 
     artisans = {
         culture = mayan
         religion = animist
-        size = 150
+        size = 178
     }
 
     soldiers = {
         culture = mayan
         religion = animist
-        size = 25
+        size = 30
     }
 
     farmers = {
         culture = mayan
         religion = animist
-        size = 2800
+        size = 3314
     }
 }
