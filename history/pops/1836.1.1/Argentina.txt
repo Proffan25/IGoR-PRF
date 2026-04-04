@@ -1,5 +1,5 @@
 #Buenos Aires Region (272000)
-#Under rule of Argentina 1836#Buenos Aires (132000/33000 POPS)
+#Buenos Aires (132000/33000 POPS)
 2348 = {
     aristocrats = {
         culture = platinean
@@ -9,7 +9,7 @@
     bureaucrats = {
         culture = platinean
         religion = animist
-        size = 90
+        size = 1117
     }
     officers = {
         culture = platinean
@@ -24,7 +24,7 @@
     artisans = {
         culture = platinean
         religion = animist
-        size = 9027
+        size = 8000
     }
     artisans = {
         culture = platinean
@@ -170,7 +170,7 @@
     soldiers = {
         culture = platinean
         religion = animist
-        size = 22
+        size = 44
     }
     farmers = {
         culture = platinean
@@ -191,11 +191,6 @@
         culture = platinean
         religion = animist
         size = 90
-    }
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 22
     }
     farmers = {
         culture = platinean
@@ -261,7 +256,7 @@
     soldiers = {
         culture = platinean
         religion = animist
-        size = 22
+        size = 44
     }
     farmers = {
         culture = platinean
@@ -282,11 +277,6 @@
         culture = platinean
         religion = animist
         size = 135
-    }
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 22
     }
     farmers = {
         culture = platinean
@@ -326,12 +316,12 @@
     soldiers = {
         culture = platinean
         religion = animist
-        size = 225
+        size = 3225
     }
     farmers = {
         culture = platinean
         religion = animist
-        size = 14457
+        size = 11457
     }
     clergymen = {
         culture = platinean
@@ -377,17 +367,17 @@
         size = 1625
     }
     clergymen = {
-        culture = brazilian
+        culture = platinean
         religion = animist
         size = 23
     }
     artisans = {
-        culture = brazilian
+        culture = platinean
         religion = animist
         size = 45
     }
     farmers = {
-        culture = brazilian
+        culture = platinean
         religion = animist
         size = 824
     }
@@ -407,7 +397,7 @@
     soldiers = {
         culture = platinean
         religion = animist
-        size = 33
+        size = 44
     }
     farmers = {
         culture = platinean
@@ -415,22 +405,17 @@
         size = 1692
     }
     clergymen = {
-        culture = brazilian
+        culture = platinean
         religion = animist
         size = 23
     }
     artisans = {
-        culture = brazilian
+        culture = platinean
         religion = animist
         size = 45
     }
-    soldiers = {
-        culture = brazilian
-        religion = animist
-        size = 11
-    }
     farmers = {
-        culture = brazilian
+        culture = platinean
         religion = animist
         size = 824
     }
@@ -599,12 +584,12 @@
     soldiers = {
         culture = platinean
         religion = animist
-        size = 135
+        size = 3535
     }
     farmers = {
         culture = platinean
         religion = animist
-        size = 8440
+        size = 5040
     }
 }
 #Chaco Region (76000)

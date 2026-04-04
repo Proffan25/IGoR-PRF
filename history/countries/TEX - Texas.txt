@@ -10,16 +10,17 @@ prestige = 5
 
 set_country_flag = new_world_nation
 set_country_flag = north_american_immigrant_nation
+set_country_flag = south_american_immigrant_nation
 
 # Political reforms
 slavery = yes_slavery
-upper_house_composition = state_equal_weight
-vote_franschise = wealth_weighted_voting
+upper_house_composition = population_equal_weight
+vote_franschise = universal_weighted_voting
 public_meetings = yes_meeting
-press_rights = state_press
+press_rights = free_press
 trade_unions = no_trade_unions
 voting_system = first_past_the_post
-political_parties = gerrymandering
+political_parties = harassment
 
 # Social Reforms
 wage_reform = no_minimum_wage

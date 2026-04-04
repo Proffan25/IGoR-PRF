@@ -4,23 +4,24 @@ religion = animist
 government = democracy
 plurality = 25.0
 nationalvalue = nv_productivity
-literacy = 0.12
+literacy = 0.2
 non_state_culture_literacy = 0.02
 civilized = yes
 prestige = 5
 
 set_country_flag = new_world_nation
+set_country_flag = north_american_immigrant_nation
 set_country_flag = south_american_immigrant_nation
 
 # Political reforms
-slavery = no_slavery
-upper_house_composition = state_equal_weight
+slavery = yes_slavery
+upper_house_composition = party_appointed
 vote_franschise = landed_voting
-public_meetings = yes_meeting
-press_rights = state_press
+public_meetings = no_meeting
+press_rights = censored_press
 trade_unions = no_trade_unions
 voting_system = jefferson_method
-political_parties = non_secret_ballots
+political_parties = harassment
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -58,6 +59,8 @@ late_enlightenment_philosophy = 1
 enlightenment_thought = 1
 water_wheel_power = 1
 publishing_industry = 1
+basic_chemistry = 1
+army_professionalism = 1
 
 # Inventions
 

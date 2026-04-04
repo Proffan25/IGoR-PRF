@@ -1,7 +1,7 @@
 capital = 57
 primary_culture = anglo_canadian
 religion = animist
-government = hms_government
+government = prussian_constitutionalism
 plurality = 0.2
 nationalvalue = nv_productivity
 literacy = 0.75
@@ -9,16 +9,17 @@ civilized = yes
 
 set_country_flag = new_world_nation
 set_country_flag = north_american_immigrant_nation
+set_country_flag = south_american_immigrant_nation
 
 # Political reforms
 slavery = no_slavery
 upper_house_composition = appointed
 vote_franschise = landed_voting
 public_meetings = yes_meeting
-press_rights = state_press
+press_rights = free_press
 trade_unions = no_trade_unions
-voting_system = jefferson_method
-political_parties = non_secret_ballots
+voting_system = first_past_the_post
+political_parties = harassment
 
 # Social Reforms
 wage_reform = no_minimum_wage
