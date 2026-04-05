@@ -2,5 +2,5 @@ owner = PBC
 controller = PBC
 add_core = PBC
 trade_goods = wool
-life_rating = 35
+life_rating = 37
 

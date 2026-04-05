@@ -4,5 +4,5 @@ add_core = ECU
 #add_core = PBC
 #add_core = GCO
 trade_goods = wool
-life_rating = 30
+life_rating = 37
 

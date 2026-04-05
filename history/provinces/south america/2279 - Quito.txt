@@ -1,7 +1,5 @@
 owner = ECU
 controller = ECU
 add_core = ECU
-#add_core = GCO
 trade_goods = sulphur
-life_rating = 30
-
+life_rating = 38

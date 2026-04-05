@@ -3,5 +3,5 @@ controller = PBC
 add_core = PBC
 add_core = ARG
 trade_goods = wool
-life_rating = 30
+life_rating = 37
 

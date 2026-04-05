@@ -2,9 +2,4 @@ owner = PBC
 controller = PBC
 add_core = PBC
 trade_goods = cattle
-life_rating = 35
-1861.1.1 = { 
-	railroad = 1
-	naval_base = 1
-}
-
+life_rating = 38

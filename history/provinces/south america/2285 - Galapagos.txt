@@ -3,5 +3,5 @@ controller = ECU
 add_core = ECU
 #add_core = GCO
 trade_goods = fish
-life_rating = 30
+life_rating = 37
 

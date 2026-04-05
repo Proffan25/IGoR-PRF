@@ -3,5 +3,5 @@ controller = PBC
 add_core = PBC
 add_core = CHL
 trade_goods = cattle
-life_rating = 35
+life_rating = 37
 

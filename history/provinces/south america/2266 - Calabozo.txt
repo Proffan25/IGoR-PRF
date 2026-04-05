@@ -3,5 +3,5 @@ controller = VNZ
 add_core = VNZ
 #add_core = GCO
 trade_goods = coffee
-life_rating = 30
+life_rating = 37
 
