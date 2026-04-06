@@ -99,6 +99,10 @@ province_event = {
 				is_core = PBC
 				is_core = ECU
 			}
+			AND = {
+				is_core = PBC
+				is_core = GCO
+			}
 		}
 	}
 	
@@ -111,6 +115,8 @@ province_event = {
 		remove_core = VNZ
 		remove_core = CLM
 		remove_core = ECU
+		remove_core = GCO
+		remove_core = PBC
 		add_core = THIS
 	}
 }
