@@ -32,12 +32,6 @@
         size = 620
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 140
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -62,12 +56,6 @@
         size = 301
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 56
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -77,67 +65,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 6
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 113
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 55
+        size = 324
     }
 }
 #Nogales (12000/3000 POPS)
@@ -158,12 +86,6 @@
         culture = mexican
         religion = animist
         size = 56
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 11
     }
 
     farmers = {
@@ -190,12 +112,6 @@
         size = 75
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 19
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -205,31 +121,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 10
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 14
+        size = 57
     }
 }
 #Guaymas (52000/13000 POPS)
@@ -250,12 +142,6 @@
         culture = mexican
         religion = animist
         size = 563
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 112
     }
 
     farmers = {
@@ -282,12 +168,6 @@
         size = 112
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 19
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -297,55 +177,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 6
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 103
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 20
+        size = 268
     }
 }
 #Baja California Region (20000)
@@ -370,12 +202,6 @@
         size = 56
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -385,7 +211,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 10
+        size = 21
     }
 }
 #Rosarito (16000/4000 POPS)
@@ -420,12 +246,6 @@
         size = 112
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 28
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -450,12 +270,6 @@
         size = 75
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 19
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -465,43 +279,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 20
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-	
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 14
+        size = 86
     }
 }
 #Chihuahua Region (136000)
@@ -538,12 +316,6 @@
         size = 1240
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 254
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -568,12 +340,6 @@
         size = 112
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 19
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -583,61 +349,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 13
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 227
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 20
+        size = 544
     }
 }
 #Paso del Norte (12000/3000 POPS)
@@ -660,12 +372,6 @@
         size = 169
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 28
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -675,25 +381,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 31
+        size = 63
     }
 }
 #Delicias (8000/2000 POPS)
@@ -716,12 +404,6 @@
         size = 112
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 28
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -731,25 +413,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 20
+        size = 52
     }
 }
 #Parral (16000/4000 POPS)
@@ -770,12 +434,6 @@
         culture = mexican
         religion = animist
         size = 56
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 11
     }
 
     farmers = {
@@ -802,12 +460,6 @@
         size = 112
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 19
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -817,31 +469,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 10
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 20
+        size = 64
     }
 }
 #Coahuila Region (160000)
@@ -866,12 +494,6 @@
         size = 169
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 28
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -881,25 +503,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-	
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 31
+        size = 63
     }
 }
 #Saltillo (44000/11000 POPS)
@@ -934,12 +538,6 @@
         size = 451
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 84
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -958,12 +556,6 @@
         size = 112
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 19
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -973,61 +565,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 81
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 21
+        size = 198
     }
 }
 #Monclova (48000/12000 POPS)
@@ -1050,12 +588,6 @@
         size = 676
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 140
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -1065,31 +597,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 7
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 124
+        size = 278
     }
 }
 #Torreon (56000/14000 POPS)
@@ -1112,12 +620,6 @@
         size = 620
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 140
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -1136,12 +638,6 @@
         size = 112
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 19
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -1151,49 +647,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 4
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 6
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 113
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 21
+        size = 308
     }
 }
 #Nuevo Leon-Tamaulipas Region (172000)
@@ -1230,12 +684,6 @@
         size = 1071
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 225
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -1254,12 +702,6 @@
         size = 263
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 56
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -1269,67 +711,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 6
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 11
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 194
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 49
+        size = 543
     }
 }
 #Reynosa (16000/4000 POPS)
@@ -1352,12 +734,6 @@
         size = 225
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 56
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -1367,31 +743,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 41
+        size = 102
     }
 }
 #Matamoros (28000/7000 POPS)
@@ -1414,12 +766,6 @@
         size = 395
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 84
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -1429,31 +775,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 4
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 72
+        size = 164
     }
 }
 #Ciudad Victoria (24000/6000 POPS)
@@ -1476,12 +798,6 @@
         size = 338
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 56
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -1491,31 +807,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 4
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 62
+        size = 126
     }
 }
 #Durango-Sinaloa Region (252000)
@@ -1538,12 +830,6 @@
         culture = mexican
         religion = animist
         size = 789
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 169
     }
 
     farmers = {
@@ -1570,12 +856,6 @@
         size = 75
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 19
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -1585,37 +865,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 4
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 8
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 144
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 14
+        size = 362
     }
 }
 #Santa Maria del Oro (44000/11000 POPS)
@@ -1636,12 +886,6 @@
         culture = mexican
         religion = animist
         size = 507
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 112
     }
 
     farmers = {
@@ -1668,12 +912,6 @@
         size = 75
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 19
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -1683,37 +921,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 94
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 14
+        size = 249
     }
 }
 #Mazatlan (116000/29000 POPS)
@@ -1748,12 +956,6 @@
         size = 1634
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 338
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -1763,43 +965,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 8
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 17
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 4
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 298
+        size = 670
     }
 }
 #Culiacan (28000/7000 POPS)
@@ -1822,12 +988,6 @@
         size = 395
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 84
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -1837,31 +997,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 4
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 72
+        size = 164
     }
 }
 #Zacatecas-Aguascalientes Region (568000)
@@ -1898,12 +1034,6 @@
         size = 4340
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 479
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -1922,12 +1052,6 @@
         size = 2424
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 507
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -1937,67 +1061,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 20
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 44
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 401
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 24
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 458
+        size = 1964
     }
 }
 #Aguascalientes (152000/38000 POPS)
@@ -2020,12 +1084,6 @@
         size = 1719
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 451
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -2035,31 +1093,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 10
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 17
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 397
+        size = 885
     }
 }
 #Tepic (76000/19000 POPS)
@@ -2082,12 +1116,6 @@
         size = 846
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 169
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -2106,12 +1134,6 @@
         size = 150
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 37
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -2121,55 +1143,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 8
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 173
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 28
+        size = 421
     }
 }
 #Potosi-Guanajuato Region (1356000)
@@ -2194,12 +1168,6 @@
         size = 2705
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 563
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -2218,12 +1186,6 @@
         size = 1860
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 395
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -2233,55 +1195,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 18
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 27
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 6
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 553
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 19
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 4
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 348
+        size = 1938
     }
 }
 #Guanajuato (672000/168000 POPS)
@@ -2316,12 +1230,6 @@
         size = 3551
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 563
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -2340,88 +1248,22 @@
         size = 5918
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1183
-    }
-
     farmers = {
         culture = mexican
         religion = animist
         size = 110809
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 39
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 7
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 39
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 7
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 36
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 6
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 623
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 6
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 60
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 12
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1120
-    }
-	
-	craftsmen = {
+    craftsmen = {
         culture = mexican
         religion = animist
         size = 11386
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = animist
+        size = 3708
     }
 }
 #Queretaro (360000/90000 POPS)
@@ -2444,12 +1286,6 @@
         size = 1353
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 563
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -2468,12 +1304,6 @@
         size = 3156
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 648
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -2483,55 +1313,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 21
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 14
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 6
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 273
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 32
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 7
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 667
+        size = 2203
     }
 }
 #Veracruz-Tabasco Region (328000)
@@ -2568,12 +1350,6 @@
         size = 225
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 56
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -2590,12 +1366,6 @@
         culture = mexican
         religion = animist
         size = 1183
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 254
     }
 
     farmers = {
@@ -2616,12 +1386,6 @@
         size = 563
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 112
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -2631,91 +1395,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 16
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 6
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 18
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 12
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 228
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 6
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 106
+        size = 778
     }
 }
 #Tampico (80000/20000 POPS)
@@ -2738,12 +1418,6 @@
         size = 112
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 28
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -2762,12 +1436,6 @@
         size = 1014
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 225
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -2777,49 +1445,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-	
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 15
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 11
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 192
+        size = 448
     }
 }
 #Minatitlan (48000/12000 POPS)
@@ -2842,12 +1468,6 @@
         size = 56
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 28
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -2866,12 +1486,6 @@
         size = 620
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 140
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -2881,49 +1495,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 7
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 6
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 117
+        size = 282
     }
 }
 #Villahermosa (60000/15000 POPS)
@@ -2944,12 +1516,6 @@
         culture = mexican
         religion = animist
         size = 169
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 56
     }
 
     farmers = {
@@ -2976,12 +1542,6 @@
         size = 76
     }
 
-    soldiers = {
-        culture = mayan
-        religion = animist
-        size = 95
-    }
-
     farmers = {
         culture = mayan
         religion = animist
@@ -2991,31 +1551,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 4
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 27
+        size = 187
     }
 }
 #Jalisco Region (448000)
@@ -3058,12 +1594,6 @@
         size = 2198
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 733
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -3082,12 +1612,6 @@
         size = 620
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 140
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -3097,73 +1621,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 17
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 8
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 114
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 22
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 8
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 556
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 6
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 117
+        size = 1592
     }
 }
 #Puerto Vallarta (148000/37000 POPS)
@@ -3186,12 +1644,6 @@
         size = 1353
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 282
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -3210,12 +1662,6 @@
         size = 733
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 169
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -3225,55 +1671,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 8
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 14
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 245
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 8
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 138
+        size = 862
     }
 }
 #Michoacan Region (568000)
@@ -3298,12 +1696,6 @@
         size = 1522
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 310
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -3313,31 +1705,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 7
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 15
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 279
+        size = 617
     }
 }
 #Morelia (348000/87000 POPS)
@@ -3372,12 +1740,6 @@
         size = 2875
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 591
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -3396,12 +1758,6 @@
         size = 2029
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 422
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -3411,67 +1767,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 20
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 6
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 29
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 6
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 516
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 20
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 383
+        size = 1955
     }
 }
 #Los Alaniles (112000/28000 POPS)
@@ -3494,12 +1790,6 @@
         size = 1240
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 225
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -3518,12 +1808,6 @@
         size = 451
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 112
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -3533,55 +1817,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 7
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 13
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 205
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 84
+        size = 632
     }
 }
 #Mexico Region (720000)
@@ -3636,12 +1872,6 @@
         size = 9018
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 902
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -3672,12 +1902,6 @@
         size = 282
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 563
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -3687,97 +1911,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 19
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 4
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 9
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 114
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 114
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 11
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 91
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 9
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 515
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 114
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 102
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 6
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 330
+        size = 2939
     }
 }
 #Toluca (212000/53000 POPS)
@@ -3800,12 +1934,6 @@
         size = 1071
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 7891
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -3824,12 +1952,6 @@
         size = 1916
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 395
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -3839,55 +1961,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 12
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 11
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 80
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 112
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 20
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 4
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 362
+        size = 8797
     }
 }
 #Puebla-Hidalgo Region (692000)
@@ -3912,12 +1986,6 @@
         size = 1071
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 225
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -3936,12 +2004,6 @@
         size = 1578
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 338
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -3951,55 +2013,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 11
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 11
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 191
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 16
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 4
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 298
+        size = 1085
     }
 }
 #Puebla (504000/126000 POPS)
@@ -4034,12 +2048,6 @@
         size = 9581
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 7891
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -4058,12 +2066,6 @@
         size = 7327
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 846
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -4073,67 +2075,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 29
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 4
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 11
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 97
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 80
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 382
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 74
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 8
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 745
+        size = 9897
     }
 }
 #Oaxaca Region (452000)
@@ -4170,12 +2112,6 @@
         size = 1973
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 7891
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -4194,12 +2130,6 @@
         size = 5072
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 789
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -4209,67 +2139,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 19
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 20
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 80
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 181
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 4
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 52
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 8
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 745
+        size = 9695
     }
 }
 #Collataro (100000/25000 POPS)
@@ -4292,12 +2162,6 @@
         size = 282
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 56
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -4316,12 +2180,6 @@
         size = 1240
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 225
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -4331,55 +2189,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 6
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 46
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 13
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 213
+        size = 550
     }
 }
 #Guerrero Region (246000)
@@ -4416,12 +2226,6 @@
         size = 1297
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 282
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -4440,12 +2244,6 @@
         size = 1183
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 254
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -4455,67 +2253,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 11
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 4
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 13
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 265
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 12
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 223
+        size = 1034
     }
 }
 #Chilpancingo (80000/20000 POPS)
@@ -4538,12 +2276,6 @@
         size = 507
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 112
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -4562,12 +2294,6 @@
         size = 620
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 140
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -4577,55 +2303,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 90
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 6
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 117
+        size = 370
     }
 }
 #Chiapas Region (124000)
@@ -4704,12 +2382,6 @@
         size = 76
     }
 
-    soldiers = {
-        culture = mayan
-        religion = animist
-        size = 133
-    }
-
     farmers = {
         culture = mayan
         religion = animist
@@ -4719,25 +2391,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 4
-    }
-	
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 36
+        size = 177
     }
 }
 #Tapachula (40000/10000 POPS)
@@ -4784,12 +2438,6 @@
         size = 76
     }
 
-    soldiers = {
-        culture = mayan
-        religion = animist
-        size = 76
-    }
-
     farmers = {
         culture = mayan
         religion = animist
@@ -4799,25 +2447,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 39
+        size = 121
     }
 }
 #Yucatan Region (440000)
@@ -4852,12 +2482,6 @@
         culture = mexican
         religion = animist
         size = 1183
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 563
     }
 
     farmers = {
@@ -4902,12 +2526,6 @@
         size = 76
     }
 
-    soldiers = {
-        culture = mayan
-        religion = animist
-        size = 304
-    }
-
     farmers = {
         culture = mayan
         religion = animist
@@ -4917,43 +2535,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 14
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 12
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 6
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 199
+        size = 1095
     }
 }
 #Camnpeche (108000/27000 POPS)
@@ -5012,12 +2594,6 @@
         size = 76
     }
 
-    soldiers = {
-        culture = mayan
-        religion = animist
-        size = 228
-    }
-
     farmers = {
         culture = mayan
         religion = animist
@@ -5027,25 +2603,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 6
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 78
+        size = 319
     }
 }
 #Bacalar (92000/23000 POPS)
@@ -5104,12 +2662,6 @@
         size = 76
     }
 
-    soldiers = {
-        culture = mayan
-        religion = animist
-        size = 171
-    }
-
     farmers = {
         culture = mayan
         religion = animist
@@ -5119,24 +2671,6 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 4
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 14
+        size = 192
     }
 }

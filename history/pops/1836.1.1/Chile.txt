@@ -26,13 +26,13 @@
     soldiers = {
         culture = platinean
         religion = animist
-        size = 127
+        size = 3127
     }
 
     farmers = {
         culture = platinean
         religion = animist
-        size = 12025
+        size = 9025
     }
 }
 #La Serena (64000/16000 POPS)
@@ -70,13 +70,13 @@
     soldiers = {
         culture = platinean
         religion = animist
-        size = 178
+        size = 3178
     }
 
     farmers = {
         culture = platinean
         religion = animist
-        size = 14695
+        size = 11695
     }
 }
 #Valle Central Region (640000)
@@ -160,13 +160,13 @@
     soldiers = {
         culture = platinean
         religion = animist
-        size = 1119
+        size = 3119
     }
 
     farmers = {
         culture = platinean
         religion = animist
-        size = 18305
+        size = 16305
     }
 }
 #Vina del Mar (72000/18000 POPS)
@@ -192,13 +192,13 @@
     soldiers = {
         culture = platinean
         religion = animist
-        size = 1119
+        size = 3119
     }
 
     farmers = {
         culture = platinean
         religion = animist
-        size = 15814
+        size = 13814
     }
 }
 #Talca (20000/5000 POPS)
@@ -270,7 +270,7 @@
     soldiers = {
         culture = platinean
         religion = animist
-        size = 1119
+        size = 1195
     }
 
     farmers = {
@@ -295,12 +295,6 @@
         culture = platinean
         religion = animist
         size = 305
-    }
-
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 76
     }
 
     farmers = {
@@ -332,7 +326,7 @@
     soldiers = {
         culture = platinean
         religion = animist
-        size = 51
+        size = 102
     }
 
     farmers = {
@@ -357,12 +351,6 @@
         culture = platinean
         religion = animist
         size = 203
-    }
-
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 51
     }
 
     farmers = {
@@ -426,7 +414,7 @@
     soldiers = {
         culture = platinean
         religion = animist
-        size = 76
+        size = 101
     }
 
     farmers = {
@@ -451,12 +439,6 @@
         culture = platinean
         religion = animist
         size = 102
-    }
-
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 25
     }
 
     farmers = {
@@ -502,7 +484,7 @@
     soldiers = {
         culture = platinean
         religion = animist
-        size = 127
+        size = 178
     }
 
     farmers = {
@@ -527,12 +509,6 @@
         culture = platinean
         religion = animist
         size = 203
-    }
-
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 51
     }
 
     farmers = {

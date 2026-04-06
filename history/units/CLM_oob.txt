@@ -1,92 +1,140 @@
 leader = {
-	name = "Manuel Blanco"
-	picture = aus_gen_windischgraetz
-	date = 1826.1.1
+	name = "Francisco José de Paula Santander Omaña"
+	date = 1830.1.1
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.3
 }
 leader = {
-	name = "Jose Joaquú‹ Prieto"
-	picture = aus_gen_rukavina
-	date = 1829.1.1
+	name = "Pedro Alcántara Herrán"
+	date = 1830.1.1
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.2
 }
 leader = {
-	name = "Manuel Bulnes"
-	picture = aus_gen_nugent
-	date = 1815.1.1
+	name = "Tomás Cipriano de Mosquera"
+	date = 1830.1.1
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.3
+}
+leader = {
+	name = "Daniel Florence O'Leary"
+	date = 1830.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Rafael Tono Llopis"
+	date = 1830.1.1
+	type = sea
+	personality = defence_1.1
+	background = attack_1.1
 }
 
 army = {
-	name = "1. Army"
-	location = 2253
+	name = "Ejército de Colombia"
+	location = 2254
 	regiment = {
-		name= "1. División de Infanteru"
+		name= "1. Brigada de Infantería"
 		type = infantry
 		home = 2247
 	}
-
 	regiment = {
-		name= "2. División de Infanteru"
+		name= "2. Brigada de Infantería"
 		type = infantry
 		home = 2247
 	}
-
 	regiment = {
-		name= "3. División de Infanteru"
+		name= "3. Brigada de Infantería"
 		type = infantry
 		home = 2247
 	}
-
 	regiment = {
-		name= "4. División de Infanteru"
+		name= "4. Brigada de Infantería"
 		type = infantry
 		home = 2247
-	}
-	
+	}	
 	regiment = {
-		name= "1. Hussar"
+		name= "1. Brigada de Caballería"
 		type = hussar
 		home = 2247
-	}
-	
+	}	
 	regiment = {
-		name= "1. Artillery"
-		type = artillery
-		home = 2247
-	}
-	
-	regiment = {
-		name= "2. Artillery"
-		type = artillery
-		home = 2247
-	}
-	
-	regiment = {
-		name= "3. Artillery"
-		type = artillery
-		home = 2247
-	}
-	
-	regiment = {
-		name= "4. Artillery"
-		type = artillery
-		home = 2247
-	}
-	
-	regiment = {
-		name= "5. Artillery"
+		name= "1. Brigada de Artillería"
 		type = artillery
 		home = 2252
+	}	
+	regiment = {
+		name= "2. Brigada de Artillería"
+		type = artillery
+		home = 2250
+	}	
+	regiment = {
+		name= "3. Brigada de Artillería"
+		type = artillery
+		home = 2254
+	}	
+	regiment = {
+		name= "4. Brigada de Artillería"
+		type = artillery
+		home = 2255
+	}	
+	regiment = {
+		name= "5. Brigada de Artillería"
+		type = artillery
+		home = 2256
 	}
+}
 
+navy = {
+    name = "Armada de Colombia"
+    location = 2254
+    ship = {
+        name = "Bolívar"
+        type = manowar
+    }
+    ship = {
+        name = "Venezuela"
+        type = frigate
+    }
+    ship = {
+        name = "Boyacu"
+        type = frigate
+    }
+    ship = {
+        name = "Urica"
+        type = frigate
+    }
+    ship = {
+        name = "Ceres"
+        type = frigate
+    }
+    ship = {
+        name = "Constitucion"
+        type = frigate
+    }
+}
+
+navy = {
+    name = "Armada del Pacífico"
+    location = 2258
+    ship = {
+        name = "Pichincha"
+        type = frigate
+    }
+    ship = {
+        name = "Chimborazo"
+        type = frigate
+    }
+    ship = {
+        name = "Independiente"
+        type = frigate
+    }
+    ship = {
+        name = "Libertador"
+        type = frigate
+    }
 }

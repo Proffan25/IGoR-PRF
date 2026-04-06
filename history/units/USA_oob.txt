@@ -1,15 +1,3 @@
-##Starting NFs
-#	national_focus=
-#	{
-#"1"="colonize"
-#"2"="colonize"
-#	}
-#	colonize=
-#	{
-#		1=300
-#		2=300
-#	}
-
 #Sphere of Influence
 TEX = {
 	value = 125		#relation
@@ -200,7 +188,7 @@ army = {
 	regiment = {
 		name= "15th Artillery Regiment"
 		type = artillery
-		home = 188
+		home = 169
 	}
 	
 	regiment = {

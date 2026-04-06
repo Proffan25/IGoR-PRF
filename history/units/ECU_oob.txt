@@ -1,0 +1,59 @@
+leader = {
+	name = "Juan Illingworth"
+	date = 1830.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Juan Jose Flores"
+	date = 1830.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Thomas Charles Wright"
+	date = 1830.1.1
+	type = sea
+	personality = defence_1.1
+	background = attack_1.1
+}
+
+army = {
+	name = "Ejército de Ecuador"
+	location = 2279
+	regiment = {
+		name= "1. División de Infantería"
+		type = infantry
+		home = 2283
+	}
+	regiment = {
+		name= "2. División de Infantería"
+		type = infantry
+		home = 2283
+	}
+	regiment = {
+		name= "1. División de Artillería"
+		type = artillery
+		home = 2279
+	}
+	regiment = {
+		name= "2. División de Artillería"
+		type = artillery
+		home = 2279
+	}
+}
+
+navy = {
+    name = "Escuadra Unida del Ecuador"
+    location = 2280
+    ship = {
+        name = "Guayaquileña"
+        type = frigate
+    }
+    ship = {
+        name = "Diligencia"
+        type = frigate
+    }
+}

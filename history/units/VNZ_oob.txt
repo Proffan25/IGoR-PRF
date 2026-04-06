@@ -3,8 +3,8 @@ leader = {
 	picture = vnz_gen_marino
 	date = 1825.1.1 #1815
 	type = land
-	personality = fanatic
-	background = natural_born_leader
+	personality = defence_1.1
+	background = attack_1.1
 	prestige = 0.3
 }
 
@@ -26,36 +26,24 @@ army = {
 		type = infantry
 		home = 2264
 	}
-
 	regiment = {
 		name= "2. División de Infantería"
 		type = infantry
-		home = 2264
-	}
-
-	regiment = {
-		name= "3. División de Infantería"
-		type = infantry
 		home = 2267
 	}
-
 	regiment = {
-		name= "1. División de Caballería"
-		type = cavalry
+		name= "1. División de Artillería"
+		type = artillery
 		home = 2268
 	}
-
 	regiment = {
-		name= "2. División de Caballería"
-		type = cavalry
+		name= "2. División de Artillería"
+		type = artillery
 		home = 2269
 	}
-
 	regiment = {
-		name= "3. División de Caballería"
-		type = cavalry
+		name= "3. División de Artillería"
+		type = artillery
 		home = 2271
 	}
-
 }
-

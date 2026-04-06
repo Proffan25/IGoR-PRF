@@ -29,7 +29,7 @@ army = {
 	regiment = {
 		name = "Regiment 6"
 		type = hussar
-		home = 58 
+		home = 2468
 	}
 }
 

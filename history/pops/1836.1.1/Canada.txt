@@ -20,16 +20,16 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 689
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 11
     }
 }
 #Dawson (4000/1000 POPS)
@@ -52,16 +52,16 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 689
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 11
     }
 }
 #Ross River (4000/1000 POPS)
@@ -84,16 +84,16 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 689
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 11
     }
 }
 #Northwest Territories & Keewatin Regions - 28000
@@ -118,16 +118,16 @@
         size = 23
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 8
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 398
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 8
     }
 }
 #Inuvik (4000/1000 POPS)
@@ -150,16 +150,16 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 689
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 11
     }
 }
 #Echo Bay (4000/1000 POPS)
@@ -182,16 +182,16 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 689
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 11
     }
 }
 #Reliance (Red Deer) (2000/500 POPS)
@@ -214,16 +214,16 @@
         size = 19
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 4
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 344
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 4
     }
 }
 #Fort Resolution (2000/500 POPS)
@@ -246,16 +246,16 @@
         size = 19
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 8
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 344
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 8
     }
 }
 #Fort Liard (1600/400 POPS)
@@ -278,16 +278,16 @@
         size = 15
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 4
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 276
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 4
     }
 }
 #Arviat (3200/800 POPS)
@@ -310,16 +310,16 @@
         size = 57
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 15
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 1037
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 15
     }
 }
 #Baker Lake (2000/500 POPS)
@@ -342,16 +342,16 @@
         size = 19
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 4
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 344
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 4
     }
 }
 #Baffin Island (4000/1000 POPS)
@@ -374,16 +374,16 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 689
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 11
     }
 }
 #Whale Cove (Peace River) (2800/700 POPS)
@@ -406,16 +406,16 @@
         size = 77
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 19
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 1340
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 19
     }
 }
 #British Columbia Region : 64000
@@ -440,16 +440,16 @@
         size = 115
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 19
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 2067
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 19
     }
 }
 #Vancouver Island (8000/2000 POPS)
@@ -472,16 +472,16 @@
         size = 77
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 19
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 1340
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 19
     }
 }
 #Prince Rupert (8000/2000 POPS)
@@ -504,16 +504,16 @@
         size = 77
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 19
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 1340
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 19
     }
 }
 #Glenora (4000/1000 POPS)
@@ -536,16 +536,16 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 689
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 11
     }
 }
 #Atlin (4000/1000 POPS)
@@ -568,16 +568,16 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 689
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 11
     }
 }
 #Fort St John (2400/600 POPS)
@@ -600,16 +600,16 @@
         size = 23
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 8
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 398
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 8
     }
 }
 #Prince George (8000/2000 POPS)
@@ -632,16 +632,16 @@
         size = 77
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 19
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 1340
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 19
     }
 }
 #Kelowna (8000/2000 POPS)
@@ -664,16 +664,16 @@
         size = 77
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 19
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 1340
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 19
     }
 }
 #Vernon (8000/2000 POPS)
@@ -696,16 +696,16 @@
         size = 77
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 19
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 1340
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 19
     }
 }
 #Fort Nelson (Kamloops) (8000/2000 POPS)
@@ -728,16 +728,16 @@
         size = 77
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 19
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 1340
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 19
     }
 }
 #Alberta Region: 64000
@@ -754,12 +754,6 @@
         culture = anglo_canadian
         religion = animist
         size = 38
-    }
-
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
     }
 
     farmers = {
@@ -786,12 +780,6 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
@@ -816,16 +804,16 @@
         size = 77
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 19
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 1340
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 41
     }
 }
 #Athabaska Landing (4800/1200 POPS)
@@ -848,16 +836,16 @@
         size = 46
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 827
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 11
     }
 }
 #Jasper (4000/1000 POPS)
@@ -880,16 +868,16 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 689
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 11
     }
 }
 #Banff (4000/1000 POPS)
@@ -912,16 +900,16 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 689
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 11
     }
 }
 #Calgary (8000/2000 POPS)
@@ -938,12 +926,6 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
@@ -968,16 +950,16 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 689
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 22
     }
 }
 #Denwood (8000/2000 POPS)
@@ -994,12 +976,6 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
@@ -1024,16 +1000,16 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 689
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 22
     }
 }
 #Fort MacLeod (8000/2000 POPS)
@@ -1050,12 +1026,6 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
@@ -1080,16 +1050,16 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 689
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 22
     }
 }
 #Medicine Hat (8000/2000 POPS)
@@ -1112,16 +1082,16 @@
         size = 77
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 19
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 1340
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 19
     }
 }
 #Fort Vermillion (3200/800 POPS)
@@ -1144,16 +1114,16 @@
         size = 31
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 8
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 547
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 8
     }
 }
 #Saskatchewan Region : 44000
@@ -1178,12 +1148,6 @@
         size = 77
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 19
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
@@ -1202,16 +1166,16 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 697
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 30
     }
 }
 #Stanley (4000/1000 POPS)
@@ -1234,16 +1198,16 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 689
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 11
     }
 }
 #Prince Albert (8000/2000 POPS)
@@ -1260,12 +1224,6 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
@@ -1290,16 +1248,16 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 689
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 22
     }
 }
 #Asquith (8000/2000 POPS)
@@ -1316,12 +1274,6 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
@@ -1346,16 +1298,16 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 689
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 22
     }
 }
 #Saskatoon (8000/2000 POPS)
@@ -1372,12 +1324,6 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
@@ -1402,16 +1348,16 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 689
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 22
     }
 }
 #Maple Creek (4000/1000 POPS)
@@ -1434,16 +1380,16 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 689
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 11
     }
 }
 #Manitoba Region : 52000
@@ -1486,12 +1432,6 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
@@ -1508,12 +1448,6 @@
         culture = anglo_canadian
         religion = animist
         size = 38
-    }
-
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
     }
 
     farmers = {
@@ -1540,16 +1474,16 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 842
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 77
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 864
     }
 }
 #Churchill (4000/1000 POPS)
@@ -1572,16 +1506,16 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 689
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 11
     }
 }
 #Indian Lakes (4000/1000 POPS)
@@ -1604,16 +1538,16 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 689
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 11
     }
 }
 #Norway House (8000/2000 POPS)
@@ -1636,12 +1570,6 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
@@ -1660,16 +1588,16 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 697
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 22
     }
 }
 #Dauphin (8000/2000 POPS)
@@ -1692,12 +1620,6 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
@@ -1716,16 +1638,16 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 697
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 22
     }
 }
 #Brandon (8000/2000 POPS)
@@ -1748,12 +1670,6 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
@@ -1772,16 +1688,16 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 697
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 22
     }
 }
 #Pembina (8000/2000 POPS)
@@ -1804,12 +1720,6 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
@@ -1828,16 +1738,16 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 697
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 22
     }
 }
 #Ontario Region : 448000
@@ -1862,16 +1772,16 @@
         size = 27
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 8
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 482
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 8
     }
 }
 #Fort Albany (6400/1600 POPS)
@@ -1894,16 +1804,16 @@
         size = 61
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 15
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 1102
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 15
     }
 }
 #Dryden (12000/3000 POPS)
@@ -1926,12 +1836,6 @@
         size = 77
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 19
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
@@ -1950,16 +1854,16 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 697
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 30
     }
 }
 #Thunder Bay (8000/2000 POPS)
@@ -1982,16 +1886,16 @@
         size = 77
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 19
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 1340
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 19
     }
 }
 #Sault Ste Marie (8000/2000 POPS)
@@ -2014,12 +1918,6 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
@@ -2044,16 +1942,16 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 689
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 22
     }
 }
 #Sudbury (8000/2000 POPS)
@@ -2076,16 +1974,16 @@
         size = 77
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 19
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 1340
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 19
     }
 }
 #Barrie (4000/1000 POPS)
@@ -2108,16 +2006,16 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 689
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 11
     }
 }
 #Pickle Lake (1200/3000 POPS)
@@ -2140,16 +2038,16 @@
         size = 11
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 4
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 203
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 4
     }
 }
 #Attawapiskat (5600/1600 POPS)
@@ -2172,16 +2070,16 @@
         size = 61
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 1106
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 11
     }
 }
 #ruled by Britain in 1836
@@ -2205,16 +2103,16 @@
         size = 1914
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 2373
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 29855
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 2373
     }
 }
 #Windsor (36000/9000 POPS)
@@ -2231,16 +2129,16 @@
         size = 383
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 77
-    }
-
     labourers = {
         culture = anglo_canadian
         religion = animist
         size = 6392
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 77
     }
 }
 #Hamilton (68000/17000 POPS)
@@ -2257,16 +2155,16 @@
         size = 842
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 153
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 12018
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 153
     }
 }
 #Kingston (72000/18000 POPS)
@@ -2281,12 +2179,6 @@
         culture = anglo_canadian
         religion = animist
         size = 1340
-    }
-
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 134
     }
 
     farmers = {
@@ -2307,16 +2199,16 @@
         size = 191
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 19
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 1301
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 153
     }
 }
 #Ottawa (44000/11000 POPS)
@@ -2331,12 +2223,6 @@
         culture = anglo_canadian
         religion = animist
         size = 230
-    }
-
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 77
     }
 
     farmers = {
@@ -2357,16 +2243,16 @@
         size = 153
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 38
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 2832
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 115
     }
 }
 #Quebec Region : 676000
@@ -2391,16 +2277,16 @@
         size = 27
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 8
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 482
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 8
     }
 }
 #Erik Cove (2400/600 POPS)
@@ -2423,12 +2309,6 @@
         size = 15
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 4
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
@@ -2453,16 +2333,16 @@
         size = 8
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 4
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 138
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 8
     }
 }
 #Port Harrison (2400/600 POPS)
@@ -2485,12 +2365,6 @@
         size = 8
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 4
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
@@ -2515,16 +2389,16 @@
         size = 15
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 4
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 276
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 8
     }
 }
 #Fort Chimo (2400/600 POPS)
@@ -2547,12 +2421,6 @@
         size = 15
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 4
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
@@ -2577,16 +2445,16 @@
         size = 8
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 4
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 138
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 8
     }
 }
 #Fort Rupert (2400/600 POPS)
@@ -2609,16 +2477,16 @@
         size = 23
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 8
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 398
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 8
     }
 }
 #Fort George (1600/400 POPS)
@@ -2641,16 +2509,16 @@
         size = 15
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 4
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 276
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 4
     }
 }
 #ruled by Britain in 1836
@@ -2672,12 +2540,6 @@
         culture = anglo_canadian
         religion = animist
         size = 3828
-    }
-
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 4784
     }
 
     farmers = {
@@ -2704,16 +2566,16 @@
         size = 4593
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 306
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 27558
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 5090
     }
 }
 #Chicoutimi (11200/2800 POPS)
@@ -2736,12 +2598,6 @@
         size = 31
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 8
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
@@ -2760,16 +2616,16 @@
         size = 77
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 19
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 1397
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 27
     }
 }
 #Sept-Iles (8000/2000 POPS)
@@ -2792,12 +2648,6 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
@@ -2816,16 +2666,16 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 8
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 700
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 19
     }
 }
 #Temiscaming (16000/4000 POPS)
@@ -2848,12 +2698,6 @@
         size = 38
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
@@ -2872,16 +2716,16 @@
         size = 115
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 19
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 2105
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 30
     }
 }
 #Trois-Rivieres (68000/17000 POPS)
@@ -2898,16 +2742,16 @@
         size = 842
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 115
-    }
-
     labourers = {
         culture = anglo_canadian
         religion = animist
         size = 11999
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 115
     }
 }
 #Quebec City (188000/47000 POPS)
@@ -2924,16 +2768,16 @@
         size = 3828
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 1914
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 31386
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 1914
     }
 }
 #Sherbrooke (68000/17000 POPS)
@@ -2948,12 +2792,6 @@
         culture = anglo_canadian
         religion = animist
         size = 306
-    }
-
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 77
     }
 
     farmers = {
@@ -2974,16 +2812,16 @@
         size = 536
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 115
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 8344
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 192
     }
 }
 #Riviere du Loup (56000/14000 POPS)
@@ -3000,16 +2838,16 @@
         size = 574
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 115
-    }
-
     labourers = {
         culture = anglo_canadian
         religion = animist
         size = 9913
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 115
     }
 }
 #New Brunswick Region : 148000
@@ -3034,12 +2872,6 @@
         size = 574
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 115
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
@@ -3058,16 +2890,16 @@
         size = 268
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 77
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 4899
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 192
     }
 }
 #Bathurst (64000/16000 POPS)
@@ -3082,12 +2914,6 @@
         culture = anglo_canadian
         religion = animist
         size = 459
-    }
-
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 115
     }
 
     labourers = {
@@ -3108,16 +2934,16 @@
         size = 153
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 19
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 2852
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 134
     }
 }
 #Prince Edward Island Region : 32000
@@ -3136,16 +2962,16 @@
         size = 1148
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 77
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 4861
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 77
     }
 }
 #Canada - Nova Scotia Region : 147000
@@ -3170,12 +2996,6 @@
         size = 3062
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 1148
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
@@ -3193,6 +3013,12 @@
         religion = animist
         size = 574
     }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 1148
+    }
 }
 #Truro (44000/11000 POPS)
 72 = {
@@ -3208,12 +3034,6 @@
         size = 574
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 96
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
@@ -3224,6 +3044,12 @@
         culture = anglo_canadian
         religion = animist
         size = 842
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 96
     }
 }
 #Cape Breton Island (20000/5000 POPS)
@@ -3240,16 +3066,16 @@
         size = 191
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 38
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 3560
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 38
     }
 }
 #Newfoundland Region - 84000
@@ -3272,12 +3098,6 @@
         culture = anglo_canadian
         religion = animist
         size = 1531
-    }
-
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 38
     }
 
     farmers = {
@@ -3303,6 +3123,12 @@
         religion = animist
         size = 5282
     }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 38
+    }
 }
 #Millertown (24000/6000 POPS)
 75 = {
@@ -3316,12 +3142,6 @@
         culture = anglo_canadian
         religion = animist
         size = 191
-    }
-
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 38
     }
 
     farmers = {
@@ -3347,6 +3167,12 @@
         religion = animist
         size = 612
     }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 38
+    }
 }
 #Hopedale (2000/500 POPS)
 76 = {
@@ -3368,16 +3194,16 @@
         size = 19
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 4
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 344
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 4
     }
 }
 #Cartwright (6000/1500 POPS)
@@ -3400,16 +3226,16 @@
         size = 57
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 19
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
         size = 1033
+    }
+
+    soldiers = {
+        culture = anglo_canadian
+        religion = animist
+        size = 19
     }
 }
 #St Pierre & Miquelon (2000)

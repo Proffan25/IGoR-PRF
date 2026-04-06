@@ -20,12 +20,6 @@
         size = 26
     }
 
-    soldiers = {
-        culture = russian
-        religion = animist
-        size = 9
-    }
-
     aristocrats = {
         culture = native_american_minor
         religion = animist
@@ -44,16 +38,16 @@
         size = 92
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 1601
+    }
+
+    soldiers = {
+        culture = russian
+        religion = animist
+        size = 32
     }
 }
 #Yakutat (4000/1000 POPS)
@@ -76,16 +70,16 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 824
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 14
     }
 }
 #Kenai (2400/600 POPS)
@@ -108,16 +102,16 @@
         size = 23
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 9
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 503
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 9
     }
 }
 #Dutch Harbor (2000/500 POPS)
@@ -140,16 +134,16 @@
         size = 23
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 5
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 412
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 5
     }
 }
 #Bethel (2000/500 POPS)
@@ -172,12 +166,6 @@
         size = 14
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 5
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
@@ -202,16 +190,16 @@
         size = 14
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 5
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 206
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 10
     }
 }
 #Fairbanks (2000/500 POPS)
@@ -234,16 +222,16 @@
         size = 23
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 5
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 412
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 5
     }
 }
 #Cordova (1600/360 POPS)
@@ -266,16 +254,16 @@
         size = 18
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 5
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 329
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 5
     }
 }
 #Unalakeet (3000/750 POPS)
@@ -296,12 +284,6 @@
         culture = native_american_minor
         religion = animist
         size = 23
-    }
-
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 5
     }
 
     farmers = {
@@ -328,16 +310,16 @@
         size = 14
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 5
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 206
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 10
     }
 }
 #Washington Region (20000)
@@ -362,16 +344,16 @@
         size = 137
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 2471
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 23
     }
 }
 #Spokane (4000/1000 POPS)
@@ -394,16 +376,16 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 824
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 14
     }
 }
 #Walla Walla (4000/1000 POPS)
@@ -426,16 +408,16 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 824
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 14
     }
 }
 #Oregon Region (20000)
@@ -460,16 +442,16 @@
         size = 137
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 2471
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 23
     }
 }
 #Baker City (4000/1000 POPS)
@@ -492,16 +474,16 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 824
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 14
     }
 }
 #Klamath Falls (4000/1000 POPS)
@@ -524,16 +506,16 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 824
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 14
     }
 }
 #California Region (64000)
@@ -556,12 +538,6 @@
         culture = mexican
         religion = animist
         size = 27
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 14
     }
 
     farmers = {
@@ -588,12 +564,6 @@
         size = 92
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
@@ -603,7 +573,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 5
+        size = 42
     }
 }
 #Eureka (4000/1000 POPS)
@@ -626,16 +596,16 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 824
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 14
     }
 }
 #Sacramento (12000/3000 POPS)
@@ -658,16 +628,16 @@
         size = 137
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 2471
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 23
     }
 }
 #Monterey (6400/1600 POPS)
@@ -696,12 +666,6 @@
         size = 47
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -726,12 +690,6 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
@@ -741,7 +699,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 7
+        size = 35
     }
 }
 #Mariposa (8000/2000 POPS)
@@ -764,16 +722,16 @@
         size = 92
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 1647
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 23
     }
 }
 #Los Angeles (12000/3000 POPS)
@@ -796,12 +754,6 @@
         size = 68
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 20
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -826,12 +778,6 @@
         size = 92
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
@@ -841,7 +787,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 13
+        size = 56
     }
 }
 #San Diego (12000/3000 POPS)
@@ -864,12 +810,6 @@
         size = 68
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 20
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -894,12 +834,6 @@
         size = 92
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
@@ -909,7 +843,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 13
+        size = 56
     }
 }
 #Idaho Region (24000)
@@ -934,16 +868,16 @@
         size = 92
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 1647
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 23
     }
 }
 #Coeur d'Alene (4000/1000 POPS)
@@ -966,16 +900,16 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 824
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 14
     }
 }
 #Pocatello (12000/3000 POPS)
@@ -998,16 +932,16 @@
         size = 137
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 2471
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 23
     }
 }
 #Nevada Region (12000)
@@ -1032,16 +966,16 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 824
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 14
     }
 }
 #Elko (4000/1000 POPS)
@@ -1064,16 +998,16 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 824
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 14
     }
 }
 #Las Vegas (4000/1000 POPS)
@@ -1096,16 +1030,16 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 824
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 14
     }
 }
 #Utah Region (16000)
@@ -1130,16 +1064,16 @@
         size = 92
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 1647
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 23
     }
 }
 #Loa (4000/1000 POPS)
@@ -1162,16 +1096,16 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 824
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 14
     }
 }
 #Moab (4000/1000 POPS)
@@ -1194,16 +1128,16 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 824
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 14
     }
 }
 #Arizona Region (37000)
@@ -1228,16 +1162,16 @@
         size = 137
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 2471
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 23
     }
 }
 #Flagstaff (12000/3000 POPS)
@@ -1258,12 +1192,6 @@
         culture = native_american_minor
         religion = animist
         size = 92
-    }
-
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
     }
 
     farmers = {
@@ -1290,16 +1218,16 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 824
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 37
     }
 }
 #ruled by Mexico 1836
@@ -1321,12 +1249,6 @@
         culture = native_american_minor
         religion = animist
         size = 137
-    }
-
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
     }
 
     farmers = {
@@ -1359,12 +1281,6 @@
         size = 16
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 6
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -1374,7 +1290,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 3
+        size = 32
     }
 }
 #New Mexico Region (56000)
@@ -1405,12 +1321,6 @@
         size = 339
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 68
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -1433,12 +1343,6 @@
         culture = native_american_minor
         religion = animist
         size = 92
-    }
-
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
     }
 
     farmers = {
@@ -1465,12 +1369,6 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
@@ -1480,31 +1378,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 4
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 61
+        size = 223
     }
 }
 #Albuquerque (20000/5000 POPS)
@@ -1525,12 +1399,6 @@
         culture = native_american_minor
         religion = animist
         size = 137
-    }
-
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
     }
 
     farmers = {
@@ -1557,12 +1425,6 @@
         size = 135
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 34
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -1572,19 +1434,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 25
+        size = 62
     }
 }
 #Las Cruces (4000/1000 POPS)
@@ -1607,16 +1457,16 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 824
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 14
     }
 }
 #Colorado Region (20000)
@@ -1641,16 +1491,16 @@
         size = 92
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 1647
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 23
     }
 }
 #Grand Junction (4000/1000 POPS)
@@ -1673,16 +1523,16 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 824
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 14
     }
 }
 #Alamosa (4000/1000 POPS)
@@ -1705,16 +1555,16 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 824
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 14
     }
 }
 #Pueblo (4000/1000 POPS)
@@ -1737,16 +1587,16 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 824
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 14
     }
 }
 #Wyoming Region (28000)
@@ -1771,16 +1621,16 @@
         size = 92
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 1647
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 23
     }
 }
 #Cody (12000/3000 POPS)
@@ -1803,16 +1653,16 @@
         size = 137
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 2471
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 23
     }
 }
 #Casper (8000/2000 POPS)
@@ -1835,16 +1685,16 @@
         size = 92
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 1647
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 23
     }
 }
 #Montana Region (32000)
@@ -1869,16 +1719,16 @@
         size = 92
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 1647
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 23
     }
 }
 #Missoula (4000/1000 POPS)
@@ -1901,16 +1751,16 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 824
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 14
     }
 }
 #Great Falls (8000/2000 POPS)
@@ -1933,12 +1783,6 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
@@ -1963,16 +1807,16 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 824
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 28
     }
 }
 #Billings (12000/3000 POPS)
@@ -1993,12 +1837,6 @@
         culture = native_american_minor
         religion = animist
         size = 46
-    }
-
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
     }
 
     farmers = {
@@ -2025,16 +1863,16 @@
         size = 92
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 1647
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 37
     }
 }
 #North Dakota Region (24000)
@@ -2059,16 +1897,16 @@
         size = 92
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 1647
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 23
     }
 }
 #Minot (8000/2000 POPS)
@@ -2091,12 +1929,6 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
@@ -2121,16 +1953,16 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 824
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 28
     }
 }
 #Dickinson (8000/2000 POPS)
@@ -2153,12 +1985,6 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
@@ -2183,16 +2009,16 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 824
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 28
     }
 }
 #South Dakota Region (24000)
@@ -2217,12 +2043,6 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
@@ -2247,16 +2067,16 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 824
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 28
     }
 }
 #Dupree (8000/2000 POPS)
@@ -2279,16 +2099,16 @@
         size = 92
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 1647
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 23
     }
 }
 #Rapid City (8000/2000 POPS)
@@ -2311,12 +2131,6 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
@@ -2341,16 +2155,16 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 824
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 28
     }
 }
 #Nebraska Region (20000)
@@ -2375,12 +2189,6 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
@@ -2405,16 +2213,16 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 824
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 28
     }
 }
 #Alliance (4000/1000 POPS)
@@ -2437,16 +2245,16 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 824
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 14
     }
 }
 #North Platte (8000/2000 POPS)
@@ -2469,16 +2277,16 @@
         size = 92
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 1647
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 23
     }
 }
 #Kansas Region (24000)
@@ -2503,16 +2311,16 @@
         size = 92
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 1647
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 23
     }
 }
 #Goodland (8000/2000 POPS)
@@ -2535,16 +2343,16 @@
         size = 92
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 1647
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 23
     }
 }
 #Wichita (8000/2000 POPS)
@@ -2567,16 +2375,16 @@
         size = 92
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 1647
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 23
     }
 }
 #Oklahoma Region (32000)
@@ -2599,12 +2407,6 @@
         culture = native_american_minor
         religion = animist
         size = 46
-    }
-
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
     }
 
     farmers = {
@@ -2637,16 +2439,16 @@
         size = 92
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 1647
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 37
     }
 }
 #Tahlequah (12000/3000 POPS)
@@ -2667,12 +2469,6 @@
         culture = native_american_minor
         religion = animist
         size = 92
-    }
-
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
     }
 
     farmers = {
@@ -2705,16 +2501,16 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 824
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 37
     }
 }
 #Okmulgee (8000/2000 POPS)
@@ -2737,16 +2533,16 @@
         size = 92
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 1647
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 23
     }
 }
 #Texas Region (67400)
@@ -2769,12 +2565,6 @@
         culture = yankee
         religion = animist
         size = 137
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1007
     }
 
     farmers = {
@@ -2807,16 +2597,16 @@
         size = 14
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 5
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 206
+    }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 1012
     }
 }
 #Austin (14000/3500 POPS)
@@ -2851,12 +2641,6 @@
         size = 114
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1007
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -2887,12 +2671,6 @@
         size = 14
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 5
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
@@ -2917,16 +2695,16 @@
         size = 20
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 6
-    }
-
     farmers = {
         culture = mexican
         religion = animist
         size = 308
+    }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 1018
     }
 }
 #San Antonio (10000/2500 POPS)
@@ -2947,12 +2725,6 @@
         culture = yankee
         religion = animist
         size = 92
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1007
     }
 
     farmers = {
@@ -2985,12 +2757,6 @@
         size = 14
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 5
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
@@ -3015,16 +2781,16 @@
         size = 20
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 6
-    }
-
     farmers = {
         culture = mexican
         religion = animist
         size = 308
+    }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 1018
     }
 }
 #Laredo (6000/1500 POPS)
@@ -3045,12 +2811,6 @@
         culture = native_american_minor
         religion = animist
         size = 46
-    }
-
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
     }
 
     farmers = {
@@ -3077,12 +2837,6 @@
         size = 34
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -3092,7 +2846,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 6
+        size = 34
     }
 }
 #"ruled" by Texas/de facto under Native Control
@@ -3105,12 +2859,6 @@
     }
 
     artisans = {
-        culture = yankee
-        religion = animist
-        size = 5
-    }
-
-    soldiers = {
         culture = yankee
         religion = animist
         size = 5
@@ -3146,16 +2894,16 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 824
+    }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 24
     }
 }
 #Lubbock (8000/2000 POPS)
@@ -3178,16 +2926,16 @@
         size = 92
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 1647
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 23
     }
 }
 #El Paso (9000/2250 POPS)
@@ -3208,12 +2956,6 @@
         culture = native_american_minor
         religion = animist
         size = 92
-    }
-
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
     }
 
     farmers = {
@@ -3240,12 +2982,6 @@
         size = 20
     }
 
-    soldiers = {
-        culture = mexican
-        religion = animist
-        size = 6
-    }
-
     farmers = {
         culture = mexican
         religion = animist
@@ -3255,7 +2991,7 @@
     soldiers = {
         culture = mexican
         religion = animist
-        size = 3
+        size = 32
     }
 }
 #Louisiana Region (280000)
@@ -3280,12 +3016,6 @@
         size = 595
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 229
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -3308,12 +3038,6 @@
         culture = yankee
         religion = animist
         size = 183
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 69
     }
 
     farmers = {
@@ -3351,6 +3075,12 @@
         religion = animist
         size = 9150
     }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 298
+    }
 }
 #Baton Rouge (72000/18000 POPS)
 140 = {
@@ -3382,12 +3112,6 @@
         culture = yankee
         religion = animist
         size = 160
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 92
     }
 
     farmers = {
@@ -3426,12 +3150,6 @@
         size = 137
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 92
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -3461,6 +3179,12 @@
         religion = animist
         size = 9036
     }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 184
+    }
 }
 #Lake Charles (36000/9000 POPS)
 141 = {
@@ -3480,12 +3204,6 @@
         culture = yankee
         religion = animist
         size = 160
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 92
     }
 
     farmers = {
@@ -3517,6 +3235,12 @@
         religion = animist
         size = 4484
     }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 92
+    }
 }
 #Shreveport (44000/11000 POPS)
 142 = {
@@ -3536,12 +3260,6 @@
         culture = yankee
         religion = animist
         size = 183
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 114
     }
 
     farmers = {
@@ -3572,6 +3290,12 @@
         culture = afro_american
         religion = animist
         size = 5376
+    }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 114
     }
 }
 #Arkansas Region (88000)
@@ -3608,12 +3332,6 @@
         size = 183
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 69
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -3650,12 +3368,6 @@
         size = 183
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 69
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
@@ -3685,6 +3397,12 @@
         religion = animist
         size = 3477
     }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 138
+    }
 }
 #Hot Springs (16000/4000 POPS)
 144 = {
@@ -3700,16 +3418,16 @@
         size = 183
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 46
-    }
-
     farmers = {
         culture = yankee
         religion = animist
         size = 3363
+    }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 46
     }
 }
 #Fayetteville (16000/4000 POPS)
@@ -3726,12 +3444,6 @@
         size = 92
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -3750,16 +3462,16 @@
         size = 92
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 1830
+    }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 46
     }
 }
 #Missouri Region (365000)
@@ -3776,12 +3488,6 @@
         culture = yankee
         religion = animist
         size = 1053
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 229
     }
 
     farmers = {
@@ -3826,12 +3532,6 @@
         size = 618
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 183
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -3854,12 +3554,6 @@
         culture = yankee
         religion = animist
         size = 46
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 9
     }
 
     farmers = {
@@ -3913,19 +3607,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 22
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 433
+        size = 687
     }
 }
 #Joplin (25000/5000 POPS)
@@ -3942,16 +3624,16 @@
         size = 229
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 46
-    }
-
     farmers = {
         culture = yankee
         religion = animist
         size = 4232
+    }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 46
     }
 }
 #Malden (40000/10000 POPS)
@@ -3966,12 +3648,6 @@
         culture = yankee
         religion = animist
         size = 90
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 23
     }
 
     farmers = {
@@ -3996,12 +3672,6 @@
         culture = yankee
         religion = animist
         size = 275
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 69
     }
 
     farmers = {
@@ -4037,19 +3707,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 34
+        size = 129
     }
 }
 #Jefferson City (56000/14000 POPS)
@@ -4076,12 +3734,6 @@
         culture = yankee
         religion = animist
         size = 269
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 69
     }
 
     farmers = {
@@ -4120,12 +3772,6 @@
         size = 183
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 69
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -4159,31 +3805,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 100
+        size = 180
     }
 }
 #Kansas City (56000/14000 POPS)
@@ -4198,12 +3820,6 @@
         culture = yankee
         religion = animist
         size = 359
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 69
     }
 
     farmers = {
@@ -4228,12 +3844,6 @@
         culture = yankee
         religion = animist
         size = 206
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 46
     }
 
     farmers = {
@@ -4269,19 +3879,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 7
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 137
+        size = 260
     }
 }
 #Iowa Region (44000)
@@ -4304,12 +3902,6 @@
         culture = yankee
         religion = animist
         size = 45
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 23
     }
 
     farmers = {
@@ -4336,12 +3928,6 @@
         size = 92
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
@@ -4351,13 +3937,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 16
+        size = 40
     }
 }
 #Oskaloosa (8000/2000 POPS)
@@ -4374,12 +3954,6 @@
         size = 90
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -4389,19 +3963,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 34
+        size = 60
     }
 }
 #Cedar Rapids (16000/4000 POPS)
@@ -4416,12 +3978,6 @@
         culture = yankee
         religion = animist
         size = 135
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 23
     }
 
     farmers = {
@@ -4448,12 +4004,6 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
@@ -4463,19 +4013,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 51
+        size = 92
     }
 }
 #Sioux City (8000/2000 POPS)
@@ -4498,16 +4036,16 @@
         size = 92
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 1647
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 23
     }
 }
 #Minnesota Region (32000)
@@ -4532,12 +4070,6 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
@@ -4562,16 +4094,16 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 824
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 28
     }
 }
 #Granite Falls (8000/2000 POPS)
@@ -4594,16 +4126,16 @@
         size = 92
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 1647
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 23
     }
 }
 #Moorhead (8000/2000 POPS)
@@ -4626,12 +4158,6 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
@@ -4656,16 +4182,16 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 824
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 28
     }
 }
 #Duluth (8000/2000 POPS)
@@ -4688,16 +4214,16 @@
         size = 92
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 1647
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 23
     }
 }
 #Wisconsin Region (36000)
@@ -4716,12 +4242,6 @@
         size = 179
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 46
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -4731,19 +4251,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 4
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 68
+        size = 119
     }
 }
 #Eau Claire (4000/1000 POPS)
@@ -4766,16 +4274,16 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 824
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 14
     }
 }
 #Green Bay (8000/2000 POPS)
@@ -4790,12 +4298,6 @@
         culture = yankee
         religion = animist
         size = 45
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 23
     }
 
     farmers = {
@@ -4822,12 +4324,6 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
@@ -4837,13 +4333,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 16
+        size = 54
     }
 }
 #Madison (8000/2000 POPS)
@@ -4866,12 +4356,6 @@
         size = 90
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -4881,19 +4365,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 34
+        size = 60
     }
 }
 #Illinois Region (452000)
@@ -4912,12 +4384,6 @@
         size = 1928
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 412
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -4927,19 +4393,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 39
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 735
+        size = 1191
     }
 }
 #Rockford (44000/11000 POPS)
@@ -4956,12 +4410,6 @@
         size = 493
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 114
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -4971,19 +4419,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 10
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 188
+        size = 314
     }
 }
 #Champaign (36000/9000 POPS)
@@ -5000,12 +4436,6 @@
         size = 404
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 92
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -5015,19 +4445,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 8
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 154
+        size = 255
     }
 }
 #Peoria (100000/25000 POPS)
@@ -5044,12 +4462,6 @@
         size = 1121
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 229
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -5059,19 +4471,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 23
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 427
+        size = 682
     }
 }
 #Springfield (36000/9000 POPS)
@@ -5100,12 +4500,6 @@
         size = 404
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 92
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -5115,31 +4509,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 8
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 148
+        size = 257
     }
 }
 #Carbondale (68000/17000 POPS)
@@ -5154,12 +4524,6 @@
         culture = yankee
         religion = animist
         size = 717
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 160
     }
 
     farmers = {
@@ -5189,19 +4553,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 15
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 274
+        size = 451
     }
 }
 #Indiana Region (644000)
@@ -5232,12 +4584,6 @@
         size = 2870
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 595
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -5265,31 +4611,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 7
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 59
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1176
+        size = 1253
     }
 }
 #Evansville (196000/49000 POPS)
@@ -5304,12 +4626,6 @@
         culture = yankee
         religion = animist
         size = 2062
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 412
     }
 
     farmers = {
@@ -5357,19 +4673,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 6
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 42
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 786
+        size = 834
     }
 }
 #South Bend (44000/11000 POPS)
@@ -5386,12 +4690,6 @@
         size = 493
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 114
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -5401,19 +4699,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 10
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 188
+        size = 313
     }
 }
 #Fort Wayne (128000/32000 POPS)
@@ -5430,12 +4716,6 @@
         size = 1435
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 297
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -5445,19 +4725,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 29
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 546
+        size = 877
     }
 }
 #Michigan Region (148000)
@@ -5488,12 +4756,6 @@
         size = 807
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 92
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -5510,12 +4772,6 @@
         culture = yankee
         religion = animist
         size = 45
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 9
     }
 
     farmers = {
@@ -5545,43 +4801,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 16
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 308
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 17
+        size = 447
     }
 }
 #Grand Rapids (POPS)
@@ -5598,12 +4818,6 @@
         size = 269
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 69
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -5613,19 +4827,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 102
+        size = 178
     }
 }
 #Saginaw (POPS)
@@ -5642,12 +4844,6 @@
         size = 179
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 46
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -5657,19 +4853,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 4
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 68
+        size = 119
     }
 }
 #Traverse City (POPS)
@@ -5684,12 +4868,6 @@
         culture = yankee
         religion = animist
         size = 90
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 23
     }
 
     farmers = {
@@ -5716,12 +4894,6 @@
         size = 46
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 14
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
@@ -5731,19 +4903,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 34
+        size = 74
     }
 }
 #Marquette (POPS)
@@ -5758,12 +4918,6 @@
         culture = yankee
         religion = animist
         size = 45
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 14
     }
 
     farmers = {
@@ -5790,12 +4944,6 @@
         size = 92
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
@@ -5805,13 +4953,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 17
+        size = 55
     }
 }
 #Ohio Region (1344000)
@@ -5834,12 +4976,6 @@
         culture = yankee
         religion = animist
         size = 2018
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 412
     }
 
     farmers = {
@@ -5869,19 +5005,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 6
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 41
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 768
+        size = 1227
     }
 }
 #Columbus (268000/67000 POPS)
@@ -5908,12 +5032,6 @@
         culture = yankee
         religion = animist
         size = 2242
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 458
     }
 
     farmers = {
@@ -5961,31 +5079,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 12
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 7
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 46
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 838
+        size = 1366
     }
 }
 #Sandusky (188000/47000 POPS)
@@ -6000,12 +5094,6 @@
         culture = yankee
         religion = animist
         size = 1659
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 343
     }
 
     farmers = {
@@ -6035,19 +5123,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 34
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 632
+        size = 1014
     }
 }
 #Dayton (224000/56000 POPS)
@@ -6062,12 +5138,6 @@
         culture = yankee
         religion = animist
         size = 2197
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 458
     }
 
     farmers = {
@@ -6097,19 +5167,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 6
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 45
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 837
+        size = 1346
     }
 }
 #Cincinnati (296000/74000 POPS)
@@ -6124,12 +5182,6 @@
         culture = yankee
         religion = animist
         size = 2376
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 480
     }
 
     farmers = {
@@ -6195,19 +5247,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 7
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 48
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 905
+        size = 1440
     }
 }
 #Marietta (160000/40000 POPS)
@@ -6222,12 +5262,6 @@
         culture = yankee
         religion = animist
         size = 1749
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 366
     }
 
     farmers = {
@@ -6257,19 +5291,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 36
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 667
+        size = 1074
     }
 }
 #Kentucky Region (740000)
@@ -6286,12 +5308,6 @@
         culture = yankee
         religion = animist
         size = 628
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 137
     }
 
     farmers = {
@@ -6336,12 +5352,6 @@
         size = 320
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 183
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -6375,19 +5385,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 13
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 239
+        size = 574
     }
 }
 #Lexington (332000/83000 POPS)
@@ -6414,12 +5412,6 @@
         culture = yankee
         religion = animist
         size = 2107
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 435
     }
 
     farmers = {
@@ -6458,12 +5450,6 @@
         size = 869
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 320
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -6497,31 +5483,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 6
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 43
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 801
+        size = 1605
     }
 }
 #Bowling Green (144000/36000 POPS)
@@ -6536,12 +5498,6 @@
         culture = yankee
         religion = animist
         size = 583
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 114
     }
 
     farmers = {
@@ -6566,12 +5522,6 @@
         culture = yankee
         religion = animist
         size = 480
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 206
     }
 
     farmers = {
@@ -6607,19 +5557,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 12
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 222
+        size = 556
     }
 }
 #Paducah (108000/27000 POPS)
@@ -6634,12 +5572,6 @@
         culture = yankee
         religion = animist
         size = 224
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 46
     }
 
     farmers = {
@@ -6664,12 +5596,6 @@
         culture = yankee
         religion = animist
         size = 503
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 206
     }
 
     farmers = {
@@ -6705,19 +5631,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 85
+        size = 340
     }
 }
 #Tennessee Region (772000)
@@ -6746,12 +5660,6 @@
         culture = yankee
         religion = animist
         size = 1614
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 320
     }
 
     farmers = {
@@ -6790,12 +5698,6 @@
         size = 2837
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1830
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -6829,31 +5731,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 4
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 33
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 522
+        size = 2715
     }
 }
 #Memphis (128000/32000 POPS)
@@ -6868,12 +5746,6 @@
         culture = yankee
         religion = animist
         size = 359
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 69
     }
 
     farmers = {
@@ -6898,12 +5770,6 @@
         culture = yankee
         religion = animist
         size = 732
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 275
     }
 
     farmers = {
@@ -6939,19 +5805,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 7
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 119
+        size = 471
     }
 }
 #Knoxville (116000/29000 POPS)
@@ -6966,12 +5820,6 @@
         culture = yankee
         religion = animist
         size = 314
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 69
     }
 
     farmers = {
@@ -6996,12 +5844,6 @@
         culture = yankee
         religion = animist
         size = 435
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 206
     }
 
     farmers = {
@@ -7055,19 +5897,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 6
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 102
+        size = 384
     }
 }
 #Chattanooga (132000/33000 POPS)
@@ -7082,12 +5912,6 @@
         culture = yankee
         religion = animist
         size = 359
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 69
     }
 
     farmers = {
@@ -7112,12 +5936,6 @@
         culture = yankee
         religion = animist
         size = 755
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 183
     }
 
     farmers = {
@@ -7186,12 +6004,6 @@
         size = 92
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
@@ -7201,19 +6013,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 7
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 119
+        size = 442
     }
 }
 #Mississippi Region (340000)
@@ -7250,12 +6050,6 @@
         size = 1510
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 366
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -7285,6 +6079,12 @@
         religion = animist
         size = 16150
     }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 366
+    }
 }
 #Vicksburg (100000/25000 POPS)
 193 = {
@@ -7304,12 +6104,6 @@
         culture = yankee
         religion = animist
         size = 1007
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 229
     }
 
     farmers = {
@@ -7341,6 +6135,12 @@
         religion = animist
         size = 12536
     }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 229
+    }
 }
 #Biloxi (76000/19000 POPS)
 194 = {
@@ -7360,12 +6160,6 @@
         culture = yankee
         religion = animist
         size = 732
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 183
     }
 
     farmers = {
@@ -7396,6 +6190,12 @@
         culture = afro_american
         religion = animist
         size = 8967
+    }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 183
     }
 }
 #Alabama Region (576000)
@@ -7432,12 +6232,6 @@
         size = 1510
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1830
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -7460,12 +6254,6 @@
         culture = yankee
         religion = animist
         size = 92
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 23
     }
 
     farmers = {
@@ -7497,6 +6285,12 @@
         religion = animist
         size = 21503
     }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 1853
+    }
 }
 #Tuscaloosa (168000/42000 POPS)
 196 = {
@@ -7516,12 +6310,6 @@
         culture = yankee
         religion = animist
         size = 1007
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 389
     }
 
     farmers = {
@@ -7553,6 +6341,12 @@
         religion = animist
         size = 14000
     }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 389
+    }
 }
 #Mobile (140000/35000 POPS)
 197 = {
@@ -7572,12 +6366,6 @@
         culture = yankee
         religion = animist
         size = 549
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 297
     }
 
     farmers = {
@@ -7602,12 +6390,6 @@
         culture = yankee
         religion = animist
         size = 92
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 23
     }
 
     farmers = {
@@ -7638,6 +6420,12 @@
         culture = afro_american
         religion = animist
         size = 16150
+    }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 320
     }
 }
 #Florida Region (88000)
@@ -7674,12 +6462,6 @@
         size = 160
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 69
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -7709,6 +6491,12 @@
         religion = animist
         size = 3569
     }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 69
+    }
 }
 #St Augustine (48000/12000 POPS)
 199 = {
@@ -7728,12 +6516,6 @@
         culture = yankee
         religion = animist
         size = 297
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 114
     }
 
     farmers = {
@@ -7765,6 +6547,12 @@
         religion = animist
         size = 3569
     }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 114
+    }
 }
 #Tampa (8000/2000 POPS)
 200 = {
@@ -7786,16 +6574,16 @@
         size = 92
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 1647
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 23
     }
 }
 #Georgia Region (628000)
@@ -7830,12 +6618,6 @@
         culture = yankee
         religion = animist
         size = 1212
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 3660
     }
 
     farmers = {
@@ -7886,16 +6668,16 @@
         size = 137
     }
 
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = native_american_minor
         religion = animist
         size = 2539
+    }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 3683
     }
 }
 #Valdosta (44000/11000 POPS)
@@ -7930,12 +6712,6 @@
         size = 252
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 114
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -7965,6 +6741,12 @@
         religion = animist
         size = 3569
     }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 114
+    }
 }
 #Savannah (200000/50000 POPS)
 204 = {
@@ -7984,12 +6766,6 @@
         culture = yankee
         religion = animist
         size = 1075
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 458
     }
 
     farmers = {
@@ -8021,6 +6797,12 @@
         religion = animist
         size = 18735
     }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 458
+    }
 }
 #Augusta (140000/35000 POPS)
 2555 = {
@@ -8040,12 +6822,6 @@
         culture = yankee
         religion = animist
         size = 663
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 320
     }
 
     farmers = {
@@ -8077,6 +6853,12 @@
         religion = animist
         size = 12490
     }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 320
+    }
 }
 #South Carolina Region (588000)
 #ruled by the USA
@@ -8098,12 +6880,6 @@
         culture = yankee
         religion = animist
         size = 1007
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1830
     }
 
     farmers = {
@@ -8141,6 +6917,12 @@
         religion = animist
         size = 32300
     }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 1830
+    }
 }
 #Columbia (340000/85000 POPS)
 206 = {
@@ -8174,12 +6956,6 @@
         size = 1533
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1830
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -8209,6 +6985,12 @@
         religion = animist
         size = 38843
     }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 1830
+    }
 }
 #North Carolina Region (736000)
 #ruled by the USA
@@ -8230,12 +7012,6 @@
         culture = yankee
         religion = animist
         size = 686
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 252
     }
 
     farmers = {
@@ -8266,6 +7042,12 @@
         culture = afro_american
         religion = animist
         size = 6954
+    }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 252
     }
 }
 #Raleigh (156000/39000 POPS)
@@ -8300,12 +7082,6 @@
         size = 1052
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 366
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -8335,6 +7111,12 @@
         religion = animist
         size = 8601
     }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 366
+    }
 }
 #Charlotte (136000/34000 POPS)
 209 = {
@@ -8354,12 +7136,6 @@
         culture = yankee
         religion = animist
         size = 686
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 320
     }
 
     farmers = {
@@ -8391,6 +7167,12 @@
         religion = animist
         size = 13176
     }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 320
+    }
 }
 #Wilmington (188000/47000 POPS)
 210 = {
@@ -8410,12 +7192,6 @@
         culture = yankee
         religion = animist
         size = 1052
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 435
     }
 
     farmers = {
@@ -8447,6 +7223,12 @@
         religion = animist
         size = 15967
     }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 435
+    }
 }
 #Asheville (148000/37000 POPS)
 2556 = {
@@ -8466,12 +7248,6 @@
         culture = yankee
         religion = animist
         size = 1235
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 343
     }
 
     farmers = {
@@ -8502,6 +7278,12 @@
         culture = afro_american
         religion = animist
         size = 8510
+    }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 343
     }
 }
 #Virginia Region (1016000)
@@ -8538,12 +7320,6 @@
         size = 2105
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1830
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -8573,6 +7349,12 @@
         religion = animist
         size = 25621
     }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 1830
+    }
 }
 #Manassas (68000/17000 POPS)
 212 = {
@@ -8592,12 +7374,6 @@
         culture = yankee
         religion = animist
         size = 229
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 137
     }
 
     farmers = {
@@ -8629,6 +7405,12 @@
         religion = animist
         size = 8922
     }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 137
+    }
 }
 #Fredericksburg (116000/29000 POPS)
 213 = {
@@ -8648,12 +7430,6 @@
         culture = yankee
         religion = animist
         size = 549
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 252
     }
 
     farmers = {
@@ -8685,6 +7461,12 @@
         religion = animist
         size = 11781
     }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 252
+    }
 }
 #Norfolk (108000/27000 POPS)
 214 = {
@@ -8704,12 +7486,6 @@
         culture = yankee
         religion = animist
         size = 160
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 69
     }
 
     farmers = {
@@ -8734,12 +7510,6 @@
         culture = yankee
         religion = animist
         size = 458
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 160
     }
 
     farmers = {
@@ -8771,6 +7541,12 @@
         religion = animist
         size = 9356
     }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 229
+    }
 }
 #Staunton (60000/15000 POPS)
 215 = {
@@ -8790,12 +7566,6 @@
         culture = yankee
         religion = animist
         size = 297
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 137
     }
 
     farmers = {
@@ -8827,6 +7597,12 @@
         religion = animist
         size = 5856
     }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 137
+    }
 }
 #Roanoke (120000/30000 POPS)
 216 = {
@@ -8846,12 +7622,6 @@
         culture = yankee
         religion = animist
         size = 595
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 275
     }
 
     farmers = {
@@ -8883,6 +7653,12 @@
         religion = animist
         size = 12147
     }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 275
+    }
 }
 #became West Virginia in 1863
 #Wheeling (104000/26000 POPS)
@@ -8911,12 +7687,6 @@
         size = 458
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 160
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -8939,12 +7709,6 @@
         culture = yankee
         religion = animist
         size = 183
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 46
     }
 
     farmers = {
@@ -8976,6 +7740,12 @@
         religion = animist
         size = 7320
     }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 206
+    }
 }
 #Huntington (100000/25000 POPS)
 218 = {
@@ -8995,12 +7765,6 @@
         culture = yankee
         religion = animist
         size = 458
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 160
     }
 
     farmers = {
@@ -9025,12 +7789,6 @@
         culture = yankee
         religion = animist
         size = 114
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 46
     }
 
     farmers = {
@@ -9062,6 +7820,12 @@
         religion = animist
         size = 6405
     }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 206
+    }
 }
 #Maryland Region (452000)
 #ruled by the USA
@@ -9071,12 +7835,6 @@
         culture = yankee
         religion = animist
         size = 480
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 9150
     }
 
     bureaucrats = {
@@ -9107,12 +7865,6 @@
         culture = yankee
         religion = animist
         size = 3386
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 458
     }
 
     farmers = {
@@ -9150,6 +7902,12 @@
         religion = animist
         size = 20680
     }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 9608
+    }
 }
 #Washington (184000/46000 POPS)
 220 = {
@@ -9181,12 +7939,6 @@
         culture = yankee
         religion = animist
         size = 915
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 412
     }
 
     farmers = {
@@ -9224,6 +7976,12 @@
         religion = animist
         size = 23791
     }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 412
+    }
 }
 #Hagerstown (56000/14000 POPS)
 221 = {
@@ -9249,12 +8007,6 @@
         culture = yankee
         religion = animist
         size = 275
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 137
     }
 
     farmers = {
@@ -9291,6 +8043,12 @@
         culture = afro_american
         religion = animist
         size = 5490
+    }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 137
     }
 }
 #Delaware Region (76000)
@@ -9333,12 +8091,6 @@
         size = 458
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 114
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -9373,6 +8125,12 @@
         culture = afro_american
         religion = animist
         size = 458
+    }
+
+    soldiers = {
+        culture = yankee
+        religion = animist
+        size = 114
     }
 }
 #Pennsylvania Region (1536000)
@@ -9421,12 +8179,6 @@
         size = 663
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 10797
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -9467,12 +8219,6 @@
         culture = yankee
         religion = animist
         size = 1834
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 160
     }
 
     farmers = {
@@ -9532,97 +8278,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 33
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 10
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 22
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 183
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 14
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1225
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 38
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 282
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 9
+        size = 12989
     }
 }
 #Scranton (164000/41000 POPS)
@@ -9639,12 +8295,6 @@
         size = 1838
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 389
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -9654,19 +8304,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 38
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 700
+        size = 1132
     }
 }
 #Williamsport (172000/43000 POPS)
@@ -9683,12 +8321,6 @@
         size = 1928
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 389
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -9698,19 +8330,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 6
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 39
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 734
+        size = 1168
     }
 }
 #Harrisburg (292000/73000 POPS)
@@ -9727,12 +8347,6 @@
         size = 3273
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1830
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -9742,19 +8356,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 10
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 67
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1222
+        size = 3129
     }
 }
 #Pittsburgh (332000/83000 POPS)
@@ -9769,12 +8371,6 @@
         culture = yankee
         religion = animist
         size = 2466
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 503
     }
 
     farmers = {
@@ -9793,12 +8389,6 @@
         culture = yankee
         religion = animist
         size = 807
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 160
     }
 
     farmers = {
@@ -9846,37 +8436,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 7
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 50
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 939
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 16
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 307
+        size = 2091
     }
 }
 #Erie (108000/27000 POPS)
@@ -9893,12 +8453,6 @@
         size = 1211
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 252
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -9908,19 +8462,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 4
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 25
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 461
+        size = 742
     }
 }
 #New Jersey Region (340000)
@@ -9939,12 +8481,6 @@
         size = 1390
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 297
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -9961,12 +8497,6 @@
         culture = yankee
         religion = animist
         size = 179
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 46
     }
 
     farmers = {
@@ -9996,37 +8526,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 4
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 28
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 530
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 4
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 68
+        size = 907
     }
 }
 #Trenton (96000/24000 POPS)
@@ -10053,12 +8553,6 @@
         culture = yankee
         religion = animist
         size = 942
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 206
     }
 
     farmers = {
@@ -10091,12 +8585,6 @@
         size = 135
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -10106,55 +8594,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 4
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 19
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 386
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 50
+        size = 488
     }
 }
 #Atlantic City (88000/22000 POPS)
@@ -10171,12 +8611,6 @@
         size = 986
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 206
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -10186,19 +8620,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 20
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 376
+        size = 605
     }
 }
 #New York Region (2140000)
@@ -10239,12 +8661,6 @@
         culture = yankee
         religion = animist
         size = 8967
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 9150
     }
 
     farmers = {
@@ -10322,103 +8738,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 13
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 6
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 280
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 183
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 183
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 183
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 183
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 183
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 154
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1558
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 9
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 64
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 16
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 9
+        size = 12515
     }
 }
 #Islip (100000/25000 POPS)
@@ -10435,12 +8755,6 @@
         size = 1121
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 229
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -10450,19 +8764,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 4
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 23
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 427
+        size = 683
     }
 }
 #Albany (332000/83000 POPS)
@@ -10489,12 +8791,6 @@
         culture = yankee
         religion = animist
         size = 2802
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1830
     }
 
     farmers = {
@@ -10527,12 +8823,6 @@
         size = 224
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 46
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -10542,61 +8832,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 33
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 9
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 12
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 58
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1296
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 82
+        size = 3394
     }
 }
 #Binghamton (352000/88000 POPS)
@@ -10613,12 +8849,6 @@
         size = 3946
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1830
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -10628,19 +8858,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 12
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 81
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1482
+        size = 3405
     }
 }
 #Buffalo (244000/61000 POPS)
@@ -10657,12 +8875,6 @@
         size = 2735
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 572
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -10672,19 +8884,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 8
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 56
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1041
+        size = 1677
     }
 }
 #Rochester (176000/44000 POPS)
@@ -10701,12 +8901,6 @@
         size = 1973
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 412
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -10716,19 +8910,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 6
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 40
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 751
+        size = 1209
     }
 }
 #Syracuse (304000/76000 POPS)
@@ -10745,12 +8927,6 @@
         size = 3408
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1830
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -10760,19 +8936,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 10
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 70
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1276
+        size = 3186
     }
 }
 #Watertown (116000/29000 POPS)
@@ -10789,12 +8953,6 @@
         size = 1300
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 275
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -10804,19 +8962,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 27
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 495
+        size = 802
     }
 }
 #Plattsburgh (76000/19000 POPS)
@@ -10833,12 +8979,6 @@
         size = 852
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 183
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -10848,19 +8988,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 17
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 325
+        size = 528
     }
 }
 #Connecticut Region (304000)
@@ -10909,12 +9037,6 @@
         size = 2735
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1830
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -10942,43 +9064,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 10
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 10
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 56
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1218
+        size = 3100
     }
 }
 #Rhode Island Region (104000)
@@ -11027,12 +9113,6 @@
         size = 3743
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 229
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -11060,49 +9140,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 4
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 14
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 77
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 357
+        size = 670
     }
 }
 #Massachusetts Region (660000)
@@ -11175,12 +9213,6 @@
         size = 1579
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 9150
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -11211,12 +9243,6 @@
         size = 2645
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 69
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -11244,103 +9270,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 6
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 13
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 16
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 261
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 183
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 183
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 183
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 183
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 182
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 405
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 20
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 54
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 53
+        size = 10670
     }
 }
 #New Bedford (132000/33000 POPS)
@@ -11367,12 +9297,6 @@
         culture = yankee
         religion = animist
         size = 1008
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 275
     }
 
     farmers = {
@@ -11402,31 +9326,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 21
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 495
+        size = 797
     }
 }
 #Pittsfield (84000/21000 POPS)
@@ -11443,12 +9343,6 @@
         size = 942
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 206
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -11458,19 +9352,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 19
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 359
+        size = 587
     }
 }
 #Vermont Region (284000)
@@ -11501,12 +9383,6 @@
         size = 2825
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 595
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -11525,12 +9401,6 @@
         size = 359
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 69
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -11540,49 +9410,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 9
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 58
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1065
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 7
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 137
+        size = 1950
     }
 }
 #New Hampshire Region (276000)
@@ -11599,12 +9427,6 @@
         culture = yankee
         religion = animist
         size = 67
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 9150
     }
 
     clerks = {
@@ -11631,12 +9453,6 @@
         size = 2622
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1830
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -11646,43 +9462,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 9
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 21
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 54
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1138
+        size = 12217
     }
 }
 #Maine Region (432000)
@@ -11713,12 +9493,6 @@
         size = 2690
     }
 
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 549
-    }
-
     farmers = {
         culture = yankee
         religion = animist
@@ -11728,31 +9502,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 4
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 8
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 55
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 1019
+        size = 1637
     }
 }
 #Bangor (156000/44000 POPS)
@@ -11767,12 +9517,6 @@
         culture = yankee
         religion = animist
         size = 1704
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 343
     }
 
     farmers = {
@@ -11793,12 +9537,6 @@
         size = 275
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 69
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
@@ -11808,19 +9546,7 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 35
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 650
+        size = 1102
     }
 }
 #ruled by the UK
@@ -11836,12 +9562,6 @@
         culture = yankee
         religion = animist
         size = 224
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 46
     }
 
     farmers = {
@@ -11862,12 +9582,6 @@
         size = 183
     }
 
-    soldiers = {
-        culture = anglo_canadian
-        religion = animist
-        size = 23
-    }
-
     farmers = {
         culture = anglo_canadian
         religion = animist
@@ -11877,18 +9591,6 @@
     soldiers = {
         culture = yankee
         religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = yankee
-        religion = animist
-        size = 85
+        size = 161
     }
 }

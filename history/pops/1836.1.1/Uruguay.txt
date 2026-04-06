@@ -35,13 +35,13 @@
     soldiers = {
         culture = platinean
         religion = animist
-        size = 721
+        size = 3737
     }
 
     farmers = {
         culture = platinean
         religion = animist
-        size = 13163
+        size = 10163
     }
 
     clergymen = {
@@ -54,12 +54,6 @@
         culture = afro_caribeno
         religion = animist
         size = 82
-    }
-
-    soldiers = {
-        culture = afro_caribeno
-        religion = animist
-        size = 16
     }
 
     farmers = {
@@ -97,13 +91,13 @@
     soldiers = {
         culture = platinean
         religion = animist
-        size = 721
+        size = 3721
     }
 
     farmers = {
         culture = platinean
         religion = animist
-        size = 4765
+        size = 1965
     }
 }
 #Tacumba (12000/3000 POPS)
@@ -129,7 +123,7 @@
     soldiers = {
         culture = platinean
         religion = animist
-        size = 16
+        size = 19
     }
 
     farmers = {
@@ -148,12 +142,6 @@
         culture = brazilian
         religion = animist
         size = 16
-    }
-
-    soldiers = {
-        culture = brazilian
-        religion = animist
-        size = 3
     }
 
     farmers = {
@@ -185,7 +173,7 @@
     soldiers = {
         culture = platinean
         religion = animist
-        size = 721
+        size = 729
     }
 
     farmers = {
@@ -204,12 +192,6 @@
         culture = brazilian
         religion = animist
         size = 49
-    }
-
-    soldiers = {
-        culture = brazilian
-        religion = animist
-        size = 8
     }
 
     farmers = {

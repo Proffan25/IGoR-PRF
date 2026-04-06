@@ -32,12 +32,6 @@
         size = 2716
     }
 
-    soldiers = {
-        culture = central_american
-        religion = animist
-        size = 2213
-    }
-
     farmers = {
         culture = central_american
         religion = animist
@@ -56,16 +50,16 @@
         size = 2485
     }
 
-    soldiers = {
-        culture = mayan
-        religion = animist
-        size = 503
-    }
-
     farmers = {
         culture = mayan
         religion = animist
-        size = 46453
+        size = 45453
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = animist
+        size = 3716
     }
 }
 #Quetzaltenango (112000/28000 POPS)
@@ -88,12 +82,6 @@
         size = 704
     }
 
-    soldiers = {
-        culture = central_american
-        religion = animist
-        size = 2213
-    }
-
     farmers = {
         culture = central_american
         religion = animist
@@ -112,16 +100,16 @@
         size = 1243
     }
 
-    soldiers = {
-        culture = mayan
-        religion = animist
-        size = 266
-    }
-
     farmers = {
         culture = mayan
         religion = animist
         size = 23226
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = animist
+        size = 2479
     }
 }
 #Puerto Barrios (72000/18000 POPS)
@@ -144,12 +132,6 @@
         size = 604
     }
 
-    soldiers = {
-        culture = central_american
-        religion = animist
-        size = 150
-    }
-
     farmers = {
         culture = central_american
         religion = animist
@@ -168,16 +150,16 @@
         size = 710
     }
 
-    soldiers = {
-        culture = mayan
-        religion = animist
-        size = 148
-    }
-
     farmers = {
         culture = mayan
         religion = animist
         size = 13285
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = animist
+        size = 298
     }
 }
 #Sayaxche (16000/4000 POPS)
@@ -200,12 +182,6 @@
         size = 101
     }
 
-    soldiers = {
-        culture = central_american
-        religion = animist
-        size = 20
-    }
-
     farmers = {
         culture = central_american
         religion = animist
@@ -224,15 +200,15 @@
         size = 178
     }
 
-    soldiers = {
-        culture = mayan
-        religion = animist
-        size = 30
-    }
-
     farmers = {
         culture = mayan
         religion = animist
         size = 3314
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = animist
+        size = 50
     }
 }

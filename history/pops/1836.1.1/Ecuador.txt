@@ -32,16 +32,10 @@
         size = 4022
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 750
-    }
-
     farmers = {
         culture = andean
         religion = animist
-        size = 14723
+        size = 11723
     }
 
     clergymen = {
@@ -56,16 +50,16 @@
         size = 2795
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 750
-    }
-
     farmers = {
         culture = andean
         religion = animist
-        size = 27077
+        size = 28377
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 3200
     }
 }
 #Zamora (176000/44000 POPS)
@@ -88,18 +82,6 @@
         size = 307
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 68
-    }
-
-    farmers = {
-        culture = andean
-        religion = animist
-        size = 4959
-    }
-
     clergymen = {
         culture = andean
         religion = animist
@@ -112,16 +94,16 @@
         size = 1193
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 750
-    }
-
     farmers = {
         culture = andean
         religion = animist
-        size = 21658
+        size = 24235
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 3200
     }
 }
 #Tena (32000/8000 POPS)
@@ -142,12 +124,6 @@
         culture = andean
         religion = animist
         size = 102
-    }
-
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 68
     }
 
     farmers = {
@@ -197,6 +173,12 @@
         religion = animist
         size = 1840
     }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 68
+    }
 }
 #Guayaquil Region (328000)
 #Ruled by Ecuador 1836
@@ -232,12 +214,6 @@
         size = 579
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 119
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -256,12 +232,6 @@
         size = 102
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 34
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -272,6 +242,12 @@
         culture = andean
         religion = animist
         size = 750
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 153
     }
 }
 #Esmereldas (88000/22000 POPS)
@@ -294,12 +270,6 @@
         size = 239
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 51
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -318,12 +288,6 @@
         size = 511
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 102
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -334,6 +298,12 @@
         culture = andean
         religion = animist
         size = 5453
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 153
     }
 }
 #Loja (160000/40000 POPS)
@@ -356,12 +326,6 @@
         size = 511
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 102
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -380,16 +344,16 @@
         size = 852
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 170
-    }
-
     farmers = {
         culture = andean
         religion = animist
         size = 15950
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 272
     }
 }
 #Galapagos Region (300)
@@ -414,16 +378,16 @@
         size = 2
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 17
-    }
-
     farmers = {
         culture = andean
         religion = animist
         size = 30
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 17
     }
 }
 #"Ruled" by Ecuador 1836
@@ -447,16 +411,16 @@
         size = 102
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 17
-    }
-
     farmers = {
         culture = andean
         religion = animist
         size = 1840
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 17
     }
 }
 #Yuncos (12000/3000 POPS)
@@ -479,16 +443,16 @@
         size = 102
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 17
-    }
-
     farmers = {
         culture = andean
         religion = animist
         size = 1840
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 17
     }
 }
 #Puca Urco (12000/3000 POPS)
@@ -511,15 +475,15 @@
         size = 102
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 17
-    }
-
     farmers = {
         culture = andean
         religion = animist
         size = 1840
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 17
     }
 }

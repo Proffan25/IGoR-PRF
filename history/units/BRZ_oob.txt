@@ -1,125 +1,201 @@
-CHL = {
-	value = -200		#relation
-}
-
 leader = {
-	name = "Manuel Blanco"
-	picture = aus_gen_windischgraetz
-	date = 1826.1.1
+	name = "Manuel Marques de Sousa"
+	date = 1830.1.1
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.3
 }
 leader = {
-	name = "Jose Joaquú‹ Prieto"
-	picture = aus_gen_rukavina
-	date = 1829.1.1
+	name = "Luís Alves de Lima e Silva"
+	date = 1830.1.1
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.2
 }
 leader = {
-	name = "Manuel Bulnes"
-	picture = aus_gen_nugent
-	date = 1815.1.1
+	name = "Miguel de Frias e Vasconcelos"
+	date = 1830.1.1
 	type = land
 	personality = defence_1.1
 	background = attack_1.1
-	prestige = 0.3
+}
+leader = {
+	name = "João Propício de Menna Barreto"
+	date = 1830.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "João Frederico Caldwell"
+	date = 1830.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "José Maria da Silva Bittencourt"
+	date = 1830.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Manuel Luís Osório"
+	date = 1830.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Manuel da Fonseca de Lima e Silva"
+	date = 1830.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Frederico Mariath"
+	date = 1830.1.1
+	type = sea
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Joaquim Marques Lisboa"
+	date = 1830.1.1
+	type = sea
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Francisco Manuel Barroso"
+	date = 1830.1.1
+	type = sea
+	personality = defence_1.1
+	background = attack_1.1
 }
 
 army = {
-	name = "1. Army"
-	location = 2424
+	name = "Exército Brasileiro"
+	location = 2451
 	regiment = {
-		name= "1. División de Infanteru"
-		type = infantry
-		home = 2426
-	}
-
-	regiment = {
-		name= "2. División de Infanteru"
-		type = infantry
-		home = 2429
-	}
-
-	regiment = {
-		name= "3. División de Infanteru"
-		type = infantry
-		home = 2434
-	}
-
-	regiment = {
-		name= "4. División de Infanteru"
+		name= "1. Divisão de Infantaria"
 		type = infantry
 		home = 2436
 	}
-	
 	regiment = {
-		name= "1. Hussar"
+		name= "2. Divisão de Infantaria"
+		type = infantry
+		home = 2436
+	}
+	regiment = {
+		name= "3. Divisão de Infantaria"
+		type = infantry
+		home = 2436
+	}
+	regiment = {
+		name= "4. Divisão de Infantaria"
+		type = infantry
+		home = 2448
+	}	
+	regiment = {
+		name= "1. Divisão de Cavalaria"
 		type = hussar
+		home = 2447
+	}	
+	regiment = {
+		name= "1. Divisão de Artilharia"
+		type = artillery
+		home = 2447
+	}	
+	regiment = {
+		name= "2. Divisão de Artilharia"
+		type = artillery
+		home = 2447
+	}	
+	regiment = {
+		name= "3. Divisão de Artilharia"
+		type = artillery
 		home = 2441
-	}
-	
+	}	
 	regiment = {
-		name= "1. Artillery"
+		name= "4. Divisão de Artilharia"
 		type = artillery
-		home = 2447
-	}
-	
+		home = 2450
+	}	
 	regiment = {
-		name= "2. Artillery"
+		name= "5. Divisão de Artilharia"
 		type = artillery
-		home = 2447
+		home = 2448
 	}
-	
-	regiment = {
-		name= "3. Artillery"
-		type = artillery
-		home = 2447
-	}
-	
-	regiment = {
-		name= "4. Artillery"
-		type = artillery
-		home = 2447
-	}
-	
-	regiment = {
-		name= "5. Artillery"
-		type = artillery
-		home = 2447
-	}
-
 }
 
-army = {
-	name = "2. Army"
-	location = 2463
-	regiment = {
-		name= "1. División de Infanteru"
-		type = infantry
-		home = 2447
-	}
-	
-	regiment = {
-		name= "1. Hussar"
-		type = hussar
-		home = 2450
-	}
-	
-	regiment = {
-		name= "1. Artillery"
-		type = artillery
-		home = 2457
-	}
-	
-	regiment = {
-		name= "1. Artillery"
-		type = artillery
-		home = 2463
-	}
-
+navy = {
+    name = "Armada Nacional"
+    location = 2447
+    ship = {
+        name = "Pedro I"
+        type = manowar
+    }
+    ship = {
+        name = "Afonso de Albuquerque"
+        type = manowar
+    }
+    ship = {
+        name = "Imperatriz"
+        type = frigate
+    }
+    ship = {
+        name = "Dona Januária"
+        type = frigate
+    }
+    ship = {
+        name = "Nictheroy"
+        type = frigate
+    }
+    ship = {
+        name = "Abaeté"
+        type = frigate
+    }
+    ship = {
+        name = "Amalia"
+        type = frigate
+    }
+    ship = {
+        name = "Bertioga"
+        type = frigate
+    }
+    ship = {
+        name = "Duquesa de Goiás"
+        type = frigate
+    }
+    ship = {
+        name = "Alcântara"
+        type = frigate
+    }
+    ship = {
+        name = "Amazonas"
+        type = frigate
+    }
+    ship = {
+        name = "Andorinha"
+        type = frigate
+    }
+    ship = {
+        name = "Barca a Vapor Águia"
+        type = commerce_raider
+    }
+    ship = {
+        name = "Barca a Vapor Amélia"
+        type = commerce_raider
+    }
+    ship = {
+        name = "Brigue Transporte Alcides"
+        type = clipper_transport
+    }
+    ship = {
+        name = "Brigue Transporte Anibal"
+        type = clipper_transport
+    }
 }

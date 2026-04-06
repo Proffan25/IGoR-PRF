@@ -32,12 +32,6 @@
         size = 163
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 27
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -54,12 +48,6 @@
         culture = andean
         religion = animist
         size = 108
-    }
-
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 27
     }
 
     farmers = {
@@ -86,16 +74,16 @@
         size = 542
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 108
-    }
-
     farmers = {
         culture = andean
         religion = animist
         size = 9885
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 162
     }
 }
 #Cajamarca Region (296000)
@@ -132,12 +120,6 @@
         size = 650
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 135
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -156,16 +138,16 @@
         size = 1408
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 271
-    }
-
     farmers = {
         culture = andean
         religion = animist
         size = 26353
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 406
     }
 }
 #Piura (60000/15000 POPS)
@@ -188,12 +170,6 @@
         size = 163
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 54
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -210,12 +186,6 @@
         culture = andean
         religion = animist
         size = 542
-    }
-
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 108
     }
 
     farmers = {
@@ -236,12 +206,6 @@
         size = 108
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 27
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -252,6 +216,12 @@
         culture = andean
         religion = animist
         size = 813
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 189
     }
 }
 #Trujillo (68000/17000 POPS)
@@ -274,12 +244,6 @@
         size = 325
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 81
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -296,12 +260,6 @@
         culture = andean
         religion = animist
         size = 488
-    }
-
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 108
     }
 
     farmers = {
@@ -322,12 +280,6 @@
         size = 108
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 27
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -338,6 +290,12 @@
         culture = andean
         religion = animist
         size = 813
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 216
     }
 }
 #Moyobamba (24000/6000 POPS)
@@ -360,12 +318,6 @@
         size = 108
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 27
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -382,12 +334,6 @@
         culture = andean
         religion = animist
         size = 54
-    }
-
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 11
     }
 
     farmers = {
@@ -414,16 +360,16 @@
         size = 163
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 27
-    }
-
     farmers = {
         culture = andean
         religion = animist
         size = 2925
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 65
     }
 }
 #Junin Region (204000)
@@ -448,12 +394,6 @@
         size = 108
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 27
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -472,16 +412,16 @@
         size = 379
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 81
-    }
-
     farmers = {
         culture = andean
         religion = animist
         size = 7042
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 108
     }
 }
 #Jauja (60000/15000 POPS)
@@ -504,12 +444,6 @@
         size = 108
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 27
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -528,16 +462,16 @@
         size = 704
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 135
-    }
-
     farmers = {
         culture = andean
         religion = animist
         size = 13190
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 162
     }
 }
 #Ayacucho (108000/27000 POPS)
@@ -572,12 +506,6 @@
         size = 217
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 54
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -596,16 +524,16 @@
         size = 1246
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 243
-    }
-
     farmers = {
         culture = andean
         religion = animist
         size = 23319
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 297
     }
 }
 #Lima Region (484000)
@@ -648,12 +576,6 @@
         size = 2383
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 12746
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -670,12 +592,6 @@
         culture = andean
         religion = animist
         size = 867
-    }
-
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 189
     }
 
     farmers = {
@@ -696,12 +612,6 @@
         size = 2167
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 54
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -712,6 +622,12 @@
         culture = andean
         religion = animist
         size = 1625
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 12989
     }
 }
 #Ica (60000/15000 POPS)
@@ -734,12 +650,6 @@
         size = 217
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 54
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -756,12 +666,6 @@
         culture = andean
         religion = animist
         size = 542
-    }
-
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 108
     }
 
     farmers = {
@@ -782,12 +686,6 @@
         size = 54
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 27
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -798,6 +696,12 @@
         culture = andean
         religion = animist
         size = 433
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 189
     }
 }
 #Huaraz (100000/25000 POPS)
@@ -820,12 +724,6 @@
         size = 325
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 81
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -842,12 +740,6 @@
         culture = andean
         religion = animist
         size = 921
-    }
-
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 189
     }
 
     farmers = {
@@ -868,12 +760,6 @@
         size = 108
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 27
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -884,6 +770,12 @@
         culture = andean
         religion = animist
         size = 813
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 297
     }
 }
 #Ucayali Region (32000)
@@ -914,12 +806,6 @@
         size = 54
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 11
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -944,16 +830,16 @@
         size = 217
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 54
-    }
-
     farmers = {
         culture = andean
         religion = animist
         size = 3927
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 65
     }
 }
 #Puerto Maldonado (12000/3000 POPS)
@@ -976,16 +862,16 @@
         size = 163
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 27
-    }
-
     farmers = {
         culture = andean
         religion = animist
         size = 2925
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 27
     }
 }
 #Cusco Region (404000)
@@ -1022,12 +908,6 @@
         size = 813
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 1192
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -1046,16 +926,16 @@
         size = 2275
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 460
-    }
-
     farmers = {
         culture = andean
         religion = animist
         size = 42549
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 1652
     }
 }
 #Puno (104000/26000 POPS)
@@ -1078,12 +958,6 @@
         size = 163
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 54
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -1102,16 +976,16 @@
         size = 1246
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 271
-    }
-
     farmers = {
         culture = andean
         religion = animist
         size = 23292
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 325
     }
 }
 #Iquique (32000/8000 POPS)
@@ -1134,12 +1008,6 @@
         size = 217
     }
 
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 54
-    }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -1158,16 +1026,16 @@
         size = 650
     }
 
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 162
-    }
-
     farmers = {
         culture = platinean
         religion = animist
         size = 12079
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = animist
+        size = 216
     }
 }
 #Arica (20000/5000 POPS)
@@ -1190,12 +1058,6 @@
         size = 108
     }
 
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 22
-    }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -1214,16 +1076,16 @@
         size = 433
     }
 
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 108
-    }
-
     farmers = {
         culture = platinean
         religion = animist
         size = 8070
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = animist
+        size = 130
     }
 }
 #Arequipa (72000/18000 POPS)
@@ -1246,12 +1108,6 @@
         size = 217
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 54
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -1270,16 +1126,16 @@
         size = 758
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 163
-    }
-
     farmers = {
         culture = andean
         religion = animist
         size = 14192
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 217
     }
 }
 #Atacama Region (100000) #see Chile.txt for balance of Region
@@ -1316,12 +1172,6 @@
         size = 271
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 54
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -1340,15 +1190,15 @@
         size = 1192
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 217
-    }
-
     farmers = {
         culture = andean
         religion = animist
         size = 20259
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 271
     }
 }

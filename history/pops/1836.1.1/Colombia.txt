@@ -32,12 +32,6 @@
         size = 2625
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 13109
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -54,12 +48,6 @@
         culture = andean
         religion = animist
         size = 202
-    }
-
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 25
     }
 
     farmers = {
@@ -86,16 +74,16 @@
         size = 202
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 50
-    }
-
     farmers = {
         culture = andean
         religion = animist
         size = 3736
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 13184
     }
 }
 #Ibaque (88000/22000 POPS)
@@ -118,12 +106,6 @@
         size = 959
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 202
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -140,12 +122,6 @@
         culture = andean
         religion = animist
         size = 50
-    }
-
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 10
     }
 
     farmers = {
@@ -172,16 +148,16 @@
         size = 101
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 25
-    }
-
     farmers = {
         culture = andean
         religion = animist
         size = 1868
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 237
     }
 }
 #Tunja (56000/14000 POPS)
@@ -204,12 +180,6 @@
         size = 454
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 101
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -228,16 +198,16 @@
         size = 252
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 50
-    }
-
     farmers = {
         culture = andean
         religion = animist
         size = 4746
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 151
     }
 }
 #Manizales (116000/29000 POPS)
@@ -260,16 +230,16 @@
         size = 1464
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 1111
-    }
-
     farmers = {
         culture = andean
         religion = animist
         size = 26910
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 1111
     }
 }
 #Cucuta (84000/21000 POPS)
@@ -292,12 +262,6 @@
         size = 808
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 176
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -316,16 +280,16 @@
         size = 252
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 50
-    }
-
     farmers = {
         culture = andean
         religion = animist
         size = 4695
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 226
     }
 }
 #Antioquia Region (452000)
@@ -362,12 +326,6 @@
         size = 1111
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 1111
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -384,12 +342,6 @@
         culture = andean
         religion = animist
         size = 404
-    }
-
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 75
     }
 
     farmers = {
@@ -416,16 +368,16 @@
         size = 151
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 25
-    }
-
     farmers = {
         culture = andean
         religion = animist
         size = 2827
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 1211
     }
 }
 #Quibdo (48000/12000 POPS)
@@ -448,12 +400,6 @@
         size = 252
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 50
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -472,12 +418,6 @@
         size = 353
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 75
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -488,6 +428,12 @@
         culture = andean
         religion = animist
         size = 5049
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 125
     }
 }
 #Cartagena de Indias (144000/36000 POPS)
@@ -510,12 +456,6 @@
         size = 656
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 1111
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -532,12 +472,6 @@
         culture = andean
         religion = animist
         size = 1060
-    }
-
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 202
     }
 
     farmers = {
@@ -564,16 +498,16 @@
         size = 101
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 25
-    }
-
     farmers = {
         culture = andean
         religion = animist
         size = 1868
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 1338
     }
 }
 #Barranquilla (132000/33000 POPS)
@@ -596,12 +530,6 @@
         size = 656
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 1111
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -618,12 +546,6 @@
         culture = andean
         religion = animist
         size = 909
-    }
-
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 202
     }
 
     farmers = {
@@ -650,16 +572,16 @@
         size = 50
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 10
-    }
-
     farmers = {
         culture = andean
         religion = animist
         size = 939
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 1323
     }
 }
 #Cauca Region (300000)
@@ -696,12 +618,6 @@
         size = 858
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 1111
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -718,12 +634,6 @@
         culture = andean
         religion = animist
         size = 151
-    }
-
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 50
     }
 
     farmers = {
@@ -750,16 +660,16 @@
         size = 151
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 25
-    }
-
     farmers = {
         culture = andean
         religion = animist
         size = 2802
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 1186
     }
 }
 #Popayan (68000/17000 POPS)
@@ -782,12 +692,6 @@
         size = 555
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 126
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -806,16 +710,16 @@
         size = 303
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 75
-    }
-
     farmers = {
         culture = andean
         religion = animist
         size = 5604
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 201
     }
 }
 #Buenaventura (60000/15000 POPS)
@@ -838,12 +742,6 @@
         size = 454
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 50
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -862,12 +760,6 @@
         size = 101
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 75
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -878,6 +770,12 @@
         culture = andean
         religion = animist
         size = 5049
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 125
     }
 }
 #Pasto (80000/20000 POPS)
@@ -900,12 +798,6 @@
         size = 454
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 101
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -924,16 +816,16 @@
         size = 555
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 126
-    }
-
     farmers = {
         culture = andean
         religion = animist
         size = 10375
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 227
     }
 }
 #Rio Negro Region (128000) #see Brazil.txt for balance of region
@@ -956,12 +848,6 @@
         culture = andean
         religion = animist
         size = 151
-    }
-
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 100
     }
 
     farmers = {
@@ -993,6 +879,12 @@
         religion = animist
         size = 5528
     }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 100
+    }
 }
 #Obando (20000/5000 POPS)
 2261 = {
@@ -1014,16 +906,16 @@
         size = 252
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 50
-    }
-
     farmers = {
         culture = andean
         religion = animist
         size = 4619
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 50
     }
 }
 #Casanare (60000/15000 POPS)
@@ -1056,12 +948,6 @@
         culture = andean
         religion = animist
         size = 202
-    }
-
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 151
     }
 
     farmers = {
@@ -1117,6 +1003,12 @@
         religion = animist
         size = 1262
     }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 151
+    }
 }
 #El Encanto (12000/3000 POPS)
 2263 = {
@@ -1138,16 +1030,16 @@
         size = 151
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 25
-    }
-
     farmers = {
         culture = andean
         religion = animist
         size = 2726
+    }
+
+    soldiers = {
+        culture = andean
+        religion = animist
+        size = 25
     }
 }
 #Under loose authority of Colombia 1836
@@ -1171,16 +1063,16 @@
         size = 151
     }
 
-    soldiers = {
-        culture = brazilian
-        religion = animist
-        size = 25
-    }
-
     farmers = {
         culture = brazilian
         religion = animist
         size = 2726
+    }
+
+    soldiers = {
+        culture = brazilian
+        religion = animist
+        size = 25
     }
 }
 #Balboa (12000/3000 POPS)
@@ -1203,12 +1095,6 @@
         size = 50
     }
 
-    soldiers = {
-        culture = central_american
-        religion = animist
-        size = 10
-    }
-
     farmers = {
         culture = central_american
         religion = animist
@@ -1227,12 +1113,6 @@
         size = 101
     }
 
-    soldiers = {
-        culture = central_american
-        religion = animist
-        size = 25
-    }
-
     farmers = {
         culture = central_american
         religion = animist
@@ -1243,6 +1123,12 @@
         culture = central_american
         religion = animist
         size = 505
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = animist
+        size = 35
     }
 }
 #Panama City (52000/13000 POPS)
@@ -1277,12 +1163,6 @@
         size = 454
     }
 
-    soldiers = {
-        culture = central_american
-        religion = animist
-        size = 101
-    }
-
     farmers = {
         culture = central_american
         religion = animist
@@ -1301,12 +1181,6 @@
         size = 202
     }
 
-    soldiers = {
-        culture = central_american
-        religion = animist
-        size = 50
-    }
-
     farmers = {
         culture = central_american
         religion = animist
@@ -1317,6 +1191,12 @@
         culture = central_american
         religion = animist
         size = 1111
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = animist
+        size = 151
     }
 }
 #David (28000/7000 POPS)
@@ -1339,12 +1219,6 @@
         size = 303
     }
 
-    soldiers = {
-        culture = central_american
-        religion = animist
-        size = 75
-    }
-
     farmers = {
         culture = central_american
         religion = animist
@@ -1363,12 +1237,6 @@
         size = 50
     }
 
-    soldiers = {
-        culture = central_american
-        religion = animist
-        size = 10
-    }
-
     farmers = {
         culture = central_american
         religion = animist
@@ -1380,6 +1248,12 @@
         religion = animist
         size = 252
     }
+
+    soldiers = {
+        culture = central_american
+        religion = animist
+        size = 85
+    }
 }
 #Penonome (24000/6000 POPS)
 2206 = {
@@ -1387,7 +1261,6 @@
         culture = central_american
         religion = animist
         size = 151
-    }
     }
 
     clergymen = {
@@ -1400,12 +1273,6 @@
         culture = central_american
         religion = animist
         size = 252
-    }
-
-    soldiers = {
-        culture = central_american
-        religion = animist
-        size = 50
     }
 
     farmers = {
@@ -1426,12 +1293,6 @@
         size = 50
     }
 
-    soldiers = {
-        culture = central_american
-        religion = animist
-        size = 10
-    }
-
     farmers = {
         culture = central_american
         religion = animist
@@ -1442,6 +1303,12 @@
         culture = central_american
         religion = animist
         size = 252
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = animist
+        size = 60
     }
 }
 #Yaviza (12000/3000 POPS)
@@ -1462,12 +1329,6 @@
         culture = central_american
         religion = animist
         size = 50
-    }
-
-    soldiers = {
-        culture = central_american
-        religion = animist
-        size = 10
     }
 
     farmers = {
@@ -1494,12 +1355,6 @@
         size = 30
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 6
-    }
-
     farmers = {
         culture = andean
         religion = animist
@@ -1524,15 +1379,15 @@
         size = 50
     }
 
-    soldiers = {
-        culture = central_american
-        religion = animist
-        size = 10
-    }
-
     farmers = {
         culture = central_american
         religion = animist
         size = 909
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = animist
+        size = 26
     }
 }

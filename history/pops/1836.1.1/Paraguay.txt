@@ -20,19 +20,19 @@
         size = 40
     }
 
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 10
-    }
-
     farmers = {
         culture = platinean
         religion = animist
         size = 717
     }
+
+    soldiers = {
+        culture = platinean
+        religion = animist
+        size = 10
+    }
 }
-#Puerto platinean (8000/2000 POPS)
+#Puerto Guarani (8000/2000 POPS)
 2338 = {
     aristocrats = {
         culture = platinean
@@ -52,16 +52,16 @@
         size = 40
     }
 
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 10
-    }
-
     farmers = {
         culture = platinean
         religion = animist
         size = 717
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = animist
+        size = 10
     }
 }
 #Paraguay Region (636000) #see Brazil.txt & Argentina.txt for balance of region
@@ -98,12 +98,6 @@
         size = 1275
     }
 
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 4383
-    }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -122,46 +116,40 @@
         size = 478
     }
 
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 100
-    }
-
     farmers = {
         culture = platinean
         religion = animist
-        size = 8935
+        size = 3935
     }
 
     clergymen = {
-        culture = andean
+        culture = afro_caribeno
         religion = animist
         size = 10
     }
 
     artisans = {
-        culture = andean
+        culture = afro_caribeno
         religion = animist
         size = 50
     }
 
-    soldiers = {
-        culture = andean
-        religion = animist
-        size = 10
-    }
-
     farmers = {
-        culture = andean
+        culture = afro_caribeno
         religion = animist
         size = 628
     }
 
     slaves = {
-        culture = andean
+        culture = afro_caribeno
         religion = animist
         size = 299
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = animist
+        size = 9493
     }
 }
 #Pilar (68000/17000 POPS)
@@ -184,12 +172,6 @@
         size = 80
     }
 
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 20
-    }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -208,16 +190,10 @@
         size = 239
     }
 
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 50
-    }
-
     farmers = {
         culture = platinean
         religion = animist
-        size = 4472
+        size = 1472
     }
 
     clergymen = {
@@ -232,16 +208,16 @@
         size = 20
     }
 
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 6
-    }
-
     farmers = {
         culture = platinean
         religion = animist
         size = 363
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = animist
+        size = 3076
     }
 }
 #Encarnacion (100000/25000 POPS)
@@ -264,12 +240,6 @@
         size = 80
     }
 
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 20
-    }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -288,16 +258,10 @@
         size = 438
     }
 
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 438
-    }
-
     farmers = {
         culture = platinean
         religion = animist
-        size = 7690
+        size = 1690
     }
 
     clergymen = {
@@ -312,16 +276,16 @@
         size = 20
     }
 
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 6
-    }
-
     farmers = {
         culture = platinean
         religion = animist
-        size = 363
+        size = 3363
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = animist
+        size = 3464
     }
 }
 #San Pedro (84000/21000 POPS)
@@ -344,12 +308,6 @@
         size = 80
     }
 
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 20
-    }
-
     farmers = {
         culture = platinean
         religion = animist
@@ -368,16 +326,10 @@
         size = 319
     }
 
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 438
-    }
-
     farmers = {
         culture = platinean
         religion = animist
-        size = 5628
+        size = 2628
     }
 
     clergymen = {
@@ -392,16 +344,16 @@
         size = 20
     }
 
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 6
-    }
-
     farmers = {
         culture = platinean
         religion = animist
         size = 363
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = animist
+        size = 3464
     }
 }
 #Concepcion (16000/4000 POPS)
@@ -416,12 +368,6 @@
         culture = platinean
         religion = animist
         size = 20
-    }
-
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 10
     }
 
     farmers = {
@@ -448,16 +394,16 @@
         size = 60
     }
 
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 10
-    }
-
     farmers = {
         culture = platinean
         religion = animist
         size = 1076
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = animist
+        size = 20
     }
 }
 #Under loose authority of Paraguay 1836
@@ -479,12 +425,6 @@
         culture = platinean
         religion = animist
         size = 100
-    }
-
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 20
     }
 
     farmers = {
@@ -511,16 +451,16 @@
         size = 20
     }
 
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 10
-    }
-
     farmers = {
         culture = platinean
         religion = animist
         size = 359
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = animist
+        size = 30
     }
 }
 #Xolotas (20000/5000 POPS) #now part of Argentina
@@ -543,16 +483,16 @@
         size = 100
     }
 
-    soldiers = {
-        culture = platinean
-        religion = animist
-        size = 20
-    }
-
     farmers = {
         culture = platinean
         religion = animist
         size = 1823
+    }
+
+    soldiers = {
+        culture = platinean
+        religion = animist
+        size = 20
     }
 }
 #Under loose authority of Paraguay 1836
@@ -568,12 +508,6 @@
         culture = brazilian
         religion = animist
         size = 20
-    }
-
-    soldiers = {
-        culture = brazilian
-        religion = animist
-        size = 15
     }
 
     farmers = {
@@ -604,5 +538,11 @@
         culture = platinean
         religion = animist
         size = 1076
+    }
+
+    soldiers = {
+        culture = brazilian
+        religion = animist
+        size = 15
     }
 }

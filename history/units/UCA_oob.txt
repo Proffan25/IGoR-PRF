@@ -1,5 +1,5 @@
 leader = {
-    name = "Domingo Francisco Sánchez"
+    name = "Francisco Morazán"
     type = land
     date = 1830.1.1
     personality = defence_1.1
@@ -7,56 +7,46 @@ leader = {
 }
 
 army = {
-	name = "Ejército del Paraguay"
-	location = 2339
+	name = "Ejército Federal"
+	location = 2191
 	regiment = {
 		name= "1. División de Infantería"
 		type = infantry
-		home = 2339
-	}	
+		home = 2186
+	}
 	regiment = {
 		name= "2. División de Infantería"
 		type = infantry
-		home = 2339
-	}	
-	regiment = {
-		name= "3. División de Infantería"
-		type = infantry
-		home = 2339
-	}	
-	regiment = {
-		name= "4. División de Infantería"
-		type = infantry
-		home = 2339
-	}	
+		home = 2191
+	}
 	regiment = {
 		name= "1. División de Caballería"
 		type = hussar
-		home = 2342
-	}	
+		home = 2193
+	}
 	regiment = {
 		name= "1. División de Artillería"
 		type = artillery
-		home = 2342
-	}	
+		home = 2197
+	}
 	regiment = {
 		name= "2. División de Artillería"
 		type = artillery
-		home = 2341
-	}	
+		home = 2186
+	}
 	regiment = {
 		name= "3. División de Artillería"
 		type = artillery
-		home = 2341
-	}	
+		home = 2187
+	}
 	regiment = {
 		name= "4. División de Artillería"
 		type = artillery
-		home = 2340
-	}	
+		home = 2193
+	}
 	regiment = {
-		name= "5 División de Artillería"
+		name= "5. División de Artillería"
 		type = artillery
-		home = 2340
+		home = 2197
 	}
 }
