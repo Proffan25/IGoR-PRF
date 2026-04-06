@@ -494,8 +494,6 @@ GHO_ADJ;Ghostly;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 GHO;Ghost Nation;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 AIT;Anti-Italy;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 AIT_ADJ;Italian;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-PBC;Peru-Bolivia Confederation;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-PBC_ADJ;Peru-Bolivian;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 AIT_reactionary;Fazione Monarchica;Restorationiste;Ristorazionista;;Restauracionistas;;;;;;;;;x;;;;
 AIT_conservative;La Destra;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 AIT_conservative_2;Partito Liberale Italiano;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
@@ -521,10 +519,6 @@ AIT_democracy;The Italian Republic;;;;;;;;;;;;;;x
 AIT_bourgeois_dictatorship_ADJ;Italian;;;;;;;;;;;;;x
 AIT_proletarian_dictatorship;The People's Republic of Italy;;;;;;;;;;;;;x
 AIT_proletarian_dictatorship_ADJ;Italian;;;;;;;;;;;;;x
-PBC_democracy;The Andean Republic;;;;;;;;;;;;;;x
-PBC_bourgeois_dictatorship_ADJ;Peru-Bolivian;;;;;;;;;;;;;x
-PBC_proletarian_dictatorship;The People's Republic of Peru-Bolivia;;;;;;;;;;;;;x
-PBC_proletarian_dictatorship_ADJ;Peru-Bolivian;;;;;;;;;;;;;x
 #############################################;;;;;;;;;;;;;;x
 #Additional CBs;;;;;;;;;;;;;;x
 #############################################;;;;;;;;;;;;;;x
