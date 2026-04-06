@@ -68,6 +68,7 @@ province_event = {
 				tag = VNZ
 				tag = CLM
 				tag = ECU
+				tag = PBC
 			}
 			NOT = {
 				war = yes
@@ -84,6 +85,18 @@ province_event = {
 			}
 			AND = {
 				is_core = CLM
+				is_core = ECU
+			}
+			AND = {
+				is_core = PBC
+				is_core = VNZ
+			}
+			AND = {
+				is_core = PBC
+				is_core = CLM
+			}
+			AND = {
+				is_core = PBC
 				is_core = ECU
 			}
 		}
