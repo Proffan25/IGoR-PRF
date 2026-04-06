@@ -2451,13 +2451,17 @@ country_event = {
 	
 	option = {
 		name = "EVTOPTA1206" #Ok
-			small_arms = 100
-			canned_food = 200
-			artillery = 50
-			luxury_clothes = 50
-			wine = 50
-			liquor = 50
-			ammunition = 100
-			money = 1000
+		small_arms = 100
+		canned_food = 200
+		artillery = 50
+		luxury_clothes = 50
+		wine = 50
+		liquor = 50
+		ammunition = 100
+		money = 1000
+		add_country_modifier = {
+			name = texan_endsieg
+			duration = 3650
+		}
 	}
 }
