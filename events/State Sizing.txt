@@ -37,8 +37,16 @@ country_event = {
 			}
 			any_owned = { 
 				limit = {
-					state_scope = { 
-						NOT = { total_pops = 100000 }
+					OR = {
+						AND = {
+							state_scope = { 
+								NOT = { total_pops = 50000 }
+							}
+							continent = south_america
+						}
+						state_scope = { 
+							NOT = { total_pops = 100000 }
+						}
 					}
 				}
 				add_core = TIN
@@ -69,10 +77,19 @@ country_event = {
 			}
 			any_owned = { 
 				limit = {
-					state_scope = { 
-						total_pops = 100000
-						NOT = { total_pops = 400000 }
-					}
+					OR = {
+						AND = {
+							state_scope = { 
+								total_pops = 50000
+								NOT = { total_pops = 200000 }
+							}
+							continent = south_america
+						}
+						state_scope = { 
+							total_pops = 100000
+							NOT = { total_pops = 400000 }
+						}
+					}					
 				}
 				add_core = SMA 
 				remove_core = TIN
@@ -102,10 +119,19 @@ country_event = {
 			}
 			any_owned = { 
 				limit = {
-					state_scope = { 
-						total_pops = 400000 
-						NOT = { total_pops = 700000 }
-					} 
+					OR = {
+						AND = {
+							state_scope = { 
+								total_pops = 200000
+								NOT = { total_pops = 350000 }
+							}
+							continent = south_america
+						}
+						state_scope = { 
+							total_pops = 400000
+							NOT = { total_pops = 700000 }
+						}
+					}
 				} 
 				add_core = MED
 				remove_core = TIN
@@ -135,10 +161,19 @@ country_event = {
 			}
 			any_owned = {
 				limit = {
-					state_scope = { 
-						total_pops = 700000 
-						NOT = { total_pops = 1000000 }
-					} 
+					OR = {
+						AND = {
+							state_scope = { 
+								total_pops = 350000
+								NOT = { total_pops = 500000 }
+							}
+							continent = south_america
+						}
+						state_scope = { 
+							total_pops = 700000
+							NOT = { total_pops = 1000000 }
+						}
+					}
 				} 
 			add_core = LRG
 			remove_core = TIN
@@ -168,6 +203,17 @@ country_event = {
 			}
 			any_owned = { 
 				limit = {
+					OR = {
+						AND = {
+							state_scope = { 
+								total_pops = 500000
+							}
+							continent = south_america
+						}
+						state_scope = { 
+							total_pops = 1000000
+						}
+					}
 					state_scope = { 
 						total_pops = 1000000
 					}
