@@ -107,6 +107,7 @@ political_decisions = {
 				tag = SCA
 			}
 			NOT = { accepted_culture = latvian }
+			NOT = { has_global_flag = scandi_extras_disabled }
 		}
 		allow = {
 			tag = SCA
@@ -128,6 +129,7 @@ political_decisions = {
 				tag = SCA
 			}
 			NOT = { has_country_flag = pony_play }
+			NOT = { has_global_flag = scandi_extras_disabled }
 		}
 		allow = {
 			tag = SCA
@@ -151,6 +153,7 @@ political_decisions = {
 				tag = SCA
 			}
 			NOT = { has_country_flag = north_sea_larp }
+			NOT = { has_global_flag = scandi_extras_disabled }
 		}
 		allow = {
 			tag = SCA

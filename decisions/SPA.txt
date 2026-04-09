@@ -157,10 +157,7 @@ political_decisions = {
         picture = iberian
         potential = {
 			tag = SPA
-            NOT = {
-                exists = IBR
-                has_global_flag = created_iberia
-            }
+			NOT = { has_global_flag = iberian_formation_disabled }
         }
 
         allow = {

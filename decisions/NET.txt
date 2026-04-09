@@ -125,9 +125,8 @@ political_decisions = {
 		picture = burgundy
 		potential = {
 			tag = NET
-			NOT = {
-				has_country_flag = net_burgundy_restored
-			}
+			NOT = {	has_country_flag = net_burgundy_restored }
+			NOT = { has_global_flag = burgundian_formation_disabled }
 		}
 		allow = {
 			NET = {
@@ -137,7 +136,7 @@ political_decisions = {
 			}
 			FRA_399 = { owned_by = THIS } #Picardie
 			FRA_404 = { owned_by = THIS } #Champagne
-			FRA_411 = { owned_by = THIS } #Frache-Comte
+			FRA_411 = { owned_by = THIS } #Franche-Comte
 			FRA_428 = { owned_by = THIS } #Bourgogne
 		}
 		effect = {

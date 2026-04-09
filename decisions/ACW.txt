@@ -733,6 +733,7 @@ political_decisions = {
 			ai = no
 			NOT = { has_country_modifier = continental_army }
 			exists = COM
+			NOT = { has_global_flag = usa_buffs_disabled }
 		}
 		allow = {
 			NOT = {
@@ -764,6 +765,7 @@ political_decisions = {
 			NOT = {
 				has_country_flag = 2nd_rev_war_flag
 			}
+			NOT = { has_global_flag = usa_buffs_disabled }
 		}
 		allow = {
 			NOT = {
@@ -777,7 +779,7 @@ political_decisions = {
 				duration = 1643
 			}
 			define_general = {
-				name = "lianbo"
+				name = "Laszlo"
 				personality = defence_3.1
 				background = attack_3.1
 			}

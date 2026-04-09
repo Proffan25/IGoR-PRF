@@ -62,9 +62,8 @@ political_decisions = {
 		picture = retvrn
 		potential = {
 			tag = GRE
-			NOT = {
-				has_country_flag = gre_rome_restored
-			}
+			NOT = {	has_country_flag = gre_rome_restored }
+			NOT = { has_global_flag = byzantium_disabled }
 		}
 		allow = {
 			GRE_837 = { owned_by = THIS } #Greece

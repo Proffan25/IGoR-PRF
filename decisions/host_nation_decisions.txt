@@ -525,4 +525,218 @@ political_decisions = {
 			factor = 0
 		}
 	}
+
+#PRF decisions
+	show_prf_custom_content = {
+		picture = pistol
+		potential = {
+			NOT = { has_country_flag = showing_prf_decisions }
+			has_country_flag = host_nation
+		}
+		allow = {		
+		}		
+		effect = {
+			set_country_flag = showing_prf_decisions
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	hide_prf_decisions = {
+		picture = pistol
+		potential = {
+			has_country_flag = showing_prf_decisions
+			has_country_flag = host_nation
+		}
+	
+		allow = {	
+		}
+		
+		effect = {
+			clr_country_flag = showing_prf_decisions
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+	disable_america_buffs = {
+		picture = washingtons_ghost
+		alert = yes
+		potential = {
+			has_country_flag = showing_prf_decisions
+			has_country_flag = host_nation
+			tag = LCT
+			ai = no
+			NOT = { has_global_flag = usa_buffs_disabled }
+		}
+		allow = {
+			ai = no
+		}
+		effect = {
+			set_global_flag = usa_buffs_disabled
+		}
+	}
+	
+	enable_america_buffs = {
+		picture = washingtons_ghost
+		alert = yes
+		potential = {
+			has_country_flag = showing_prf_decisions
+			has_country_flag = host_nation
+			tag = LCT
+			ai = no
+			has_global_flag = usa_buffs_disabled
+		}
+		allow = {
+			ai = no
+		}
+		effect = {
+			clr_global_flag = usa_buffs_disabled
+		}
+	}
+	
+	disable_iberia_formation = {
+		picture = iberian
+		alert = yes
+		potential = {
+			has_country_flag = showing_prf_decisions
+			has_country_flag = host_nation
+			tag = LCT
+			ai = no
+			NOT = { has_global_flag = iberian_formation_disabled }
+		}
+		allow = {
+			ai = no
+		}
+		effect = {
+			set_global_flag = iberian_formation_disabled
+		}
+	}
+	
+	enable_iberia_formation = {
+		picture = iberian
+		alert = yes
+		potential = {
+			has_country_flag = showing_prf_decisions
+			has_country_flag = host_nation
+			tag = LCT
+			ai = no
+			has_global_flag = iberian_formation_disabled
+		}
+		allow = {
+			ai = no
+		}
+		effect = {
+			clr_global_flag = iberian_formation_disabled
+		}
+	}
+	
+	disable_burgundian_formation = {
+		picture = burgundy
+		alert = yes
+		potential = {
+			has_country_flag = showing_prf_decisions
+			has_country_flag = host_nation
+			tag = LCT
+			ai = no
+			NOT = { has_global_flag = burgundian_formation_disabled }
+		}
+		allow = {
+			ai = no
+		}
+		effect = {
+			set_global_flag = burgundian_formation_disabled
+		}
+	}
+	
+	enable_burgundian_formation = {
+		picture = burgundy
+		alert = yes
+		potential = {
+			has_country_flag = showing_prf_decisions
+			has_country_flag = host_nation
+			tag = LCT
+			ai = no
+			has_global_flag = burgundian_formation_disabled
+		}
+		allow = {
+			ai = no
+		}
+		effect = {
+			clr_global_flag = burgundian_formation_disabled
+		}
+	}
+	
+	disable_bonus_scandi_content = {
+		picture = ravenbanner
+		alert = yes
+		potential = {
+			has_country_flag = showing_prf_decisions
+			has_country_flag = host_nation
+			tag = LCT
+			ai = no
+			NOT = { has_global_flag = scandi_extras_disabled }
+		}
+		allow = {
+			ai = no
+		}
+		effect = {
+			set_global_flag = scandi_extras_disabled
+		}
+	}
+	
+	enable_bonus_scandi_content = {
+		picture = ravenbanner
+		alert = yes
+		potential = {
+			has_country_flag = showing_prf_decisions
+			has_country_flag = host_nation
+			tag = LCT
+			ai = no
+			has_global_flag = scandi_extras_disabled
+		}
+		allow = {
+			ai = no
+		}
+		effect = {
+			clr_global_flag = scandi_extras_disabled
+		}
+	}
+	
+	disable_byzantine_content = {
+		picture = retvrn
+		alert = yes
+		potential = {
+			has_country_flag = showing_prf_decisions
+			has_country_flag = host_nation
+			tag = LCT
+			ai = no
+			NOT = { has_global_flag = byzantium_disabled }
+		}
+		allow = {
+			ai = no
+		}
+		effect = {
+			set_global_flag = byzantium_disabled
+		}
+	}
+	
+	enable_byzantine_content = {
+		picture = retvrn
+		alert = yes
+		potential = {
+			has_country_flag = showing_prf_decisions
+			has_country_flag = host_nation
+			tag = LCT
+			ai = no
+			has_global_flag = byzantium_disabled
+		}
+		allow = {
+			ai = no
+		}
+		effect = {
+			clr_global_flag = byzantium_disabled
+		}
+	}
 }
