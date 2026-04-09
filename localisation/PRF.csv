@@ -421,6 +421,10 @@ ENG_presidential_dictatorship;British Republic;;;;;;;;;;;;;
 ENG_ADJ;British;British;British;;British;;;;;;;;;x;;;;
 LIB;New Africa;;;;;;;;;;;;;
 LIB_ADJ;New African;New African;New African;;New African;;;;;;;;;x;;;;
+CLM;New Granada;;;;;;;;;;;;;
+CLM_ADJ;Granadine;;;;;;;;;;;;;
+UCA;Central America;;;;;;;;;;;;;
+UCA_ADJ;Central American;;;;;;;;;;;;;
 CHI;China;;;;;;;;;;;;;
 CHI_ADJ;Chinese;Chinese;Chinese;;Chinese;;;;;;;;;x;;;;
 ###############China treatyports;;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,,,,
