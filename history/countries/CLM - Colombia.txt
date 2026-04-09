@@ -9,7 +9,6 @@ non_state_culture_literacy = 0.05
 civilized = yes
 
 set_country_flag = new_world_nation
-set_country_flag = north_american_immigrant_nation
 set_country_flag = south_american_immigrant_nation
 
 # Political reforms

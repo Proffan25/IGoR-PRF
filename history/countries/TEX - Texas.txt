@@ -10,7 +10,6 @@ prestige = 5
 
 set_country_flag = new_world_nation
 set_country_flag = north_american_immigrant_nation
-set_country_flag = south_american_immigrant_nation
 
 # Political reforms
 slavery = yes_slavery
