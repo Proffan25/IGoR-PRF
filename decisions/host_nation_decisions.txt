@@ -533,7 +533,7 @@ political_decisions = {
 			NOT = { has_country_flag = showing_prf_decisions }
 			has_country_flag = host_nation
 		}
-		allow = {		
+		allow = {
 		}		
 		effect = {
 			set_country_flag = showing_prf_decisions
@@ -542,6 +542,7 @@ political_decisions = {
 			factor = 0
 		}
 	}
+	
 	hide_prf_decisions = {
 		picture = pistol
 		potential = {
@@ -572,6 +573,7 @@ political_decisions = {
 		}
 		allow = {
 			ai = no
+			NOT = { year = 1837 }
 		}
 		effect = {
 			set_global_flag = usa_buffs_disabled
@@ -590,6 +592,7 @@ political_decisions = {
 		}
 		allow = {
 			ai = no
+			NOT = { year = 1837 }
 		}
 		effect = {
 			clr_global_flag = usa_buffs_disabled
@@ -608,6 +611,7 @@ political_decisions = {
 		}
 		allow = {
 			ai = no
+			NOT = { year = 1837 }
 		}
 		effect = {
 			set_global_flag = iberian_formation_disabled
@@ -626,6 +630,7 @@ political_decisions = {
 		}
 		allow = {
 			ai = no
+			NOT = { year = 1837 }
 		}
 		effect = {
 			clr_global_flag = iberian_formation_disabled
@@ -644,6 +649,7 @@ political_decisions = {
 		}
 		allow = {
 			ai = no
+			NOT = { year = 1837 }
 		}
 		effect = {
 			set_global_flag = burgundian_formation_disabled
@@ -662,6 +668,7 @@ political_decisions = {
 		}
 		allow = {
 			ai = no
+			NOT = { year = 1837 }
 		}
 		effect = {
 			clr_global_flag = burgundian_formation_disabled
@@ -680,6 +687,7 @@ political_decisions = {
 		}
 		allow = {
 			ai = no
+			NOT = { year = 1837 }
 		}
 		effect = {
 			set_global_flag = scandi_extras_disabled
@@ -698,6 +706,7 @@ political_decisions = {
 		}
 		allow = {
 			ai = no
+			NOT = { year = 1837 }
 		}
 		effect = {
 			clr_global_flag = scandi_extras_disabled
@@ -716,6 +725,7 @@ political_decisions = {
 		}
 		allow = {
 			ai = no
+			NOT = { year = 1837 }
 		}
 		effect = {
 			set_global_flag = byzantium_disabled
@@ -734,6 +744,7 @@ political_decisions = {
 		}
 		allow = {
 			ai = no
+			NOT = { year = 1837 }
 		}
 		effect = {
 			clr_global_flag = byzantium_disabled
