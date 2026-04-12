@@ -214,3 +214,163 @@ province_event = {
 		add_core = THIS
 	}
 }
+
+province_event = {
+	id = 78700947
+	title = "South Italian Core Debugging"
+	desc = "If there is an awkward overlapping culture core, this event is intended to clean it up"
+	
+	trigger = {
+		owner = {
+			OR = {
+				tag = SIC
+				tag = PAP
+			}
+			NOT = {
+				war = yes
+			}
+		}
+		OR = {
+			AND = {
+				is_core = SIC
+				is_core = PAP
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Fix me up!"
+		remove_core = SIC
+		remove_core = PAP
+		add_core = THIS
+	}
+}
+
+province_event = {
+	id = 78700948
+	title = "North Italian Core Debugging"
+	desc = "If there is an awkward overlapping culture core, this event is intended to clean it up"
+	
+	trigger = {
+		owner = {
+			OR = {
+				tag = SAR
+				tag = LOM
+				tag = VEN
+				tag = PAR
+				tag = MOD
+				tag = LUC
+				tag = TUS
+			}
+			NOT = {
+				war = yes
+			}
+		}
+		OR = {
+			AND = {
+				is_core = SAR
+				is_core = LOM
+			}
+			AND = {
+				is_core = SAR
+				is_core = VEN
+			}
+			AND = {
+				is_core = SAR
+				is_core = PAR
+			}
+			AND = {
+				is_core = SAR
+				is_core = MOD
+			}
+			AND = {
+				is_core = SAR
+				is_core = LUC
+			}
+			AND = {
+				is_core = SAR
+				is_core = TUS
+			}
+			AND = {
+				is_core = LOM
+				is_core = VEN
+			}
+			AND = {
+				is_core = LOM
+				is_core = PAR
+			}
+			AND = {
+				is_core = LOM
+				is_core = MOD
+			}
+			AND = {
+				is_core = LOM
+				is_core = LUC
+			}
+			AND = {
+				is_core = LOM
+				is_core = TUS
+			}
+			AND = {
+				is_core = VEN
+				is_core = PAR
+			}
+			AND = {
+				is_core = VEN
+				is_core = MOD
+			}
+			AND = {
+				is_core = VEN
+				is_core = LUC
+			}
+			AND = {
+				is_core = VEN
+				is_core = TUS
+			}
+			AND = {
+				is_core = PAR
+				is_core = MOD
+			}
+			AND = {
+				is_core = PAR
+				is_core = LUC
+			}
+			AND = {
+				is_core = PAR
+				is_core = TUS
+			}
+			AND = {
+				is_core = MOD
+				is_core = LUC
+			}
+			AND = {
+				is_core = MOD
+				is_core = TUS
+			}
+			AND = {
+				is_core = LUC
+				is_core = TUS
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Fix me up!"
+		remove_core = SAR
+		remove_core = LOM
+		remove_core = VEN
+		remove_core = PAR
+		remove_core = MOD
+		remove_core = LUC
+		remove_core = TUS
+		add_core = THIS
+	}
+}
