@@ -17,6 +17,20 @@ country_event = {
 	}
 	
 	option = {
+		name = "Argentina"
+		ARG = {
+			country_event = { id=19300 days=0 }
+		}
+	}
+	
+	option = {
+		name = "Brazil"
+		BRZ = {
+			country_event = { id=19300 days=0 }
+		}
+	}
+	
+	option = {
 		name = "Commonwealth"
 		COM = {
 			country_event = { id=19300 days=0 }
@@ -45,29 +59,8 @@ country_event = {
 	}
 	
 	option = {
-		name = "Bolivia"
-		BOL = {
-			country_event = { id=19300 days=0 }
-		}
-	}
-	
-	option = {
-		name = "Peru"
-		PEU = {
-			country_event = { id=19300 days=0 }
-		}
-	}
-	
-	option = {
-		name = "Andine Federation"
+		name = "Peru-Bolivia"
 		PBC = {
-			country_event = { id=19300 days=0 }
-		}
-	}
-	
-	option = {
-		name = "Brazil"
-		BRZ = {
 			country_event = { id=19300 days=0 }
 		}
 	}
@@ -75,13 +68,6 @@ country_event = {
 	option = {
 		name = "Portugal-Brazil"
 		PBA = {
-			country_event = { id=19300 days=0 }
-		}
-	}
-	
-	option = {
-		name = "Argentina"
-		ARG = {
 			country_event = { id=19300 days=0 }
 		}
 	}
