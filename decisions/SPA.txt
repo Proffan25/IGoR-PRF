@@ -167,24 +167,7 @@ political_decisions = {
                 all_core = {
                     OR = {
                         owned_by = THIS
-                        owner = {
-                            vassal_of = THIS
-                            war = no
-                            is_mobilised = no
-                        }
 						province_id = 517
-                    }
-                }
-            }
-            POR = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            vassal_of = THIS
-                            war = no
-                            is_mobilised = no
-                        }
                     }
                 }
             }
