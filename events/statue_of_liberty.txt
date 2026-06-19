@@ -7,7 +7,7 @@ country_event = {
 	is_triggered_only = yes
 	
 	option = {
-		name = "USA"
+		name = "United States"
 		USA = {
 			country_event = { id=19300 days=0 }
 		}
@@ -31,6 +31,13 @@ country_event = {
 	}
 	
 	option = {
+		name = "Portugal-Brazil"
+		PBA = {
+			country_event = { id=19300 days=0 }
+		}
+	}
+	
+	option = {
 		name = "Commonwealth"
 		COM = {
 			country_event = { id=19300 days=0 }
@@ -45,15 +52,15 @@ country_event = {
 	}
 	
 	option = {
-		name = "Colombia"
-		GCO = {
+		name = "New Granada"
+		CLM = {
 			country_event = { id=19300 days=0 }
 		}
 	}
 	
 	option = {
-		name = "Colombia"
-		CLM = {
+		name = "(Gran) Colombia"
+		GCO = {
 			country_event = { id=19300 days=0 }
 		}
 	}
@@ -66,14 +73,7 @@ country_event = {
 	}
 	
 	option = {
-		name = "Portugal-Brazil"
-		PBA = {
-			country_event = { id=19300 days=0 }
-		}
-	}
-	
-	option = {
-		name = "Nevermind."
+		name = "Nevermind..."
 		clr_global_flag = statue_of_liberty_has_been_built
 	}
 }
