@@ -3218,31 +3218,31 @@
     }
 
     aristocrats = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 75
     }
 
     clergymen = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 75
     }
 
     artisans = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 300
     }
 
     soldiers = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 75
     }
 
     farmers = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 6475
     }
@@ -3280,31 +3280,31 @@
     }
 
     aristocrats = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 50
     }
 
     clergymen = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 250
     }
 
     soldiers = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 4600
     }
@@ -3391,55 +3391,55 @@
     }
 
     clergymen = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 750
     }
 
     soldiers = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 25
     }
 
     farmers = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 1175
     }
 
     aristocrats = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 150
     }
 
     clergymen = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 125
     }
 
     artisans = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 100
     }
 
     farmers = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 14575
     }
@@ -3652,31 +3652,31 @@
 #Jilolo (36000/9000 POPS)
 1448 = {
     aristocrats = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 100
     }
 
     clergymen = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 100
     }
 
     soldiers = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 75
     }
 
     farmers = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 7675
     }
@@ -3776,31 +3776,31 @@
 #Aru (24000/6000 POPS)
 1451 = {
     aristocrats = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 50
     }
 
     clergymen = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 200
     }
 
     soldiers = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 50
     }
 
     farmers = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 3650
     }
@@ -3870,31 +3870,31 @@
     }
 
     aristocrats = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 200
     }
 
     clergymen = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 350
     }
 
     artisans = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 50
     }
 
     soldiers = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 150
     }
 
     farmers = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 16250
     }
@@ -3902,31 +3902,31 @@
 #Biak (32000/8000 POPS)
 1452 = {
     aristocrats = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 100
     }
 
     clergymen = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 50
     }
 
     artisans = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 250
     }
 
     soldiers = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 75
     }
 
     farmers = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 7525
     }
@@ -3934,31 +3934,31 @@
 #Merah (172000/43000 POPS)
 1454 = {
     aristocrats = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 450
     }
 
     clergymen = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 425
     }
 
     artisans = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 2000
     }
 
     soldiers = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 400
     }
 
     farmers = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 39725
     }
@@ -3966,31 +3966,31 @@
 #Merauke (140000/35000 POPS)
 1560 = {
     aristocrats = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 400
     }
 
     clergymen = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 350
     }
 
     artisans = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 1500
     }
 
     soldiers = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 300
     }
 
     farmers = {
-        culture = melanesian
+        culture = javan
         religion = animist
         size = 32450
     }
