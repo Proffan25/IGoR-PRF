@@ -24,12 +24,6 @@ SAX = {
 	influence_value = 25
 }
 
-KRA = {
-	value = 125
-	level = 5
-	influence_value = 25
-}
-
 SER = {
 	value = 75
 	level = 2
